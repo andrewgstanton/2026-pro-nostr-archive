@@ -1,0 +1,53 @@
+{
+  "content": "# On Writers\n\nWriters:\nYour words are seeds, not transactions.\n\nSome fall on stone.\nSome wait through seasons.\n\nWrite anyway.\n\n#writers #writing #longform #patience #truth #nostr",
+  "created_at": 1767299462,
+  "id": "05a255b74652fbba0c91cdd490ee5db676577e437a879d3bb59ace2abdb70cde",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa6a596d22ec89c2997598925e7aade3655779717add7adc74e0c8e02cc7b4dc6cce8db4e017e27c428f10452c1c10f67af850825e2b2eeedb818d668b26e554",
+  "tags": [
+    [
+      "title",
+      "On Writers"
+    ],
+    [
+      "published_at",
+      "1767299462"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "writers"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "longform"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

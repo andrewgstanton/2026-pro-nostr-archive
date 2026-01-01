@@ -1,0 +1,53 @@
+{
+  "content": "# On Quiet Work\n\nTo every builder and writer working in relative silence:\nthe absence of applause is not the absence of impact.\n\nFoundations are laid underground.\nMost people only notice once the structure is already standing.\n\n#builders #writers #creation #longterm #patience #nostr",
+  "created_at": 1767299229,
+  "id": "ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3ddab149c68f2c46afd4780a675521ca0867dad023c7c67bee4a053aa169d58e644111d99c7dde3163680207eb0577466629ccc521dbfedeca05d82fa89071aa",
+  "tags": [
+    [
+      "title",
+      "On Quiet Work"
+    ],
+    [
+      "published_at",
+      "1767299229"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "writers"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

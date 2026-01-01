@@ -1,0 +1,29 @@
+{
+  "content": "# Happy New Year 2026!!!\n\nHappy New Year to all the creators, builders, and writers out there.\n\nIf 2025 was a year of unseen work, quiet discipline, or foundations laid without applause — you’re not alone.\n\nMay 2026 bring clarity, strength, and provision.\nMay the things you’re building with care find their moment.\n\nHere’s to work that compounds,\nfruit that comes in season,\nand sovereignty made visible.",
+  "created_at": 1767295325,
+  "id": "d8bcaac590097ff50f0695e6e980e2596a5f082380a4ac5833af197da25b8913",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a6189fabadc9a5aea3e5ee2d376a455977bf120dda9c97ff6808a8820dd51d9bca835b187665adb9c64e076c932c00071819b7ee5d63e4cb8a45a09ffa9c969",
+  "tags": [
+    [
+      "title",
+      "Happy New Year 2026!!!"
+    ],
+    [
+      "published_at",
+      "1767295325"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

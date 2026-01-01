@@ -1,0 +1,29 @@
+{
+  "content": "Checking out bitcredit ",
+  "created_at": 1767288812,
+  "id": "60f1ddc34c6400e94083d896334e87666c572a6932db7f2e7af19b058b9770f5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "645a7d052a0cdf2bb46128e76971b2ec0ca4c1bdda9b7d2eff9095ea366a449ad5b7f2a1682026a4e4fa2fdc5a7a7297ed1691bdc526e35c9cc2f2f320136f3e",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:1b0ca57a1044ab7a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

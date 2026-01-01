@@ -1,0 +1,29 @@
+{
+  "content": "This was a great article.  It got me wondering if we could build something like this on Nostr.\n\n",
+  "created_at": 1767288746,
+  "id": "88377b0e37e065f715a47568463bd6c1f8914a67202b39dfd7dfd7b18c8e2d65",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "71dba894b93e5f00619823ba17568b7373951506f1424bc273a9ee71bd27ac4866a2e94945a7baf466d4f7f36441ddd9d199e719d853fc14c2f11987152d6374",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:1b0ca57a1044ab7a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

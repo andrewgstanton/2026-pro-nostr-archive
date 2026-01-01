@@ -1,0 +1,53 @@
+{
+  "content": "# On Builders\n\nBuilders:\nYou are shaping environments others will eventually live inside.\n\nEven if they never know your name,\nthey will feel the difference.\n\n#builders #infrastructure #craftsmanship #legacy #sovereignty #nostr",
+  "created_at": 1767299403,
+  "id": "034d61f9c2d7330d006a35283eeaab34f4c28e9035a9528a667ad5508e784972",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2311acb5b3729f776ee92092193a2d11709a92264587f800af506436945b7ecd8939e7d5d14ac5ba9b46633d7fb38825802cf058746730f45cac1fcc3ad526ea",
+  "tags": [
+    [
+      "title",
+      "On Builders"
+    ],
+    [
+      "published_at",
+      "1767299403"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "craftsmanship"
+    ],
+    [
+      "t",
+      "legacy"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

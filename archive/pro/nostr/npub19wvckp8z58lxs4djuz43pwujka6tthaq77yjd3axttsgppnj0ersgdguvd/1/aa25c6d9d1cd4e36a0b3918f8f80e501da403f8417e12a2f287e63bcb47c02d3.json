@@ -1,0 +1,53 @@
+{
+  "content": "# On Discouragement\n\nDiscouragement often means you’re touching something real.\n\nShallow work doesn’t resist you.\nMeaningful work does.\n\nStay with it.\n\n#discouragement #meaningfulwork #builders #writers #resilience #nostr",
+  "created_at": 1767299343,
+  "id": "aa25c6d9d1cd4e36a0b3918f8f80e501da403f8417e12a2f287e63bcb47c02d3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7061d6f37ce6ea04d51dcbe526c5a6180ff3970bfd694e1abeaf24826118013a04562ba9975cb0596bc5a43d1af2699fd8ec2f263e90ed885f48486f6eb31026",
+  "tags": [
+    [
+      "title",
+      "On Discouragement"
+    ],
+    [
+      "published_at",
+      "1767299343"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "discouragement"
+    ],
+    [
+      "t",
+      "meaningfulwork"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "writers"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

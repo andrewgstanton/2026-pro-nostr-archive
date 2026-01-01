@@ -1,0 +1,53 @@
+{
+  "content": "# On Perseverance\n\nIf you’re still showing up when no one is counting,\nyou’re not behind — you’re early.\n\nThe world is loud with shortcuts.\nEndurance is still rare.\nThat’s why it matters.\n\n#perseverance #builders #creators #craft #signal #nostr",
+  "created_at": 1767299293,
+  "id": "9ff9b1673c26919a3fd7bad3c8a351f811c61d89db375cdbff40824935057bd3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0302961ebf8d5f6f1174153970509a3b44a06b22fc310c84c5ec8b09244ab8de92e864f51a133be42526c7961d5882de6bc268175f7b0561f83f9abc7e32f738",
+  "tags": [
+    [
+      "title",
+      "On Perseverance"
+    ],
+    [
+      "published_at",
+      "1767299293"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "perseverance"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "creators"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "signal"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}
