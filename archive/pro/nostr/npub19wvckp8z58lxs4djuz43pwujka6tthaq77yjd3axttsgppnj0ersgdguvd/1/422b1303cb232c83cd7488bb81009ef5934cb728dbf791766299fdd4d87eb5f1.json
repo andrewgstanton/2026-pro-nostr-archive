@@ -1,0 +1,52 @@
+{
+  "content": "# Consistency - 1/3/2026\n\nWhat you’re building may not be obvious yet.\nBut consistency has a way of revealing meaning over time.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767475495,
+  "id": "422b1303cb232c83cd7488bb81009ef5934cb728dbf791766299fdd4d87eb5f1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "755c5dd9e7a7f67bfda609932d56ef9c6364137238a6d1205956a05eddcd88302f4caf03202fcd595883c9bc990a1e01a48784945488f4e9b2a671906f6ff33f",
+  "tags": [
+    [
+      "title",
+      "Consistency - 1/3/2026"
+    ],
+    [
+      "published_at",
+      "1767475495"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

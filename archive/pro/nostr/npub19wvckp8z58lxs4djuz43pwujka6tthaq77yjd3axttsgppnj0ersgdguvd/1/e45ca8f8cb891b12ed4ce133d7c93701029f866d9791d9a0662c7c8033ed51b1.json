@@ -1,0 +1,52 @@
+{
+  "content": "# No Permission Needed - 1/3/2026\n\nYou don’t need permission to keep going.\nFaithfulness is already enough authorization.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767475353,
+  "id": "e45ca8f8cb891b12ed4ce133d7c93701029f866d9791d9a0662c7c8033ed51b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "93729d7e46ff8a43d3710540aa83b45283a6cda97ae9406dc22a25c20874427cb480c63ee39874d7517fb558d227b52a01678f01718670d3a02ee61c02b80491",
+  "tags": [
+    [
+      "title",
+      "No Permission Needed - 1/3/2026"
+    ],
+    [
+      "published_at",
+      "1767475353"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

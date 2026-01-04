@@ -1,0 +1,52 @@
+{
+  "content": "# Courage - 1/2/2026\n\nThere is a kind of courage that looks like stillness. It doesn’t announce itself. It simply refuses to quit.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767475008,
+  "id": "b861d8a1adb3a29e4f25b2a11a56fab862211e65e0e680dfd8d60cb9375d5474",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3b95f58cbaeb8c79b012cf9724224fad4a43323a27d3b537d8e6c4f881ecd28838142c9574ae1992db5d626880fa32d7ffbdd8e8f3012030e5bfe8fcdfef78f9",
+  "tags": [
+    [
+      "title",
+      "Courage - 1/2/2026"
+    ],
+    [
+      "published_at",
+      "1767475008"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

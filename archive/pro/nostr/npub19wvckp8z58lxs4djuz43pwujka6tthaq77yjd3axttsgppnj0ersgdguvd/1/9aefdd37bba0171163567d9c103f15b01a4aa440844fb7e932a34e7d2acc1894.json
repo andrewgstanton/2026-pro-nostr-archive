@@ -1,0 +1,52 @@
+{
+  "content": "# Feeling Tired - 1/2/2026\n\nIf you felt tired yesterday, that doesn’t mean you were off course. It may mean you were carrying something real.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767474880,
+  "id": "9aefdd37bba0171163567d9c103f15b01a4aa440844fb7e932a34e7d2acc1894",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2645193813a73de63541db02d15178bf5f3b35727db147364dc8648f19f4a4e079dac58f05d99739400fadc6b539e3ed9afbd0086cee26cc14c3d361405264f2",
+  "tags": [
+    [
+      "title",
+      "Feeling Tired - 1/2/2026"
+    ],
+    [
+      "published_at",
+      "1767474880"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

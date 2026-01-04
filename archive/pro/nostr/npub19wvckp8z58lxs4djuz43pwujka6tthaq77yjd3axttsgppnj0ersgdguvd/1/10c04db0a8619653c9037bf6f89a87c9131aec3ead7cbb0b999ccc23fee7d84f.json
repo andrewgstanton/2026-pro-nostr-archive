@@ -1,0 +1,52 @@
+{
+  "content": "# Progress - 1/2/2026\n\nSome days are not about progress. They’re about remaining. Staying faithful to the work when nothing seems to move.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767474471,
+  "id": "10c04db0a8619653c9037bf6f89a87c9131aec3ead7cbb0b999ccc23fee7d84f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ffd0085e618a48fb3f48c26e04b47511bf067d386129b537a93c5faa0af053ac3dd511469be99595af8d4a17a0fe037fe5bc9a26bb5afc04dd30d44cbc62e255",
+  "tags": [
+    [
+      "title",
+      "Progress - 1/2/2026"
+    ],
+    [
+      "published_at",
+      "1767474471"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

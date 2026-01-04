@@ -1,0 +1,52 @@
+{
+  "content": "# Immediate Fruit - 1/2/2026\n\nNot everything meaningful produces immediate fruit. Roots grow in silence long before branches appear.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767475140,
+  "id": "5a026f8bac099a1a3e7cadf5556e7ec627c2a4cdf464a2963c8002dafffa8d3f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b5baaec6dca7ba00f607325660ee36df2f2ac8ff2f9912c1e08d8c15c3b216be96e345cb384a0d049cda5675d26a032f5ce9e20ee7101a681fe470153accd4ca",
+  "tags": [
+    [
+      "title",
+      "Immediate Fruit - 1/2/2026"
+    ],
+    [
+      "published_at",
+      "1767475140"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

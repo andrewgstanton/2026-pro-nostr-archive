@@ -1,0 +1,52 @@
+{
+  "content": "# Today - 1/3/2026\n\nToday doesn’t require perfection.\nOnly honesty—and a willingness to take the next true step.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767475288,
+  "id": "3ac061c4b10fcc5d89e0e403281d6f561d0bb9549dc6cb3a4cf4af11d59c39a7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "326e8353162e6ad78eed958325a9910ded5d7dab63c6ccaf49ab9c1eb9ec4118c23bea876de70e2eae3a7952bb390db5b3d72a2a753f055c954fb3992d7e9091",
+  "tags": [
+    [
+      "title",
+      "Today - 1/3/2026"
+    ],
+    [
+      "published_at",
+      "1767475288"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

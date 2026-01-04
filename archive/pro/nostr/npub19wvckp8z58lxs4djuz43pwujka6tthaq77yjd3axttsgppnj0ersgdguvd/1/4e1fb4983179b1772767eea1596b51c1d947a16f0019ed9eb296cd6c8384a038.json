@@ -1,0 +1,52 @@
+{
+  "content": "# Quiet Days - 1/2/2026\n\nQuiet days still count. They shape the person who will handle what comes next.\n\n#builders #faithfulness #longview #sovereignty #deepwork #quietcourage",
+  "created_at": 1767474699,
+  "id": "4e1fb4983179b1772767eea1596b51c1d947a16f0019ed9eb296cd6c8384a038",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b73fe64b09d410d36227184a6f8a05addb00af51f63e90ba0c399b96c852ca834554246bfea77ce2fa9bcb186acd13404791b2714ee1c17c7e1bec402c10145c",
+  "tags": [
+    [
+      "title",
+      "Quiet Days - 1/2/2026"
+    ],
+    [
+      "published_at",
+      "1767474699"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "deepwork"
+    ],
+    [
+      "t",
+      "quietcourage"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
