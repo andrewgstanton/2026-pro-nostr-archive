@@ -1,0 +1,48 @@
+{
+  "content": "# Remembering - 1/4/2026\n\nThe most important work of this Sunday\nis remembering who you are\nbefore the world starts asking things of you again.\n\n#Sabbath #Renewal #Presence #Rest #NewYear",
+  "created_at": 1767586974,
+  "id": "5fb6ccf2be44f7658f5a96860de03b111b87286e514dfd7a1b17df6065267e29",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "080f49aaff9bd91facbbe0722a7f5848b982f6efbfb019f6fac165450d82fb7f9819ac512bfa71f50b1d239a00edbac6738fed02f745894bde16e515fc0acc46",
+  "tags": [
+    [
+      "title",
+      "Remembering - 1/4/2026"
+    ],
+    [
+      "published_at",
+      "1767586974"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "presence"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "newyear"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

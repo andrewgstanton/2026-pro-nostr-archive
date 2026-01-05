@@ -1,0 +1,33 @@
+{
+  "content": "**Note: Sovereign Authorship**\n\nIf my work is censored on platforms, I still have my archive.\n\nIf relays stop carrying it, the archive remains.\n\nIf even Nostr were to lose it, then something far larger has failed — not the work, and not the author.\n\nPlatforms are distribution layers.\nRelays are transport.\nAuthorship lives at the source.\n\nPublishing already happened.\n\nEverything else is optional.\n\n#SovereignAuthorship #DigitalSovereignty #CreatorFreedom #Continuum",
+  "created_at": 1767600547,
+  "id": "07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cffee1db377bd209da6720afff43bf919a48f4d59592bd6d2994382fd2466823b3343cec5d15a7477b1e449f79c34f4a14cebc7d9f64f1a5760ca36044b6f1ec",
+  "tags": [
+    [
+      "t",
+      "SovereignAuthorship"
+    ],
+    [
+      "t",
+      "DigitalSovereignty"
+    ],
+    [
+      "t",
+      "CreatorFreedom"
+    ],
+    [
+      "t",
+      "Continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

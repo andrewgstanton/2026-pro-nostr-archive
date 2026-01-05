@@ -1,0 +1,48 @@
+{
+  "content": "# Creativity Is How We Practice Freedom - 1/5/2026\n\nFreedom isn’t proven by what we consume.\nIt’s proven by what we create.\n\nEvery honest act of creation is a small refusal to live passively.\nOver time, those refusals compound into culture.\n\nThat’s where real change begins.\n\n#creativity #freedom #builders #writers #sovereign",
+  "created_at": 1767644212,
+  "id": "9c4e3077550101f128cfc3ce7a4cc2b875f653626476bacf1ac8da354fc26703",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6b38e80349b2f0d55bce2d98ecb71799e58c31f6cda2260b7c5e35d0fb5d7ffe2b01c04bce76abe7ce06122a6512b38113973b423f348cd2b611c3090af77552",
+  "tags": [
+    [
+      "title",
+      "Creativity Is How We Practice Freedom - 1/5/2026"
+    ],
+    [
+      "published_at",
+      "1767644212"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "writers"
+    ],
+    [
+      "t",
+      "sovereign"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

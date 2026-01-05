@@ -1,0 +1,48 @@
+{
+  "content": "# Creation Requires Distance - 1/5/2026\n\nMost people think creativity needs connection.\n\nIn truth, it needs distance — from noise, from reaction, from premature consensus.\n\nDistance is where ideas gain shape.\nSilence is where they gain weight.\n\nThis is as true for art as it was for early spacefaring cultures.\n\n#creativity #silence #focus #makers #BitcoinChronicles",
+  "created_at": 1767643908,
+  "id": "e9bba63a3ed641c4fdfe0f9581343dec6e9fbdf7968b814e1ee611768ae5ab83",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e1c4443ed5996aed4f7e42e319b041c9e9b692b683bfe06f2ce8a35622427e5f59e7d81ccf73068053308a0eb2bf0951eae74d26202cd72e88f79966a137f598",
+  "tags": [
+    [
+      "title",
+      "Creation Requires Distance - 1/5/2026"
+    ],
+    [
+      "published_at",
+      "1767643908"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "silence"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "makers"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

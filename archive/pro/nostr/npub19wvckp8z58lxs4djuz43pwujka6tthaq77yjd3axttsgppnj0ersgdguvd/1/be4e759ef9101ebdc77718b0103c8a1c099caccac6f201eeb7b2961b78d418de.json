@@ -1,0 +1,28 @@
+{
+  "content": "# Identity - 1/42026\n\nYou don’t need a new identity this year.\nYou need fewer false ones.\n\nRenewal often feels like relief, not effort.",
+  "created_at": 1767586786,
+  "id": "be4e759ef9101ebdc77718b0103c8a1c099caccac6f201eeb7b2961b78d418de",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3d0f6a2b5b39003d3c17a4834b53139f007815e0c1ff8a3d51c11d45383ac9882b9bddfafe5e8a4cd365b926dda134a289ee5ab01b5a8b437754afe68da09cb8",
+  "tags": [
+    [
+      "title",
+      "Identity - 1/42026"
+    ],
+    [
+      "published_at",
+      "1767586786"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "content": "# Urgency vs Renewal - 1/4/2026\n\nUrgency is loud.\nRenewal is quiet.\n\nIf something is truly meant to grow, it won’t need panic to sustain it.\n\n#Renewal #Patience #SabbathRhythm #LongView #Peace",
+  "created_at": 1767586882,
+  "id": "26a9d4cc5b8192d4a769d491c3147409882a086c90bc45d25875524f62dd47af",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9c1749af1c678fd1a0b3c377d3e1c25861c5dd6f6568efb154fe494bc4059eee9e58ed113b1dba835229d245b9aff7512ae17ebd6bef5bf5e4c41fd85e645fdf",
+  "tags": [
+    [
+      "title",
+      "Urgency vs Renewal - 1/4/2026"
+    ],
+    [
+      "published_at",
+      "1767586882"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "sabbathrhythm"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "peace"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

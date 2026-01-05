@@ -1,0 +1,48 @@
+{
+  "content": "# Walking Slowly - 1/4/2026\n\nThis year doesn’t need to be conquered.\nIt needs to be walked—slowly, faithfully, honestly.\n\nRenewal is already at work.\n\n#Renewal #Faithfulness #LongObedience #Sabbath #Hope",
+  "created_at": 1767587053,
+  "id": "79f169abf7b3cde0a1569389bdb947dd925909794695910254fe616f5611cb3a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c6230c4c85a04d7e07db55d0204efd7e89346f098d0fe574dfdad414b625e7cf416c8d1b070e012b11a765c3543b996baf8430680348261931008903a6870199",
+  "tags": [
+    [
+      "title",
+      "Walking Slowly - 1/4/2026"
+    ],
+    [
+      "published_at",
+      "1767587053"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "longobedience"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "hope"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

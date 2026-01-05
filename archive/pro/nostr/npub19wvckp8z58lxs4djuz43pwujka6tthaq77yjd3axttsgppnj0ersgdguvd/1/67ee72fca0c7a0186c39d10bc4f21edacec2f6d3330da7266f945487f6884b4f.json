@@ -1,0 +1,48 @@
+{
+  "content": "# Creativity Is a Form of Responsibility - 1/5/2026\n\nTo create is to take responsibility for what exists next.\n\nNot everything should be said.\nNot everything should be built.\nBut what is built should be built carefully.\n\nThat’s the ethic behind the Bitcoin Chronicles — and behind any serious creative work.\n\n#creativity #ethics #craft #responsibility #Bitcoin",
+  "created_at": 1767644109,
+  "id": "67ee72fca0c7a0186c39d10bc4f21edacec2f6d3330da7266f945487f6884b4f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3a85707f1c321bf0a5ce1fa12b5060edec50d728298064bc7dcc6e32995ba7e357c7419396c787887f8d0cafe5489b55e940633d3cb61b0c3d8fdc36a227d698",
+  "tags": [
+    [
+      "title",
+      "Creativity Is a Form of Responsibility - 1/5/2026"
+    ],
+    [
+      "published_at",
+      "1767644109"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "ethics"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "responsibility"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

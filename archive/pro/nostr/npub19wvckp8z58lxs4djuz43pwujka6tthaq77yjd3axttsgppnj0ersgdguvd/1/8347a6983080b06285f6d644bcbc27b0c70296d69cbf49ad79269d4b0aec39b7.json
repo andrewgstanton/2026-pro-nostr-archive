@@ -1,0 +1,48 @@
+{
+  "content": "# Renewal - 1/4/2026\n\nThe first Sunday of the year is not a launch pad.\nIt’s a resting place.\n\nRenewal begins when we stop trying to outrun ourselves.\n\n#Sabbath #Renewal #NewYear #Stillness #Faithfulness",
+  "created_at": 1767586716,
+  "id": "8347a6983080b06285f6d644bcbc27b0c70296d69cbf49ad79269d4b0aec39b7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "17f54579217e6f140f8d39c1bc3d15cd77c6fcbdb8ed54ad44ed8b8ba9661ceb81af250217d695f4df5ee613cdbf8991b980de9c4eb2449eb48abe9dad21d94b",
+  "tags": [
+    [
+      "title",
+      "Renewal - 1/4/2026"
+    ],
+    [
+      "published_at",
+      "1767586716"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "newyear"
+    ],
+    [
+      "t",
+      "stillness"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

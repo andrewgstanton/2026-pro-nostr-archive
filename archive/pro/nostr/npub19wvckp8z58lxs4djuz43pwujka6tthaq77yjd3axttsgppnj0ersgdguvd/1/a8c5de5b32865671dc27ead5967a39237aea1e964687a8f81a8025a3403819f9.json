@@ -1,0 +1,48 @@
+{
+  "content": "# Creativity Is Not Efficiency - 1/5/2026\n\nCreativity is not about speed.\nIt’s about alignment.\n\nSome work looks inefficient because it’s forming something that cannot be rushed.\nCivilizations, stories, and souls all grow this way.\n\nThe Bitcoin Chronicles didn’t emerge from optimization — they emerged from patience.\n\n#creativity #writing #builders #longform #sovereignty",
+  "created_at": 1767643826,
+  "id": "a8c5de5b32865671dc27ead5967a39237aea1e964687a8f81a8025a3403819f9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6a4f284767e2b8acaea1ee423a6fe00e130a7ca4a5ba0e9bbaa3d69775264411766ff2f7f39619c93d103329c6eaf84389a5e30a1ceea60e37edcecf859fcbcf",
+  "tags": [
+    [
+      "title",
+      "Creativity Is Not Efficiency - 1/5/2026"
+    ],
+    [
+      "published_at",
+      "1767643826"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "longform"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

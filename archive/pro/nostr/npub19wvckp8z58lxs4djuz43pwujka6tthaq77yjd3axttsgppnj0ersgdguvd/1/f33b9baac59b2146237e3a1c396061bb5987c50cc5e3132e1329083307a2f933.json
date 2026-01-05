@@ -1,0 +1,50 @@
+{
+  "content": "# Not All Work Is Meant to Be Seen Immediately - 1/5/2026\n\nSome work is meant to be discovered later.\n\nIf you only create what performs well today, you guarantee irrelevance tomorrow.\nIf you create what is true, time will eventually find it.\n\nThis is how durable stories — and durable systems — are made.\n\n#creativity #truth #writinglife #builders #legacy",
+  "created_at": 1767644000,
+  "id": "f33b9baac59b2146237e3a1c396061bb5987c50cc5e3132e1329083307a2f933",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4ff5b095d7c64d7399ddc457b630695ea81ea2e02b93bed4c5b5b3b52f262e7c8bf50210c3c72cebb18ec4e97abe19c0e733589c2093835ac7b319334a923423",
+  "tags": [
+    [
+      "title",
+      "Not All Work Is Meant to Be Seen Immediately - 1/5/2026"
+    ],
+    [
+      "published_at",
+      "1767644000"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "writinglife"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "legacy"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}
