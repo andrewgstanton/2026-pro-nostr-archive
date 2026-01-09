@@ -1,0 +1,45 @@
+{
+  "content": "# Bitcoin isn’t harsh. - 1/8/2026\n\nIt just refuses to lie for you.\n\nMost systems soften reality so people don’t have to change.\nBitcoin sharpens reality so people can.\n\n#Bitcoin #SoundMoney #Sovereignty #BitcoinChronicles",
+  "created_at": 1767918600,
+  "id": "a6a7d61f9e1b9144ae34e5099fa45d398b14801dde4fa0f15b6359c70e0aa06c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2796fbd05100cac2da78f9fcfff054f5bc7255397a85e328813f613a7eaae2663ca880e890bd507e8624d87a39be81ab8399f48a331165cb364040a3fa74fb0b",
+  "tags": [
+    [
+      "title",
+      "Bitcoin isn’t harsh. - 1/8/2026"
+    ],
+    [
+      "published_at",
+      "1767918600"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

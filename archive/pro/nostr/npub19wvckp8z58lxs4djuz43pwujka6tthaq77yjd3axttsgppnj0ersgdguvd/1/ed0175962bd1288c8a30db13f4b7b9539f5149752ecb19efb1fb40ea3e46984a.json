@@ -1,0 +1,28 @@
+{
+  "content": "# Articles On Sovereignty !!\n\nOver the past few weeks I compiled a set of **8 long-form paid essays** on Bitcoin as a civilizational system — focusing on honesty, responsibility, time, coordination, innovation through rules, and sovereignty. I published them tonight on Nostr.\n\nFor anyone who wants the **unlocked archive versions** or simply wants to support the work directly, I’m offering them at **500 sats** per essay.\n\nNo subscriptions. No platforms. Just finished work, shared peer-to-peer.\n\nIf useful, feel free to DM. Thank you.",
+  "created_at": 1767672785,
+  "id": "ed0175962bd1288c8a30db13f4b7b9539f5149752ecb19efb1fb40ea3e46984a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9dfaa111068b5b040f0fc3cde9de1a03dca5d8dd40a6fd0619212aeb6aef4b504600e4c2854832ab02aa416210281d570b1ee76d026373b2ef6ef2356dd021c2",
+  "tags": [
+    [
+      "title",
+      "Articles On Sovereignty !!"
+    ],
+    [
+      "published_at",
+      "1767672785"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

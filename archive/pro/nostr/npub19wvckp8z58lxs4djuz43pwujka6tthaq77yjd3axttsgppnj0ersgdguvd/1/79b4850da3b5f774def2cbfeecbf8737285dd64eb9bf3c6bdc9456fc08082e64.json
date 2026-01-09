@@ -1,0 +1,45 @@
+{
+  "content": "# Sound Money, Smart Children - 1/8/2026\n\nChildren raised under sound money don’t fear consequences.\n\nThey fear ambiguity.\n\nAnd that single shift quietly changes everything.\n\n#Bitcoin #SoundMoney #Sovereignty #BitcoinChronicles",
+  "created_at": 1767918321,
+  "id": "79b4850da3b5f774def2cbfeecbf8737285dd64eb9bf3c6bdc9456fc08082e64",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1bebb40f39df799cc81ab3dde23db27da566b1c8992e7e5eb1d8286b5d84a8d49ad23e3ba9644c67ae4f43a23ce0df59e22d6f6784d56da95683c8b5eed645fc",
+  "tags": [
+    [
+      "title",
+      "Sound Money, Smart Children - 1/8/2026"
+    ],
+    [
+      "published_at",
+      "1767918321"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

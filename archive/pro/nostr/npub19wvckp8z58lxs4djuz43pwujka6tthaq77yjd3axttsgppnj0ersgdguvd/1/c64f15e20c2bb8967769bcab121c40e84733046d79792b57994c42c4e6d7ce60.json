@@ -1,0 +1,28 @@
+{
+  "content": "# The full set tonight\n\nHere are the articles published tonight:\n\n- Bitcoin Is Honest, Not Moral — And Why That Matters\n- Why Civilizations Collapse When Responsibility Is Optional\n- The Cathedral vs. the SaaS: Bitcoin and Long-Term Human Systems\n- Immutability as a Civilizational Constraint\n- Bitcoin as a Coordination Layer, Not a Technology Trend\n- The Innovation Paradox: Why Bitcoin Advances by Refusing to Change\n- The Most Conservative System Wins\n- Why Bitcoin Strengthens Tribal Sovereignty Rather Than Replacing It\n\n**500 sats** per essay or if you just want to help support this work.  Please DM me if interested in any.\n\nThanks much.  Happy New Year all!",
+  "created_at": 1767673021,
+  "id": "c64f15e20c2bb8967769bcab121c40e84733046d79792b57994c42c4e6d7ce60",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2d8e53a31094581834f51ed11af7636bfc8c7fef2d375d7342f825f4d0be20686d9a50930771396304fdd38d324b74f6ce9f0c73f36fe4093d5e1aa77bf75fd9",
+  "tags": [
+    [
+      "title",
+      "The full set tonight"
+    ],
+    [
+      "published_at",
+      "1767673021"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

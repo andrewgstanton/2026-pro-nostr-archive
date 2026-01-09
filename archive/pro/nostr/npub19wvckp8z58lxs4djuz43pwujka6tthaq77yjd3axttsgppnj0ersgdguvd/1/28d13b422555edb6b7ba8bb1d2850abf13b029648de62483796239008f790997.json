@@ -1,0 +1,44 @@
+{
+  "content": "# Why Free Isn’t Neutral - 1/6/2026-\n\nFree content isn’t neutral.\n\nIt trains both the writer and the reader to treat thought as disposable.\n\nWhen everything is free:\n\n- attention becomes shallow\n- depth becomes optional\n- authors become performers\n\nPaying isn’t about exclusion. It’s about honoring weight.\n\nSome things deserve to cost something — even if only a little.\n\n#creativity #authorship #value #writing",
+  "created_at": 1767772876,
+  "id": "28d13b422555edb6b7ba8bb1d2850abf13b029648de62483796239008f790997",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e676bacd1c7f44735b9edf8291fa541e51659b0ce493f38ecd405c0aa0ed0b471f0f038e31f0d74c4f4ec042d2d1acf0b925f376a05e5b97c47bff5f9fa6f412",
+  "tags": [
+    [
+      "title",
+      "Why Free Isn’t Neutral - 1/6/2026-"
+    ],
+    [
+      "published_at",
+      "1767772876"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "value"
+    ],
+    [
+      "t",
+      "writing"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

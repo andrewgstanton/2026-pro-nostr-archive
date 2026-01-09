@@ -1,0 +1,57 @@
+{
+  "content": "# Creation is not content. - 1/7/2026\n\nContent is optimized for feeds.\nCreation is an act of obedience to something deeper — even when no one is watching.\n\n#Sovereignty #Continuity #Clarity #Creation #LongView #Freedom #Integrity",
+  "created_at": 1767919305,
+  "id": "e9e4ddd83af1580258c9c643d3cf8d8186d38090f71235ced9ed00aa6f54568e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "697bf04029998ac67dd1462ddf48f7f06869e0c56164f7cfc1b6bb0234c9c69522bf9ae836035622c25b4b79152a87fcd45d7c0dec63fd53242a52211d1dd63d",
+  "tags": [
+    [
+      "title",
+      "Creation is not content. - 1/7/2026"
+    ],
+    [
+      "published_at",
+      "1767919305"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

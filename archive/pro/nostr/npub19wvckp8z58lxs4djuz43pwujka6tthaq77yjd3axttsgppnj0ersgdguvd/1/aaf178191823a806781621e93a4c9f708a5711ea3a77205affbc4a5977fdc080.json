@@ -1,0 +1,29 @@
+{
+  "content": "Another excellent article Max!!",
+  "created_at": 1767856979,
+  "id": "aaf178191823a806781621e93a4c9f708a5711ea3a77205affbc4a5977fdc080",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "daddd3dcf873256063abced1ae2dd2636ed2f80bc1e9675514819486a0152af1501a229ccbdb3714f8b675a5ce99a23b7f88065ff8ff2b2fb9a655e247a0a8ca",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:cc934d86f9fc9598",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

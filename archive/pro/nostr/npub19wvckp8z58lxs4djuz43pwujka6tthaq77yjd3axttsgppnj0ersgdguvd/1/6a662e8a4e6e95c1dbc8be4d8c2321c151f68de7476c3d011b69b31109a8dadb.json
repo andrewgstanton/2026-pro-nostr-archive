@@ -1,0 +1,57 @@
+{
+  "content": "# Build what still matters when the noise fades 1/7/2026\n\nIf it only survives attention, it was never solid to begin with.\n\n#Sovereignty #Continuity #Clarity #Creation #LongView #Freedom #Integrity",
+  "created_at": 1767919048,
+  "id": "6a662e8a4e6e95c1dbc8be4d8c2321c151f68de7476c3d011b69b31109a8dadb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6a507ebf1e1d9f4706ca4d99702adbbcf592c9f9723edc3a2b7ba59d916a42b7f309b38c189078420ca94e2896d47068aacbd1590d682a213eec6ffd5b45f704",
+  "tags": [
+    [
+      "title",
+      "Build what still matters when the noise fades 1/7/2026"
+    ],
+    [
+      "published_at",
+      "1767919048"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

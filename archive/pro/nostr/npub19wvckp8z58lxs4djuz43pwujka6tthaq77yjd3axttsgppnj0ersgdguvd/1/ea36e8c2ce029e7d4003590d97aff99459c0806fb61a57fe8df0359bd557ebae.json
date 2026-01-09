@@ -1,0 +1,57 @@
+{
+  "content": "# The market eventually tells the truth. 1/7/2026\n\nNot immediately.\nNot kindly.\nBut always honestly.\n\n#Sovereignty #Continuity #Clarity #Creation #LongView #Freedom #Integrity",
+  "created_at": 1767919252,
+  "id": "ea36e8c2ce029e7d4003590d97aff99459c0806fb61a57fe8df0359bd557ebae",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "36b75d3375e31f700fe6473e0f4f3467e771163623ae47e8e15df23cda20d56ac6137e93af76b26504ce709f38ef13663ab738953588b004bd1782d0a4e494d7",
+  "tags": [
+    [
+      "title",
+      "The market eventually tells the truth. 1/7/2026"
+    ],
+    [
+      "published_at",
+      "1767919252"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "content": "# Sovereignty isn’t proven in crisis - 1/8/2026\n\nIt’s proven in temptation.\n\nThe hardest “no” is the one that would make life easier right now.\n\n#Bitcoin #SoundMoney #Sovereignty #BitcoinChronicles",
+  "created_at": 1767918480,
+  "id": "cf311a164c7d0cb8dd1280c8bcd7b368a44eeb5ce31342dc8dd1abf251bb49b2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8c567d35ab67bf473636d46117451ddc29a58c82f334e0c30a5267b1a7db37ca5133e8f11ec3cdf9f06e349d8895791bfff5864413ced5823ce9343a6eb3af33",
+  "tags": [
+    [
+      "title",
+      "Sovereignty isn’t proven in crisis - 1/8/2026"
+    ],
+    [
+      "published_at",
+      "1767918480"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

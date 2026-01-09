@@ -1,0 +1,44 @@
+{
+  "content": "# Bitcoin Isn’t Moral. It’s Honest. - 1/6/2026\n\nBitcoin doesn’t make people good.\n\nIt just removes the lie.\n\nIt doesn’t promise justice —\nit removes the ability to counterfeit it at scale.\n\nThat’s why it feels uncomfortable.\nTruth often does.\n\nHonesty is not salvation.\nBut without honesty, salvation language collapses into theater.\n\n#bitcoin #honesty #truth #economics",
+  "created_at": 1767771864,
+  "id": "0740d055f5e5bc5933aebd152631330dbaa950de9d1dd4728e817b11f417dfbd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f1501b81214dd6dc26dcacf97df77d3935c3411cc5740168e4e6c235a7c9973b7c1203bc7a834bcb7a66d79629e74dfaa78874be8455f20ee8db646d6717b9ac",
+  "tags": [
+    [
+      "title",
+      "Bitcoin Isn’t Moral. It’s Honest. - 1/6/2026"
+    ],
+    [
+      "published_at",
+      "1767771864"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honesty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "economics"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

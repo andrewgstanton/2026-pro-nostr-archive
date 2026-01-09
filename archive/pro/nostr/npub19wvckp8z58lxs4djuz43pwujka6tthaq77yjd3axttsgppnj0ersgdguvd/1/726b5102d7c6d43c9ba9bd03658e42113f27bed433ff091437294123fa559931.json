@@ -1,0 +1,57 @@
+{
+  "content": "# Most systems reward compliance 1/7/2026\n\nVery few reward clarity.\nClarity often looks lonely before it looks obvious.\n\n#Sovereignty #Continuity #Clarity #Creation #LongView #Freedom #Integrity",
+  "created_at": 1767919147,
+  "id": "726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a60a4238b9e65977011596159127dfdb5468936b030f814ea43ec0ed4fa6be2962190bec888c6f0eb80cd4213af6a82dd0657b7ee94a345dc0f2ada151135957",
+  "tags": [
+    [
+      "title",
+      "Most systems reward compliance 1/7/2026"
+    ],
+    [
+      "published_at",
+      "1767919147"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

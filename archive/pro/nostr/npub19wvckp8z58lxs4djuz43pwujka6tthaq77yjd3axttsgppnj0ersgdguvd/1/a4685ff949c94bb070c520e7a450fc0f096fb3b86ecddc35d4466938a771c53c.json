@@ -1,0 +1,44 @@
+{
+  "content": "# Cathedral Thinking - 1/6/2026\n\nMost platforms are designed like pop-up shops.\n\n- Fast.\n- Disposable.\n- Optimized for churn.\n\nCathedrals take longer.\n\n- They don’t ask for constant attention.\n- They assume future generations matter.\n\n- I’m not building for virality.\n- I’m building for continuity.\n\nThat changes everything.\n\n#cathedralthinking #legacy #sovereignwork #continuum",
+  "created_at": 1767772273,
+  "id": "a4685ff949c94bb070c520e7a450fc0f096fb3b86ecddc35d4466938a771c53c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa3afe2d94213061dcd5ab6a59f97afac1c3134024f7e8769c07accd627efbab6dac6db1103aace4151ac4d733e2c1925deda2f002fe8901569e71dfe9edb363",
+  "tags": [
+    [
+      "title",
+      "Cathedral Thinking - 1/6/2026"
+    ],
+    [
+      "published_at",
+      "1767772273"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "cathedralthinking"
+    ],
+    [
+      "t",
+      "legacy"
+    ],
+    [
+      "t",
+      "sovereignwork"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

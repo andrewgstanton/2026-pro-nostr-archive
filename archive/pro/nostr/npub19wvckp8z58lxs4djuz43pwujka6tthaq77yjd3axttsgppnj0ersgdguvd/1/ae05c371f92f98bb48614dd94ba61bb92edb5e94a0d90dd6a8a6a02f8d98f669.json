@@ -1,0 +1,45 @@
+{
+  "content": "# Mercy without truth - 1/8/2026\n\nA system that promises mercy without truth eventually delivers neither.\n\nBitcoin doesn’t provide mercy.\nIt leaves space for humans to practice it themselves.\n\nThat distinction matters.\n\n#Bitcoin #SoundMoney #Sovereignty #BitcoinChronicles",
+  "created_at": 1767918414,
+  "id": "ae05c371f92f98bb48614dd94ba61bb92edb5e94a0d90dd6a8a6a02f8d98f669",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b580c4b004be16555b48fe5bce743cf1c285ac0825a311d62252621e89c0480012ccd06ddad88e40758ea52e39d20285a8a9d0476b419ad2334e3a10e9ea9116",
+  "tags": [
+    [
+      "title",
+      "Mercy without truth - 1/8/2026"
+    ],
+    [
+      "published_at",
+      "1767918414"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

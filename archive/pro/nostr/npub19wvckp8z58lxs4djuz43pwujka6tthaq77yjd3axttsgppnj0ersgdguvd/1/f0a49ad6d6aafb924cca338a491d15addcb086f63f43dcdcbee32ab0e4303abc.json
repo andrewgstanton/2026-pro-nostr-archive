@@ -1,0 +1,29 @@
+{
+  "content": "Powerful and uncomfortable to be honest but this is the truth.\n\nI am very glad you are speaking about this.\n\nIt’s a challenge to me also \n\nThank you for sharing ",
+  "created_at": 1767722552,
+  "id": "f0a49ad6d6aafb924cca338a491d15addcb086f63f43dcdcbee32ab0e4303abc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "411df2c5c890079b78a78745c51a98db635c7eeadc31c8c5a71c9b419c9791b013832f82931634f4415c1169e71fbafe049d07966ac689795dfcd5e37e66802a",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:88da0df674995de6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

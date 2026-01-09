@@ -1,0 +1,44 @@
+{
+  "content": "# The Loneliness of Clarity - 1/6/2026\n\nClarity is often lonely.\n\nNot because others are evil —\nbut because systems reward participation, not discernment.\n\nOnce you see how incentives actually work:\n\n- conversations thin out\n- applause quiets\n- shortcuts stop tempting you\n\nBut clarity compounds quietly.\nAnd in time, it builds things that noise never can.\n\n#clarity #building #longterm #sovereignty",
+  "created_at": 1767772009,
+  "id": "737bbd7972bb86038959435a625c27e358a14387a8bbf62c2178bee79347e37e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0daf862f56e846694ff9171782474882637ac91da203bcce0d2a362a57ef5241aaf69830837bf127c6917785ff30e06d5c773609ea82cc80d1c5dcc32e332fd4",
+  "tags": [
+    [
+      "title",
+      "The Loneliness of Clarity - 1/6/2026"
+    ],
+    [
+      "published_at",
+      "1767772009"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

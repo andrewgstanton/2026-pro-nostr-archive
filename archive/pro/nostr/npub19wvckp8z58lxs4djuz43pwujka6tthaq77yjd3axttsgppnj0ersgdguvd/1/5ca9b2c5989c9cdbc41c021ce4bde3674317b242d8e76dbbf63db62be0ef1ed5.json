@@ -1,0 +1,44 @@
+{
+  "content": "# The Water We Swim In - 1/6/2026\n\nMost people don’t question the economic system they were born into.\n\nNot because it’s good — but because it’s normal.\n\nScripture talks endlessly about idolatry, honesty, and justice.\nYet the modern monetary system — built on perpetual debt and quiet debasement — is rarely named.\n\nSeeing the water doesn’t make you pure.\nBut refusing to see it guarantees blindness.\n\n#sovereignty #economics #truth #faith",
+  "created_at": 1767771630,
+  "id": "5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "21244ec71dace79a60b2171cc8ec29a1584b5905edd0a248ff952c72886320058ea3199bcbc8f87a883473522be8dd078b326da8e18f54d8f220f428e1eda0f7",
+  "tags": [
+    [
+      "title",
+      "The Water We Swim In - 1/6/2026"
+    ],
+    [
+      "published_at",
+      "1767771630"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "economics"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "faith"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "content": "# Martian Money - 1/8/2026\n\nOn Earth, money learned to forget.\nOn Mars, money learned to remember.\n\nFinality didn’t make people cruel.\nIt made responsibility unavoidable.\n\n#Bitcoin #SoundMoney #Sovereignty #BitcoinChronicles",
+  "created_at": 1767918530,
+  "id": "f0919cde0a3579bc1f46a83f9d3080431556f2e2de1f8fd6220cbce14278e2fe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3326e94d265988faab4d5f7c950478f47e87c60d1a3e9ddd82be43a891e92f1167adccc689a2708aada5acf6469762956040db872ed004a0d85063fbf63c3378",
+  "tags": [
+    [
+      "title",
+      "Martian Money - 1/8/2026"
+    ],
+    [
+      "published_at",
+      "1767918530"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

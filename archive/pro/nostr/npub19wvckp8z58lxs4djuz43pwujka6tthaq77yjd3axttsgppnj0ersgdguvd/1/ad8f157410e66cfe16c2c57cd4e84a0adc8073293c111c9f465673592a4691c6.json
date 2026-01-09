@@ -1,0 +1,57 @@
+{
+  "content": "# Sovereignty isn’t isolation. 1/7/2026\n\nIt’s the freedom to choose alignment without coercion — economic, creative, or spiritual.\n\n#Sovereignty #Continuity #Clarity #Creation #LongView #Freedom #Integrity",
+  "created_at": 1767919194,
+  "id": "ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "45c02721211a7a5fe546c01e2cc1572d8992b30e30384a2ca5cc570deae4b59b67f1fbf3a7e2664a492f1ca185593931b44875b23ce73f1fbc2dd09d402d5ac1",
+  "tags": [
+    [
+      "title",
+      "Sovereignty isn’t isolation. 1/7/2026"
+    ],
+    [
+      "published_at",
+      "1767919194"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}
