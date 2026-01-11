@@ -1,0 +1,30 @@
+{
+  "content": "As always a great article Kudzai \n\nThank you for writing and sharing ",
+  "created_at": 1768017235,
+  "id": "c8d6b1254c8df987439c63d33535770c4963517425fa921f539de4b1b1d3d689",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6bfc5938382d547a444ffb1efd0feb3d2c02669bd01506859cec0bb7ecaf55f27f14fa3a4e2bd58c85614d2456cfef895ddfeddca8da2869d0f09ce95e81a404",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:broken-promises-on-a-broken-foundation",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "content": "Excellent as always ",
+  "created_at": 1768072599,
+  "id": "3530192b6852974fc11dae3d674f1fb7ca7f0d1823945294529590ee3d796736",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2c811c2160855ea6785f67a8e98f0bc3b8a0e6afd8f33de103d4820761ab5465af9de7e7591d12d2c6d212dd17369e33e611b4e6bd151df6ddf173c2ed641aca",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:a112ef5598678103",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}
