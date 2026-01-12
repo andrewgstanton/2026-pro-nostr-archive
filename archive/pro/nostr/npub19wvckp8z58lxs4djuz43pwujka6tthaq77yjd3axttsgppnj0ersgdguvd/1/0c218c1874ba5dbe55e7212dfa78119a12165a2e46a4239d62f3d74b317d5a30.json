@@ -1,0 +1,45 @@
+{
+  "content": "# Note 2 — Archives - 1/11/2026\n\nRelays are memory caches.\nArchives are memory.\n\nOnce you understand that distinction,\nyou stop panicking about visibility\nand start designing for permanence.\n\n#DigitalSovereignty #Nostr #Archives #Bitcoin",
+  "created_at": 1768195286,
+  "id": "0c218c1874ba5dbe55e7212dfa78119a12165a2e46a4239d62f3d74b317d5a30",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "20908d6d7d6789aa92cfcd525c89ada478005e54f4c5d04b0871948ab1922a6f1a7fd36a11b7f361bed364d9d53df57aec6dc4e790ad29d16cc4f6e2de3f470a",
+  "tags": [
+    [
+      "title",
+      "Note 2 — Archives - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768195286"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

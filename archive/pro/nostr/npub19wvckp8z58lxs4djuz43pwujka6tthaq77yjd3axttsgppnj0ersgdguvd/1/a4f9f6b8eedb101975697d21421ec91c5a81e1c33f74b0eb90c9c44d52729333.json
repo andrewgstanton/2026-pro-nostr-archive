@@ -1,0 +1,45 @@
+{
+  "content": "# Note 5 — Quiet Confidence - 1/11/2026\n\nWhen you know your work can survive deletion,\ncensorship, and neglect…\n\nyou stop arguing\nand start creating quietly.\n\nThat’s confidence.\n\n#Sovereignty #Bitcoin #Nostr #CalmStrength",
+  "created_at": 1768195846,
+  "id": "a4f9f6b8eedb101975697d21421ec91c5a81e1c33f74b0eb90c9c44d52729333",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a4260cae5e35a6c4e98f7c8a487dfcd01d11976b5a4da93342bbe188c7f1b14f92a9731021303362a424f3d694d0595f6560b9ac051d087e9218ab0e9a4ef876",
+  "tags": [
+    [
+      "title",
+      "Note 5 — Quiet Confidence - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768195846"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "calmstrength"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

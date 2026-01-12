@@ -1,0 +1,45 @@
+{
+  "content": "# Note 3 — Builders - 1/11/2026\n\nMost people optimize for “what’s live right now.”\n\nBuilders optimize for\n“what can be reconstructed after failure.”\n\nThose are very different instincts.\n\n#Builders #Engineering #Resilience #Bitcoin",
+  "created_at": 1768195358,
+  "id": "8b7f04a1085dcc9af90227fbada71640e39cdf3e2587bb7a5e331e71c5be97b7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2dc279c6d057d85759ce5850d89cf655c0303e253cb40f753b215df6bd64bb79b27d3fcc17de87c9e6600d594177b2ee21983a10a890fd8c4a5591d987b89b5f",
+  "tags": [
+    [
+      "title",
+      "Note 3 — Builders - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768195358"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "engineering"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

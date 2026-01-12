@@ -1,0 +1,45 @@
+{
+  "content": "# Note 1 — Durability - 1/11/2026\n\nReal freedom isn’t about reach.\nIt’s about durability.\n\nIf your work disappears when a relay forgets you,\nyou were renting attention — not building.\n\n#Bitcoin #Nostr #Durability #Sovereignty",
+  "created_at": 1768195179,
+  "id": "95b34a888f532bc4ff3d4827a9da1904313861c6039b8f6cff7dc35e3a085817",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a629347999075bda0930233391ec604312c8ff9e2419ace5c9fd8ddc3dd2350a8e015f3d7bbacd423fef16359eb8753e3f7eca1462942f87d2ab6d62ccfa89d",
+  "tags": [
+    [
+      "title",
+      "Note 1 — Durability - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768195179"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

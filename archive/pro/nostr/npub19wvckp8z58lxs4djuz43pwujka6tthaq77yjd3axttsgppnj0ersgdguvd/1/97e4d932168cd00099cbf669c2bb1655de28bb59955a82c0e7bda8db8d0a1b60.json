@@ -1,0 +1,45 @@
+{
+  "content": "# Note 4 — Publishing - 1/11/2026\n\nPublishing isn’t posting.\n\nPosting is ephemeral.\nPublishing is a commitment to future readers\nyou’ll never meet.\n\n#Writing #Publishing #LongTermThinking #BitcoinChronicles",
+  "created_at": 1768195438,
+  "id": "97e4d932168cd00099cbf669c2bb1655de28bb59955a82c0e7bda8db8d0a1b60",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "853939ea7f06320236e25a9529c96da30d44c384959d062e5013dff799bd39945492c7e07eab7848f8c1522956a49660129f5e98feab96e758b7af492b8e551b",
+  "tags": [
+    [
+      "title",
+      "Note 4 — Publishing - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768195438"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
