@@ -1,0 +1,81 @@
+{
+  "content": "## Archive-Backed Identity, Publishing, and Messaging\nAndrew G. Stanton - Jan. 11, 2026\n\nThis document defines the **protocols and invariants** used by Continuum to provide\ndurable, sovereign publishing and messaging on Nostr.\n\nContinuum treats **relays as caches**, **databases as disposable**, and **archives as\nthe source of truth**.\n\nThe goal is deterministic reconstruction of authored history even if:\n- relays forget\n- backups reappear\n- local databases are wiped\n- keys are rotated\n- events are intentionally deleted\n\n---\n\n## Core Principles\n\n### 1. Relays Are Non-Authoritative\nRelays are used for:\n- discovery\n- low-latency sync\n- interoperability\n\nRelays are **never** trusted for durability.\n\n### 2. Archives Are the Source of Truth\nIf an event exists in the archive, it exists.\nIf it does not, it is considered lost (or intentionally deleted).\n\n### 3. Local Databases Are Caches\nThe local database may be deleted at any time.\nAll state must be reconstructible from:\n- manifests\n- archive\n- optional relay sync\n\n---\n\n## Supported Event Kinds\n\nContinuum guarantees durability and reconstruction for the following authored kinds:\n\n| Kind | Purpose | Manifest Type |\n|----|----|----|\n| `0` | Profile (metadata) | Canonical |\n| `1` | Notes & replies | History |\n| `4` | Encrypted DMs | History |\n| `30023` | Long-form articles | Canonical |\n\nOther kinds may be supported later, but are not required for identity continuity.\n\n---\n\n## Manifest Types\n\nManifests define the authoritative set of events.\n\n### Canonical Manifest\nUsed for **versioned kinds** where only the latest event is valid.\n\nUsed for:\n- kind:0 (profile)\n- kind:30023 (articles)\n\nExample semantics:\n- one entry per logical object\n- latest event wins\n\nCanonical files typically map:\n\n```\nlogical_id → latest_event_id + year\n```\n\n\n\n### History Manifest\nUsed for **append-only kinds**.\n\nUsed for:\n- kind:1 (notes & replies)\n- kind:4 (DMs)\n\nHistory files are stored as:\n\n```\nhistory-YYYY.json\n```\n\n\nEach entry minimally includes:\n- `event_id`\n- `created_at`\n\n### Tombstone Manifest\nUsed to preserve **deletion intent**.\n\nIf an event_id appears in the tombstone ledger:\n- it must never re-enter active state\n- even if found in relays or backups\n\nTombstones override all other inputs.\n\n---\n\n## Archive Layout\n\nFor a given `npub`, Continuum archives events by kind and year.\n\n### Manifest locations\n\n```\n/pro/nostr/{npub}/{kind}/canonical.json\n/pro/nostr/{npub}/{kind}/history-YYYY.json\n/pro/nostr/{npub}/tombstone/deleted_event_ids.txt\n```\n\n\n### Archived event JSON\n\n\n```\nhttps://{year}.mycontinuum.xyz/archive/pro/nostr/{npub}/{kind}/{event_id}.json\n```\n\n\nThe archive stores **full raw event JSON** exactly as published.\n\n---\n\n## Rehydration Protocol (Deterministic Rebuild)\n\n### Rebuild Mode (DB empty or reset)\n\n1. Sync from relays (best effort, fast path)\n2. Load manifests\n3. Apply tombstones\n4. Compute missing:\n\n```\nmissing = manifest_ids − db_ids − tombstones\n```\n\n5. Fetch missing events from archive\n6. Insert into DB and mark `archived = true`\n7. Assert invariants\n\n### Refresh Mode (normal operation)\n\n1. Sync recent events from relays\n2. Apply tombstones\n3. Do **not** scan archive\n4. Archive is only consulted if missing events are detected\n\n---\n\n## Invariants\n\n### Archive Invariant\nIf an event is listed in a manifest and not tombstoned, it must be retrievable from:\n- relay OR\n- archive\n\n### Deletion Invariant\nIf an event is tombstoned, it must never reappear, regardless of source.\n\n### Determinism Invariant\nGiven the same archive + manifests, rebuild produces the same DB state.\n\n### Encryption Invariant (DMs)\nEncrypted content may be archived safely because:\n- payloads are ciphertext\n- archive adds no new disclosure risk\n\n---\n\n## Kind-Specific Rules\n\n### kind:0 (Profile)\n- Versioned\n- Canonical manifest required\n- Latest event wins\n- Archived to prevent identity loss if relays drop profile\n\n### kind:1 (Notes & Replies)\n- Append-only\n- History manifests only\n- Replies are just notes with `e`/`p` tags\n- All authored notes are archived\n\n### kind:4 (Direct Messages)\n- Append-only\n- History manifests only\n- Encrypted payloads stored verbatim\n- Both sent and received messages may be archived\n- Attachments referenced by encrypted envelopes\n\n### kind:30023 (Articles)\n- Versioned by logical slug (`d` tag)\n- Canonical manifest defines latest version\n- Older versions may remain archived but inactive\n\n---\n\n## Tombstone Protocol (Anti-Resurrection)\n\nTombstones preserve **intentional deletion**.\n\nRules:\n- Tombstones are stored in the archive\n- Tombstones override:\n- relay imports\n- backup imports\n- historical replays\n- Tombstones are applied **before** rebuild or refresh\n\nThis prevents “zombie” events from reappearing.\n\n---\n\n## Performance Model\n\n- Relays are the **hot path** (fast)\n- Archive is the **cold path** (slow, guaranteed)\n- Archive fetch is performed **only** when DB is missing known events\n\nThis ensures:\n- fast normal operation\n- reliable recovery under failure\n\n---\n\n## Key Rotation (Future Protocol)\n\nKey rotation is enabled by archive durability.\n\nPlanned rules:\n- Old keys become frozen historical identities\n- New keys take over forward activity\n- Continuity is proven via signed linkage events\n- Archive preserves all prior authorship\n\nKey rotation does not erase history.\n\n---\n\n## Non-Goals\n\nContinuum does **not** attempt to:\n- archive the entire social graph\n- preserve likes/reactions by default\n- maximize engagement or reach\n- replace clients or relays\n\nIt focuses on **sovereign continuity**, not feeds.\n\n---\n\n## Summary\n\nContinuum implements a manifest-driven, archive-backed protocol stack that guarantees:\n\n- authored content can be reconstructed\n- deletion intent is preserved\n- encrypted messages remain recoverable\n- identity survives relay churn\n- databases are disposable\n\nRelays may forget.\nArchives do not.",
+  "created_at": 1768201026,
+  "id": "53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "afa01a6e8005b1d0519fe0b144bc1d5516c802a3e5193e35c845e3c68441102b701c1101bc03e19c8d6c6441e2529f5b9d786db12cf67a627bc7786d844522ef",
+  "tags": [
+    [
+      "d",
+      "continuum-protocols"
+    ],
+    [
+      "title",
+      "Continuum Protocols"
+    ],
+    [
+      "summary",
+      "This document defines the core protocols behind Continuum’s archive-backed approach to Nostr identity, publishing, and messaging.  It formalizes a simple but non-standard assumption: relays are caches, not memory.  By treating archives as the source of truth and manifests as authoritative intent, Continuum enables deterministic reconstruction of profiles, notes, encrypted DMs, and long-form articles—even if relays forget, backups reappear, or local databases are wiped.  The protocols described here prioritize durability, deletion intent, encrypted message continuity, and long-horizon identity over feeds, engagement, or client features."
+    ],
+    [
+      "published_at",
+      "1768201026"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "protocols"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "encryption"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ],
+    [
+      "display_date",
+      "2026-01-11"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
