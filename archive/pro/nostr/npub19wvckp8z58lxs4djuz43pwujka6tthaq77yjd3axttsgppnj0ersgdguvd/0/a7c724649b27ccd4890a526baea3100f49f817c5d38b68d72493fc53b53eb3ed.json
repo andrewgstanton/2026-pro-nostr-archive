@@ -1,0 +1,16 @@
+{
+  "content": "{\"name\": \"Akamaister\", \"about\": \"Real name: Andrew G. Stanton\\nBitcoiner. Builder. Writer. Rooted in the Victorious Gospel.\\nCTO @ StartNation | Founder: Golden Gate Group & Blue Planet Ventures\\n\\nFaith-forward | Startup-scarred | Still building.\\n\\n\\ud83d\\udccd Following Jesus. Building with conviction. Betting on people.\\n\\ud83d\\ude4f Victorious Gospel believer\\n\\u26a1\\ufe0f Proof of Work > Proof of Hype\\n\\ud83d\\udcc8 Equity trader. Aspiring Bitcoin contributor\\n\\ud83e\\udde0 35+ years in dev. Still learning. Still showing up\\n\\nStartups I\\u2019ve Founded\\n\\n\\ud83e\\udded MyContinuum \\u2013 a sovereign signal dashboard to reclaim your digital life\\nhttps://tinyurl.com/24g27kjb\\n\\nStartNation \\u2013 equity-based accelerator (future Bitcoin integration possible)\\nhttps://tinyurl.com/yt9689pq\\n\\nGolden Gate Group Investments \\u2013 real estate LLC with a Bitcoin-forward vision\\nhttps://tinyurl.com/ynk95bvd\\n\\nBlue Planet Ventures \\u2013 equities, risk, and responsibility\\n\\nOther Links\\n\\nWebsite: https://tinyurl.com/2ca2ve55\\nLinkedIn: https://tinyurl.com/yv36rdam\\nFacebook: https://tinyurl.com/ypmsmfww\\nTwitter/X: https://tinyurl.com/yqha2urx\\nDiscord: https://tinyurl.com/ylar9kn2\\nGitHub: https://tinyurl.com/yku3jd9z\\n\\nNostr ID & Wallets\\n\\nNpub: npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\\n\\nZap me on Primal: https://tinyurl.com/yuyu2b9t\\n\\nSnort: https://tinyurl.com/yryevvrd\\n\\nCoracle: https://tinyurl.com/yv6lx6uz\\n\\nTags\\n\\n#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker\\n\\nLast generated: 2026-01-15 19:29 PST\", \"picture\": \"https://blossom.primal.net/42342af5b5d98f95bd7182672728f038f75fb3ea1f343b175243cd5f43676ae0.jpg\", \"banner\": \"https://blossom.primal.net/e65846abb412541becd1169d62669a0ab70dc10b7b3a576a71368dbe6dd33802.png\", \"website\": \"https://andrewgstanton.com\", \"nip05\": \"andrewgstanton@primal.net\", \"lud16\": \"andrewgstanton@primal.net\"}",
+  "created_at": 1768534300,
+  "id": "a7c724649b27ccd4890a526baea3100f49f817c5d38b68d72493fc53b53eb3ed",
+  "kind": 0,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "63646d1ffe2ab530079520c232dd3cd67d52731cf7985cd985c8e50a614485daf377f96f639cd9230c03ba07325b045b8dc455495874b60b8140db8321496d71",
+  "tags": [],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol"
+  ],
+  "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd"
+}
