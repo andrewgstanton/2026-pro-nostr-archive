@@ -1,0 +1,29 @@
+{
+  "content": "Excelkent as always Kudzai !!",
+  "created_at": 1768585996,
+  "id": "c02a6ccdcbfcd0f8c0c5e2a5ce8168855afa9fc334e072525e9a1e46159af5af",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c8216c90950082a76201fdaba5dd88067441b2777846b2693c22d1b446f805a5862569b73a17339eeaeb0502bb9d974981ea54fef78ac0964620bc4940ac66eb",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:exit-or-submit",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
