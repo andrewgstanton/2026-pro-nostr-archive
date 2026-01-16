@@ -1,0 +1,61 @@
+{
+  "content": "# 📝 Note 3 — Bitcoin clarification - 1/14/2026\n\nBitcoin doesn’t save people.\nIt doesn’t make anyone righteous.\n\nIt removes discretion from money — which is why it feels harsh.\n\nHonesty often does.\n\n#Revival #Bitcoin #HonestMoney #Christianity #Sovereignty #Truth #Fiat #Decentralization",
+  "created_at": 1768454460,
+  "id": "14ff4694e0662cb00794ff35e9ba89e68630c70c055fbb0d718d9592f34f6183",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "04b1410f0fc946395d3d6486624c90f3ee2ea2a9ba7a1a0ea773a78b3840f96f2e45a76f02b70984b4102c8b68ea38770f59edb71ee1bea46d3309a51844a9c7",
+  "tags": [
+    [
+      "title",
+      "📝 Note 3 — Bitcoin clarification - 1/14/2026"
+    ],
+    [
+      "published_at",
+      "1768454460"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "revival"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honestmoney"
+    ],
+    [
+      "t",
+      "christianity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

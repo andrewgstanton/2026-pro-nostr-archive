@@ -1,0 +1,61 @@
+{
+  "content": "# 📝 Note 5 — The false choice - 1/14/2026\n\nRevival without honest money stalls.\nHonest money without moral formation hardens.\n\nHistory suggests we’ve never tried them together.\n\n#Revival #Bitcoin #HonestMoney #Christianity #Sovereignty #Truth #Fiat #Decentralization",
+  "created_at": 1768454552,
+  "id": "d7fc6cc8a978f41bbe3203d73be47a61f83105fbb8c2a0bf4e5c6de1f0ba0818",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7a7c16b1e5de1a28d8748388f5cdaa834933bbf151784640ead401360580721d43c7dc23b34a8f10dce4ee8625e2c8082be5bdb44ea4875f6d242d567f27087e",
+  "tags": [
+    [
+      "title",
+      "📝 Note 5 — The false choice - 1/14/2026"
+    ],
+    [
+      "published_at",
+      "1768454552"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "revival"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honestmoney"
+    ],
+    [
+      "t",
+      "christianity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

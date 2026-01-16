@@ -1,0 +1,49 @@
+{
+  "content": "# Continuum Protocols - 1/11/2026\n\nThis week I stopped treating relays as memory.\n\nNot because they’re bad — but because they’re not designed to remember forever.\n\nI’ve been working on a set of protocols that assume something different:\n\n- databases can be wiped\n- relays can forget\n- backups can reappear\n- deletion should still mean deletion\n\nSo the only thing that’s trusted is an archive and a manifest of intent.\n\nIt’s quiet work. Not client features. Not feeds.\nBut it’s the kind of work that makes everything else safer.\n\nI published the full protocol write-up under the Continuum identity for anyone who wants to read it.\n\nRelays are caches.\nArchives are memory.\n\n#Bitcoin #Nostr #Sovereignty #LongTermThinking #Continuum",
+  "created_at": 1768201334,
+  "id": "e3d2893e607d56af1b2fc81dbafe3959d373b8cdd6dfd389ff81a0214c933cde",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2808f42829b9dd0eda35e35da172bda3f56da4c1496db5a8c872a53d567ae2618f69af04087345ddc30082a3bd9080521d9d333d343912fcb7fa56b6f4ad1f1d",
+  "tags": [
+    [
+      "title",
+      "Continuum Protocols - 1/11/2026"
+    ],
+    [
+      "published_at",
+      "1768201334"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

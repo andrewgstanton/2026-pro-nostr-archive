@@ -1,0 +1,61 @@
+{
+  "content": "# 📝 Note 1 — Revival & visibility - 1/14/2026\n\nRevival has historically been powerful against visible evil.\n\n- It ended slavery.\n- It changed laws.\n- It reshaped moral imagination.\n\nWhat it never fully touched was abstraction — especially money.\n\n#Revival #Bitcoin #HonestMoney #Christianity #Sovereignty #Truth #Fiat #Decentralization\n\n\nNot because faith was weak, but because the mechanism was hard to see.",
+  "created_at": 1768454370,
+  "id": "3338f306c27fd3e46ddadc5e54d6ea2ab28ab225d8128ac0af7f9236c6776516",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4f8b93e9a0d9cb6747d37a30321168c09f5b0b52aff9b6b90fdadaad98ff68edaa27f4006b9a3c8da3b8cda6cead4fe6599d4df6ae619a7ee80105a3a970db09",
+  "tags": [
+    [
+      "title",
+      "📝 Note 1 — Revival & visibility - 1/14/2026"
+    ],
+    [
+      "published_at",
+      "1768454370"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "revival"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honestmoney"
+    ],
+    [
+      "t",
+      "christianity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

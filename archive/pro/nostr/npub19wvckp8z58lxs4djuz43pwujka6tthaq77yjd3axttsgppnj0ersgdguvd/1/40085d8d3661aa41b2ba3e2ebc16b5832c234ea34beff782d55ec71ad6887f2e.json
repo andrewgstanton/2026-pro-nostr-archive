@@ -1,0 +1,28 @@
+{
+  "content": "SPOT ON!!\n\nI write and talk about the need to build SOVEREIGNLY and build on protocols NOT platforms.\n\nThe difference is subtle but immense as you have pointed out in this  essay.  \n\n\nThank you for sharing!!",
+  "created_at": 1768204625,
+  "id": "40085d8d3661aa41b2ba3e2ebc16b5832c234ea34beff782d55ec71ad6887f2e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "748282d69e3c3f7c704960f7ea5f640262059bdae2ca93e1e22b28eeb5d8b6c66ae1472cfe8ddcd5ed382deaf6fff8fe35d60202312036e5a37701a6ea51d4fd",
+  "tags": [
+    [
+      "a",
+      "30023:71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f:the-great-unlocking",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr-pub.wellorder.net"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "content": "# 📝 Note 2 — Fiat & responsibility - 1/14/2026\n\nFiat doesn’t just distort prices.\n\nIt diffuses responsibility.\n\nWhen no one is clearly accountable, moral outrage fades — even as harm scales.\n\n#Revival #Bitcoin #HonestMoney #Christianity #Sovereignty #Truth #Fiat #Decentralization",
+  "created_at": 1768454412,
+  "id": "5df35c5c2341f583c7279148f14d18e39d245549ec04c421f55e07acb0866364",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "98c8b24fbb882d4cb7c5f3a3b38247972f274d712f65337f89a7306d2efffb15837b012af43725ab8705177371ab69a458f7cc904b81c0180c16ca58e20bee4a",
+  "tags": [
+    [
+      "title",
+      "📝 Note 2 — Fiat & responsibility - 1/14/2026"
+    ],
+    [
+      "published_at",
+      "1768454412"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "revival"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honestmoney"
+    ],
+    [
+      "t",
+      "christianity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

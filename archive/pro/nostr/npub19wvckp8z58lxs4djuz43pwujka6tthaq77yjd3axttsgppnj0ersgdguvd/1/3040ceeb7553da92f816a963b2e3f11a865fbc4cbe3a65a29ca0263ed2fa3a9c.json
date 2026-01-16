@@ -1,0 +1,61 @@
+{
+  "content": "# 📝 Note 4 — Modern slavery - 1/14/2026\n\nThere are more people in conditions classified as modern slavery today than in the 19th century.\n\nNot because evil grew louder —\nbut because it grew abstract.\n\n#Revival #Bitcoin #HonestMoney #Christianity #Sovereignty #Truth #Fiat #Decentralization",
+  "created_at": 1768454505,
+  "id": "3040ceeb7553da92f816a963b2e3f11a865fbc4cbe3a65a29ca0263ed2fa3a9c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "02e37ff6344182627eb66738c19e444bc6881fd3ed082424f14f9056058d94d101fd8ee64c025d81ab988183766df05d65f925e5c4e6018815b244bfed6f97fd",
+  "tags": [
+    [
+      "title",
+      "📝 Note 4 — Modern slavery - 1/14/2026"
+    ],
+    [
+      "published_at",
+      "1768454505"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "revival"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "honestmoney"
+    ],
+    [
+      "t",
+      "christianity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
