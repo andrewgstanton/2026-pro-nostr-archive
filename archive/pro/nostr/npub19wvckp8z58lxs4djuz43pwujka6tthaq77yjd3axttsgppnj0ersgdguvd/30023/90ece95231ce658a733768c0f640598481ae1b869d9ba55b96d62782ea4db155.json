@@ -1,0 +1,84 @@
+{
+  "content": "## Why I Don’t Optimize for Reach Anymore\n\nReach is treated as the ultimate success metric for writers and creators—but it is a fiat metric, not a sovereign one. This essay explains why optimizing for reach leads to fragility, burnout, and dependence, and why serious builders are better served by optimizing for continuity, recoverability, and daily output instead.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:Jn7NJWpbgmP3Jzs9RVOElb7NW4PHUrIFWAqFwwbk0ZIRGpqXcOXep9vg9UwnAJ38XpiqC7_oxIBo1r5eABctOjFAHFYur6SB4HM4nSGbSydPUSJnfi2Fl2kvXdsdQpVzKcxmU6RApMJJt2KEoNbyEXm8ySQufflbCQ-ljykUSD0iqE2l9mn6ppxNj9jQEpLwdBcUWI_a5rBeu3psfZVtkG7HmgRxOidXvqMtccLRUILz0SGZ1S0cycs4OsiLZeHYmMBsOJZ3TlQ1CA5nEbgEsqiTvXtTkUIKyPHP2cffxCcQe24EJIn8aaGV37B9dBQuR2ULg-kCaNBKD4TU5mY8CKWoKKmXuBzu8ExfP_8wH2KDiLD13w12aYahziA_9Q1fO-YWl6WPJQaSxbaNkPPVtUatrfsq5Rv5t7tL17gqJ60Xoa-YMggIgCMUWOnKtNxq1p-SQOOH5zLRExH1lEMbE_ipxd5SurA53eJZuBnOXFpEsjl_23F9LIu_QH4mlnGFS0UMi18xdDzu-EPlr0zTNWEEWh-WWYSc7iLrV4NCLyvG7J8oi3c8I-YuqjMByKYPX92dNN8oDllWya5hVArgv1NjtjM6I79qwzTId0CSus-myIVvL7y3bBZX1REnf13DY_T1ZKVDUjwDPFi7okPlR2aB9XXOk27p3WP1b7hb8tn8G3KTwN0kVy-SSXc-wDBprldwo2PTJCebcMsNNAHTdk2S21l53YENg7l8Hd_jG2wvSbZCGptzaM7zdGf_JgjN6oqQrIpryNJvZT7BmpRZc4BaU1cyaD16E43dW2eq2oBHigwiVREfwazL3nkSMVjwNid3FUy-8N9kiOo4-OmXjjwXcMgeSfuk5IWTDcYq1yDi42C1aLXa8x32njJhejn4v5hopoG3dpbWa1sSdppnDny0j1Es3GfkZJRPag6ANMyUUlXhBdHhMtb6su-5hiCz8LAL8tOQEdL8IC7Efd9FgZaVm7imT3W9XbVaGZGk7O0y2zs2sKNITzDqzmHmA5fzAz0oYdPwIpFl1Kr9R4gIllkJvGRC-KsHZ9sdlamZhGPQ7IQnWZ0_3AmNOrOdey98jkjs58vyzopkd9sSWXFJA8mmDawWivu-HLHorfc-N4Wb6AjcJzInGQ5BEJKyfK6Ol9uj6IkWJAAwmhQxQWK0e9rQuTyLKnXJePCZIDLdz_rwhLvkldMs25daUzwCT4k24bTJQ_umZRDZ6kOS8bsUQ2Et9wYhj5tFlaLBx7Ywv0t-QFDg6hratSY6Mk-DDRM3gmPFzDezhBeXxFEGSu0Csmqhn_O5CKFXgh1WZ_ZVhWTEbPwS7DVOiSNJNN6wnn7E0o2c_ekN0ZKLnKUn_tJhFMIFaR0iv-VpWoFPaytCLAyxeUmIF-pTuOBMWjSjT502QF5tI10jLAUEDXxWQMJhB_Km0fwWLfbSyOFLqXpl9V7vCBTl0oNvnXbaifYo2uy3v_cg2shVltTKReAUw_6jvpr33nXF1pH7iTbNEOiLIXbmDDXqGI7Ixp3mpndTOUawEEpMmjG7CEeTwT6MvRrCnuDQsr00nBV6ERuADeVSYaub6JGKcsJinFoHZMj_868pT7TjFlREtuDRVQQPEQf5NbIHni8Mq1kVzQInQ7Q7QcxeKUDwIqH8TSOfdiICAx5A7GwfLjbRmYbAnHUiaPtFXWrsE8XG6cuQvB80jmTZwJ6OQDIHaKEPHmYoeIBL6NwzmLQ-A-TBluRSVquxMDHSijZUAvTkuF_4A7bx3K2bWMor-OX2dZoIxu4RNKPRedQlr8_6XyzGjRj4PGDnnTQ31j-MkSaP81Ea9Q-vdvS2xRurdep1lk6oUsBHq0L_6lsgZWX15WJ9J9alVbwcgWEgF_DWuRyoXa4wk0FFAs-2ZjqLbpuMUNukUe9N4CWzFHqO6Vp7EFJX6buSLHg8Vju7OBElOWQWqoV8Lo9SQIaEwjZDinxBL1x4JAF56HBYIdDyF974iVYcYVdg7o9Ns4fNB7Eeo-srcTt1_DKs-rJcQKoveiToK79jg40erUROwxpdKDXRu0w9Balaw1A1b8YKOKaaibRvxa9p9ZR7MK4Oapq2IwZW7lisfETbIDRVA1gwbRF8Tbnp6pNKi7ghkKmNgxHhxo9rbipCQvy4Hd_a-t4KHYgKiWgfAOrcG_djHU3SRvIx-6YSWIg8YGwyrmn0x0jsnYFwhY1M8t8wxuRGKI95TT8U-lB4Oj_cCm_-bxSrozFDmFMMQ_958ova8BWK_k_Ma2RV3RbHkXUtNOHqOpGMUOEFM6p_7-a6z-eNFIIj8b9zGNGAmsBKZD7Y6x33aPih9r33L5zqalBL7F4mEPio8rgb5ixlg1x2dzKbqOsv56s44juDjduZfQ65V54tc-w6cL_uUAyfbGeVYVlWhaL4i15lMDWCIm3EiGUJUMVYo4PXCYyWltToSE5yOkW0Xvcg3qV0LYd6WHryC559dn_As9GcDVt3wHSIINuTcdPnR0uQgHGaz3yzoXs2XXNQl-5jwa_3mQgA9NJn1qhgNn-h71aI6YEHMDRxIWlIJSysMiOaBGa2g0j5I9T57MFTZVBMJeCSZAQmJETDvGj7ZAxsBgt-vIVEbs0tApH_ttmJAJl9xRqVSa6Buz52r9TE5at7sNF7NPqJnYVK37eX4ycgO9yBsfIYrH1FKgknoLleHgl4z-U1sDiwsI_EadhJTXdg1YzZs_xMA9p1eV4hl6-pSiBEybTY1A8aHL5ARa_H-QSMAMnz05_33at96LgtMFJPZpWLtc7DsxDAaoVHbkJs1lI45esdsIirA7eWRGxah_GoO1x4DmCOJWWubjT4KL17M9x5IXIl5wDhO4RekTkUvZbUEnClqJg1xeS4vA2lYU0gOfyjS1V4UdMRPwDkkeX7veeV-o9yd6aLVG4Wj0CbpkfBH5DFLdgDo2jywcfaxEcbGLZyhrgwH9bJqXIulNWlxzdjvUfKDF_63agN0sPL50N8regYxW3zOuo-pjIxkZLi0mpGrQHXEvRUuJM2vB53c8aiPOfkriLeGYGJcKg8XC76CXIvFm0466DAaaGDKJvKKmqlt6bYWOTxMRSHzu7OfWezuc3sC91fAY69lUc-Ywc7YQuZTaIw6vqRA6JAS0wcYd00qcmd-tQPSdjXXJpUstfEjWSJzmx_uBrCKYQss4WyIu7TfbLndm8c8paDdZoZMtgvcc7M7sSJdx03buPi8_06OsbTz4EoyrZaiJpMCU_EfI5FW5VSPolp-Y6dqBpXJ3QrxSLW2pCzgjJpKC2eJ3-lllACUWSnLwp82cUNqVKE9Q37GAzLKUdJat7VKxIaLbGQdIrGGzkYhkUHT4t9__QQLS68LSKwhjGPgyUdbHc2uD1NDB2K9ihlWiGr8Z32AYPgfiHqPfUGhgIIAlGfOZZfbsFZ8nGanhIVq0WtPdglQ8u24PuZcZPrXQg18Sorl-nqrCf5wKymRNu1rww1p_Ehaz-KkA7yjKcu58KvpWw3mpiEaJ9Kf6IXk8ycY0UzAQ4gdcJPQuIdv-q6UU-Lad8hxIeWPJXelHcPX5rUA9ZtcWxs8saEbx2-qvjVSY7k5svKIVJnbcpnuIxlrVSbRXsa7WEM5f5Lvffdm6NknboZ4WMA9uhUGL11LuTh3utJIfI8alJLfV1R1GFVlnK6-zbn06oJfw6SvDnnrA5Pc875JqRhFi-O9xnB0nCds4LgRYGp9e2bJ1ObW3cUcgjBa8HaZhXVp1ynQfioQYm9T3LWjZf9VrgVRJY_Dnwzbvuf4Ji0_wb7GzzNghV6cc1zB0RYJjkJUMDO7kIL52ukbLwJKFJfR61bQnjLRzxuqi55X65MOhO8ZO5CbsCe-Ct22PaSMC0qMs5rtvWXrYPScyY2LqvF7TqLZHVnfwFA4cIPG_Wso-K4L6jYAQW_XCEUB2RPDBBhQ9nv4enSxjyB8ewK0RIL47BmAmQlwm6BQ0XXLLH10a8V7dviVeAHelYu_aTm6eakY5V7OHmO-_tUPv4gfIrOgi44lVhVQlWxx2v0PmIf6IH6qtQsYAD42BeDZihPjL5pmbrhl9sSXaxRazQWlQXhDaqU-bX1P7U5T8ouc6luUqNgbhWLNkKwZb6zOtXJd6Q3bnR6AKgW4_fQ4poPm5T-9VgnVy2KJb3rAX_h-UzhdWXm_txo-ez3_kRJGvnlHkt2Byi9sahbB9bbVd7YPhJcmepkUjkzdmpVnjCJLdXktHfUlEAUQYx6BWTxrkEWUevwGJz5A7qOkIj9dCnOczGI6Q4O3MKvOVlnnmp20u2M2ndKzdAXyIGJoRlqYrqagMkWqx2XBfUpD7EQ3L6hS4DYyilFpG7EM9uXxZFje3dtMVt4x5gspUjWuynSEdq2_CVKLa7-_nNjRVb4Fc4Lz2VRFNZmzTLaMc9zOD0JIeNJsrTKyxrnEHPivmQq9HsPx20BvvJed244RLUFEz-s6HtW0tl56UWqLzqdFynUFC3qEZ4v7VBq5Tr1oQd8X9t0IBv5fWlmEb2Xpaa5sEYGCPtGwRUFOQdUHUoihhesXrdGrAxvMSvQsS4JXeZhwjI_5a_k2aqmCA\n<!-- ENC_BLOB_END -->\n",
+  "created_at": 1768618154,
+  "id": "90ece95231ce658a733768c0f640598481ae1b869d9ba55b96d62782ea4db155",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a4adecac74fc62ba5e7a189420cf9f8853f7008c4f91e8709f4f7d6601087e9712b9c3e984603a51cff2e262548067020c7d13e9b41570238cf44b7c0d01bf72",
+  "tags": [
+    [
+      "d",
+      "why-i-dont-optimize-for-reach-anymore-2026-01-16"
+    ],
+    [
+      "title",
+      "Why I Don’t Optimize for Reach Anymore"
+    ],
+    [
+      "summary",
+      "Reach is treated as the ultimate success metric for writers and creators—but it is a fiat metric, not a sovereign one. This essay explains why optimizing for reach leads to fragility, burnout, and dependence, and why serious builders are better served by optimizing for continuity, recoverability, and daily output instead."
+    ],
+    [
+      "published_at",
+      "1768618154"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-01-16"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "creator-economy"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "digital-identity"
+    ],
+    [
+      "t",
+      "long-term-thinking"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
