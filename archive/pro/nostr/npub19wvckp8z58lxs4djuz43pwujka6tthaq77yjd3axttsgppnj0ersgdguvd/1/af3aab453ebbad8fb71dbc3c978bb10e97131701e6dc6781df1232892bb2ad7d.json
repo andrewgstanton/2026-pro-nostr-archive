@@ -1,0 +1,40 @@
+{
+  "content": "# Note 2  - 1/17/2026\n\nNot everything needs to be optimized.\nSome things just need to be done once… and then left alone.\n\nIdeas, recipes, photos — they age better when they’re not rushed.\n\n#slowthinking #weekendmode #creativity",
+  "created_at": 1768679377,
+  "id": "af3aab453ebbad8fb71dbc3c978bb10e97131701e6dc6781df1232892bb2ad7d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2cac307c900e6ea7afc0b189c0f35234ec8a9a5a397cb72ab027eeaf3cae84fee1eb857e011eb32a5b206c60135842b94d18e5c9bd3793a4d5d2a2eec093d71e",
+  "tags": [
+    [
+      "title",
+      "Note 2  - 1/17/2026"
+    ],
+    [
+      "published_at",
+      "1768679377"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "slowthinking"
+    ],
+    [
+      "t",
+      "weekendmode"
+    ],
+    [
+      "t",
+      "creativity"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 1 - 1/17/2026\n\nMost platforms are good at helping you share things.\nVery few are good at helping you keep them.\n\nThat’s why saving your work somewhere boring is quietly powerful.\n\n#creation #writing #digitalhabits",
+  "created_at": 1768679298,
+  "id": "9710ce2d67686c26572d4588c8b66409086764113cf5e13568d7800162bef51d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9421b1d7af560976ded0c3bb746fc26b58e866a818cfe8c1b405a35771d542ea41c0114872bb455a21faaaaf21183b74c36ca48acb0a92a8630a12a623d62c38",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/17/2026"
+    ],
+    [
+      "published_at",
+      "1768679298"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "digitalhabits"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

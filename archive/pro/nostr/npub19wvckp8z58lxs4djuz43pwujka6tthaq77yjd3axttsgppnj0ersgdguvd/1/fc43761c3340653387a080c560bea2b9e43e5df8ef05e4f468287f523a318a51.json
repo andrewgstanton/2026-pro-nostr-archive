@@ -1,0 +1,36 @@
+{
+  "content": "# Note 3 - 1/17/2026\n\nUsing a big platform doesn’t mean everything you make has to belong to it.\n\nYou can participate fully and still keep your own copies.\nThat small distinction changes how everything feels.\n\n#independentcreation #digitalcraft",
+  "created_at": 1768679443,
+  "id": "fc43761c3340653387a080c560bea2b9e43e5df8ef05e4f468287f523a318a51",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c9bc3427aeeee9710b788469ae5a16c8c38e2cd9c7551f53a0f0919859a870bb44942593e26cf5e80682b243c4830b18ea92b8d4da36fa17944e1525c7f7ef15",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/17/2026"
+    ],
+    [
+      "published_at",
+      "1768679443"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "independentcreation"
+    ],
+    [
+      "t",
+      "digitalcraft"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 5 - 1/17/2026\n\nSometimes the most loving thing you can do is take care of someone else’s work quietly.\n\nNo announcement.\nNo optimization.\nJust preservation.\n\n#care #partnership #creativelife",
+  "created_at": 1768679588,
+  "id": "319ad64dc058ba7e0d505b4a9eeb4e702443596f6df54cb4af84c91999056029",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6c0f2e3fc34c57bdf25c9d448112d6677e76ff2467a852e611feb4d59fdf80ec9a36a140847958359faccdc978e4bad4d4fc71489597f7adba573a863b5e067d",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/17/2026"
+    ],
+    [
+      "published_at",
+      "1768679588"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "care"
+    ],
+    [
+      "t",
+      "partnership"
+    ],
+    [
+      "t",
+      "creativelife"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 4 - 1/17/2026\n\nShort videos disappear quickly.\nRecipes don’t.\n\nTurning moments into something repeatable is one of the simplest ways to make work last.\n\n#homecooking #makingthings #longterm",
+  "created_at": 1768679515,
+  "id": "a9ae7862feec8712df83b4b4da3c7da21e07fb8042a22c305aed5d0c02300d00",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ebd6d174381ecc8eee37462111f96dfca6e4accbf60fb9f03e8c60b1ac78669629952e1afd1371a4b2cb1232ffd45bda7f608816159f6853fe0b02b07e897684",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/17/2026"
+    ],
+    [
+      "published_at",
+      "1768679515"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "homecooking"
+    ],
+    [
+      "t",
+      "makingthings"
+    ],
+    [
+      "t",
+      "longterm"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
