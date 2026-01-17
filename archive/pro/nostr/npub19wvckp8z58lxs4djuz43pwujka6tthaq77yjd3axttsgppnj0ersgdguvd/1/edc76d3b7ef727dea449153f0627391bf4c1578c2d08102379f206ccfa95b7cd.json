@@ -1,0 +1,48 @@
+{
+  "content": "# Continuum Archiving Service\n\nI don’t fault relays for pruning — they have to manage storage and performance.\n\nBut the practical reality is this: if you publish long-form on Nostr and do not maintain your own archive (or pay for a premium service), your older history will eventually become unreachable. I confirmed this firsthand — older kind:30023 articles are already gone from relays.\n\nRelays optimize for distribution, not permanence. Decentralization does not automatically mean durability.\n\nBecause I care about long-term publishing, I archive entire Nostr identities by **npub only**.\n\n**Example (same npub):**\n\n• Archive (full history, permanent):  \nhttps://is.gd/qcfwez\n\n• Primal view (app-dependent history):  \nhttps://is.gd/re7SvU  \n*(I’m a Primal Premium user — without premium or an external archive, even less history is typically retrievable.)*\n\n**What I archive (public, permanent):**\n- kind:0 (profile)\n- kind:1 (notes)\n- kind:5 (deletions / tombstones)\n- kind:30023 (long-form articles)\n- soon: kind:4 (DMs to self)\n\n**Concrete example for me:** \n\n```\nThis article was published on [12/23/2025]. \nIt is no longer retrievable from relays in standard clients, \nbut it is preserved in my archive (and in Primal Premium, since I’m a subscriber). \nWithout an archive or paid retention, it would effectively be gone.\n```\n\n- **article in my archive:** https://is.gd/V1uogt\n\n- **article on primal:** https://is.gd/to41mq\n\n\nArchived links are **permanent and publicly accessible**.  \nIf you stop paying, your archive freezes — nothing is deleted.\n\n**Cost:** 5,000 sats / month  \n**Required:** your npub only (no account, no login, no app)\n\nIf you publish long-form and want your history to outlive relay pruning, **DM me**.",
+  "created_at": 1768692879,
+  "id": "edc76d3b7ef727dea449153f0627391bf4c1578c2d08102379f206ccfa95b7cd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5813b68eac00c394ea43ec2ec423518b7bcdbd4265700fdb5deb32fa70ae4dd58b948d5f29595ad604a39cf49df694058429401d395b2abf898f762498c0f8c3",
+  "tags": [
+    [
+      "title",
+      "Continuum Archiving Service"
+    ],
+    [
+      "published_at",
+      "1768692879"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "longform"
+    ],
+    [
+      "t",
+      "archiving"
+    ],
+    [
+      "t",
+      "digitaldurability"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
