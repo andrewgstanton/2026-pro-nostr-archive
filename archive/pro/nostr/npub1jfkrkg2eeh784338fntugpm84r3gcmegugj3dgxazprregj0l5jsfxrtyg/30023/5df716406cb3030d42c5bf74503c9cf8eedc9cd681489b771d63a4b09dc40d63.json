@@ -1,0 +1,58 @@
+{
+  "content": "@Kiki's Kitchen Table\n\nYouTube Short: https://is.gd/rgLu65\n## Ingredients\n- 1 chicken breast, thinly sliced  \n- 2 tablespoons honey  \n- 2 tablespoons soy sauce  \n- Garlic, grated or finely shredded (to taste)  \n- 1 carrot  \n- 1 bunch of broccoli  \n- 1 onion  \n- Olive oil  \n\n## Directions\n1. Slice the chicken breast into thin pieces (about 10 slices).\n2. Grate garlic directly over the chicken.\n3. Add the honey and soy sauce, and let the chicken soak briefly.\n4. Heat olive oil in a wide, lightweight skillet over medium heat.\n5. Sauté the chicken until golden brown, then remove and set aside on a serving dish.\n6. Wipe the skillet gently with a soft paper towel.\n7. Chop the onion, carrot, and broccoli.\n8. Add a little olive oil to the skillet and lightly cook the vegetables.\n9. Serve the vegetables alongside the chicken.\n\nServes 2.",
+  "created_at": 1768686873,
+  "id": "5df716406cb3030d42c5bf74503c9cf8eedc9cd681489b771d63a4b09dc40d63",
+  "kind": 30023,
+  "pubkey": "926c3b2159cdfc7ac6274cd7c40767a8e28c6f28e22516a0dd10463ca24ffd25",
+  "sig": "582362ecf3e91c7d07148008734b829f7d8702710bfc6e7416fb0f7c883c1c6f8043d1e7627b022d58ca4dca5e2e98169e9b061e26a2efab815747c97a0234e5",
+  "tags": [
+    [
+      "d",
+      "honey-kissed-soy-chicken-with-vegetables"
+    ],
+    [
+      "title",
+      "Honey-Kissed Soy Chicken with Vegetables"
+    ],
+    [
+      "published_at",
+      "1768686873"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "summary",
+      "Honey, soy, and garlic come together in a simple sweet-savory chicken dish — the kind of comforting meal that’s perfect for a quiet dinner at the kitchen table."
+    ],
+    [
+      "display_date",
+      "2026-01-14"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/images/2026-01-14-honey-kissed-chicken.jpg"
+    ],
+    [
+      "t",
+      "chicken-dish"
+    ],
+    [
+      "t",
+      "youtube-short"
+    ],
+    [
+      "e",
+      "be828ce0054155853b12a2e7861c8561c538b81e56e97e34e69b03e680bdaa0e",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}
