@@ -1,0 +1,68 @@
+{
+  "content": "Andrew G. Stanton - Jan. 17, 2026\n\nIt’s very easy to turn everything into a system.\n\nWe optimize our workflows.  \nWe refine our tools.  \nWe track what works.  \nWe quietly wonder why we still feel tired.\n\nOptimization is useful — until it becomes the only way we know how to relate to our work.\n\nAt some point, every hobby starts collecting metrics. Every idea starts asking for justification. Even rest gets evaluated: *Was it productive? Did it recharge me enough?*\n\nThat’s usually the sign it’s time to stop adjusting the dials.\n\nWeekends are a good place to practice this, not because they’re magical, but because they create a natural pause. A small boundary. A reminder that not everything needs to be improved right now.\n\nSome thoughts get better when they’re left alone for a while.  \nSome projects need silence more than feedback.  \nSome clarity only arrives after you stop trying to force it.\n\nThere’s a temptation to treat unfinished work as a problem to solve. But often it’s just work that hasn’t finished becoming itself yet.\n\nRest isn’t the opposite of making things. It’s part of how things are made.\n\nWhen you stop optimizing, a few subtle things happen. You notice what you actually care about. You remember why you started. You feel the difference between urgency and importance.\n\nYou also rediscover something quieter: trust.\n\nTrust that the work won’t disappear if you step away.  \nTrust that ideas don’t spoil overnight.  \nTrust that not everything has to be visible to be valuable.\n\nIf something is worth making, it’s probably worth not rushing.\n\nSo this weekend, consider leaving a few things slightly undone. Let a thought sit without publishing it. Let a project stay messy. Let yourself stop before you’re completely finished.\n\nThe work will still be there.\n\nAnd chances are, it will be better for the pause.",
+  "created_at": 1768678844,
+  "id": "1c8d72f9b161619ab40e6cbc961861f880af0624a0dc35b41fe5ff030efc1cd9",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c9df1850e56eec83f1ebaefa8cb98764c6385b0240f4838922722db16b5c4e6fea73eef762a4abff555e1b348b54b83e5304270f89961e0942657b125db671d8",
+  "tags": [
+    [
+      "d",
+      "the-case-for-not-optimizing-everything-especially-on-the-weekend"
+    ],
+    [
+      "title",
+      "The Case for Not Optimizing Everything (Especially on the Weekend)"
+    ],
+    [
+      "summary",
+      "Not everything needs to be measured, improved, or shipped. Some of the most important work happens when we stop adjusting the dials and allow ideas — and ourselves — to rest. This is a reflection on choosing slowness, limits, and unfinishedness, especially when the world keeps nudging us to do more."
+    ],
+    [
+      "published_at",
+      "1768678844"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "weekendreading"
+    ],
+    [
+      "t",
+      "slowthinking"
+    ],
+    [
+      "t",
+      "creativeprocess"
+    ],
+    [
+      "t",
+      "attention"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "display_date",
+      "2026-01-17"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-01-17-generated-sabbath-set.png"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
