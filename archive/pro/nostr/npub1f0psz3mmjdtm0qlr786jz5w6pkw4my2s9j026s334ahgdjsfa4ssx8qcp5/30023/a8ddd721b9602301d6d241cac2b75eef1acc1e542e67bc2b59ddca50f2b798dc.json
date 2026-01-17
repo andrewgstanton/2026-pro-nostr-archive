@@ -1,0 +1,38 @@
+{
+  "content": "Hey Indie Hackers 👋\nMany teams are unfunded or underfunded — yet still need to ship real applications.\n\nEven technical founders hit the same limit:\n\n- building a full application alone is hard, even with AI tools\n- hiring requires cash\n- fundraising isn’t guaranteed\n\nStartNation helps startups build applications using a model called Hybrid-Source Development (HSD).\n\nHSD is an open-source-inspired, async development model where equity-aligned human builders use AI tools to ship applications — without significant upfront cash.\n\nWhat makes HSD work:\n\n- Async-first execution → work moves forward across time zones\n- Modular development → clear ownership, clean handoffs\n- Recognition + equity → contribution badges/honors + real ownership\n- Protected IP → critical modules stay private and controlled by the startup\n\nIf you’re building an application and capital is tight, we’re happy to chat.\n\n```\n- Andrew (andrewgstanton@gmail.com)\nPresident/Founder, StartNation\n```\n\n```\n- andrewgstanton \nposted to @IndieHackers on 1/12/2026\n```",
+  "created_at": 1768688830,
+  "id": "a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc",
+  "kind": 30023,
+  "pubkey": "4bc301477b9357b783e3f1f52151da0d9d5d91502c9ead4231af6e86ca09ed61",
+  "sig": "d779f26eba619690f6a774dd7bbb3e340e5bb32532f7d6ba07adb6dacd883442b6b37d3141d2283d6c0743f4c80e7ebd9b545041108104e82dd6ace385850de4",
+  "tags": [
+    [
+      "d",
+      "shipping-applications-without-funding-an-async-open-source--inspired-model-using-equity-hsd"
+    ],
+    [
+      "title",
+      "Shipping applications without funding: an async, open-source- inspired model using equity (HSD)"
+    ],
+    [
+      "summary",
+      "Indie Hacker original post on 1/12/2026"
+    ],
+    [
+      "published_at",
+      "1768688830"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "indie-hacker"
+    ],
+    [
+      "display_date",
+      "2026-01-12"
+    ]
+  ]
+}
