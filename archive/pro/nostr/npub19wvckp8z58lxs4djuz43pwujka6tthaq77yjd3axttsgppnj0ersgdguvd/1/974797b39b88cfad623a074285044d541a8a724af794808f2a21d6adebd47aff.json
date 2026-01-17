@@ -1,0 +1,44 @@
+{
+  "content": "# 📝 Note 3 - 1/16/2026\n\nIf deleting your local data feels terrifying, that fear is diagnostic.\n\n#sovereignty #digitalownership #archives #continuity",
+  "created_at": 1768617746,
+  "id": "974797b39b88cfad623a074285044d541a8a724af794808f2a21d6adebd47aff",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "099a7a788ac9eb9109097139464422c020e9034ac3822226cca0270cb128532dd1c851a3d61dd911cf39fa9956b451895bd4ffba558dcdf7e57742010e272a18",
+  "tags": [
+    [
+      "title",
+      "📝 Note 3 - 1/16/2026"
+    ],
+    [
+      "published_at",
+      "1768617746"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "continuity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

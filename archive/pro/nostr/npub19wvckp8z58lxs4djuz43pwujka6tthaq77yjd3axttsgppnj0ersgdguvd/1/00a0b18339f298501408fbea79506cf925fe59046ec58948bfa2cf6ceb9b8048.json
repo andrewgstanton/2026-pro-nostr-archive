@@ -1,0 +1,44 @@
+{
+  "content": "# 📝 Note 1 - 1/16/2026\n\n📝 Note 1\n\nMost platforms are durable until you try to leave them.\nThat’s when you discover whether you owned anything at all.\n\n#sovereignty #digitalownership #archives #continuity",
+  "created_at": 1768617589,
+  "id": "00a0b18339f298501408fbea79506cf925fe59046ec58948bfa2cf6ceb9b8048",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0e238d15fc9c30d673ca96be97fbc67bac21f5fd9e852aa563dcd3d408fb2a8f7ee0f55e7a617d755780212cb6eae7f4555f952b5beddd389badfb021ddea92b",
+  "tags": [
+    [
+      "title",
+      "📝 Note 1 - 1/16/2026"
+    ],
+    [
+      "published_at",
+      "1768617589"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "continuity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

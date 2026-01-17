@@ -1,0 +1,44 @@
+{
+  "content": "# 📝 Note 5 - 1/16/2026\n\nA system you can’t rebuild from public memory is not resilient — it’s rented.\n\n#sovereignty #digitalownership #archives #continuity",
+  "created_at": 1768617888,
+  "id": "60d3bef76f3c8798c7b00b43f779e13a0e226b48134f0cc796187c6dfdd5190d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "106c66b7c241f658561f6c90dde2d1af888c1176a865c51de2c233b9b2e2f027bd81d7b989468a308ad2b956b7c984c7a05d45b235d41d7f8569c5fd2eaafa95",
+  "tags": [
+    [
+      "title",
+      "📝 Note 5 - 1/16/2026"
+    ],
+    [
+      "published_at",
+      "1768617888"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "continuity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

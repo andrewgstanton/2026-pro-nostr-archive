@@ -1,0 +1,44 @@
+{
+  "content": "# 📝 Note 4 - 1/16/2026\n\nReach measures visibility.\nArchives measure continuity.\nThese are orthogonal goals.\n\n#sovereignty #digitalownership #archives #continuity",
+  "created_at": 1768617816,
+  "id": "713a37b67afaad6681d4789e22e0e8498008158db68dc6dd695217e9ecaec298",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "53ddfd8d8e0eb35ac41706e603e2f05c20651b3e73d683f7452e47741926958b42c1b3f778cd4c335b69e27082ed7c35badaa1b5276bffa3312e1772b726d487",
+  "tags": [
+    [
+      "title",
+      "📝 Note 4 - 1/16/2026"
+    ],
+    [
+      "published_at",
+      "1768617816"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "continuity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "content": "# 📝 Note 2 - 1/16/2026\n\nBackups protect systems that expect to fail.\nRegenerative systems assume loss — and plan to recover anyway.\n\n#sovereignty #digitalownership #archives #continuity",
+  "created_at": 1768617675,
+  "id": "7f9395f8678595d84fc32294d07f67e8761a4d2b24c881703e016382476a78f6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "06bd97442ec55850bf9d5b5839fea4c99b37a38887c16cacaf9a3dfc662cdc551a4419dbb3c56a94b5569b7367148605a62da4bacdd2e774cd567fd26c057c96",
+  "tags": [
+    [
+      "title",
+      "📝 Note 2 - 1/16/2026"
+    ],
+    [
+      "published_at",
+      "1768617675"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "continuity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
