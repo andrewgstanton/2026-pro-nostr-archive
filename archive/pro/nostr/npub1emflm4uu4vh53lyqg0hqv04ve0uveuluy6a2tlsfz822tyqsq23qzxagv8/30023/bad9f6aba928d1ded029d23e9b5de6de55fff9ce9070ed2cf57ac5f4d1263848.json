@@ -1,0 +1,58 @@
+{
+  "content": "**Goal:** Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location).\n\nThis process ensures data integrity, removes cloud-sync side effects, and creates a durable archive you can trust years later.\n\n---\n\n## Steps\n\n### 1. Sync the folder to a staging location\n- Allow Dropbox to fully sync the folder to a local staging area (e.g. `DataBackup2`)\n- Confirm sync is complete (green checkmark)\n\n---\n\n### 2. Copy the folder outside Dropbox\n- Create a neutral folder **not managed by Dropbox** (e.g. `Transfers`)\n- Copy the folder from Dropbox into this location\n\n---\n\n### 3. Verify the copied folder matches the original\n- Confirm basic parity:\n  - same folder size\n  - same number of files\n- (Optional) Use Finder “Get Info” or `ls \"folder\" | wc -l`\n\n- NOTE if you want to use terminal follow the instructions below:\n\n```\ncd /path_to_parent_folder\nfind \"folder\" | wc -l\ndu -sh \"folder\"\n```\n\nMake sure these values are identical to the original folder\n\n ---\n\n### 4. Create a ZIP archive (via Terminal)\nRun from the parent directory of the copied folder:\n\n```\nzip -r Archived-FolderName.zip Archived-FolderName\n```\n\n- Using Terminal avoids Finder permission and metadata issues.\n\n---\n\n### 5. Verify the ZIP archive\n\n```\nunzip -t Archived-FolderName.zip\n```\n\nProceed only if you see:\n\n```\nNo errors detected in compressed data\n```\n\n---\n\n### 6. Generate a checksum\n\nCreate a SHA-256 checksum and save it alongside the ZIP:\n\n```\nshasum -a 256 Archived-FolderName.zip > Archived-FolderName.zip.sha256\n```\n\nThis file is your long-term integrity anchor.\n\n---\n\n### 7. Copy archive to long-term storage\n\nUpload both files:\n\n- Archived-FolderName.zip\n\n- Archived-FolderName.zip.sha256\n\n- Destination: Google Drive, external HDD, or cold storage.\n\n---\n\n### 8. Clean up\n\nOnce upload completes successfully, delete:\n\n= the original Dropbox folder\n= the copied working folder\n- the local ZIP (optional, if Drive is your source of truth)",
+  "created_at": 1768435840,
+  "id": "bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "d3b356db7f69b99387a9ae48b9ae7e79d2198f7a24426fc12974f08f0b301e810bb9b447124c838f90ef535be1d49cce1bf8e4ab399f5637def5b72e7a372a0e",
+  "tags": [
+    [
+      "d",
+      "dropbox--long-term-archive-zip--checksum-howto"
+    ],
+    [
+      "title",
+      "Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO"
+    ],
+    [
+      "published_at",
+      "1768435840"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "summary",
+      "Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)"
+    ],
+    [
+      "display_date",
+      "2026-01-14"
+    ],
+    [
+      "t",
+      "migration"
+    ],
+    [
+      "t",
+      "dropbox"
+    ],
+    [
+      "t",
+      "google-cloud"
+    ],
+    [
+      "e",
+      "5d754130765b4f5ea2981c6ed1c9f258acc12c4ed65e5d7eda0a570fdf222b26",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
