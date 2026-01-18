@@ -1,0 +1,48 @@
+{
+  "content": "# Hinweis (für deutschsprachige Nostr-Nutzer)\n\nIch mache Relays keinen Vorwurf fürs Pruning – sie müssen Speicher und Performance verwalten.\n\nDie praktische Realität ist aber: Wenn du auf Nostr längere Texte veröffentlichst und kein eigenes Archiv pflegst (oder für Retention bezahlst), wird deine ältere Historie irgendwann nicht mehr zuverlässig auffindbar sein. Ich habe das selbst überprüft – ältere kind:30023-Artikel sind von Relays bereits verschwunden.\n\nRelays optimieren für **Verteilung**, nicht für **Dauerhaftigkeit**. Dezentralisierung bedeutet nicht automatisch Permanenz.\n\nDeshalb archiviere ich komplette Nostr-Identitäten **nur über die npub**.\n\n**Beispiel (gleiche npub):**\n\n• Archiv (vollständige Historie, dauerhaft):  \nhttps://is.gd/qcfwez\n\n• App-Ansicht (abhängig von Client/Retention):  \nhttps://is.gd/re7SvU  \n*(Ich nutze Primal Premium – ohne Premium oder externes Archiv ist meist noch weniger Historie abrufbar.)*\n\n**Was ich archiviere (öffentlich & dauerhaft):**\n- kind:0 (Profil)\n- kind:1 (Notes)\n- kind:5 (Löschungen / Tombstones)\n- kind:30023 (Long-Form-Artikel)\n- demnächst: kind:4 (DMs an sich selbst)\n\nArchivierte Links bleiben **dauerhaft öffentlich zugänglich**.  \nWenn die Zahlung endet, wird das Archiv eingefroren – nichts wird gelöscht.\n\n**Kosten:** 5.000 sats / Monat  \n**Benötigt:** nur deine npub (kein Account, kein Login, keine App)\n\nWenn du Long-Form veröffentlichst und willst, dass deine Arbeit Relay-Pruning überlebt, **schreib mir eine DM**.",
+  "created_at": 1768694745,
+  "id": "a7d256a04c9c4cddcb6452859f6d80bdca26a0f6b5b0f335fe4c0c719d546908",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dd3237b760bd1f82b032c67f5146491fa8523f21af446bbc63d5d61ba4c783d7cb95782112f6d1fbc33c314f7aaebcae24f30f4f2d01d8aadbcfc023d8c7758a",
+  "tags": [
+    [
+      "title",
+      "Hinweis (für deutschsprachige Nostr-Nutzer)"
+    ],
+    [
+      "published_at",
+      "1768694745"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "longform"
+    ],
+    [
+      "t",
+      "archiving"
+    ],
+    [
+      "t",
+      "digitaldurability"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}
