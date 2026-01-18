@@ -1,0 +1,48 @@
+{
+  "content": "# Continuum Services\n\nJust documenting this for reference:\n\nContinuum currently includes\n\n- Pro / Patron — one-time support ($250 or ~230,000 sats, 10% sats discount)\n- Content archiving service — Markdown + JSON exports ($5 / 5,000 sats per month)\n- Free NIP-05 identity verification service\n- Per-article paid unlocks — $0.50 / 500 sats per article\n\nAll of it is built so **your identity and work remain exportable and rebuildable** without relying on a platform.",
+  "created_at": 1768698101,
+  "id": "ca2588752a7719b60473fd9c28be0e196e6bea5b79d161758c9daad14ae089f2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6b9c557998c1dd5fcdbb82b798be527e9545251994a69cdf608e87db0ba5b3a9a73d09df24fef547f496cfa9fe4bc06d9a23d18453fdf60ae151c08fd10b3996",
+  "tags": [
+    [
+      "title",
+      "Continuum Services"
+    ],
+    [
+      "published_at",
+      "1768698101"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignidentity"
+    ],
+    [
+      "t",
+      "contentownership"
+    ],
+    [
+      "t",
+      "digitalarchiving"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
