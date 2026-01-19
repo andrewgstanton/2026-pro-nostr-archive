@@ -1,0 +1,40 @@
+{
+  "content": "# 2️⃣ - 1/19/2026\n\nSovereign builders don’t ask, “How do I grow faster?”\nThey ask, “Will this still exist when I’m gone?”\nSpeed impresses. Persistence outlives.\n\n#SovereignMindset #LongTermThinking #BitcoinEthos",
+  "created_at": 1768848598,
+  "id": "d64b9a8dcfab445bcb08d907ceaca6a218cf28d9e2e90070d14e438b094de2fb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f80406df98761531f2e3eba008549a01bc0f745762cbdcf0887512634f0e7205961557685010e51ec35e8662473c0f3430a32948654613fdf165bbd55b89aec6",
+  "tags": [
+    [
+      "title",
+      "2️⃣ - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768848598"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignmindset"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ],
+    [
+      "t",
+      "bitcoinethos"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

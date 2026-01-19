@@ -1,0 +1,44 @@
+{
+  "content": "# Building Sovereignly - 1/19/2026\n\nBuilding sovereignly means losing comfort and conformity.\nFreedom replaces them — and loneliness fills the gap, at least for a time.\nThis isn’t failure. It’s the cost of not lying to yourself.",
+  "created_at": 1768848274,
+  "id": "1d8dd657af12ddd936fccccc0d4adf1f810b5dd36872c9ed6c5b547b4cc187c2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2429746ecf1d3c31c041dff883535d4a1ff13697ca6c5b7334f13eaac61222e8be5778b1cb1afdf8980205379999f9e8da0ec773d995e0ace5db549ef31501c2",
+  "tags": [
+    [
+      "title",
+      "Building Sovereignly - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768848274"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignbuilder"
+    ],
+    [
+      "t",
+      "buildingsovereignly"
+    ],
+    [
+      "t",
+      "freedomovercomfort"
+    ],
+    [
+      "t",
+      "lonelypath"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

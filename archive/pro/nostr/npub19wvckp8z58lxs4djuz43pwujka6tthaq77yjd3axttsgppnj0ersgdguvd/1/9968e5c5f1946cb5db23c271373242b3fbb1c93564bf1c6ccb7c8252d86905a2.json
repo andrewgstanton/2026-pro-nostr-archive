@@ -1,0 +1,40 @@
+{
+  "content": "# 4️⃣ - 1/19/2026\n\nPlatforms optimize for engagement.\nSovereign systems optimize for continuity.\nOne feeds attention. The other feeds legacy.\n\n#Decentralization #OwnYourData #Continuum",
+  "created_at": 1768848836,
+  "id": "9968e5c5f1946cb5db23c271373242b3fbb1c93564bf1c6ccb7c8252d86905a2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e89d79a5aea389cee495dc5a46dfb4fe1612e51ea741b9b78efced363762b5d909ad152c288770edc98f5d873cbcca88d6622279ef7e8455b356fe54c80ca916",
+  "tags": [
+    [
+      "title",
+      "4️⃣ - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768848836"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "ownyourdata"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

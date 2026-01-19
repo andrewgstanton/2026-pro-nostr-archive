@@ -1,0 +1,28 @@
+{
+  "content": "Spot on !!",
+  "created_at": 1768811331,
+  "id": "5dc41b65f31ac3328a5d7579e2688926e1ca1ee6a2b3a33158fbffded4081afc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "095eb5d392635f2e8e946ef7fa01dff9b135f6daf66fa153e7773d972799ecc4943625d00a90edfc95221597aef536a92747f19863365cff93f2f43f2fc3f21d",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:4910cc9f3b301ed3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

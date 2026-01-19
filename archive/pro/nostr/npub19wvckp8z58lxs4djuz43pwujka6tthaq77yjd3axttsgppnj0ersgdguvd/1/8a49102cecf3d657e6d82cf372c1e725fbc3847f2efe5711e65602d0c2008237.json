@@ -1,0 +1,40 @@
+{
+  "content": "# 3️⃣ - 1/19/2026\n\nThe hardest part of building sovereignly isn’t the tech —\nit’s letting go of validation metrics that were never designed for truth, depth, or permanence.\n\n#BuildInPublic #FreedomTech #CreatorSovereignty",
+  "created_at": 1768848746,
+  "id": "8a49102cecf3d657e6d82cf372c1e725fbc3847f2efe5711e65602d0c2008237",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e4ef6c18a0808c76580a4cb360c7e1025fe83629de513553305d72f639e510bfe08396e2bf50cea2c0ac98c650cd80fd97080a50f11b0b2ca819629adc1dfa52",
+  "tags": [
+    [
+      "title",
+      "3️⃣ - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768848746"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "freedomtech"
+    ],
+    [
+      "t",
+      "creatorsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

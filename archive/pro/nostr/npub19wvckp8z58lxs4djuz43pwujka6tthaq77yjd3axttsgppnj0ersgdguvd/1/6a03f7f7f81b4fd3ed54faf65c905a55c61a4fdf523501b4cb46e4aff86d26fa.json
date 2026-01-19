@@ -1,0 +1,44 @@
+{
+  "content": "# 1️⃣ - 1/19/2026\n\nBuilding sovereignly means choosing durability over virality.\nIf your work disappears when a platform changes its mind, you weren’t building — you were renting.\n\n#sovereignty #builders #digitalownership #nostr",
+  "created_at": 1768848507,
+  "id": "6a03f7f7f81b4fd3ed54faf65c905a55c61a4fdf523501b4cb46e4aff86d26fa",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "033f66e8f4a24b79883b77f55f4c01425814f799f625f5b17fb0e85dfd5d8e2a259efc2c45f57a984ccc46e805eae21610317512c706e736a77c1c6ca46f62a5",
+  "tags": [
+    [
+      "title",
+      "1️⃣ - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768848507"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}
