@@ -1,0 +1,40 @@
+{
+  "content": "# Note 2 - 1/18/2026\n\nThere’s a quiet relief that comes from closing loops.\nNot dramatic. Not flashy.\nJust the peace of knowing: this is done.\n\n#closure #clarity #peace",
+  "created_at": 1768782518,
+  "id": "9078e77752e9188ee33afce590ac62ecd97312cd10d8e9ff1554849b20bd6930",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1e68b88c50987ec3c0c813534dc1af64f5fcd32e5dfdbe25dced728f15f33f967970ce24564831f3db337d87b13f556931ccba30a5c3b772b639e0e00e3ed9f2",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/18/2026"
+    ],
+    [
+      "published_at",
+      "1768782518"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "closure"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "peace"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 4 - 1/18/2026\n\nEvery completed task returns energy back to you.\nEvery unfinished one keeps charging interest.\nChoose wisely.\n\n#focus #energy #sovereignty",
+  "created_at": 1768782634,
+  "id": "f4585d4eb57e6fbd5a4f42d5a8107e0bcb0045355c520b6148d129d1432f4d6b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2973193213139834e170fd968260b5b504fce014736be9dab575f586bcdfd5622efe4bdf15843ae49de1f807e2f8c43958c9fed2212469fcc1f0f47e95a8d5ac",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/18/2026"
+    ],
+    [
+      "published_at",
+      "1768782634"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "energy"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

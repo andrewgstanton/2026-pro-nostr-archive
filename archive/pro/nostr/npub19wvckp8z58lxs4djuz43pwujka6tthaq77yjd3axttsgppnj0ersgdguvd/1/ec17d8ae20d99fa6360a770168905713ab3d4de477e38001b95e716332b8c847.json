@@ -1,0 +1,39 @@
+{
+  "content": "# Note 1 - 1/18/2/026\n\nCompletion isn’t about perfection.\nIt’s about releasing what no longer needs your attention.\nWhat’s finished today creates space for what’s next. 🌱\n\n#completion #renewal #momentum",
+  "created_at": 1768782360,
+  "id": "ec17d8ae20d99fa6360a770168905713ab3d4de477e38001b95e716332b8c847",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a831f570c37fe7bfd9666eda4b026c05d3eff69f5aabaad476ec4a6c7a59b335a2cac5fddbac59fdafeb36427c52977ec16f44a56b5cc612568e0e1f214cce94",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/18/2/026"
+    ],
+    [
+      "published_at",
+      "1768782360"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "completion"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "momentum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 5 - 1/18/2026\n\nToday feels like a threshold.\nNot an ending — a handoff.\nOne chapter complete. Another ready to begin.\n\n#transition #renewal #forward",
+  "created_at": 1768782695,
+  "id": "8c1e46db4d14c16c450f3cfb8861efd92030721b5ab8f8d21157cb2464608536",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3fc380848fb52e35ce8d9217e072eed772ab19912e90149ac0e8665bbfe7683d602d8aee72602ed8e31440f02b52ee8594e1735d80de78c3b6c85c1b7931d70d",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/18/2026"
+    ],
+    [
+      "published_at",
+      "1768782695"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "transition"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "forward"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

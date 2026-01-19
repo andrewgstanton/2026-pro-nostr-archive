@@ -1,0 +1,39 @@
+{
+  "content": "# Note 3 - 1/18/2026\n\nRenewal doesn’t always look like starting something new.\nSometimes it looks like finally finishing something old.\n\n#renewal #cycles #growth",
+  "created_at": 1768782571,
+  "id": "88aba67ef305b80c149fb56c3932aa73585a503b1a31f1403e3bdfbd9c54a69d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e443c06299d7713f84ad15e7cec7544181bea2e3b9eeb2854c2dc6e9febd3f3b17281b0c8041647855e72d5aae027613e2df9f9b3c299b50015d0af414b3e72e",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/18/2026"
+    ],
+    [
+      "published_at",
+      "1768782571"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "cycles"
+    ],
+    [
+      "t",
+      "growth"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
