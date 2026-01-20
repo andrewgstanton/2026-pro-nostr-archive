@@ -1,0 +1,48 @@
+{
+  "content": "# RSS Feed in my archive - 1/19/2026\n\nI’ve added a canonical RSS feed to my Nostr archive:\n\nRSS (Articles):\nhttps://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml\n\nNot tied to any client.\nNot dependent on relays.\nJust a stable, self-hosted index of published work.\n\nNostr handles identity and signing.\nRSS handles distribution.\n\nIt’s a small thing — but it changes how durable following can be.",
+  "created_at": 1768885707,
+  "id": "06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a41d6757373e5d15ac71a5dd85c7169193f3d0febbba65a5e7274644f051bdf2e4105ee15278a76c9efc18108617021690425fc2f532db9c4b441f0794119836",
+  "tags": [
+    [
+      "title",
+      "RSS Feed in my archive - 1/19/2026"
+    ],
+    [
+      "published_at",
+      "1768885707"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "rss"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "selfhosting"
+    ],
+    [
+      "t",
+      "publishing"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}
