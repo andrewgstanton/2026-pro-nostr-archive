@@ -40,9 +40,9 @@
     ]
   ],
   "_source": [
-    "wss://relay.damus.io",
+    "wss://nostr.mom",
     "wss://relay.snort.social",
-    "wss://nos.lol",
-    "wss://nostr.mom"
+    "wss://relay.damus.io",
+    "wss://nos.lol"
   ]
 }
