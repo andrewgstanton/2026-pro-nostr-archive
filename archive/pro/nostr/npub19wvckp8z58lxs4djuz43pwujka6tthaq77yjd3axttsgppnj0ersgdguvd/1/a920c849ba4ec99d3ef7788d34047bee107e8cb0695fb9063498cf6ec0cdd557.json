@@ -1,0 +1,44 @@
+{
+  "content": "# RSS-Feed in meinem Archiv – 19.01.2026\n\nch habe meinem Nostr-Archiv einen kanonischen RSS-Feed hinzugefügt.\n\nNicht an einen Client gebunden.\nNicht von Relays abhängig.\nEinfach ein stabiler, selbst gehosteter Index meiner veröffentlichten Texte.\n\nNostr kümmert sich um Identität und Signaturen.\nRSS kümmert sich um Verteilung.\n\nEs ist eine kleine Sache – aber sie verändert, wie dauerhaft „Folgen“ wirklich sein kann.\n\n#Nostr #RSS #DigitaleSouveränität #Bitcoin",
+  "created_at": 1768938029,
+  "id": "a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "723249255f5946be80dc8e12f8b7a498c882bfc188a6e830b73f0d41b2657596e47bd96a8f5f4f3d12bee989e091d2d1e0c5b20a007716e3a586cd53cb474697",
+  "tags": [
+    [
+      "title",
+      "RSS-Feed in meinem Archiv – 19.01.2026"
+    ],
+    [
+      "published_at",
+      "1768938029"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "rss"
+    ],
+    [
+      "t",
+      "digitalesouver"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}
