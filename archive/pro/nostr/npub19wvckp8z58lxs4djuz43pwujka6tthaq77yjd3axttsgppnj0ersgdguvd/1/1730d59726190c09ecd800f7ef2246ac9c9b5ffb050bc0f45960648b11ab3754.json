@@ -1,0 +1,40 @@
+{
+  "content": "# Note 3 - 1/22/2026\n\n- Decentralization isn’t hard technically.\n- It’s hard socially.\n\nIt removes:\n\n– instant validation\n– borrowed audiences\n– platform momentum\n\nWhat’s left is you, your work, and time.\n\n#decentralization #builders #longgame",
+  "created_at": 1769105934,
+  "id": "1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "49833ca835d474e58337c3b47d06586246a509f0544d17d7407b22efd1884bd4b10e72ca30cdb8966cf12b98ff3805c7eb712a89b210dd47724f7434d7043be9",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/22/2026"
+    ],
+    [
+      "published_at",
+      "1769105934"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "longgame"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}

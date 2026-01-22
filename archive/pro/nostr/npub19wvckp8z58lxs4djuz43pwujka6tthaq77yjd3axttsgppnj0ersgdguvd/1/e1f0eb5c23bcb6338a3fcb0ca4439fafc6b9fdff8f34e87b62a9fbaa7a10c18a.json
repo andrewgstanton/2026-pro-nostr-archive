@@ -1,0 +1,44 @@
+{
+  "content": "# Note 1 - 1/22/2026\n\n- Sovereignty is slower than platforms\nbecause platforms outsource responsibility.\n\n- Speed comes from permission.\n- Durability comes from ownership.\n\nI’m choosing durability.\n\n#sovereignty #building #nostr #bitcoin",
+  "created_at": 1769105717,
+  "id": "e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dd1e5048d7cca045eef1f819bd0925549b3fb3f2ddbeb5391baf07bb927084a4fc86b1c5a9fb6a0cad680d60f2574a1b9ec853d144309156e98dd6b7e756561c",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/22/2026"
+    ],
+    [
+      "published_at",
+      "1769105717"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}

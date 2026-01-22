@@ -1,0 +1,44 @@
+{
+  "content": "# Note 4 - 1/2/22/206\n\nAn archive that doesn’t depend on a company\nis not “anti-platform.”\n\nIt’s post-platform.\n\n- Identity signs.\n= Infrastructure serves.\n- Distribution becomes optional.\n\nThat shift changes everything.\n\n#identity #nostr #publishing #infrastructure",
+  "created_at": 1769106000,
+  "id": "3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d18002cea6d039301a90afb3c9b0d23daeda90405fa92b5ce00c920d9eaf721a0820cca3f03a3e0e750bdb97144f8a611781b31e80010d711219aaa8840eaa4a",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/2/22/206"
+    ],
+    [
+      "published_at",
+      "1769106000"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "content": "# Note 2 - 1/22/2026\n\n- Most “creator tools” optimize for visibility.\n- Very few optimize for survival.\n\nI’m less interested in being seen\nand more interested in still being readable\n10, 20, 50 years from now.\n\n#digitalpreservation #writing #archives #nostr",
+  "created_at": 1769105796,
+  "id": "96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bce7afaddcf91c69d034af7d55025536bb410e2c4190f105efc4cb9befc41bffd46cb6a933d9103a0db89ecf4584b15d01b0b00748d6a4823c528fcbb32f4ed4",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/22/2026"
+    ],
+    [
+      "published_at",
+      "1769105796"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "digitalpreservation"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}

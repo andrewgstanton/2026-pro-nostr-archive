@@ -1,0 +1,44 @@
+{
+  "content": "# Note 5 - 1/22/2026\n\nLoneliness is not a signal that something is wrong.\n\nSometimes it’s the cost of building something\nbefore the language exists to describe it.\n\nI’ll pay that cost.\n\n#builders #independence #writing #nostr",
+  "created_at": 1769106094,
+  "id": "836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a9ee14ea4050f8d4c46b991a3a29e83b6368a1a98080ab009e1b78f4f7a35278f87b4a0a69b439aebd6416ae918d759d5ea9511373aeb44a29bcee891fbe1b9a",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/22/2026"
+    ],
+    [
+      "published_at",
+      "1769106094"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "independence"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}
