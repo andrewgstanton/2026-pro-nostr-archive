@@ -1,0 +1,40 @@
+{
+  "content": "# Strong Signal - 1/22/2026\n\nA strong signal your work is real:\n\nYou don’t just like it —\nyou can’t imagine doing the work without it.\n\nReplacement cost is one of the most honest forms of validation.\n\n#builders #validation #longgame",
+  "created_at": 1769109890,
+  "id": "d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9516f994342a3600af6eb5b04bddf111c574f458286e5f62f4ac889f5b4370d37fe2e7a880ad06de065fddb04eb338d76b9f1e93cbc5d41ad477b3e8fc957a62",
+  "tags": [
+    [
+      "title",
+      "Strong Signal - 1/22/2026"
+    ],
+    [
+      "published_at",
+      "1769109890"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "validation"
+    ],
+    [
+      "t",
+      "longgame"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}
