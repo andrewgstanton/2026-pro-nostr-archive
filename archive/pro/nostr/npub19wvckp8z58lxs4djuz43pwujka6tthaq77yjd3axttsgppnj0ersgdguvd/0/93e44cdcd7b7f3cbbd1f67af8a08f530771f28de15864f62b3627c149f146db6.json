@@ -1,0 +1,15 @@
+{
+  "content": "{\"name\": \"Akamaister\", \"about\": \"Andrew G. Stanton (Akamaister)\\nBuilder \\u00b7 Writer \\u00b7 Bitcoin-aligned systems\\n\\nFounder & Fractional CTO.\\nI build durable software and publishing systems rooted in conviction, sovereignty, and long-term thinking.\\n\\nFollowing Jesus.\\nBuilding with proof of work, not proof of hype.\\nStill building.\\n\\nPrimary work\\nMyContinuum \\u2014 sovereign publishing & identity\\nhttps://mycontinuum.xyz\\n\\nArchive (RSS)\\nhttps://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml\\n\\nNostr\\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\\n\\nLast generated: 2026-01-22 12:13 PST\", \"picture\": \"https://blossom.primal.net/42342af5b5d98f95bd7182672728f038f75fb3ea1f343b175243cd5f43676ae0.jpg\", \"banner\": \"https://blossom.primal.net/e65846abb412541becd1169d62669a0ab70dc10b7b3a576a71368dbe6dd33802.png\", \"website\": \"https://andrewgstanton.com\", \"nip05\": \"andrewgstanton@primal.net\", \"lud16\": \"andrewgstanton@primal.net\"}",
+  "created_at": 1769112842,
+  "id": "93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6",
+  "kind": 0,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b585fe2cdf8b19ca68a5022f90d9ed9f9164365d5f59cdb4ea7ab595c17a4b68af50c35fce8449b18b610b4a0ccf695d7d8affeb0f82d0855f859ea6429a4275",
+  "tags": [],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ],
+  "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd"
+}
