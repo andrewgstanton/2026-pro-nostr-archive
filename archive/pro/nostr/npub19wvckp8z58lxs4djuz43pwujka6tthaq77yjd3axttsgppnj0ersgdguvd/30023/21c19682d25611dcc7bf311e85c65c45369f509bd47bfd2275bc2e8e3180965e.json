@@ -1,0 +1,64 @@
+{
+  "content": "## The Non-Technical Cost of Decentralization\n\nDecentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:JDN2q7AL6BBJT9r-pkA2DIFd2dDfWw1O7GRHiuBVGh4swMoegt_jQnwF8Yc7UjBMYdBFPC6lSon8LeeoDi4I6X5-OEDC5U6ucaZxtchMx81kNKsZyNt0GrLL0jo_YFMIY5-Bo9191NYaXNALMaWcP8yorkBd5gCPj6J6CrziPbC7SW795OI0qQu9kMYxwIJfXp08nI40JiGkfoZp6J59eCDPVKoQTCfeijJe4rV25TgMMZccy8a4nE8UswcAu1Wyr6SyfRpPDbakt_r1xivE1X6YOM5wua-3lIC4d0Ue2uUBz75sZlPo_8FghXGi4LvqnCr6ONkBoJf4G8ixIV2MoqP7thiOyMjklmlwffuzqECJZbjo_mqTJvJ4Rc9UizoS8wnS1j7C4g5tu3phnnSOaOTZHn91T3D_uie2IhvVMoQy-zBpVnGcqG73ZJMiu0yTvpzGVfb0qEaqtqdrM8efwmjYQIigAUQtEU3yKgw0LBXxhBhE52l7GqhH6N5dDaVWtZBXb5TcVlXMc3fTl20VGKnDxiXJxP13NYbW-gs-v8K2-3GZpjfGoWE6HZXDp_RnhQQkd_iS4JL1qWC69cEEqSm72eWIkn_gRy_cRfuyVimpBRaEWdqCnF5SnEjx9g9l3lL8KQSACeJW-URUwSkGwR8I9XGBDw3q4PB-UgAxjZqJusr7fTInFQvuUck9k5Jao2FoUkpBjti9VUt9kBzugcJIDOLCiV4kfyNP7OXK1AAhVPuQfuZ-KsJafgA96VbTNc6ssR4pekkqvrvwlqo61C6025lS8saqikTDKk82egIAbaWVFUMEQd3loVThSnbLVNdGIICmWtt-AeNmCLT1FVWjUMPG2FpJS-WXyZ8MUCGRo7gYN_Vq_QDZUZhbRX5lLoTl7KOoB7mzLtvvv-r7pVflQGEmTLOxRFbq5ZauPU4UgM9NpBtej4OGIrrm4pWizj9UadDtkGTjflu6_R5xgmHm5NlCoOAMo1gnCJP3RjX8jJxYQOiLcvegQTMV0P9xB4fzK9A2Vqvz_5tjctH4BzNwCq8vZIsk7LeKckGHba37y4or4A8vF9XwEQZESqiwHGwBInlSKsx_wOqph9eD8XNU3k1yp9BPsRglZ0tT7ahKNibwvQwEYghrQMasBtSdGLK5wHF4ZDaHEE2PzUrQ89vNCzDQrV3fBOy3ho8us6Q32HX6evU-Ry9bMDRlEdr_mQH6EVeBU-EyPVrHZcosvLXBQTHun68UUCtDt6hpfUL29RmDsgV1RtHMgEKwj7e8IDSuZEs7WRmUM_JaSO7UMPaJFbqS1Xet8teOk_OSpUFhCLMTSBHJgqfcrFKuJajDoaIO7YNFIZghGw_A6rJp3XaYjSmd83PvboGDTz7pBDe3RoIFjlwL4omVzeBo3DjmMqBzKSFPhFq2tx52v3G5T4dfle_N3gnMaVngPjifPfkJ37GPMP4gSc1_FLFIyiWNPjkNFgxwztNxfMYsmQpp8fsM33ujT85GmkdWPieaJt0SjikTqTaHYBRqPpJAejxZ1o-K_CN_WsIMgl0__eUnSuLkWJibld2Nu1pYV--ClFIUmKBz3-INxEfzRt_mfnmpY8AdnMbBrCWkLz2m50NU2OnmVDLtk2wp7xjbYXXCvYIztYsWWpGH9t76gB2XjhYT_TXOZ45AnukRLW-HQKY24d0PenJBpK8_AcNOF-eLwnm5yaQtZSynmJrDze7M2OE0Yzquy2aKAKiPsvZjM4nGOnRwVfXFx3RoPXfYIij7DD7pbd_Cyn6-EuaTbJN7Jd5PfkezPVVeZsUnJzJ_TL25c8_KAagVvb0TBILNSvwdmm1uQ9nc4NvrPFFT_ISoFMW2_MIA6uaq7K8GChncKEI6OC9uj77tAZDjFNX4fujNc928uydIK0c4JlKgCfq21itEiWZ9ZQWobAt3zguM4LPKIbWRAo3gZJEkW9wkLpZB8q0gDNPyjnA9icEDLWxQMDO2x2vm4JqRJmIwkP3MGPIPWJDpFeevS6AowSLEQCfpQOZDI1eZinA25ETSLEPmUZsK1-3oeiYkNWPcFFPfotdDh4SMUkcRKzvZS6PZUJLV94XZiVD05E5R97K7PwFHTX9BmUQAhILCY2XYn-5tyoHuRNvr2zF-0GpHbwzMQ0tS5KK4TeVgtEsO1vbxWSwks0X9CpcMpKj0o5BFzczBHk7JZhYstmK8M62e4EU\n<!-- ENC_BLOB_END -->\n",
+  "created_at": 1769044921,
+  "id": "21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a0493186fa94cffef9bbb3953fb0a25cbbea38c4087f4b4e959a772ae0d50d86533f020a20e4672a7a00a73f12bf16a9749a6bc25ed8518f9a0355c841a2cf93",
+  "tags": [
+    [
+      "d",
+      "the-non-technical-cost-of-decentralization-2026-01-21"
+    ],
+    [
+      "title",
+      "The Non-Technical Cost of Decentralization"
+    ],
+    [
+      "summary",
+      "Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”"
+    ],
+    [
+      "published_at",
+      "1769044921"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-01-21"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "incentives"
+    ],
+    [
+      "t",
+      "user behavior"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
