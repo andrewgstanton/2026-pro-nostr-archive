@@ -1,0 +1,36 @@
+{
+  "content": "# Note 2 - 1/20/2026\n\n- Most apps optimize for ease.\n- Very few optimize for durability.\n\nThose are different problems.\n\n#nostr #building",
+  "created_at": 1769042565,
+  "id": "204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5457cd71311fdbb6cf05ee2ce3e8013b01ce4223c4976079212e281c90e7089f1e0b9ddcd5665de7c5c3df48a34d9204e3ad8672932f468ff1d493e19db09932",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/20/2026"
+    ],
+    [
+      "published_at",
+      "1769042565"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "building"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

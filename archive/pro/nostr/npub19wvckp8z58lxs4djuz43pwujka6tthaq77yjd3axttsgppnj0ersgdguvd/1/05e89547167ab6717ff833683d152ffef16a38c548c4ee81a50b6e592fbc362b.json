@@ -1,0 +1,36 @@
+{
+  "content": "# Note 4 - 1/21/2026\n\n- Real systems don’t ask for trust.\n- They earn it by being inspectable.\n\n#building #sovereignty",
+  "created_at": 1769043453,
+  "id": "05e89547167ab6717ff833683d152ffef16a38c548c4ee81a50b6e592fbc362b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f6169e6bbe4875fe9c75e4d4cd4139e883a6fa08cfa406b3ec40ba17131cca4b3a510a0b8c6ecdd550201065e32ec0fbebe016000c08eeef66f7126fa481e929",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/21/2026"
+    ],
+    [
+      "published_at",
+      "1769043453"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

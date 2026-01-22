@@ -1,0 +1,36 @@
+{
+  "content": "# Note 3 - 1/21/2026\n\n- I’m not trying to replace clients.\n- I’m trying to make sure what they show can survive without them.\n\n#continuum #firstprinciples",
+  "created_at": 1769043388,
+  "id": "94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a1f75b41de0a9856d56ce0bef21ffc488be488fbf79d4c57865423c7c9278f8da710b4a227e916c1f46a88621164bf861332ed80a91ce694a864774aedd6a02e",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/21/2026"
+    ],
+    [
+      "published_at",
+      "1769043388"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

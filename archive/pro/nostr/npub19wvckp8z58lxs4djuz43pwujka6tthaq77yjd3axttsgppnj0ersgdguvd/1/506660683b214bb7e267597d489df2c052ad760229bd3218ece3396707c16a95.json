@@ -1,0 +1,36 @@
+{
+  "content": "# Note 3 - 1/20/2026\n\n- Relays are not archives.\n- Clients are not guarantees.\n\nOwnership only exists where you keep the data.\n\n#firstprinciples #digitalsovereignty",
+  "created_at": 1769042727,
+  "id": "506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "17de326257d51d66fb955488ddaf8d41f1f99eb75b5ffa300043a6e5f2ba4bb683999e375834867cf5ed1edfeb3d2e74b69c83df58ea911a54247d965767705f",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/20/2026"
+    ],
+    [
+      "published_at",
+      "1769042727"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

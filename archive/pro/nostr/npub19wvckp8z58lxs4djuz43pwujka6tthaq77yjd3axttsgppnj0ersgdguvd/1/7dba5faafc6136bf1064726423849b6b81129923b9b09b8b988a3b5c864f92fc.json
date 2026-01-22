@@ -1,0 +1,36 @@
+{
+  "content": "# Note 5 - 1/20/2026\n\nSometimes progress looks like narrowing scope\nuntil only the truth is left.\n\n#builders #focus",
+  "created_at": 1769042913,
+  "id": "7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7e39bc3f05245b8feaffdd113b6f71f049bca9df45dd1519d80382bef4c2dcaaee38557fa53269be59b3ade16d756ebab7757c50bf49d4f93cc8e5b14bf2b41d",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/20/2026"
+    ],
+    [
+      "published_at",
+      "1769042913"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "focus"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "content": "# Note 5 - 1/21/2026\n\n- Sometimes the work is just staying with the thing\n- long after the novelty wears off.\n\n#builders #longterm",
+  "created_at": 1769043523,
+  "id": "c7f89d928347eec38b3b3014f8f65e0978198768142d528229be2b875c77724d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c81d0efc1963651b1d39ffbf72d7a67ea338e03f40896635bb4b127c9fa2c95c1ae17db2264d46b41fcdfe4e6a387edd96ba601222d117d989963687ff7fc7c0",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/21/2026"
+    ],
+    [
+      "published_at",
+      "1769043523"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "longterm"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

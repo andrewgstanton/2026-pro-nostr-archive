@@ -1,0 +1,36 @@
+{
+  "content": "# Note 1 - 1/20/2026\n\nLocal-first isn’t nostalgia.\nIt’s what you rediscover after the cloud fails you once too often.\n\n#localfirst #sovereignty",
+  "created_at": 1769042414,
+  "id": "167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5659e3354572416917ed7cf3b62378b434cb0ae47dabbe67d1be9ce13569f10face5b0ab2678eb5b683ea7fd30c7a688dcdbefeb3af2c68b720eb353cc3a637c",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/20/2026"
+    ],
+    [
+      "published_at",
+      "1769042414"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

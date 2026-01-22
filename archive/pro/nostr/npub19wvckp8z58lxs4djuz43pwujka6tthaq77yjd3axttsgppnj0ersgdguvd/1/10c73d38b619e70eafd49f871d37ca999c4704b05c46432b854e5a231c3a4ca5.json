@@ -1,0 +1,36 @@
+{
+  "content": "# Note 4 - 1/20/2026\n\nI’m less interested in shipping features and more interested in removing illusions.\n\n#continuum #clarity",
+  "created_at": 1769042836,
+  "id": "10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5c7c820f59b0b5d03f423cf5c359bdc92b94b840be76ef142f063a4750bccef308f1738e1cad1c0fbd03fce35a499520279801c830da4a058fbb278e1b14aee7",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/20/2026"
+    ],
+    [
+      "published_at",
+      "1769042836"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "clarity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

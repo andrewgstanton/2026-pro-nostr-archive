@@ -1,0 +1,36 @@
+{
+  "content": "# Note 2 - 1/21/2026\n\n- Durability is rarely exciting.\n- It only becomes obvious after something disappears.\n\n#archives #nostr",
+  "created_at": 1769043308,
+  "id": "70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f292263b3ccec9701d8e83cf634743516f2c2cdda7c2ed7be1168a1bcad84efae12f15f9559c3441337d37c24b1dc66fa0e09c26b3eae72d44d067b0b3392055",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/21/2026"
+    ],
+    [
+      "published_at",
+      "1769043308"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

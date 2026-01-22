@@ -1,0 +1,36 @@
+{
+  "content": "# Note 1 - 1/21/2026\n\n- Cloud-first feels modern\n- until you realize how little of it you actually control.\n\n#localfirst #ownership",
+  "created_at": 1769043240,
+  "id": "653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "13bb1d51470d8125502e3a4844233b1dd445f6e801e5c3854b8792e9c706ce5046a1614dddf701f39e36152cbd9b1c86a4edb989d29325d0692616e2c803b408",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/21/2026"
+    ],
+    [
+      "published_at",
+      "1769043240"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
