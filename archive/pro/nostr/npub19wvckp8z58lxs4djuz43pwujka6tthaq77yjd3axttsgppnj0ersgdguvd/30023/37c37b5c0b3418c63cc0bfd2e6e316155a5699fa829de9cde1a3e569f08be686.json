@@ -1,0 +1,64 @@
+{
+  "content": "Andrew G. Stanton - Jan. 23, 2026\n\n---\n\nBitcoin did not win because it moved fast.\n\nIt won because it refused to move at all when moving would have compromised its foundations.\n\nThis is deeply unintuitive in a world trained to equate speed with progress.\n\n---\n\n## The Myth of Technological Velocity\n\nModern technology culture worships iteration:\n- Ship fast\n- Break things\n- Fix later\n\nThis model works when mistakes are reversible.\n\nMoney is not reversible.\nTrust is not reversible.\nMonetary history is littered with systems that “iterated” themselves into irrelevance.\n\nBitcoin rejected this entire framework.\n\n---\n\n## Bitcoin’s Radical Conservatism\n\nFrom the outside, Bitcoin appears stagnant:\n- Few protocol changes\n- Long review cycles\n- Relentless resistance to novelty\n\nCritics call this ossification.\n\nIn reality, it is **defensive design**.\n\nBitcoin treats change as a threat vector, not an opportunity.\n\nThat single posture explains more of its success than any technical feature.\n\n---\n\n## Why Slowness Created Trust\n\nBitcoin did not ask users to trust:\n- A foundation\n- A roadmap\n- A leadership team\n\nIt asked them to trust **physics, incentives, and time**.\n\nSlowness made this possible:\n- Bugs surfaced early\n- Attacks were observed in the open\n- Economic assumptions were tested repeatedly\n\nNothing was rushed.\nNothing was hidden.\n\nTrust accrued naturally.\n\n---\n\n## The Cost of Speed Elsewhere\n\nEvery system that “improved” on Bitcoin did so by:\n- Centralizing decision-making\n- Introducing governance layers\n- Promising flexibility\n\nThese systems could move faster.\n\nThey just couldn’t be trusted longer.\n\nSpeed became a liability.\n\n---\n\n## Bitcoin as a System That Refuses to Lie\n\nBitcoin does not pretend to be easy.\nIt does not smooth over responsibility.\nIt does not abstract away consequence.\n\nIt tells the truth early:\n- You control your keys\n- You bear the risk\n- No one can save you\n\nThis honesty repels many users.\nIt also ensures that those who stay understand what they are using.\n\n---\n\n## Conclusion\n\nBitcoin did not succeed by outpacing its competitors.\n\nIt succeeded by **outlasting them**.\n\nIn systems that must survive decades, not quarters,  \nslowness is not stagnation.\n\nIt is integrity expressed over time.",
+  "created_at": 1769202038,
+  "id": "37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8939d57f3e2b08c4a8909472dbacd124e1a63a832a82a97965f47372f4a2322ca269cc54d6ea75323a97907531ed1cae6a32732bba55e3a9a2401defe63cae87",
+  "tags": [
+    [
+      "d",
+      "bitcoin-didnt-win-because-it-was-fast"
+    ],
+    [
+      "title",
+      "Bitcoin Didn’t Win Because It Was Fast"
+    ],
+    [
+      "summary",
+      "Bitcoin is often framed as a technological breakthrough or a financial asset. In reality, its success came from refusing speed, shortcuts, and compromise. This essay explains why Bitcoin’s slowness was not a flaw — but the reason it survived."
+    ],
+    [
+      "published_at",
+      "1769202038"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "monetary history"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "display_date",
+      "2026-01-23"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-01-23-generated-bitcoin-sunrise.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
