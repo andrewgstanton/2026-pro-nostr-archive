@@ -1,0 +1,64 @@
+{
+  "content": "# Note 2 - 1/23/2026\n\nFriction is not always a UX failure.\n\nSometimes it’s how a system filters for responsibility.\n\n#Sovereignty\n#Decentralization\n#FirstPrinciples\n#SystemsThinking\n#DigitalFreedom\n#SelfSovereign\n#ValueForValue\n#Architecture\n#LongTermThinking",
+  "created_at": 1769199595,
+  "id": "1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d0af69291ff59f6c20d4e376d7eedb4131f964b6f9c54ec8f2f43709e327f3d28a1eee64b97bbd1aa92c67f210204baf14ef10587dc872cbb74ce77b0bfac67f",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/23/2026"
+    ],
+    [
+      "published_at",
+      "1769199595"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "valueforvalue"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

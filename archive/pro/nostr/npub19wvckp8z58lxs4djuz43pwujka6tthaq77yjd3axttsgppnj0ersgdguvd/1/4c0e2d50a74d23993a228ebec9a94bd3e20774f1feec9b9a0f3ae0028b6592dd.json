@@ -1,0 +1,64 @@
+{
+  "content": "# Note 4 - 1/23/2026\n\nA sovereign system is growing when it needs its creator less — not more.\n\n#Sovereignty\n#Decentralization\n#FirstPrinciples\n#SystemsThinking\n#DigitalFreedom\n#SelfSovereign\n#ValueForValue\n#Architecture\n#LongTermThinking",
+  "created_at": 1769199694,
+  "id": "4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c1aa1ccfe361b8d4971b8de170e898da51deab9eba8af2c18e5a61f76e9ec218e198735c0272fa1533ebc14df6621cefd1f6d334bba2a41d8a2eb866c438a076",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/23/2026"
+    ],
+    [
+      "published_at",
+      "1769199694"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "valueforvalue"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

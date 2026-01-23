@@ -1,0 +1,64 @@
+{
+  "content": "# Note 1 - 1/23/2026\n\nIn centralized systems, growth means “more.”\n\nIn sovereign systems, growth means “still works when no one is watching.”\n\n#Sovereignty\n#Decentralization\n#FirstPrinciples\n#SystemsThinking\n#DigitalFreedom\n#SelfSovereign\n#ValueForValue\n#Architecture\n#LongTermThinking",
+  "created_at": 1769199550,
+  "id": "56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "19482df1601ea318e6e685468e499827dd853283062fab6349c53e79195cff5162edb3e528e9bfa5b65cb059fb69bee77fe758d515ccf79656f695538b576dcb",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/23/2026"
+    ],
+    [
+      "published_at",
+      "1769199550"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "valueforvalue"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

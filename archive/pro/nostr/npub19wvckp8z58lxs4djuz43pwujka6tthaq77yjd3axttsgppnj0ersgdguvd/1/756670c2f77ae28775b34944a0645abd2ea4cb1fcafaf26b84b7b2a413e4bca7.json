@@ -1,0 +1,44 @@
+{
+  "content": "# Crossed 600 articles today\n\nMost written, published, and archived through systems I control.\n\n- No algorithm chasing.\n- No platform dependency.\n- Just consistent work over time.\n\nGrateful for everyone who’s read, questioned, or supported the work along the way.\n\n\nhttps://is.gd/PYFyya\n\n#Sovereignty\n#Consistency\n#IndependentPublishing\n#LongTermThinking",
+  "created_at": 1769203138,
+  "id": "756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "58412b1ec03ffb7285f0e49fa590110064c2a5537647a43a3988942d4a25d80edf4d1ee8ed6f6ba5ab5fa0a5a588b03de8a46aee0ac2432b0572caf385e4428b",
+  "tags": [
+    [
+      "title",
+      "Crossed 600 articles today"
+    ],
+    [
+      "published_at",
+      "1769203138"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "consistency"
+    ],
+    [
+      "t",
+      "independentpublishing"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "content": "# Note 3 - 1/23/2026\n\nCentralized platforms grow by abstraction.\n\nSovereign systems grow by refusing to lie about complexity.\n\n#Sovereignty\n#Decentralization\n#FirstPrinciples\n#SystemsThinking\n#DigitalFreedom\n#SelfSovereign\n#ValueForValue\n#Architecture\n#LongTermThinking",
+  "created_at": 1769199646,
+  "id": "ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0fbc8c19fdd411ed800a2be053f3bae56f820555e0bd05e62e111eeaa9a00b4ff172a4770b1c02c452cddcbe89af834797fc2acf7e141971707736005dd05fa9",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/23/2026"
+    ],
+    [
+      "published_at",
+      "1769199646"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "valueforvalue"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

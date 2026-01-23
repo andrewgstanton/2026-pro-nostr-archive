@@ -1,0 +1,64 @@
+{
+  "content": "# Note 5 - 1/23/2026\n\nIf your system dies when attention leaves, it never really grew.\n\nIt just expanded.\n\n#Sovereignty\n#Decentralization\n#FirstPrinciples\n#SystemsThinking\n#DigitalFreedom\n#SelfSovereign\n#ValueForValue\n#Architecture\n#LongTermThinking",
+  "created_at": 1769199748,
+  "id": "121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9c77caf2e56fd7500d9824a3f9c9ce673cd8058d615731acdbfdeaaa9d2e9f967c0b96f48454b1fb04813eb09d38c15adf137c99d67ab481d042462f9f8a5ef1",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/23/2026"
+    ],
+    [
+      "published_at",
+      "1769199748"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "valueforvalue"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
