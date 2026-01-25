@@ -1,0 +1,56 @@
+{
+  "content": "# Note 1 - 1/24/2026\n\nRest is not the reward for finishing the work.\nIt’s the boundary that reveals what work is worth doing at all.\n\n#Rest #Renewal #Sabbath #Burnout #Truth #Sovereignty #AttentionEconomy",
+  "created_at": 1769295167,
+  "id": "a0b970ce2aba36cd26caa64137eb1114c7f9ce3df74a975fa03eea05d1cb881c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "175dba377964f72f2b952d073ea43ec75f2d0e04d35bd9c812086420d501fe588a7f1bdbd5c3d64646f8acee91bcf7fc4fdeeb9b6d5b9a4434bf42788ef66010",
+  "tags": [
+    [
+      "title",
+      "Note 1 - 1/24/2026"
+    ],
+    [
+      "published_at",
+      "1769295167"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attentioneconomy"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

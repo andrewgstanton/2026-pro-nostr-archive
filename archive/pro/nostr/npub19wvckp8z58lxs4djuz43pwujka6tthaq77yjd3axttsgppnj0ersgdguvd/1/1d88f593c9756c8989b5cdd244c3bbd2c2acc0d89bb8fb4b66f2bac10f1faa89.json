@@ -1,0 +1,29 @@
+{
+  "content": "I will read the full article when I have a moment \n\nPicked up the main points \n\nThanks for sharing ",
+  "created_at": 1769274265,
+  "id": "1d88f593c9756c8989b5cdd244c3bbd2c2acc0d89bb8fb4b66f2bac10f1faa89",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3c5515c820a40c0c1d026cfade8103334ce6c81e855a1bd0452cabbcc72ba5e9585863df6b12c9b0c998addf00740eaf99ec28e91f946f55db058a225d29ccc4",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:trust-your-feed-why-w-is-dead-on-arrival",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}

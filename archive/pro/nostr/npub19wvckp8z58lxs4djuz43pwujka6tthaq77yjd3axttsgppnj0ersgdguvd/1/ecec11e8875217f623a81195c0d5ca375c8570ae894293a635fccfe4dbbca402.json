@@ -1,0 +1,56 @@
+{
+  "content": "# Note 2 - 1/24/2026\n\nBurnout isn’t caused by doing too much.\nIt’s caused by being asked to sustain things you don’t believe in.\n\n#Rest #Renewal #Sabbath #Burnout #Truth #Sovereignty #AttentionEconomy",
+  "created_at": 1769295223,
+  "id": "ecec11e8875217f623a81195c0d5ca375c8570ae894293a635fccfe4dbbca402",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2f41985ffa1fdfe60d3bff78e8653929a879dee0da258e4c5399104581f81a8ea97dad6cfd949b5760ae34839730e5685159ccc9030455ffef77d842254176e7",
+  "tags": [
+    [
+      "title",
+      "Note 2 - 1/24/2026"
+    ],
+    [
+      "published_at",
+      "1769295223"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attentioneconomy"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

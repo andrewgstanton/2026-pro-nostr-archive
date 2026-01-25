@@ -1,0 +1,56 @@
+{
+  "content": "# Note 3 - 1/24/2026\n\nMost “rest” today is just recovery so extraction can resume.\nReal rest interrupts the system, not your conscience.\n\n#Rest #Renewal #Sabbath #Burnout #Truth #Sovereignty #AttentionEconomy",
+  "created_at": 1769295271,
+  "id": "62d61db9cbf544457d901926ba58bdb592d1b07041630e1913698c19877e6173",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "abab49bfb96811dda46a3c05cbfed0bf7dc7a2d27c4f513569710cad8d30b0a2709cfa5bb014b1de62ff0ee7d62342259b2f8afde161c17fd982b837166e3d9b",
+  "tags": [
+    [
+      "title",
+      "Note 3 - 1/24/2026"
+    ],
+    [
+      "published_at",
+      "1769295271"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attentioneconomy"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

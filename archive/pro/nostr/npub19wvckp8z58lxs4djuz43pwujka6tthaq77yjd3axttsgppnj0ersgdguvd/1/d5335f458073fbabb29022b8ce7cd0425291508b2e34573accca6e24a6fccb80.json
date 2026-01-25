@@ -1,0 +1,56 @@
+{
+  "content": "# Note 5 - 1/24/2026\n\nThere’s a deep rest that comes from standing on truth:\nnothing to manage, nothing to perform, nothing to prop up.\n\n#Rest #Renewal #Sabbath #Burnout #Truth #Sovereignty #AttentionEconomy",
+  "created_at": 1769295380,
+  "id": "d5335f458073fbabb29022b8ce7cd0425291508b2e34573accca6e24a6fccb80",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "35eaa3d3b72d03276264b832e1d287e2cf61a64b7841fa829d62289545832f10485c41e3af81e7d1720497b73723656c29ade40fc01f43c07b5885a9f27b1794",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/24/2026"
+    ],
+    [
+      "published_at",
+      "1769295380"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attentioneconomy"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

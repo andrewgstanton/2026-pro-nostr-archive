@@ -1,0 +1,56 @@
+{
+  "content": "# Note 4 - 1/24/2026\n\nRenewal isn’t reinvention.\nIt’s remembering what was already true before the noise started.\n\n#Rest #Renewal #Sabbath #Burnout #Truth #Sovereignty #AttentionEconomy",
+  "created_at": 1769295322,
+  "id": "f32780c6c14caff2dbdae570249567fec92dfb6817bf70e8adf6523ccbab5e44",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dae6b0ac7c0d6c0d72fc229ba286d8ccabe3014ef25775a7effc482641e91686d98844fcdd7ed73195727cf82220d83511fdd9a2e136074b50b65bdb96dd6e7b",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/24/2026"
+    ],
+    [
+      "published_at",
+      "1769295322"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attentioneconomy"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
