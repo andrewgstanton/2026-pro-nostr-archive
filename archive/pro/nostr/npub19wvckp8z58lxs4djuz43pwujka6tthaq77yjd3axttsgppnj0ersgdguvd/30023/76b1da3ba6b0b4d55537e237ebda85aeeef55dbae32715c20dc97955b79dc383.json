@@ -1,0 +1,72 @@
+{
+  "content": "Andrew G. Stanton - Jan. 24, 2026\n---\n\nBurnout is rarely caused by laziness, poor time management, or insufficient resilience. Those explanations are convenient because they place responsibility on individuals while leaving systems unquestioned.\n\nBut burnout shows up most reliably in people who care deeply.\n\nBuilders. Engineers. Writers. Pastors. Founders. Teachers. Caregivers. Anyone who tries to do meaningful work with integrity inside systems that do not reward meaning or integrity.\n\nThat alone should tell us something is wrong.\n\n### Who Burns Out First\n\nThe people who burn out are often the most disciplined, the most conscientious, and the least cynical. They are the ones who keep showing up even when the incentives are misaligned, who try to hold standards when shortcuts are rewarded, who feel responsible for outcomes they cannot fully control.\n\nBurnout is not an excess of effort. It is a collision between values and reality.\n\nWhen people who *do not care* thrive, and people who *do* care collapse, the problem is not individual capacity. It is systemic design.\n\n### Burnout as Feedback\n\nIn well-designed systems, feedback is valuable. Pain signals are not ignored; they are investigated. If a machine overheats repeatedly, engineers do not lecture the metal for being weak—they examine the system.\n\nBurnout functions the same way.\n\nIt is feedback from the human nervous system that something is misaligned:\n- effort disconnected from impact\n- responsibility without authority\n- visibility without agency\n- performance without meaning\n\nWhen these conditions persist, burnout is not a risk—it is inevitable.\n\n### Moral Injury, Not Just Exhaustion\n\nWhat is often labeled burnout is better described as moral injury.\n\nMoral injury occurs when people are required to act against their own values in order to survive or succeed. It happens when truth must be softened, when corners must be cut, when appearances must be maintained at the expense of reality.\n\nThis is why rest alone often fails to cure burnout. A vacation may restore energy, but it does not repair integrity. The injury remains because the underlying conditions remain.\n\nYou can rest your body and still dread returning.\n\n### The Attention Economy and Invisible Labor\n\nModern attention economies intensify burnout by demanding constant visibility. Work is no longer evaluated primarily by quality or durability, but by frequency, reach, and engagement.\n\nThis creates a paradox:\n- Deep work requires silence.\n- Visibility requires noise.\n\nThose who choose depth are punished with obscurity. Those who choose noise are rewarded with attention but drained of meaning.\n\nBurnout emerges not from doing too much work, but from doing work that is structurally devalued while being constantly asked to prove its worth.\n\n### Why Builders Feel This First\n\nBuilders are especially vulnerable because they think in terms of systems. They see inefficiencies, contradictions, and long-term consequences. They notice when tools are misused and when incentives are perverse.\n\nThis awareness becomes a burden when paired with limited power to change the system.\n\nBurnout, in this sense, is not collapse—it is clarity without relief.\n\n### The Lie of Personal Optimization\n\nThe dominant response to burnout is optimization:\n- better routines\n- better boundaries\n- better habits\n- better mindset\n\nThese can help at the margins, but they quietly reinforce the lie that the system itself is fine.\n\nWhen burnout is widespread and recurring, optimization is not the solution. Realignment is.\n\n### What Burnout Is Telling You\n\nBurnout is not saying “you are weak.”\nIt is saying “this arrangement is unsustainable.”\n\nIt is asking:\n- Why does meaningful work feel invisible?\n- Why is integrity costly?\n- Why does slowing down feel like falling behind?\n- Why does caring require self-sacrifice?\n\nThese are not psychological questions. They are structural ones.\n\n### Renewal Requires More Than Rest\n\nTrue renewal does not come from temporary escape. It comes from reorienting toward systems, rhythms, and forms of work that honor human limits and moral coherence.\n\nThis may mean doing less—but more often, it means doing differently.\n\nBurnout is not the end of the road. It is a signal flare.\n\nAnd like all signals, it is meant to be read, not suppressed.",
+  "created_at": 1769295687,
+  "id": "76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa84c182081dd89b3212b79b51b97b33a0cf70f8336603a85263b3095a3f1f9090c19fbef9179c3be8c1fb905e8ef1d53b40fc61a3645b43d65f95dd8de5d0b9",
+  "tags": [
+    [
+      "d",
+      "burnout-is-not-a-personal-failure--its-a-systems-signal"
+    ],
+    [
+      "title",
+      "Burnout Is Not a Personal Failure — It’s a Systems Signal"
+    ],
+    [
+      "summary",
+      "Burnout is often framed as a personal weakness or a failure to manage stress. In reality, burnout is a systems-level signal—especially among builders, writers, and conscientious people. This essay argues that burnout is not caused by doing too much, but by being forced to operate inside systems that extract meaning, punish integrity, and reward surface-level performance over truth.  ---"
+    ],
+    [
+      "published_at",
+      "1769295687"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "burnout"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "attention economy"
+    ],
+    [
+      "t",
+      "moral injury"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "display_date",
+      "2026-01-24"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
