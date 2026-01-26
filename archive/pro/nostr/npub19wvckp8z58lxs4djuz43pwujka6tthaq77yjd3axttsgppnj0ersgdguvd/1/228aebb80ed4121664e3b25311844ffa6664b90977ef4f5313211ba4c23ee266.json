@@ -1,0 +1,68 @@
+{
+  "content": "# Note 4 - 1/26/2026\n\n“Let us not grow weary of doing good, for in due season we will reap.” — Galatians 6:9\n\nWeariness is not failure — it’s a sign of real labor.\nThe harvest has a season, not a deadline.\nFaithfulness is still counted even when results are invisible.\n\n#FaithfulWork #DailyBread #SowAndReap #SteadyObedience #ScriptureInPractice #BuildQuietly #Endurance #TrustOverOutcomes #FirstPrinciples #Continuum",
+  "created_at": 1769464009,
+  "id": "228aebb80ed4121664e3b25311844ffa6664b90977ef4f5313211ba4c23ee266",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7dcea200372327bd84631e139bbc9a27df8507ff0ad57fd60cf31ab40c2b893a3e42ce36201a450f0f99cc725ae02be443295a1974e8d28f863510b13c6ba9bd",
+  "tags": [
+    [
+      "title",
+      "Note 4 - 1/26/2026"
+    ],
+    [
+      "published_at",
+      "1769464009"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "faithfulwork"
+    ],
+    [
+      "t",
+      "dailybread"
+    ],
+    [
+      "t",
+      "sowandreap"
+    ],
+    [
+      "t",
+      "steadyobedience"
+    ],
+    [
+      "t",
+      "scriptureinpractice"
+    ],
+    [
+      "t",
+      "buildquietly"
+    ],
+    [
+      "t",
+      "endurance"
+    ],
+    [
+      "t",
+      "trustoveroutcomes"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

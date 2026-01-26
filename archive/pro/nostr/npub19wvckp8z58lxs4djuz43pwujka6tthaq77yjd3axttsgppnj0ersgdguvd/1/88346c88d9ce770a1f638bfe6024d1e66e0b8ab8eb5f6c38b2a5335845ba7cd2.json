@@ -1,0 +1,60 @@
+{
+  "content": "# Note 5 — Durable building - 1/25/2026\n\nThe goal isn’t to build fast.\nIt’s to build something that can grow without losing itself.\n\n“Everyone who hears these words of mine and does them\nwill be like a wise man who built his house on the rock.”\n— Matthew 7:24\n\n#Marketing #Growth #Building #Durability #Truth #Rest #Renewal #Memory",
+  "created_at": 1769365150,
+  "id": "88346c88d9ce770a1f638bfe6024d1e66e0b8ab8eb5f6c38b2a5335845ba7cd2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "75be7787bca2581e8752e6c7ecf1005f3169b9b2ea627e7334b11c0db323f66af68a8131323a9c322a5c3e365b91cf85451d21ca22991f8257c45634dcf36a07",
+  "tags": [
+    [
+      "title",
+      "Note 5 — Durable building - 1/25/2026"
+    ],
+    [
+      "published_at",
+      "1769365150"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "marketing"
+    ],
+    [
+      "t",
+      "growth"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "memory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

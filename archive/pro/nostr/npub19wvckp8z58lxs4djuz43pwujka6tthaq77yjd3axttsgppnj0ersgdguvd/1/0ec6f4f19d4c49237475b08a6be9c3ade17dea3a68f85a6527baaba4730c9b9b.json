@@ -1,0 +1,60 @@
+{
+  "content": "# Note 3 — Growth (the qualifier) - 1/25/2026\n\nGrowth is not the enemy.\nGrowth that outruns rest, renewal, and memory is.\n\n“Better is the end of a thing than its beginning,\nand the patient in spirit is better than the proud in spirit.”\n— Ecclesiastes 7:8\n\n#Marketing #Growth #Building #Durability #Truth #Rest #Renewal #Memory",
+  "created_at": 1769365247,
+  "id": "0ec6f4f19d4c49237475b08a6be9c3ade17dea3a68f85a6527baaba4730c9b9b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "048a480d7453a3d2a0809b7bfd2f66370506a2fc164dc7b240820dcf12eeb71e8015bac6c5d1a34dee57342a2752e7a912ba5a493eb6f2b55e014b97e581da93",
+  "tags": [
+    [
+      "title",
+      "Note 3 — Growth (the qualifier) - 1/25/2026"
+    ],
+    [
+      "published_at",
+      "1769365247"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "marketing"
+    ],
+    [
+      "t",
+      "growth"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "memory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

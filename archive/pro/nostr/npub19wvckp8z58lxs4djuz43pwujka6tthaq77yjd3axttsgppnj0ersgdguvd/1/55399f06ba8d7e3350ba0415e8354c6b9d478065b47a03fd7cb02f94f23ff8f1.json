@@ -1,0 +1,68 @@
+{
+  "content": "# Note 5 - 1/26/2026\n\n“The plans of the diligent lead surely to abundance.” — Proverbs 21:5\n\nDiligence isn’t hustle.\nIt’s patient, repeated alignment with what matters.\nSlow faithfulness compounds more than sudden intensity.\n\n#FaithfulWork\n#DailyBread\n#SowAndReap\n#SteadyObedience\n#ScriptureInPractice\n#BuildQuietly\n#Endurance\n#TrustOverOutcomes\n#FirstPrinciples\n#Continuum",
+  "created_at": 1769463336,
+  "id": "55399f06ba8d7e3350ba0415e8354c6b9d478065b47a03fd7cb02f94f23ff8f1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ae27728909d6845dbde8720714ff3e01dd7c1475a641c404f9c587ca28f59cde0b9160ff4bf05a27e627c0c50d61d0fb452d616ebb467b94cac8baff4269be53",
+  "tags": [
+    [
+      "title",
+      "Note 5 - 1/26/2026"
+    ],
+    [
+      "published_at",
+      "1769463336"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "faithfulwork"
+    ],
+    [
+      "t",
+      "dailybread"
+    ],
+    [
+      "t",
+      "sowandreap"
+    ],
+    [
+      "t",
+      "steadyobedience"
+    ],
+    [
+      "t",
+      "scriptureinpractice"
+    ],
+    [
+      "t",
+      "buildquietly"
+    ],
+    [
+      "t",
+      "endurance"
+    ],
+    [
+      "t",
+      "trustoveroutcomes"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

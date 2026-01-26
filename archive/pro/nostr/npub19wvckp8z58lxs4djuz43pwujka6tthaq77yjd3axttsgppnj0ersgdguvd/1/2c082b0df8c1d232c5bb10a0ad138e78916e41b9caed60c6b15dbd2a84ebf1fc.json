@@ -1,0 +1,60 @@
+{
+  "content": "# Note 2 — Marketing (the line) - 1/25/2026\n\nWhen marketing runs ahead of the product, the system gets louder and weaker.\nWhen it follows the work, it makes truth legible.\n\n“Wisdom is justified by her deeds.”\n— Matthew 11:19\n\n#Marketing #Growth #Building #Durability #Truth #Rest #Renewal #Memory",
+  "created_at": 1769365307,
+  "id": "2c082b0df8c1d232c5bb10a0ad138e78916e41b9caed60c6b15dbd2a84ebf1fc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3a9250219b5fa8ca795871df4ed0c3d30d0300796dc026226919ad48e1dada5830d67538a9f52df1dc7a05ed979a34a79543800dc5b20931bd71a5f7bf04c4b8",
+  "tags": [
+    [
+      "title",
+      "Note 2 — Marketing (the line) - 1/25/2026"
+    ],
+    [
+      "published_at",
+      "1769365307"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "marketing"
+    ],
+    [
+      "t",
+      "growth"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "memory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

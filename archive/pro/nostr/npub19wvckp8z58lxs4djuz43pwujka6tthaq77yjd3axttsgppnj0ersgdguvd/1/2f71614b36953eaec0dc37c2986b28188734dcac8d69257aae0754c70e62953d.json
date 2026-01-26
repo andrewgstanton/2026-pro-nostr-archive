@@ -1,0 +1,60 @@
+{
+  "content": "# Note 1 — Marketing (why it matters) - 1/25/2026\n\nMarketing matters when it reveals reality instead of compensating for its absence.\nThe best marketing feels like recognition, not persuasion.\n\n“For nothing is hidden that will not be made manifest.”\n— Luke 8:17\n\n#Marketing #Growth #Building #Durability #Truth #Rest #Renewal #Memory",
+  "created_at": 1769364877,
+  "id": "2f71614b36953eaec0dc37c2986b28188734dcac8d69257aae0754c70e62953d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e50b55ba89fa15fdde9f49c1f848b9e1a67721b1fa032005080cde0d2f57e11a6b705e8faf3bd89e2bb277d176d08bcaf08f0d8be6a0db3793ed74b75524e3d6",
+  "tags": [
+    [
+      "title",
+      "Note 1 — Marketing (why it matters) - 1/25/2026"
+    ],
+    [
+      "published_at",
+      "1769364877"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "marketing"
+    ],
+    [
+      "t",
+      "growth"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "memory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

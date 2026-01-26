@@ -1,0 +1,60 @@
+{
+  "content": "# Note 4 — Growth with rhythm - 1/25/2026\n\nHealthy growth has rhythm: build, rest, reflect, continue.\nSystems that never pause don’t compound—they fatigue.\n\n“For everything there is a season,\nand a time for every matter under heaven.”\n— Ecclesiastes 3:1\n\n#Marketing #Growth #Building #Durability #Truth #Rest #Renewal #Memory",
+  "created_at": 1769365202,
+  "id": "ac07c0d062c6c0aca268cf780c0290dbdc07cadc609bcc8404e7044c086b7a48",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "16d045ba8b4d3e1c6cadce1623a28e197fcfb61f2f93066a65fafbee2c113843346b808b8f5f3f27badf1826cc8e3f892f2846625b079d550871a90dddf98c5f",
+  "tags": [
+    [
+      "title",
+      "Note 4 — Growth with rhythm - 1/25/2026"
+    ],
+    [
+      "published_at",
+      "1769365202"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "marketing"
+    ],
+    [
+      "t",
+      "growth"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "memory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
