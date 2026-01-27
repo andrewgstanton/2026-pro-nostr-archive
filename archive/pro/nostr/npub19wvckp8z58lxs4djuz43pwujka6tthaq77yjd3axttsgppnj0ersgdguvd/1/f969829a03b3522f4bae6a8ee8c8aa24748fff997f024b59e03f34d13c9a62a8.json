@@ -1,0 +1,52 @@
+{
+  "content": "# 2. Resilience Is Built Under Weight - 1/27/2026\n\nStrength that has never carried load is untested.\nEndurance isn’t protected from pressure — it’s shaped by it.\n\nLearning how to hold weight matters more than avoiding it.\n\n“Blessed is the one who remains steadfast under trial.”\n— James 1:12\n\n#resilience #durablesystems #longcycles #buildinpublic #independentthinking #consistency",
+  "created_at": 1769541791,
+  "id": "f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8aa993f70cd14438e39025fdc090f1049bf921cd60a2f5aae6c5e08ae9faa29ea409af916af49a59b4e9485205769593e92b36792eb9c8d7f4a448fd028a83bd",
+  "tags": [
+    [
+      "title",
+      "2. Resilience Is Built Under Weight - 1/27/2026"
+    ],
+    [
+      "published_at",
+      "1769541791"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "durablesystems"
+    ],
+    [
+      "t",
+      "longcycles"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "independentthinking"
+    ],
+    [
+      "t",
+      "consistency"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

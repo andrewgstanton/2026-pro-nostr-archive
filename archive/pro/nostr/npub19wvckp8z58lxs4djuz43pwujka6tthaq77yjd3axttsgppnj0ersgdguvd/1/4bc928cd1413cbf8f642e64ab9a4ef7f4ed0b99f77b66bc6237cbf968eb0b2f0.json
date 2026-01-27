@@ -1,0 +1,52 @@
+{
+  "content": "# 5. Resilience Respects Time -1/27/2026\n\nNot everything resolves quickly.\nSome outcomes require patience that feels unreasonable in the moment.\n\nWaiting isn’t failure — it’s alignment with reality.\n\n“Though it linger, wait for it.”\n— Habakkuk 2:3\n\n#resilience #durablesystems #longcycles #buildinpublic #independentthinking #consistency",
+  "created_at": 1769541627,
+  "id": "4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a77f2252d21f4e03a7c2658660452758d66aefa8d88b462f60ab708b908c6c6c6293bb08f761fafdb2bd717aa24b40d219322a08ad0d24d22f0d467fa34df974",
+  "tags": [
+    [
+      "title",
+      "5. Resilience Respects Time -1/27/2026"
+    ],
+    [
+      "published_at",
+      "1769541627"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "durablesystems"
+    ],
+    [
+      "t",
+      "longcycles"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "independentthinking"
+    ],
+    [
+      "t",
+      "consistency"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

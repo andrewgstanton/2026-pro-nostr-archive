@@ -1,0 +1,52 @@
+{
+  "content": "# 1. Resilience Is Quiet  - 1/27/2026\n\nResilience rarely announces itself.\nIt shows up the next day — steady, unremarkable — when stopping would be easier.\n\nThe most durable work is usually invisible while it’s being formed.\n\n“Let us not grow weary of doing good, for in due season we will reap, if we do not give up.”\n— Galatians 6:9\n\n#resilience #durablesystems #longcycles #buildinpublic #independentthinking #consistency",
+  "created_at": 1769541873,
+  "id": "07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aaca0a3057ac65d39e42377736d514ebac00ced48e4d73f82edeccbc07fdb5b3d95bd018230aa81ccad227e455d56290cec589363ef83de4baa1e08301190403",
+  "tags": [
+    [
+      "title",
+      "1. Resilience Is Quiet  - 1/27/2026"
+    ],
+    [
+      "published_at",
+      "1769541873"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "durablesystems"
+    ],
+    [
+      "t",
+      "longcycles"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "independentthinking"
+    ],
+    [
+      "t",
+      "consistency"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

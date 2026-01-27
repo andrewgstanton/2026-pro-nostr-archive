@@ -1,0 +1,52 @@
+{
+  "content": "# 3. Resilience Doesn’t Depend on Applause - 1/27/2026\n\nSome of the most important work happens without feedback.\nNo affirmation. No signal. Just continuation.\n\nResilience is staying when no one is watching.\n\n“Do not grow weary of doing good.”\n— 2 Thessalonians 3:13\n\n#resilience #durablesystems #longcycles #buildinpublic #independentthinking #consistency",
+  "created_at": 1769541736,
+  "id": "2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6ad95f7d94d2a3892e75b9856e1131c99a8d4e5c504104ae6ed19902b34b45258edaca5662c0c863509cabdcdef5166b1a45370b46eb097124437f3db79c602d",
+  "tags": [
+    [
+      "title",
+      "3. Resilience Doesn’t Depend on Applause - 1/27/2026"
+    ],
+    [
+      "published_at",
+      "1769541736"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "durablesystems"
+    ],
+    [
+      "t",
+      "longcycles"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "independentthinking"
+    ],
+    [
+      "t",
+      "consistency"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
