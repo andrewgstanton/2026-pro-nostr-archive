@@ -1,0 +1,52 @@
+{
+  "content": "# Note 1 — Resilience Is Not Loud - 1/28/2026\n\nResilience doesn’t announce itself.  \nIt shows up quietly, consistently, when there’s no applause.\n\nThe systems that last aren’t optimized for attention —  \nthey’re optimized for *continuity*.\n\nTrue resilience is boring to watch and impossible to replace.\n\n**“The plans of the diligent lead surely to abundance.”**  \n— Proverbs 21:5\n\n#resilience #discipline #durability #sovereignty #building",
+  "created_at": 1769626741,
+  "id": "988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "954b7cc2454b9825ac20850f4ea31016d2bb5fbf660434d3b072c055caa4bc90b51bc29adc758f6336f71f2170f56d32741d00d0d00b01722c56a16cdd38687c",
+  "tags": [
+    [
+      "d",
+      "note-1-resilience-is-not-loud-1282026-1769626741"
+    ],
+    [
+      "title",
+      "Note 1 — Resilience Is Not Loud - 1/28/2026"
+    ],
+    [
+      "published_at",
+      "1769626741"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "building"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

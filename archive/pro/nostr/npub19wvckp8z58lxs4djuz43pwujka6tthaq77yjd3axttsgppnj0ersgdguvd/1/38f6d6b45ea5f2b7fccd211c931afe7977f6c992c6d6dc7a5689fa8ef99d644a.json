@@ -1,0 +1,52 @@
+{
+  "content": "# Note 5 — Quiet Conviction - 1/28/2026\n\nConviction doesn’t need to shout.  \nIt just needs to remain intact under pressure.\n\nIf your values only hold when they’re popular,  \nthey weren’t values — they were fashion.\n\n**“Let your ‘Yes’ be yes and your ‘No,’ no.”**  \n— Matthew 5:37\n\n#conviction #integrity #values #clarity #sovereignty",
+  "created_at": 1769627105,
+  "id": "38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bf7750fa1194a9b05144cdd1e56bfc7b1f37b4132a7b6499a378160410562abc54382f98742ab7a5cea342baf9ffb19e08c8f523d4e8f7c4613cf33643d7b555",
+  "tags": [
+    [
+      "d",
+      "note-5-quiet-conviction-1282026-1769627105"
+    ],
+    [
+      "title",
+      "Note 5 — Quiet Conviction - 1/28/2026"
+    ],
+    [
+      "published_at",
+      "1769627105"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "conviction"
+    ],
+    [
+      "t",
+      "integrity"
+    ],
+    [
+      "t",
+      "values"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

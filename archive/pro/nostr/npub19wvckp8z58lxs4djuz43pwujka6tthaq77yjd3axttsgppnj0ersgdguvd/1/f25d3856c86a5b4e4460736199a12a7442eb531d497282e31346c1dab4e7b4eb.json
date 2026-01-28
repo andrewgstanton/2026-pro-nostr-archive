@@ -1,0 +1,52 @@
+{
+  "content": "# Note 4 — Depth Beats Reach - 1/28/2026\n\nReach is easy to fake.  \nDepth takes time.\n\nOne person who *really* understands what you’re building  \nis worth more than a hundred casual reactions.\n\nBuild for understanding, not metrics.\n\n**“Buy truth, and do not sell it.”**  \n— Proverbs 23:23\n\n#depth #truth #clarity #signal #meaning",
+  "created_at": 1769626965,
+  "id": "f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "560f06d6124855d971fcf2fca5468fab5e32c52ac3134e57215b9e700a48795bdf0221f74114493c561ab60c1546a82bcb13c2b5c05dbb183e2ba39c1a3c758a",
+  "tags": [
+    [
+      "d",
+      "note-4-depth-beats-reach-1282026-1769626965"
+    ],
+    [
+      "title",
+      "Note 4 — Depth Beats Reach - 1/28/2026"
+    ],
+    [
+      "published_at",
+      "1769626965"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "depth"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "signal"
+    ],
+    [
+      "t",
+      "meaning"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "content": "Excellent as always\n\nContinuum was built with AI just FYI",
+  "created_at": 1769626557,
+  "id": "b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2468fbb7eec6bb1963ba9fa72a17b562eb7d435dfe63648538c83a649c77f1763ea7792f233b85f16bf75dc8e970b1484888d38004bf97332c38cbdfed8eefb6",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:the-ai-deflationary-reckoning",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
