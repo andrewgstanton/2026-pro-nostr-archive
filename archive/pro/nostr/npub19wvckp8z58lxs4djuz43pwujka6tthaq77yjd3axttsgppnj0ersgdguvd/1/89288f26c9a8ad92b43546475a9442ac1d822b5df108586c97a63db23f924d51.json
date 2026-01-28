@@ -1,0 +1,31 @@
+{
+  "kind": 1,
+  "created_at": 1769561257,
+  "tags": [
+    [
+      "d",
+      "notes-are-now-editable-in-continuum-1769561100"
+    ],
+    [
+      "published_at",
+      "1769561257"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "title",
+      "✏️ Notes are now editable in Continuum"
+    ],
+    [
+      "e",
+      "2e6d63f2f16ca5323d95a123ee787d515a3d924852f6398b0106558ef4cd5f90",
+      "edit"
+    ]
+  ],
+  "content": "# ✏️ Notes are now editable in Continuum\n\nWhen you create a note in Continuum, it’s published with a d-tag by default — which means it can now be edited and republished cleanly, without deleting history or reposting noise.\n\nThis is a big step toward treating notes like documents, not disposable social posts.\n\nSmall feature. Big implications.\n\n(I just edited this note FYI -- this edit was added to the original note content above)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "89288f26c9a8ad92b43546475a9442ac1d822b5df108586c97a63db23f924d51",
+  "sig": "e800b50684a9bc6282da76472b6269f33408aa801fbcaa761d80ce25fd387445b18d2d9bde7f5b8ea59245ce846a9d30fa880877da6cc50c6d89f5c2d38ffa00"
+}
