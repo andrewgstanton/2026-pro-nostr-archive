@@ -1,0 +1,82 @@
+{
+  "content": "## Long-Term Builders Design for Failure, Not Success\n\nShort-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:6UEOdMASllmlTaKweMWsm35447h1FKGeXHcQ2tmylSmLd9ff2ATeXkuv3TSnCVqHrVXj7LP4HLA2k52fd4Led6VAcpZWl6H0K3_xdALhJbeLb7oehlXoTz50liuO7VVBPGzKvNLyZgmGiwfX0wJYnlWksx_WdDnfbDugA4BFWMifLwWHtFn-KMdsZm1TTF7ClgYNlio1onUVsxzSzAqB0aAJNf_lqm_DYmJ6w6s24d0tQS-B7Q4yR8CSN2a2_zoCrBtUkCposZHWxRjyfAIcBKHuJxWR5qKriNGyyxhMLYjzPgnp0WQipsE2X5qcq5pBZL78l7JtoIamP0WVSAkxbRRUK_aM9O75JNqMchoXwnNgPmZrhXumgRuiT7efquvyilly8PF48sYd1SScG7Pz35KNXJhvPixRW8MFv3H2wBzngFVLeIf3dqEji_oT0PFrj6KGSYbb4L606oYDI56blQ9vTTrV-Rt6_XFTk6aXfXwkQsa4ibeZh-D2xFN8juo_UAWU52vT7M8fl5mKKLcorEvLfw9OgNJ3aXPzCg5zpMljDgTFu0zZorr-VjbBu6UZhZwCIQwdQFK33L6X5ltunAtlXFxEOzDdITffwaGOFbh-9S-1W3FdlUiQkcUATy28M7W_aNl1E4MRcFA4SER7Lk4OaynHVEzYyvE-cW_nMzY5w4ZbfmnJRyYehmAwL-KWlFgSFJVJcVlGk7wXQsGYjqlWNvfC_wZGQ_R96Xk087aN0KdLySgJZTNgcvUqEfJwqx1huUYnttJ50b35wCwI3lwSLiB84haB2QpffGly-Qp6mbZwDt9Ru9PqrKVNpZ3tWoaU1IYdPAO8xLwHeR3SZzmLz2Tql7EQsNZ27aSTTm4DnEdlkDzexLhMPaaU39TnL0OxpbXcCP_FcqWcFdGYZ0pnsJL-k-Ltuath-GvuBBWPkKNISQB_4ZUfxNhqqtgNI-7ikwdos6d6d3xVzMF7vUFu7AMgnfSx2O3P_b3a_o-vO7tVwDx6ZB7ATPKRTtZ00Vg-xXq0WNv2XXY-fQ8zysYgBC8W3RicWhA8LAEzO0RLWsrZuMtQDQZF4_8JTmZUSJLlNCRSv9WdMLL0fMknIZcSKvCw3st138zL5w1epcWmlEBXMeml7mGhHNlN9xvb_IoA-WCsXMR1cl_Kti2y9K3oGCHkhGcWiOEGioaSvIgNC4YcCFi7w7Q2kdVZKUHSybe1qRPdACaGuXkdieoJjENpdl-7rGofUDiP3DxLCpiwERZG5XXVfLZDOKuhh1DVFJOxzg36ziTWK55cVE_qDDO3FpKFAApBewNZrOhaG30mgeQBeWCKoIBXAm_6eIeIAyKE-9OQIRHQzH3J1gku0lEg_ZNOEBkDATpRgwqHUr8S3GGxdeK4MZ85rOOkcI1Z8mtmaO51_QLUMURPmNVfEAM9lts__Cw1mHXt3qqzP1u_cafMj_nfXpLY9J1p_79TipmofK_gU8jCWcBU5GqAEXPUfehh-zQqQCcDAz1feoPVzHT1HgFVFMRyucdY31NEAbO-2j_Y8LyNgZ-jkg_ow72m26f1-d6HXfwKPMhg5WCN87e3m3GRqnvkfucooIR6wKJcmvf155yqElBAIsN3PEdC9lBxtZPEYoNZIjtTwfu12zFnDp9rKrQWSktzVQaFZXm2hoFkfH6s1Nuq-fcxE48f8aR3SaWFaWmeBvDPgpOi4PVOo_uNbTQzghnE4h_V22g4QHQHixDqtLUhGoaLmJvLUD1Jr5C3my15LkDjHVGV6nFsOyufyWV9u9pC4c0dYoKrca_FXCEfSq5taZE3uFfrS_vEMf5m1m8RoKAl-c5AqoU15J6XsllbIleZ4bWpe-w7mZQETdQVJYMadA1Z7oNA9WO5Msk_wyiILx5oelyBzBqw57cht3lZX-MRtWRfExO7G8fUgZS2P38XkXJkKELzdAbO1NzSH8XBBbjsCtc9ncbj9gTYi1kyoq4TWdB2Uo7VFmn1X4vcAHXMDByxc4oHC8jPzeZhf9ORA2OLDkVxqjdq6_snotg0FQqb7edvmghlotkCy9PBa1sBnEepc3L6YX-yvW2wDJA3iuL9rBsmBq4zbFrMzZaoiGopPzpq9H99lvST4UW1kvu4TBPrT35pU9WW1qGrfffbYtLXkBswkmaXQdWcEWDRjGdTgeorE-7U1bRNekAowT5piaC2cnmWra55D8JDRbCDsJHdHASrwh_yJsiJuzQwKySeHhm6KONfkkgLLQdjn0LxgUS5MUviNLlnmHwhc5-ZFK8TZVjf2DDQv7Be0YnEF1akLmA0go8xLitwGC3kG-8C_UyfuEQoO_C2yFq-tPqWj9jDtc8bMBR1TIPYUQ44zo9H1YkjVjN7zCprsPs5lV8JfMHkTk6O8X6AiL_O3Vx_xqrUeH9ux5KCM63pmm6qshQj9bzbjb9Sz4aFqTsO49XuVIy6FVn4KmSi8aKXCuAUSiJUo3esrlAzOLhgL_hP-GGATht6sZru00sQs6H7EMMXlKguxtdCKpYolFiQBneylYKEzGV3YRKObf_y_i7v93M886wnT2wFe1HAfsmI-4nodfqYdgjRdP3age6fzwxDIiGEYwFebKT5767br7TfXD9NGhUQ3OXx7oHtye6CQCrgBb1XaEr1Phl0AFLfENr_Tog-nrbC17Ha5kNbYVdJvdw8KJSz833_-7GpvPKBUzx9bqS6SRDFOXhTmA5dWAi62gqVLLgwJC2jXfMpdjoGiK5-e5Lb1zwdax1iQD-PWGNADmFcZHa4ylSis8bhaaYBlpq5a0LIfGcdCzlWSfooC6tVGv_VnWub6-sW7esdzjfADP7mkHvkcfkFOnQa6gsbdQMtodpXSUWJi6UF8c4-SM4TR_Ahh9tRKN62VyDe5KuR5FNlnt5aH6eZI_D-XNbHECVSIJHOFdmy1w21d8mIx-I0g1TdL5YKKKr50p-QpvrV9sD4xO7g9F-FoK0jMmNLBvjhLOp2UsDkVvAGuGYoJGJmiPV4N7t6sOTC7y6I1CPQRk9L6t7_aCt0C-fxNmEjUt3IkPqq7kmrpfYFY2D8skGO4p_v7owMZCObDmlMgLnCePTfYXms_AnVZZaLTQ_9-4UYX_27kzR57QgzULc_iSTQgUcrpqWlm_Ldb4Jxq1UJwk1ZyBDiXCDlFcppp_5jL76gjpVGxIxLjP4SUjQdoCYgUYEpdZ3tp60hHU1wbSg6Qae2EMdwtKvkeFZwjvLpON7FcetUn-4JXydTEZMOTQGbI6ar1CICQ-3O5SgCJhjYQc_JX1Rqrtnm-29JtrX27hhwjfRlstWijzT8hopA_YkGNLEMcmdxR_GUOQ1dvwovQe_agivzykAqyU6Mtzkg1vWFrlz2F8MRWuKkxAbIZkTaBX6WlNpVddpbPn0seiPf334DNJKwCExfnRm6DQh0YRRHd6VBH17sxQekcgjHrTzE6zMd0pYzCqOLjIdQ_wy2itJKbU7hvLHXE_mCI087N0UirKBIxS5dqtA6kUhL6mHikksJ2Vw3aW9iwuE8Sx7u-bZPTr2WPikmiufXvMP2yKYR5kpxMuMPXCZH4mjy9-V7ZTsO9w4d4DOYsg6I8kG4k8c9DYTOlXiylRi3iolb_6rjr3dFLp6u5CY6_hLjVx8_Zl_e3DowdAIUIEz9hA4_S0Y1bF4YS9RhqO0pSq9NCrOpuFlGKjy2uW6OaflnZt2ghysFDjwotXWyiyj28GmeJrVjTvOmGQFQhQBTUKiZUus0o9TRe3ukVjYR4YBbtM66v9ViS-D-vY8kdPsy_niE1JIla58IZHbWK4AeOpc-cjVBWsQtCplj29WHDcb4JvXqOJVJW-642BNY9aXFeepdLsFKGJKB0oKq_V8G-adG-MV2h32RnThLGueTwC71B46FPnoWntznwcg90AnGy-Nhwo0BDQxKx7b_8mIS3OYkitESmIGt45DV4ShbBtnbLzsu3JJCgarECTW5TR2DKM6UyLd0LeqmJhlTuYlFDraHqHWUJe9hjRxvlcWFjMARX6o3VXE0cU77_-VpiHykb4sZW3mMfYb1q5gIq8hb-5SmMSPl3TI96xF6FolW7DQuKUZEzGr197sivG2f6uQgeOwgyvkrCJCAbA6SnoXWKZx7sizspfF8eGx6AmFrMxifuBzlER9Sx3TAeKEo3nA1NgTJqT3T2yn25QDmmjrXlHS0AISc3I-5zYLLUNGRDUfGNeIYbEN-K4j6azVxJ0PCQII2TLGxAjPCF10O-PAw_s66m8mA-2Vemo-91jE31gG-H8r1WaEknwnTmaKYi005wiO4orHWfuom5m-Mo1xgg08390PEoJJAxsyDZmaZwakWbps0P72r1ALVXVF1oCK7TMH1sdWS0VIAMY0mTeEtn0nD_dyJlZ5FUGmZzU_q2nQza_tyFVFlhumIvEU7LWibqsswZHxlTwq37XzsA0xbqqpV8BM0oXhsFnV_yetJUwY43VIGIolQzBSpZfIQgJwJTC6raOW-6Ul9aaAvoV-1bnqrRn_FNlAupLP-WE3ndzMA4ELLtUY0f-jcl9vDMVjfs8jw1DgXD1_nX71T5hwqsIpMzLF-F2jo-KyQgzSQeC770aB2U0LfUKQQV6fdzWQPvrpWYm16IPmaKmjOKeibxHYHGUHgJyQg0ADrexwjNRC7w22fi6clUOUsGLjmYVLoiHotL4vGbJDssfAGNGXuFc3K8S-TC6_q6c_rUa66DOydXx5PpRkyf2XjGjYmkeX439xV9nCkdtIR1yFI8fFpyq67sIqWPBDF_wsDbsXwio5wm7VHS_HH2ikyX3vYJAV20Ilp-CqN-5tOAfmvVEzX-YF9okdDeFwVEbzuEOkPI5-qsGZ8BcWmBN2-kQ5oYeqgHRU_9RDD21HsSuU6eyZfoSFNWLwVBPFKy80nYXqgThvfhRdywQWHJuEofoJWTxrP2D2mbTivS3G-A9Mo-Owq4y3QiG60pFOp0ehU6wkIUuSFcBFMP3nEgY3eORP6AQpnPoC09kDCAdPQQ_wHLUaUiGlvDlA7vNSq411RAbgNbO_Lronhck-iRphg9YqjmbXspje68gEgbglikeZm7KUeyoO0owRtgi2QiqT9R7aqFWUGhU-h8y9ZlHg8SE-DwwpCHs50RoKVSbrx-1yPaLPYrYr37ic6Gu4FHkoHsDNwvblrW_Naw1EamOP7Ib2pZQHhC74_DIU5_JsglyCS4rOF3wQhlCtwa-hd-GzoAYgXF08XlD8GV3GZkckFA942PGJqWAZLy9M9SUu9sRBGBewqdIfBYDBizifyih8f_tFCdqNiDLaIPq-e_BAZOUAXpVd2-PJ11jeYFbpSIdxsmWIqEzcGVr0Lx5QJdHMb1EjcpVM8itLZLrdlCxgBbRCIo4BOJQMEF1uO6K6OyYq2QFuYlNBan8aqlYN7Ukus19pRQMZDQvsjXODTw4Cmaf4_KzOHeYBo_SO5cOiHq4ZpqxFaYZ5YQKeRgS1dnNcjJEdEnRLlDs6PrUtKcsq8YZcHEqRGNoptbPNhemeZ8toRngdJpJLXHaE3uzT6zGIeB_FPWqtDSN_MvxJSj1yNbnplvMyW3JrC51MIUtB5-1TAi94h_JOi1L28hAbLuYqkmVZNz_XoYqE-Rv--oUjna9g2yYJSdSfMoYfTvmGsX4dcIsRzR0VJ3nKj15_FwSHX9vc4CYjIJKjiKJ33F2S4caPsARI8QTtLdBWNebrF0BccaMt590yP8ndBdIPBfIKHdrshVhAlmHTcCdcWShBvfzxdMcjmBxKigt9QFtNEI_qPjGU44TxhPcSiNnhQdIZdTTQ5zLJHQT6EVDXdc2e27_7AHWstAL8Uns9KgbPFb-Wrf5_EyA6lXk1jOkt8DrczpdwEX-V9RZZ9FxTliQUqZjxiHQYMokpBUkYgUf4lZuESLRHYyMr5qDwhi0_Raib9j2UkDsa-mmtT4ftzIg4hNzHJyCLzzlvHWprosQHzh5i7kCrFGo6CVb92mmznIE1w6X1dxIQuAIV6TkWgYw\n<!-- ENC_BLOB_END -->",
+  "created_at": 1769731970,
+  "id": "230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8578ba1bef5e2dc492cbfe645a4edf5bfcb8e31a44a3f35fd29b83105dc9325b91157111bfe63b0b4cafa9513450617d50d33292519d191f27d245daea691ba9",
+  "tags": [
+    [
+      "d",
+      "long-term-builders-design-for-failure-not-success-2026-01-29"
+    ],
+    [
+      "title",
+      "🔒 Long-Term Builders Design for Failure, Not Success"
+    ],
+    [
+      "published_at",
+      "1769731970"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Short-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure."
+    ],
+    [
+      "display_date",
+      "2026-01-29"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "systemsthinking"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "463dcc87ad142a0505a49b2ae45cd970dae9b85051fc826e955c469a20771c99",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://offchain.pub",
+    "wss://relay.damus.io"
+  ]
+}
