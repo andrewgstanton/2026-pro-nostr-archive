@@ -1,0 +1,52 @@
+{
+  "content": "# Note 1 - 1/30/2026\n\n1️⃣ Building isn’t about rejecting tools — it’s about not mistaking tools for foundations.\nA client can be beautiful, fast, even joyful… but without a foundation underneath, you’re just visiting, not inhabiting.\n\nContinuum is the foundation.\nClients are the view.\n\nYou don’t skip the foundation because the balcony has a nice sunset.\n\n“Unless the Lord builds the house, those who build it labor in vain.” — Psalm 127:1\n\n#building #sovereignty #longterm #foundation #continuum",
+  "created_at": 1769805543,
+  "id": "7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2bcb96a78f6a2572712540b2ee648cd83a6812eaacfd24ee0f724dcede2e504b37ece144579b4e70b476c31444891f20e99af8b9f26c4fa3da9dc69b1921c5e5",
+  "tags": [
+    [
+      "d",
+      "note-1-1302026-1769805543"
+    ],
+    [
+      "title",
+      "Note 1 - 1/30/2026"
+    ],
+    [
+      "published_at",
+      "1769805543"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "foundation"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

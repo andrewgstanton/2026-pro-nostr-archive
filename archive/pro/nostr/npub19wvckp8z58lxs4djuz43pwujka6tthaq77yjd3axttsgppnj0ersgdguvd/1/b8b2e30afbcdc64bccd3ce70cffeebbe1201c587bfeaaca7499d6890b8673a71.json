@@ -1,0 +1,52 @@
+{
+  "content": "# Note 2 - 1/30/2026\n\n2️⃣ Hawaii isn’t just Waikiki.\nIf you only stay at the hotel, you’ll think you’ve seen it — but you’ve missed the land.\n\nNostr isn’t just feeds and vibes.\nIf you only use clients, you’ve seen the shoreline — not ownership, not permanence, not agency.\n\nContinuum lets you live there, not just vacation.\n\n“You shall know the truth, and the truth shall make you free.” — John 8:32\n\n#building #nostr #ownership #freedom #continuum",
+  "created_at": 1769805618,
+  "id": "b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "33b53e4450655b7e3853c3abfd98592d770d400b3c9a47bc82a6775e9c2eaa8b3814fd46693c9279c0b59fae4c72f3ed569fa8a583db2a1f59a716d12048bb01",
+  "tags": [
+    [
+      "d",
+      "note-2-1302026-1769805618"
+    ],
+    [
+      "title",
+      "Note 2 - 1/30/2026"
+    ],
+    [
+      "published_at",
+      "1769805618"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

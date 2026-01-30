@@ -1,0 +1,52 @@
+{
+  "content": "# Note 4 - 1/30/2026\n\n4️⃣ Building feels slow when you’re pouring concrete.\nIt feels invisible.  Unshareable.\n\nBut when the storms come, no one asks how pretty the scaffolding was —\nthey ask what held.\n\nContinuum is concrete work.\nClients are framing and paint.\n\nBoth matter. Order matters more.\n\n“Steady plodding brings prosperity.” — Proverbs 21:5\n\n#building #patience #durability #longterm #continuum",
+  "created_at": 1769805875,
+  "id": "d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "704c5aa08ca3e2920f88f04fd406bd5e166720b57a86cef46402fdf6649af94ca41286f2850a2190e4ecfbf86e7e8a54fd5c55efae459474883f2ce032703597",
+  "tags": [
+    [
+      "d",
+      "note-4-1302026-1769805875"
+    ],
+    [
+      "title",
+      "Note 4 - 1/30/2026"
+    ],
+    [
+      "published_at",
+      "1769805875"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "content": "# A small but important change in Continuum.\n\nWhen I’m viewing someone’s npub, I can now save it locally as a read-only identity reference.\n\nNo private keys.\nNo signing.\nNo impersonation.\n\nIt’s not their identity — it’s my reference to it.\n\nThis matters because it shifts how discovery works. Instead of identities only existing in a scrolling feed, they can exist as durable, local references — the same way bookmarks, contacts, or citations do.\n\nYou’re not “holding” anyone’s identity.\nYou’re acknowledging that you encountered it — and that it mattered enough to keep track of.\n\nClear boundaries matter in sovereign systems:\n\nkeys are authority\n\nreferences are memory\n\nContinuum is deliberately separating the two.\n\n#nostr #identity #localFirst #digitalSovereignty #continuum",
+  "created_at": 1769743737,
+  "id": "a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8cdc345a9d168126dacae2ed3d48b53a2841e0f577865606942bed3b64d91a3289976a38076d0b29a41d3a521dfd50a76156774dc21db14f2efbc253014cc691",
+  "tags": [
+    [
+      "d",
+      "a-small-but-important-change-in-continuum-1769743737"
+    ],
+    [
+      "title",
+      "A small but important change in Continuum."
+    ],
+    [
+      "published_at",
+      "1769743737"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

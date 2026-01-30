@@ -1,0 +1,52 @@
+{
+  "content": "# Note 5 - 1/30/2026\n\n5️⃣ If you only build where others can see, you’re not building — you’re performing.\nFoundations are poured where applause doesn’t reach.\n\nContinuum matters to me because it lets me build once —\nand stand anywhere later.\n\nIf you skip the foundation, you’re not early.\nYou’re exposed.\n\n“Do not despise these small beginnings.” — Zechariah 4:10\n\n#building #craft #sovereignty #independence #continuum",
+  "created_at": 1769805945,
+  "id": "5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c7da3042fa0e4908aec9e4bb4722b4878abace47eed17fd455dad589c5a6288e1acf620c6cd72e9b17fa049ce7f5dc7106198a5d7d6e22d51b8bd9f0ca29ab0a",
+  "tags": [
+    [
+      "d",
+      "note-5-1302026-1769805945"
+    ],
+    [
+      "title",
+      "Note 5 - 1/30/2026"
+    ],
+    [
+      "published_at",
+      "1769805945"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "independence"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

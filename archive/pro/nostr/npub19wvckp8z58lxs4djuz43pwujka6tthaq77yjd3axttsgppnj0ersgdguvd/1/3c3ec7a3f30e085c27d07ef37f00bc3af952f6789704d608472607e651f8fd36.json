@@ -1,0 +1,52 @@
+{
+  "content": "# Note 3 - 1/30/2026\n\n3️⃣ I don’t use Continuum instead of clients.\nI use it so clients don’t own my work, my history, or my identity.\n\nThat’s the quiet part most people miss.\n\nThe foundation doesn’t compete with the house —\nit makes the house survivable.\n\n“A wise man builds his house on the rock.” — Matthew 7:24\n\n#building #wisdom #localfirst #sovereign #continuum",
+  "created_at": 1769805768,
+  "id": "3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "160944334559916f4f70c39950c6d6263bf393a5d4a6d509a7f05107cbc7a3631d8c6438b38769c467d43bd9741c1538e616e154c38893e469897b43dbcc4745",
+  "tags": [
+    [
+      "d",
+      "note-3-1302026-1769805768"
+    ],
+    [
+      "title",
+      "Note 3 - 1/30/2026"
+    ],
+    [
+      "published_at",
+      "1769805768"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "wisdom"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereign"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
