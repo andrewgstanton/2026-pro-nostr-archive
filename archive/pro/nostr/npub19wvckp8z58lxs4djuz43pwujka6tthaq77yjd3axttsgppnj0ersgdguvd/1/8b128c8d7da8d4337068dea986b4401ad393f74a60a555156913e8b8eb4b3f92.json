@@ -1,0 +1,48 @@
+{
+  "content": "# Note 1 — Silence Is Not a Verdict - 1/29/2026\n\nYou can work faithfully for a long time with no applause.\nThat doesn’t mean you’re wrong.\nIt usually means you’re early — or honest.\n\n“Let us not grow weary of doing good, for in due season we will reap, if we do not give up.” — Galatians 6:9\n\n#resilience #sovereignwork #patience #building",
+  "created_at": 1769713935,
+  "id": "8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e7744e9b6cb61499faec689441d1efafbbbd72fb8bca80d510d809f2b28dc9c7830177f43f3abdf63ac6ac3162d5e0918e67cd08d4cd5c09c595c55cd5f9e84a",
+  "tags": [
+    [
+      "d",
+      "note-1-silence-is-not-a-verdict-1292026-1769713935"
+    ],
+    [
+      "title",
+      "Note 1 — Silence Is Not a Verdict - 1/29/2026"
+    ],
+    [
+      "published_at",
+      "1769713935"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "sovereignwork"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "building"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

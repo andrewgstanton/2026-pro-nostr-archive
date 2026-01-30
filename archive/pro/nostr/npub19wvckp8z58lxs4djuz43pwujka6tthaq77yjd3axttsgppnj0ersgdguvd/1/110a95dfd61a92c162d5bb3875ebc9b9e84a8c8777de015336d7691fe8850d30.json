@@ -1,0 +1,48 @@
+{
+  "content": "# Note 5 — You’re Not Behind - 1/29/2026\n\nYou didn’t miss the window.\nYou avoided the trap.\n\n“The Lord is not slow to fulfill his promise as some count slowness.” — 2 Peter 3:9\n\n#timing #trust #buildersmindset #sovereignpath",
+  "created_at": 1769714314,
+  "id": "110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "249d287f04b0d0f8b37ea2ca3962a7a67bdac3603bab13d10c9d50852f96e950e2b7c80d4124638b4aa4dcae3c06043a9a48230c355f092ec66e3e126ba7958c",
+  "tags": [
+    [
+      "d",
+      "note-5-youre-not-behind-1292026-1769714314"
+    ],
+    [
+      "title",
+      "Note 5 — You’re Not Behind - 1/29/2026"
+    ],
+    [
+      "published_at",
+      "1769714314"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "timing"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "buildersmindset"
+    ],
+    [
+      "t",
+      "sovereignpath"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

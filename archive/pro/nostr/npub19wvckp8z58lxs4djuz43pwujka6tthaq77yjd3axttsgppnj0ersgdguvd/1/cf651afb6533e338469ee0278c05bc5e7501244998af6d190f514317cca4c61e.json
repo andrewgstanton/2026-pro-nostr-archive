@@ -1,0 +1,48 @@
+{
+  "content": "# Note 2 — Validation Is a Lagging Indicator - 1/29/2026\n\nIf your work needs immediate validation to survive, it’s fragile.\nThe strongest things are built long before they’re recognized.\n\n“The stone that the builders rejected has become the cornerstone.” — Psalm 118:22\n\n#longgame #quietwork #sovereignty #builders",
+  "created_at": 1769714047,
+  "id": "cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "85337276db79b9cc1875981a78e033ab93940178e7cad0550516789bc419f8d54539fba4c8fff43eafeb4fe7d80cd21707cc2131ba19a8e8fdc410946e2cb02d",
+  "tags": [
+    [
+      "d",
+      "note-2-validation-is-a-lagging-indicator-1292026-1769714047"
+    ],
+    [
+      "title",
+      "Note 2 — Validation Is a Lagging Indicator - 1/29/2026"
+    ],
+    [
+      "published_at",
+      "1769714047"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "longgame"
+    ],
+    [
+      "t",
+      "quietwork"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "builders"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

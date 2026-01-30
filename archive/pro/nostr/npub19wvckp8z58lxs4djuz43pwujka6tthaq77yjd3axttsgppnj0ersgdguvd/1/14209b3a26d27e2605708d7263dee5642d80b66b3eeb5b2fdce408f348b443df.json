@@ -1,0 +1,48 @@
+{
+  "content": "# Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026\n\nWhen you stop optimizing for approval, fewer people walk beside you.\nBut the ones who remain are real.\n\n“Better is one day in your courts than a thousand elsewhere.” — Psalm 84:10\n\n#integrity #lonelyroad #truth #alignment",
+  "created_at": 1769714152,
+  "id": "14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "292d8f2f38fcc67bf26f657b965f34997de0e1939e67898aa67b74748e34c3fa412e749e44ce73e08bf7b7ce720e96510cfbe93c7a00d1dc4253f21c34cd6263",
+  "tags": [
+    [
+      "d",
+      "note-3-loneliness-is-often-the-cost-of-integrity-1292026-1769714152"
+    ],
+    [
+      "title",
+      "Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026"
+    ],
+    [
+      "published_at",
+      "1769714152"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "integrity"
+    ],
+    [
+      "t",
+      "lonelyroad"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "alignment"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

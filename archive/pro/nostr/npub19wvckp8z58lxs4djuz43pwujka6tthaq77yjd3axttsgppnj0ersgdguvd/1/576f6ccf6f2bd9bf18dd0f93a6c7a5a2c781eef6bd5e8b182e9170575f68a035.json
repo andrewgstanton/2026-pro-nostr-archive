@@ -1,0 +1,48 @@
+{
+  "content": "# Note 4 — Obscurity Is a Forge - 1/29/2026\n\nBeing unseen is not wasted time.\nIt shapes judgment, patience, and restraint — things success can’t teach.\n\n“He who is faithful in little is faithful also in much.” — Luke 16:10\n\n#faithfulness #craft #discipline #depth",
+  "created_at": 1769714234,
+  "id": "576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "53074f5760beef2aa6a65c488f7ec3ba1ce72e01d1cdce512c98f142e0e84e974e3e308cf549cfabeea455673b271806ef870f52c624f3926b4c3891629dc709",
+  "tags": [
+    [
+      "d",
+      "note-4-obscurity-is-a-forge-1292026-1769714234"
+    ],
+    [
+      "title",
+      "Note 4 — Obscurity Is a Forge - 1/29/2026"
+    ],
+    [
+      "published_at",
+      "1769714234"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "depth"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}
