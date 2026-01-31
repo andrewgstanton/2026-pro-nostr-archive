@@ -1,0 +1,32 @@
+{
+  "content": "# Reading Paid Articles - 1/31/2026\n\nIt’s not a NIP yet.\n\nThe article body is encrypted.\n\nTo read it today:\n\nSend me 500 sats\n\nDM me the article you want to read unencrypted\n\nI will DM you the full article unlock link\n\nOpen that link to view the full article\n\nExample\n\nSample paid article link (main content is stored encrypted):\nhttps://is.gd/5ov8nh\n\nSample paid article link with unlock code in the URL:\nhttps://is.gd/9KIOD3\n\nContinuum supports this flow today; other clients could implement it too.\n\n---\n\n🇩🇪 Deutsch\n\nEs ist noch kein NIP.\n\nDer Artikelinhalt ist verschlüsselt.\n\nSo kannst du ihn aktuell lesen:\n\n500 sats senden\n\nMir per DM mitteilen, welchen Artikel du unverschlüsselt lesen möchtest\n\nIch sende dir per DM den Unlock-Link zum vollständigen Artikel\n\nLink öffnen, um den kompletten Artikel zu lesen\n\nContinuum unterstützt diesen Ablauf derzeit; andere Clients könnten ihn ebenfalls implementieren.\n\n---\n\n🇯🇵 日本語\n\nまだ NIP にはなっていません。\n\n記事本文は暗号化されています。\n\n現在の閲覧方法：\n\n500 sats を送る\n\n読みたい記事を DM で知らせる\n\n私から アンロック用リンク（全文） を DM で送ります\n\nそのリンクを開くと全文を読めます\n\n現在は Continuum がこの仕組みをサポートしていますが、他のクライアントでも実装可能です。",
+  "created_at": 1769899124,
+  "id": "4df3ee0d790acca5d48875f5e45860ad2caf52c3a135ae0de5f272a2814af528",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "83b66c5a67da7855c7401bc2a60f68812de8f6aabfd29953ded6eab687428f068a0e79c7fd2a5f29b46d16ed90c1a98ac8ccd3fc01e60af31cae6136958dc8ea",
+  "tags": [
+    [
+      "d",
+      "reading-paid-articles-1312026-1769899124"
+    ],
+    [
+      "title",
+      "Reading Paid Articles - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769899124"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

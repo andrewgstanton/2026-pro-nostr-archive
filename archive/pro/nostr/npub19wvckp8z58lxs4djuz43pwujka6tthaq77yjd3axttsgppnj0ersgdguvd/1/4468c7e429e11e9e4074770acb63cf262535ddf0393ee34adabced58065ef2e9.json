@@ -1,0 +1,32 @@
+{
+  "content": "# Publishing cadence (FYI) - 1/31/2026\n\nDuring the week (Mon–Fri), I publish primarily paid long-form articles.\nThese are still standard long-form posts (kind:30023), but the main content is encrypted.\n\nOn weekends, all articles are published unencrypted (free).\n\nNotes are almost always unencrypted — I post ~5 notes per day on average.\n\nIf you want to read a paid article:\n\nDM me the article name\n\nSend me 500 sats\n\nI’ll send you the full unencrypted link\n\nThat’s it. Simple.",
+  "created_at": 1769900004,
+  "id": "4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7e7d776a707b452eb88515ec7cd538f9505b40e9b91082963bda6d3f728b29fbb543579866aeaf4d84a75a7f780848912654713e42ff4d8d54d02de9a5e4b8eb",
+  "tags": [
+    [
+      "d",
+      "publishing-cadence-fyi-1312026-1769900004"
+    ],
+    [
+      "title",
+      "Publishing cadence (FYI) - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769900004"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

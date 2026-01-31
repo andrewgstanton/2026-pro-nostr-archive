@@ -1,0 +1,40 @@
+{
+  "content": "# Note 5 - 1/31/2026\n\n5️⃣\nReal resilience isn’t loud.\nIt doesn’t ask for permission.\nIt doesn’t beg for engagement.\n\nIt just keeps working —\neven when no one’s watching —\nbecause truth can verify itself.\n\n🧱 “The light shines in the darkness,\nand the darkness has not overcome it.”\n— John 1:5\n\n#Resilience #DigitalSovereignty",
+  "created_at": 1769890139,
+  "id": "da43c979dcf566a42597de332c42ed90d6815746f810abfb25a4de28bec2f1e5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4d91cc2c1b2bb74f56374533802fd450fa4d6fbe900d7c7ea1384009b9351d64d1e6293d24f011474fb736cdf984a756211926911335e35df7e6851cb8c8f575",
+  "tags": [
+    [
+      "d",
+      "note-5-1312026-1769890139"
+    ],
+    [
+      "title",
+      "Note 5 - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769890139"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 4 - 1/31/2026\n\n4️⃣ Clients come and go.\nRelays prune.\nUIs change.\n\nBut a signed event + a local archive + a verify tool?\nThat stack doesn’t panic when the internet sneezes.\n\nThat’s calm strength.\nThat’s resilience by design.\n\n“You will keep him in perfect peace,\nwhose mind is stayed on You,\nbecause he trusts in You.”\n— Isaiah 26:3\n\n#Resilience #Continuum",
+  "created_at": 1769890259,
+  "id": "531fc1681d9cd991647cae2cc501b5d63b17cb23234ee392ef0c1b82beb05ce5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bb9322eb3e780c14f823d4f94d004b61ef33eb534d56304b7c54ca02f0ac62bf009f06a40af60b5084f0e69f54894334b2f29805cfbdea32ccd24435acbcd6eb",
+  "tags": [
+    [
+      "d",
+      "note-4-1312026-1769890259"
+    ],
+    [
+      "title",
+      "Note 4 - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769890259"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Note 2 - 1/31/2026\n\n2️⃣ We just built a “Verify Event” tool in Continuum.\nAnd mirrored it in the archive.\n\nThat means you don’t have to trust a client, a relay, or a personality.\nYou can independently verify authorship — forever.\n\nThat’s not convenience.\nThat’s resilience.\n\n“Test all things; hold fast what is good.”\n— 1 Thessalonians 5:2\n\n#Resilience #Continuum",
+  "created_at": 1769890695,
+  "id": "8e09eb3f510560e99bf95e1eea3bbf3725d880a84471529a0ab06122b26a7e39",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "44b5e4a154ab4a25feb5b039d4612773d9e05672136a38b95ee2ab4728ca12b1052616792b066963ec9658d31e99e582da040d435518b021c320856c0debe9ee",
+  "tags": [
+    [
+      "d",
+      "note-2-1312026-1769890695"
+    ],
+    [
+      "title",
+      "Note 2 - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769890695"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

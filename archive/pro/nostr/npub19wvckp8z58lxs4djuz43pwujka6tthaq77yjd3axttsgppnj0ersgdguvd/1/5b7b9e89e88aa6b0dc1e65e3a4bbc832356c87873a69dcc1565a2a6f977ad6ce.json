@@ -1,0 +1,40 @@
+{
+  "content": "# Note 3 - 1/31/2026\n\n3️⃣ Most platforms optimize for attention.\nContinuum optimizes for recovery.\n\nIf your work can be deleted, shadow-banned, rate-limited,\nor made unverifiable — it isn’t durable.\n\nResilience starts with verifiability.\n\n“A faithful witness does not lie,\nbut a false witness breathes out lies.”\n— Proverbs 14:5\n\n#Resilience #Continuum",
+  "created_at": 1769890399,
+  "id": "5b7b9e89e88aa6b0dc1e65e3a4bbc832356c87873a69dcc1565a2a6f977ad6ce",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "86bf2db29eb4e620db64b4da98d3ddcf3ad4a01473458a6bfe22b2d8ef3283c1c0804db853170189da17072c4a0dfe56656df1ab68dcddd9041bbfa53aecf83e",
+  "tags": [
+    [
+      "d",
+      "note-3-1312026-1769890399"
+    ],
+    [
+      "title",
+      "Note 3 - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769890399"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

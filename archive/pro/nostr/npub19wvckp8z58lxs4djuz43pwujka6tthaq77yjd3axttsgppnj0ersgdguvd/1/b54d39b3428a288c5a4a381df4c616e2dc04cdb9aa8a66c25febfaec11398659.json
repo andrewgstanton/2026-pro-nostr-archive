@@ -1,0 +1,40 @@
+{
+  "content": "# Note 1 - 1/31/2026\n\n1️⃣ Resilience isn’t hype.\nIt’s quietly rebuilding after you’ve deleted everything…\n…and watching it all come back because your archive is real.\n\nContinuum taught me this:\nif it survives a wipe, it deserves to exist.\n\n“The wise man built his house on the rock.\nThe rain fell, the floods came, and the winds blew and beat on that house,\nbut it did not fall.”\n— Matthew 7:24–25\n\n#Resilience #Continuum",
+  "created_at": 1769890586,
+  "id": "b54d39b3428a288c5a4a381df4c616e2dc04cdb9aa8a66c25febfaec11398659",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "345823775ffd0d5d500055e3a042e8aa2b099469c3925cb63fd522cd60aa463a0120423d5ddb8cdea2a839b467a3d5c831bcce211287cc3eb7ffef7c22ba752e",
+  "tags": [
+    [
+      "d",
+      "note-1-1312026-1769890586"
+    ],
+    [
+      "title",
+      "Note 1 - 1/31/2026"
+    ],
+    [
+      "published_at",
+      "1769890586"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
