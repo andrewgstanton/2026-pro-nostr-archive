@@ -1,0 +1,64 @@
+{
+  "content": "## Technical Overview for Implementers and Support Teams\n\nAndrew G. Stanton - Jan. 30, 2026\n\n---\n\nContinuum is not a platform.\n\nIt is a **local publishing system** that allows content to be created, verified as authentic, and shared publicly without depending on centralized services.\n\n---\n\n## System Architecture (High Level)\n\nContinuum runs locally on a single machine using a Linux-compatible container environment.\n\nIt has been tested and is known to run on:\n- macOS using Docker\n- Windows using Docker with WSL\n\nContinuum has not yet been tested on native Linux systems, although no Linux-specific dependencies are known.\n\nThere is no hosted backend and no external service dependency.\n\n---\n\n## Identity and Authorship\n\nContinuum uses a simple but powerful idea:  \n**each piece of content is cryptographically tied to the identity that created it**.\n\nIn practical terms, this means:\n\n- Every published item includes proof of *who authored it*\n- That proof cannot be altered without detection\n- Readers and systems can independently verify authenticity\n\nYou can think of this like a **digital seal** attached to each publication.\n\nNo passwords are sent anywhere.  \nNo external service is required to confirm authorship.\n\n---\n\n## Supported Content Types (Current)\n\nContinuum currently supports creating, editing, deleting, and locally storing:\n\n- **Profiles** — identity metadata  \n- **Notes** — short-form posts  \n- **Articles** — long-form writing  \n- **Delete records** — explicit retractions (“tombstones”)\n\nDelete records are preserved intentionally so that removals are clear and verifiable rather than silent.\n\nDirect Messages (DMs) can be sent and received, but **are not archived yet**.\n\n---\n\n## Local Storage vs Public Sharing\n\nContinuum always stores authored content locally.\n\nPublic sharing is **explicit and intentional**. Nothing is automatically uploaded, mirrored, or archived.\n\nLong-term public archiving requires:\n1. Running a deliberate export process  \n2. Configuring a destination (such as a static site or repository)\n\nThis ensures:\n- No accidental exposure\n- Clear operational boundaries\n- Independence from third-party platforms\n\n---\n\n## Publishing Model\n\nPublishing is a conscious action.\n\nContinuum does not:\n- auto-publish\n- auto-sync\n- auto-backup to the cloud\n\nThis keeps behavior predictable and auditable.\n\n---\n\n## Security & Risk Profile\n\nContinuum minimizes risk by design:\n\n- No browser-based authentication\n- No remote credentials\n- No central account database\n- Small, inspectable system footprint\n\nIt can be run offline or in restricted environments.\n\n---\n\n## Design Philosophy\n\nContinuum favors:\n- Explicit actions over automation\n- Ownership over convenience\n- Integrity over abstraction\n- Durability over growth mechanics\n\nIt is infrastructure for people who want to **own their publishing workflow end-to-end**.\n\n---\n\n## Terminology Note\n\nUnder the hood, Continuum uses a protocol (Nostr) that refers to authorship verification as “signing” events.\n\nYou do **not** need to understand Nostr to operate or evaluate Continuum.\n\nThe important idea is simple:\n> Content can be proven authentic without trusting a platform.",
+  "created_at": 1769831674,
+  "id": "58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "25fa689bf0f6d1a91b10085b46650d96b42c2618bd56924837dcc7d2bed60b92f50a5535a8a326e046090f1dbbf028f151747c7679344ce3a566d47ee7415c9c",
+  "tags": [
+    [
+      "d",
+      "continuum-a-local-first-publishing-system"
+    ],
+    [
+      "title",
+      "Continuum: A Local-First Publishing System"
+    ],
+    [
+      "summary",
+      "Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence."
+    ],
+    [
+      "published_at",
+      "1769831674"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "self-custody"
+    ],
+    [
+      "t",
+      "technical-overview"
+    ],
+    [
+      "display_date",
+      "2026-01-30"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
