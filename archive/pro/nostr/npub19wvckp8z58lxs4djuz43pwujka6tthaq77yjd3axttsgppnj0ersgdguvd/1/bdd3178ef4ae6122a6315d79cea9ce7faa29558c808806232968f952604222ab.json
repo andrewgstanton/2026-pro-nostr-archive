@@ -1,0 +1,26 @@
+{
+  "content": "# Continuum pricing (for clarity)\n\nContinuum pricing (for clarity)\n\nPaid articles\n• 500 sats per article\n• delivered unencrypted via direct link\n\nContinuum Pro — $250 one-time\n(10% discount if paid in sats)\n\nIncludes:\n• support for multiple npub identities\n• create and manage multiple keypairs with ease\n• local-first architecture\n• no client or platform dependencies\n• export tools (HTML, PDF, Markdown, Rich Text)\n• a tool to verify any Nostr event\n• permanent, unencrypted access to all paid articles\n• Continuum Archiving Service included at no additional cost:\n– durable archiving of notes\n– durable archiving of long-form articles\n– durable archiving of profile metadata\n• future support for DMs with arbitrarily large attachments\n\nContinuum Archiving Service — 5,000 sats / month\n(for those not on Continuum Pro)\n\nIncludes:\n• durable archiving of notes\n• durable archiving of long-form articles\n• durable archiving of profile metadata\n\nThis option exists when the full Continuum Pro setup is not feasible.\n\nYearly maintenance — $250\n• setup assistance\n• ongoing help keeping Continuum running smoothly\n\nDo I need Pro?\n\nNo — not everyone does.\n• If you mainly read notes and occasional free articles, you don’t need Pro.\n• If you only want a specific paid article, 500 sats is enough.\n\nYes — Pro is likely for you if:\n• you want long-term, unencrypted access to paid articles\n• you want archiving without a recurring service fee\n• you manage or plan to manage multiple npubs\n• you want tools that don’t depend on third-party clients\n• you value ownership and durability over subscriptions\n\nContinuum is not a subscription platform.\nIt’s infrastructure and support for durable, sovereign publishing.",
+  "created_at": 1769978519,
+  "id": "bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cccd9862cc9432f445a64c317ee578165d1a12fe8993295be12e6ca4b43921eed706185ae2b610263f0956bcbd404aecba674a7b0dc3a5a01cb02702f6438ecc",
+  "tags": [
+    [
+      "d",
+      "continuum-pricing-for-clarity-1769978519"
+    ],
+    [
+      "title",
+      "Continuum pricing (for clarity)"
+    ],
+    [
+      "published_at",
+      "1769978519"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}
