@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Feb. 1, 2026\n\n---\n\nModern building culture is obsessed with outcomes.\n\nHow many users?  \nHow much revenue?  \nHow fast can it grow?  \nHow visible is it?\n\nThese questions aren’t wrong—but they are incomplete. When outcomes become the starting point rather than the result, builders begin optimizing for metrics instead of meaning.\n\nBuilding with intention flips the order.\n\nIt starts by asking why something should exist, who it is meant to serve, and what kind of relationship the builder wants to have with the people who use it.\n\n### Intention Precedes Design\n\nEvery system encodes values, whether the builder is aware of them or not.\n\nA tool designed to maximize engagement will eventually demand attention.  \nA tool designed to maximize extraction will quietly reshape incentives.  \nA tool designed with care will behave differently under pressure.\n\nIntentional building begins before code, before writing, before launch. It begins with restraint—the discipline to say no to certain forms of growth because they distort the original purpose.\n\n### The Cost of Outcome-First Thinking\n\nWhen builders optimize primarily for outcomes, they often justify compromises as temporary.\n\n“We’ll fix it later.”  \n“This is just to get traction.”  \n“Once it’s big enough, we’ll do it right.”\n\nLater rarely comes.\n\nThe system hardens around its earliest incentives. What began as a shortcut becomes the permanent structure. Users adapt to it. Expectations form around it. The builder becomes trapped by their own early decisions.\n\nIntentional building avoids this by setting non-negotiables early—even if that limits reach.\n\n### Building as an Act of Service\n\nTo build with intention is to treat building as service rather than performance.\n\nService-oriented tools:\n- Respect user agency\n- Avoid unnecessary dependency\n- Make exits possible\n- Remain useful without constant attention\n\nThese tools may grow more slowly. They may never dominate feeds or trend lists. But they tend to last—and they tend to bless the people who rely on them.\n\n### Measuring Success Differently\n\nIntentional builders measure success in quieter ways:\n- Does this tool reduce friction or add it?\n- Does it empower or entangle?\n- Does it leave people more capable than before?\n\nThese are not metrics that dashboards capture well. But they determine whether a tool contributes to human flourishing or quietly erodes it.\n\n### Scripture Reflection\n\n“Commit your work to the Lord, and your plans will be established.” — Proverbs 16:3",
+  "created_at": 1769986097,
+  "id": "820a0a6402ba35af21105111405788cb284c3c5505f585d5d4de786d9e421cc8",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "55889e73526b679d7007b77ee17bf0d4bc9d82efa9cfc25cc1512b5c7b082701ed46fd08d154492f4991be80ae2122e4393f264f6feea53a1fd8147d7110d7d2",
+  "tags": [
+    [
+      "d",
+      "building-with-intention-in-a-world-obsessed-with-outcomes"
+    ],
+    [
+      "title",
+      "Building with Intention in a World Obsessed with Outcomes"
+    ],
+    [
+      "summary",
+      "In a culture that rewards speed, growth, and visibility, building with intention can feel inefficient. But intention is what determines whether a tool ultimately extracts from others or blesses them."
+    ],
+    [
+      "published_at",
+      "1769986097"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "intention"
+    ],
+    [
+      "t",
+      "craftsmanship"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "display_date",
+      "2026-02-01"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

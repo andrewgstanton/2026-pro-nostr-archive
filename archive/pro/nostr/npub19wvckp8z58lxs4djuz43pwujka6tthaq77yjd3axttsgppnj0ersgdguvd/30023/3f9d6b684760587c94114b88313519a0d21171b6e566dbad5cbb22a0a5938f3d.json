@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Feb. 1, 2026\n\n---\n\nMost platforms today are built to capture.\n\nCapture attention.  \nCapture data.  \nCapture users.\n\nEven well-intentioned builders can drift into this posture, because the surrounding ecosystem rewards it.\n\nBlessing requires a different aim.\n\n### Capture vs Care\n\nCapture assumes users must be held.  \nCare assumes users should be served.\n\nA captured user cannot easily leave.  \nA cared-for user could leave—but chooses not to.\n\nThe difference is subtle but profound.\n\n### Designing for Dignity\n\nTools that bless others are designed with dignity in mind.\n\nThey do not hide exits, obscure ownership, or punish disengagement. Instead, they assume the user is capable and free.\n\nThis posture gives up leverage—but builds trust.\n\n### Long-Term Trust\n\nTrust compounds slowly but deeply.\n\nA respected user becomes an advocate.  \nA non-manipulated community becomes resilient.  \nA clean tool becomes dependable.\n\nThese outcomes rarely show up in short-term analytics, but they shape long-term survival.\n\n### Scripture Reflection\n\n“Let each of you look not only to his own interests, but also to the interests of others.” — Philippians 2:4",
+  "created_at": 1769986180,
+  "id": "3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "67b0f446369d6bba9e75a5da23c2b2957f404734c4b7308b865be9279f5c1b3a83549cf2d86b311365ede472a46569ccdd8fabc59c1da3fb7554c939403c46a2",
+  "tags": [
+    [
+      "d",
+      "building-to-bless-others-not-to-capture-them"
+    ],
+    [
+      "title",
+      "Building to Bless Others, Not to Capture Them"
+    ],
+    [
+      "summary",
+      "Many modern tools are designed to capture attention and lock in users. Building to bless others requires a different posture—one rooted in trust, restraint, and respect."
+    ],
+    [
+      "published_at",
+      "1769986180"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "blessing"
+    ],
+    [
+      "t",
+      "ethics"
+    ],
+    [
+      "t",
+      "tools"
+    ],
+    [
+      "t",
+      "dignity"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "display_date",
+      "2026-02-01"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

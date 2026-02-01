@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Feb. 1, 2026\n\n---\n\nStewardship is an unfashionable word.\n\nIt implies responsibility rather than ambition, care rather than conquest, limits rather than domination.\n\nYet stewardship may be the most accurate frame for intentional work.\n\n### Work Shapes People\n\nEvery artifact shapes its users.  \nTools influence habits.  \nSystems influence behavior.\n\nTo build without acknowledging this is to abdicate responsibility.\n\n### Resisting Exploitation\n\nExploitation often hides behind efficiency.\n\nStewardship asks harder questions:\n- What does this reward?\n- What does this normalize?\n- What kind of person does this train users to become?\n\nThese questions slow things down. That is their virtue.\n\n### Serving Without Mortgaging the Future\n\nMany systems extract value today by borrowing against tomorrow.\n\nStewardship refuses this trade. It seeks sustainability—technical, relational, and moral.\n\n### Faithful, Quiet Work\n\nStewarded work rarely shouts. It simply remains dependable.\n\nPeople return to it not because they are compelled, but because it keeps its promises.\n\n### Scripture Reflection\n\n“Moreover, it is required of stewards that they be found faithful.” — 1 Corinthians 4:2",
+  "created_at": 1769986255,
+  "id": "d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "16b7e821a3e615ff22a4f0e0f011cdbaf53e3707c474fa1031cdc141a90fac89cfd9da15fbcf450eb8a9ffcc5551930c3ef9f83ae03e96c64cfa34d46e0fd4e0",
+  "tags": [
+    [
+      "d",
+      "intentional-work-as-a-form-of-stewardship"
+    ],
+    [
+      "title",
+      "Intentional Work as a Form of Stewardship"
+    ],
+    [
+      "summary",
+      "Building with intention is not only a creative choice but a moral one. It treats time, skill, and attention as resources to be stewarded—not exploited."
+    ],
+    [
+      "published_at",
+      "1769986255"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "work"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "responsibility"
+    ],
+    [
+      "t",
+      "creation"
+    ],
+    [
+      "display_date",
+      "2026-02-01"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
