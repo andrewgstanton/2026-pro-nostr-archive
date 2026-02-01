@@ -1,0 +1,32 @@
+{
+  "content": "# 🧱 Continuum Testing — 5,000 sats\n\n(Limited: 3 builders max)\n\nI’m opening a limited testing bounty for up to 3 serious builders (or writers) to test Continuum as it’s meant to be used:  \nas a local-first foundation, not a client replacement and not a demo.\n\nContinuum is designed to sit under your existing Nostr clients — quietly — so your work, identity, and history remain yours regardless of relays, clients, or trends.\n\n—\n\n💰 The bounty  \n• 5,000 sats per tester (up to 3 testers total)  \n• Paid only after:  \n  – all tests in README_FIRST.md or README_FIRST_WINDOWS.md (depending on your environment) are completed  \n  – written feedback is provided (what worked, what didn’t, where friction exists)\n\n⚠️ No partial payouts.  \nIf all tests are not completed and feedback is not given, the bounty is not paid.\n\nThis is intentional. Foundations are tested end-to-end.\n\n—\n\n🔍 Preflight check (required)\n\nBefore claiming a testing slot, you must be able to run:\n\ndocker run hello-world\n\nYou should see a message beginning with:\n\n“Hello from Docker!”\n\nIf this command does not succeed, your Docker setup is not ready and you’ll need to fix that first before participating.\n\n—\n\n🧪 What you’ll be doing  \n• Installing Continuum locally via Docker  \n• Using the documented identity and publishing flows  \n• Running Continuum alongside your existing Nostr client  \n• Following the READMEs exactly as written  \n\nIf it’s not in the README, it’s not part of this test.\n\n—\n\n🔑 Key handling requirement\n\nTesting requires using a real nsec that you control locally.\n\nYou may use a fresh or low-stakes identity if you prefer, but it must be an npub you already control before starting the test — not one generated mid-test.\n\n\nContinuum runs entirely on your machine.  \nPrivate keys are stored locally only and are never transmitted.\n\nIf you are not comfortable with local key custody, that’s completely reasonable — but this bounty is not a good fit.\n\n—\n\n💻 Platform requirements (strict)\n\nYou must be running one of the following:\n\nmacOS  \n• Intel or Apple Silicon  \n• Docker Desktop installed and working  \n\nOR\n\nWindows 10 / Windows 11  \n• Docker Desktop installed  \n• WSL enabled and functioning (as required by Docker Desktop)\n\n❌ Linux and other OSes are not included in this bounty.  \n❌ Experimental setups are out of scope.\n\nThis is about comparable, repeatable results.\n\n—\n\n❌ This is NOT  \n• A quick install check  \n• Exploratory testing  \n• “Does this work on my setup?” speculation  \n• A vibes-based review  \n• For spectators  \n\nThe README is the test.\n\n—\n\n🎯 Why I’m offering this bounty\n\nContinuum already works for me.\n\nThis bounty exists to get external, real-world usage so the foundation can be hardened for others who care about durability, ownership, and long-term building.\n\nFoundations don’t need crowds — just builders.\n\n—\n\n📌 How to participate\n\nDM me directly with:  \n• your OS (macOS or Windows)  \n• your npub  \n• one short line on why you want to test  \n\nI’ll share download and setup details privately with selected testers.  \nOnce 3 testers are confirmed, this bounty is closed.\n\n—\n\n⏱️ Completion window\n\nOnce the download link is shared, testers have up to one week to complete all required tests and provide feedback.\n\nIf testing is not completed within that window, the bounty is considered closed for that tester.\n\n—\n\n🧭 Optional personal use\n\nTesters are welcome to use Continuum locally for their own publishing and workflow if they find it useful, subject to the terms in notice.md.\n\nThis is optional and does not replace or extend the required tests for the bounty.",
+  "created_at": 1769903366,
+  "id": "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "df9838e5a01a6f985df76b76ef21e727ad2099b461d9da7fff6a9f5af59e2dbca91554ae8f3c0e2daf94e4055e2c39257caf11538e9b23a594e970598e95fa41",
+  "tags": [
+    [
+      "d",
+      "continuum-testing-5000-sats-1769903366"
+    ],
+    [
+      "title",
+      "🧱 Continuum Testing — 5,000 sats"
+    ],
+    [
+      "published_at",
+      "1769903366"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
