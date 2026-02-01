@@ -1,0 +1,48 @@
+{
+  "content": "# Note 4 - 2/1/2026\n\nWhen the work is done with the right intent, it doesn’t need hype.\nThose it’s meant to serve will recognize it quietly — and use it.\n\nScripture:\n“For the Lord sees not as man sees: man looks on the outward appearance, but the Lord looks on the heart.” — 1 Samuel 16:7\n\n#integrity #quietwork #faithfulness #building",
+  "created_at": 1769985949,
+  "id": "cac77c6e2a99dd71b196576c1f8d6cbbb91d6662b2a409509464e6db863ee5e9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "760ec72eaba8fbb9c36960c2fe6696b66ba6175d7e25c55823f5d77702acaf454325362554a52799180f87cb28653057a6d2aed536c4cf72d1ec637e6ed9fba5",
+  "tags": [
+    [
+      "d",
+      "note-4-212026-1769985949"
+    ],
+    [
+      "title",
+      "Note 4 - 2/1/2026"
+    ],
+    [
+      "published_at",
+      "1769985949"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "integrity"
+    ],
+    [
+      "t",
+      "quietwork"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "building"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

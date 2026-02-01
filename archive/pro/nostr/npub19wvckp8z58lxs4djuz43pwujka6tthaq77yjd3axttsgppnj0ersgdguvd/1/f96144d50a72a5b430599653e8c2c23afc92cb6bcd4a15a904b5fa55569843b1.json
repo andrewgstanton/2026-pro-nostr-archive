@@ -1,0 +1,52 @@
+{
+  "content": "# Note 3 - 2/1/2026\n\nNot every builder is meant to maximize users.\nSome are meant to create refuge — places where work can live without being monetized to death.\n\nScripture:\n“Better is a little with righteousness than great revenues with injustice.” — Proverbs 16:8\n\n#craft #limits #restraint #longterm #creation",
+  "created_at": 1769985900,
+  "id": "f96144d50a72a5b430599653e8c2c23afc92cb6bcd4a15a904b5fa55569843b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fc3387172ee70219176ef8c3f46f7c5c71d25b048d6f9cf54a7cfe57d26e36c4e11a70f90365c36ccce3590b86725c88d15d473bb8e521868dd39b9776ee4ccf",
+  "tags": [
+    [
+      "d",
+      "note-3-212026-1769985900"
+    ],
+    [
+      "title",
+      "Note 3 - 2/1/2026"
+    ],
+    [
+      "published_at",
+      "1769985900"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "limits"
+    ],
+    [
+      "t",
+      "restraint"
+    ],
+    [
+      "t",
+      "longterm"
+    ],
+    [
+      "t",
+      "creation"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

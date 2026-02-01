@@ -1,0 +1,52 @@
+{
+  "content": "# Note 2 - 2/1/2026\n\nTools built to bless others don’t optimize for extraction.\nThey optimize for dignity, ownership, and the ability to walk away whole.\n\nScripture:\n“Let each of you look not only to his own interests, but also to the interests of others.” — Philippians 2:4\n\n#tools #blessing #sovereignty #ethics #building",
+  "created_at": 1769985846,
+  "id": "bc85023877403c589022f022fbbfce9aadeebff9f74787840ef7d6598b47a2c9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5626d9c6625203ccab175ef5a420fd425b5972753d308cf765f3a97e9c7aeb6bbea1627e2c7df9e0de1f313bb449977c3a750810d5f7330061655206edab22a1",
+  "tags": [
+    [
+      "d",
+      "note-2-212026-1769985846"
+    ],
+    [
+      "title",
+      "Note 2 - 2/1/2026"
+    ],
+    [
+      "published_at",
+      "1769985846"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "tools"
+    ],
+    [
+      "t",
+      "blessing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "ethics"
+    ],
+    [
+      "t",
+      "building"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

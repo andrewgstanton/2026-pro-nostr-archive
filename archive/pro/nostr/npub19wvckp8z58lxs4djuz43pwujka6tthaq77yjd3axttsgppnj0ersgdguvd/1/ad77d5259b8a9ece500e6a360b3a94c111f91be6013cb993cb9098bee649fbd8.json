@@ -1,0 +1,52 @@
+{
+  "content": "# Note 1 - 2/1/2026\n\nBuilding with intention means deciding who you are building for before deciding what you are building.\nIf the goal is blessing, clarity matters more than scale.\n\nScripture:\n“Commit your work to the Lord, and your plans will be established.” — Proverbs 16:3\n\n#building #intention #stewardship #purpose #continuum",
+  "created_at": 1769985796,
+  "id": "ad77d5259b8a9ece500e6a360b3a94c111f91be6013cb993cb9098bee649fbd8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fcdc4be67627c9bf0b5bd4e01d6a80efb2813b0a575ec3ea3d2678f41fb97b53675cbf7a2bc4303fe77b3d6ef5d1c83739fa46de9074665d09123ca065db9206",
+  "tags": [
+    [
+      "d",
+      "note-1-212026-1769985796"
+    ],
+    [
+      "title",
+      "Note 1 - 2/1/2026"
+    ],
+    [
+      "published_at",
+      "1769985796"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "intention"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "purpose"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

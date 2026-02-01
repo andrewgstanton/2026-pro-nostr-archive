@@ -1,0 +1,48 @@
+{
+  "content": "# Note 5 - 2/1/2026\n\nThe truest test of a tool isn’t how many people praise it,\nbut whether it still serves others when no one is watching.\n\nScripture:\n“Whatever you do, work heartily, as for the Lord and not for men.” — Colossians 3:23\n\n#service #calling #intentionality #work",
+  "created_at": 1769986011,
+  "id": "3810ba36cbff5b785c783a62a3e863ff9392c31302daa6b60724779947a2c111",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "027420c80d68683a1a6b247e8ef6811c9105b5ee065d2fb10e64f7f9ff8bbcf591a231159a08213c2c65ff61ba8482ff9cb253ebbf3c9d7f9f471fcb67b324d5",
+  "tags": [
+    [
+      "d",
+      "note-5-212026-1769986011"
+    ],
+    [
+      "title",
+      "Note 5 - 2/1/2026"
+    ],
+    [
+      "published_at",
+      "1769986011"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "service"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "intentionality"
+    ],
+    [
+      "t",
+      "work"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
