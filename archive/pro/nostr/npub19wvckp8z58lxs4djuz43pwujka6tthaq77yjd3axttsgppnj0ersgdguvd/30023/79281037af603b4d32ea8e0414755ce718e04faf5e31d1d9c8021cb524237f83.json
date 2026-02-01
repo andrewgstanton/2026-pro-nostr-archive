@@ -1,0 +1,39 @@
+{
+  "kind": 30023,
+  "created_at": 1769984357,
+  "tags": [
+    [
+      "d",
+      "continuum-pricing-for-clarity"
+    ],
+    [
+      "title",
+      "Continuum pricing (for clarity)"
+    ],
+    [
+      "published_at",
+      "1769984357"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Continuum pro pricing and features"
+    ],
+    [
+      "display_date",
+      "2026-02-01"
+    ],
+    [
+      "e",
+      "7d3dac653fd31d5f64a9f617e00f65d60be58e3382399d47c467b4ffb853346f",
+      "edit"
+    ]
+  ],
+  "content": "### Paid articles\n- **500 sats per article**  \n- delivered unencrypted via direct link  \n\n---\n\n### Continuum Pro — $250 one-time  \n*(10% discount if paid in sats)*\n\nIncludes:\n- support for multiple `npub` identities  \n- create and manage multiple keypairs with ease  \n- local-first architecture  \n- no client or platform dependencies  \n- tools for exporting articles in multiple formats:  \n  - HTML  \n  - PDF  \n  - Markdown  \n  - Rich Text  \n- a tool to verify **any** Nostr event  \n- permanent, unencrypted access to all paid articles  \n- **Continuum Archiving Service included at no additional cost**, providing:  \n  - durable archiving of all notes  \n  - durable archiving of long-form articles  \n  - durable archiving of profile metadata  \n- **optional NIP-05 identity support included**  \n- future support for direct messages with arbitrarily large attachments  \n- **unlimited software updates** (access to the latest version of Continuum)\n\nContinuum Pro is a **one-time support purchase**, not a subscription.\n\n---\n\n### Optional: NIP-05 Identity  \n*(standalone offering — for those not on Continuum Pro)*\n\n- **25,000 sats / year**\n- `name@mycontinuum.xyz` identifier  \n- hosted `.well-known/nostr.json`  \n- mapped to your existing `npub`  \n- non-custodial (no keys held)  \n- compatible with all major Nostr clients  \n\nNIP-05 is **not required** to use Continuum.  \nIt is provided for those who want a verifiable, human-readable identity without relying on custodial platforms.\n\n---\n\n### Continuum Archiving Service — 5,000 sats / month or 50,000 sats / year\n*(for those not on Continuum Pro)*\n\nIncludes:\n- durable archiving of all notes  \n- durable archiving of long-form articles  \n- durable archiving of profile metadata  \n\nThis option exists for cases where the full Continuum Pro setup is not feasible.\n\n---\n\n### Yearly maintenance — $250 *(optional)*\n\n- setup assistance  \n- modest ongoing help keeping Continuum running smoothly  \n\n**No one is required to pay yearly maintenance.** \nAll Continuum Pro users receive **unlimited software updates** regardless.\n\n---\n\n### Do I need Pro?\n\n**No — not everyone does.**\n\n- If you mainly read notes and occasional free articles, you don’t need Pro.  \n- If you only want access to a specific paid article, 500 sats is enough.  \n\n**Yes — Pro is likely for you if:**\n\n- you want long-term, unencrypted access to all paid articles  \n- you want archiving handled without a recurring service fee  \n- you manage or plan to manage multiple `npub` identities  \n- you want optional NIP-05 identity support without managing hosting yourself  \n- you want tools that work without relying on third-party clients  \n- you prefer ownership and durability over subscriptions and platforms  \n\n---\n\nContinuum is not a subscription platform.  \nIt’s infrastructure and support for durable, sovereign publishing.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83",
+  "sig": "c977f573ebc8a4a9493ecce0295fef32ec76bfe347656c9a4679e3c372b806c5095e1a0ae36479c54b938fd02f744fbe082b4ad92e2850919e292d37227a34a5"
+}
