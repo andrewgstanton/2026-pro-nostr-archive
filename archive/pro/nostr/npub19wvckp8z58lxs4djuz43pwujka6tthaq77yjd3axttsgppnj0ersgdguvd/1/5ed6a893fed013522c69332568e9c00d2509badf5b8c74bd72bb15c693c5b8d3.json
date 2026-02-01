@@ -1,0 +1,31 @@
+{
+  "kind": 1,
+  "created_at": 1769985055,
+  "tags": [
+    [
+      "d",
+      "continuum-pricing-for-clarity-1769978519"
+    ],
+    [
+      "published_at",
+      "1769985055"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "title",
+      "Continuum pricing (for clarity)"
+    ],
+    [
+      "e",
+      "8fd091a80a861b977968c63c75fa411c20ecac88021726eb3203f8d3788f04b8",
+      "edit"
+    ]
+  ],
+  "content": "Continuum pricing (for clarity)\n\nPaid articles\n• 500 sats per article\n• delivered unencrypted via direct link\n\nContinuum Pro — $250 one-time (10% discount if paid in sats)\n\nIncludes:\n• support for multiple npub identities\n• create and manage multiple keypairs with ease\n• local-first architecture\n• no client or platform dependencies\n• export tools: HTML, PDF, Markdown, Rich Text\n• a tool to verify ANY Nostr event\n• permanent, unencrypted access to all paid articles\n• Continuum Archiving Service included at no additional cost:\n  – durable archiving of notes\n  – durable archiving of long-form articles\n  – durable archiving of profile metadata\n• optional NIP-05 identity support included\n• future support for DMs with arbitrarily large attachments\n• unlimited software updates (access to the latest version of Continuum)\n\nContinuum Pro is a one-time support purchase, not a subscription.\n\nOptional: NIP-05 Identity (standalone — for those not on Continuum Pro)\n• 25,000 sats / year\n• name@mycontinuum.xyz identifier\n• hosted .well-known/nostr.json\n• mapped to your existing npub\n• non-custodial (no keys held)\n• compatible with all major Nostr clients\n\nNIP-05 is not required to use Continuum.\nIt’s for those who want a verifiable, human-readable identity without relying on custodial platforms.\n\nContinuum Archiving Service — 5,000 sats / month or 50,000 sats / year\n(for those not on Continuum Pro)\n\nIncludes:\n• durable archiving of notes\n• durable archiving of long-form articles\n• durable archiving of profile metadata\n\nThis option exists when the full Continuum Pro setup is not feasible.\n\nYearly maintenance — $250 (optional)\n• setup assistance\n• modest ongoing help keeping Continuum running smoothly\n\nNo one is required to pay yearly maintenance.\nAll Continuum Pro users receive unlimited software updates regardless.\n\nDo I need Pro?\n\nNo — not everyone does.\n• If you mainly read notes and occasional free articles, you don’t need Pro.\n• If you only want a specific paid article, 500 sats is enough.\n\nYes — Pro is likely for you if:\n• you want long-term, unencrypted access to paid articles\n• you want archiving without a recurring service fee\n• you manage or plan to manage multiple npubs\n• you want optional NIP-05 identity support without managing hosting yourself\n• you want tools that don’t depend on third-party clients\n• you value ownership and durability over subscriptions\n\nContinuum is not a subscription platform.\nIt’s infrastructure and support for durable, sovereign publishing.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3",
+  "sig": "fc90662a4ddad6b3319579ced2e783952f6f2e2ce75d4ec1afff1f628c572091ac3cb0eef4ecc446fd40c7961a2daaf7b67be3f21ae22659b81e7c9f8e8ff0d6"
+}
