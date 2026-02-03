@@ -1,0 +1,26 @@
+{
+  "content": "# README_FIRST.md - Continuum Bounty. - 2/3/2026\n\nPlease start here:\n\n- macOS users → README_FIRST_MAC.md\n- Windows Users -> README_FIRST_WINDOWS.md\n\nThis bounty currently supports macOS and Windows only.",
+  "created_at": 1770145459,
+  "id": "4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5234401d717c1ea00ba0571a7225c96707c491762617edf10d55f5fd6eb90f91418f68e6484eab134e5a82289192fc09370b954dea1c3ab7d3650c7c8141f0bd",
+  "tags": [
+    [
+      "d",
+      "readmefirstmd-continuum-bounty-232026-1770145459"
+    ],
+    [
+      "title",
+      "README_FIRST.md - Continuum Bounty. - 2/3/2026"
+    ],
+    [
+      "published_at",
+      "1770145459"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

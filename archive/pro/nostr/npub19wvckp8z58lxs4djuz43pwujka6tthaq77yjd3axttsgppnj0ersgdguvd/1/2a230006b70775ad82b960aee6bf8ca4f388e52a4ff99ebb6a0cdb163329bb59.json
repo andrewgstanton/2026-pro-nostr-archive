@@ -1,0 +1,26 @@
+{
+  "content": "# Note 1 — Clarification - 2/3/2026\n\nContinuum is intentionally local-first, not hosted.",
+  "created_at": 1770144970,
+  "id": "2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "261974a81fc44ba394e63a21595e1d68f73714c2ed23c2cb9556266c10656ee78de441573e0ba7dc547e56993548bf623b256865bdf442861674e9680e44d2ff",
+  "tags": [
+    [
+      "d",
+      "note-1-clarification-232026-1770144970"
+    ],
+    [
+      "title",
+      "Note 1 — Clarification - 2/3/2026"
+    ],
+    [
+      "published_at",
+      "1770144970"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

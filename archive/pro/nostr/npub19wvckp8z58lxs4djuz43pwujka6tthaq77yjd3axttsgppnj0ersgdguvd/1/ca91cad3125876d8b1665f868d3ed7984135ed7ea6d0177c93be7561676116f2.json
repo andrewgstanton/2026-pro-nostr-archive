@@ -1,0 +1,31 @@
+{
+  "kind": 1,
+  "created_at": 1770145380,
+  "tags": [
+    [
+      "d",
+      "readme-index-continuum-bounty-1770145294"
+    ],
+    [
+      "published_at",
+      "1770145380"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "title",
+      "README index — Continuum bounty -2/3/2026"
+    ],
+    [
+      "e",
+      "5e44a98bf6b8c9e9dddd4e23fbeb789efca77800801a00cd134264426d53e4dd",
+      "edit"
+    ]
+  ],
+  "content": "# README index — Continuum bounty\n\nFor anyone wondering what’s involved in testing Continuum locally, I’ve published the exact READMEs below (as separate notes).\n\nNothing hidden. No surprises.\n\n• README_FIRST.md\n• README_FIRST_MAC.md\n• README_FIRST_WINDOWS.md\n\nIf, after skimming, this resonates, DM me and I’ll share the test bundle + verification details.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2",
+  "sig": "ed5804b07c28e371d627b11ae97a5ecb2f7b328154e1ce88e1a3f1f3faa976fe22e59c4c3d3f385c3a616649489b35e8e4be51f2fef827066ba370a484010879"
+}
