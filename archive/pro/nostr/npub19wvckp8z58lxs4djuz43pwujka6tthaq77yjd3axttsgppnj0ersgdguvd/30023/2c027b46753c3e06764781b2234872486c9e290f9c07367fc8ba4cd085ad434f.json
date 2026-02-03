@@ -1,0 +1,39 @@
+{
+  "kind": 30023,
+  "created_at": 1770147388,
+  "tags": [
+    [
+      "d",
+      "readmefirstmacmd---continuum-bounty"
+    ],
+    [
+      "title",
+      "README_FIRST_MAC.md - Continuum Bounty"
+    ],
+    [
+      "published_at",
+      "1770147388"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Step by step instructions for running and testing Continuum on your Mac"
+    ],
+    [
+      "display_date",
+      "2026-02-03"
+    ],
+    [
+      "e",
+      "05b66b50f698db66306edad0611d61ffc9e74ecd9e68fbc581cb8d9b823ab1a3",
+      "edit"
+    ]
+  ],
+  "content": "# Continuum Bounty Test - MacOS\n\nContinuum is a small, **local-first** tool for publishing profiles, notes, and long-form posts (articles) using Nostr.\n\nNothing runs in the cloud.  \nNo accounts. No sign-ups.  \nEverything happens on your machine.\n\n\n---\n\n## What you need\n\n- macOS  \n- Docker Desktop  \n  https://is.gd/KtiVeY\n- Terminal access  \n\n---\n\n## Step 1 – Unzip the package\n\nOpen Terminal and navigate to the folder where you unzipped the package:\n\n```\ncd ~/WHERE_YOU_UNZIPPED_PACKAGE/dashboard\n```\n\n## Step 2 - Ensure all scripts are executable (as a precaution)\n\nFrom the dashboard directory, run:\n\n```\nchmod +x *.sh\n```\n\n## Step 3 – Verify platform\n\nFrom the dashboard directory, run:\n\n```\n./verify_platform.sh\n```\n\nYou should see:\n\nlinux/amd64\n\nIf you do, you’re good to continue.\n\n## Step 4 – Clean and Build Container\nFrom the dashboard directory, run:\n\n```\n./clean.sh\n./build.sh\n```\n\n(The first build may take a few minutes.)\n\n## Step 5 - Run Continuum\nFrom the dashboard directory, run:\n\n```\n./run.sh\n```\n\nThen open your browser to:\n\n```\nhttp://localhost:5000/nostr/dashboard/\n```\n\n(First load may take a few seconds.)\n\n---\n\n## TEST SET 1 -  Default demo identity\n\nFrom the Nostr Dashboard,\n\n- Update the demo test profile (Click \"Edit Profile\" to start)\n- Publish, edit and delete a short article (Click \"Write Article\" to start)\n- Publish, edit and delete a short note (Click \"Write Note\" to start)\n\n## Feedback\n\n- Was anything confusing?\n- Did anything feel unnecessary?\n- Where did you pause or hesitate?\n\n---\n\n## TEST SET 2 - Use a new key pair\n\n### Step 1 - Navigate to the top level\n\n```\nhttp://localhost:5000\n```\n\n### Step 2 - Create new key pair -\n\nClick \"Create New Nostr Identity\"\nGive your identity a nickname\nClick \"Create Identity\" \n\nYou will be directed back to the Nostr Dashboard\n\n## Step 3 - Use the new identity \n\nFrom the Nostr Dashboard,\n\nClick \"Select Another Identity NPUB\"\n\nYou should see your new identity below the \"default\" identity\nSelect the identity and click \"Use\"\n\nRun through the same kind of tests as in the first set:\n\n- Create your new profile for your new npub (Click \"Create Profile\" to start)\n- Publish, edit and delete a short article\n- Publish, edit and delete a short note\n\n## Feedback\n\n- Was anything confusing?\n- Did anything feel unnecessary?\n- Where did you pause or hesitate?\n\n---\n\n⚠️ Bounty Requirement\n\nTo complete the bounty, **all three test sets must be completed**.\n\n**TEST SET 3 is required.**\nIt validates Continuum’s read-only → signing identity flow and is not optional.\n\n## TEST SET 3 – REQUIRED: Use an identity created from your own NPUB\n\nThis test is required because it exercises Continuum’s core sovereignty model:\nview-only identities, explicit key ownership, and local signing.\n\n### Step 1 - View another NPUB\n\nIn the Nostr Dashboard,\n\nClick \"View Another NPUB\"\nEnter your NPUB and click OK\n(this will take a little while to refresh)\n\nWhen page completes refreshing you should see a new section \ncalled \"Currently Viewing\" under the \"Signing Identity\" section.\n\n### Step 2 - Create a new identity from your NPUB\n\nConfirm your own NPUB is shown in the \"Currently Viewing\" section\nClick \"Save as Local Identity (Read-Only)\"\n\nThis will create a new identity file using your display name \nor the npub. The new identity will have a suffix \"_read_only\" at the end of the identity.\n\n\n### Step 3 - Edit your identity file\n\nThis step requires temporarily adding your `nsec` to a local identity file.\nNothing is uploaded, and no network calls include your private key.\n\nNavigate to the directory:\n\ndashboard/data/identities\n\nin the unzipped package, using another terminal window or Finder.\n\nLook for the identity file that was created. \n\nIt will be a file ending with \"_read_only.json\"\n\nOpen the file \n\nAdd your nsec so it matches the structure in default.json, for example:\n\nReplacing the \"nsec\": null line\nwith your real nsec in the example below:\n\n```\n{\n  \"npub\": \"npub1...\",\n  \"nsec\": \"nsec1...\",\n  \"relays\": [\n    \"wss://relay.damus.io\",\n    \"wss://nos.lol\",\n    ....\n\n  ]\n}\n```\n\nSave the file and exit.\n\nRestarting the container is not required.\n\n### Step 4 - Select your identity file and run the same tests\n\nIn the Nostr Dashboard,\n\nClick \"Select Another Identity\" \nand select your identity file created earlier with your npub in Step 2\n\nRun through the same tests as in the first set:\n\n- Update your profile \n- Publish, edit and delete a short article\n- Publish, edit and delete a short note\n\n## Feedback\n\n- Was anything confusing?\n- Did anything feel unnecessary?\n- Where did you pause or hesitate?\n\n---\n\nBounty submissions will only be reviewed if all three test sets are completed,\nincluding TEST SET 3.\n\nThat’s it — thank you for testing Continuum!\n\n---\n\nYou are welcome to use Continuum for personal use subject to the terms in the notice.md",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f",
+  "sig": "52385cf3564eae38c01142cb71f7fb555a1aa27db214ee6e00900aad381120a39ad1441c1743f16aaef77056dc44d92f95a50f924d5da40c3e0e36261f5e0d14"
+}

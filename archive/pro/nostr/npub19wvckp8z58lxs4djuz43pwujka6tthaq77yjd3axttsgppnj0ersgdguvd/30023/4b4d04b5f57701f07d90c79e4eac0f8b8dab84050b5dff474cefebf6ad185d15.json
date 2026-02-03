@@ -1,0 +1,34 @@
+{
+  "content": "# Continuum Bounty Test - Windows\n\nContinuum is a small, **local-first** tool for publishing profiles, notes, and long-form posts (articles) using Nostr.\n\nNothing runs in the cloud.  \nNo accounts. No sign-ups.  \nEverything happens on your machine.\n\n---\n\n## What you need\n\n- Windows 10 or 11\n- Docker Desktop installed on Windows  \n  https://is.gd/KtiVeY\n- Terminal access  \n  (On Windows, use **Terminal in admin mode**)\n\n> **Note:** All commands below are run inside a **WSL (Linux) terminal** unless explicitly stated otherwise.\n\n---\n\n## Step 1 – Unzip the package\n\n- Download the zip from the link I shared\n- Expand it (I expanded it in the **Downloads** directory on my Windows machine)\n\n---\n\n## Step 2 – Install WSL (if not already installed)\n\nOpen a terminal session **in admin mode**:\n\n- Double-click the **Terminal** app  \n  **OR**\n- Right-click Start → **Terminal (Admin)**\n\n(You may be prompted to allow system changes — this is required for WSL and Docker.)\n\nIn the terminal, run:\n\n```\nwsl --version\n```\n\nIf you see something like:\n\n```\nWSL version: 2.x\n```\n\nYou’re good.\n\nIf WSL is not installed, run:\n\n```\nwsl --install\n```\n\nYou may need to reboot after installation.\n\n## Step 3 – Start Docker Desktop\n\nOpen Docker Desktop\n\nWait until Docker shows as Running\n\n## Step 4 – Start a WSL session\n\nIn the same terminal, start WSL:\n\n```\nwsl\n```\n\nAt this point, you are inside a Linux environment.\n\nNavigate to the folder where the zip was expanded (usually in Downloads):\n\n```\ncd UNZIPPED_PACKAGE_LOCATION\n```\n\nOn my machine this was:\n\n```\ncd /mnt/c/Users/astan/Downloads/continuum-pro-test\n```\n\n(/mnt/c maps to your Windows C:\\ drive.)\n\nThen:\n\n```\ncd dashboard\n```\n\n👉 **Continue with: `README_FIRST_MAC.md`**\n\n(starting from Step 2)",
+  "created_at": 1770146057,
+  "id": "4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f23d5fd32da6fcc5b8285552435a1c9fde74157c42f6cf0ae5ccae4797bf754def20ad2b0848c742cabf61f553b4983272b22f1b6214f298c84f98120e42369b",
+  "tags": [
+    [
+      "d",
+      "readmefirstwindowsmd---continuum-bounty"
+    ],
+    [
+      "title",
+      "README_FIRST_WINDOWS.md - Continuum Bounty"
+    ],
+    [
+      "summary",
+      "Step by step instructions for running and testing Continuum on your Mac"
+    ],
+    [
+      "published_at",
+      "1770146057"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-02-03"
+    ]
+  ]
+}
