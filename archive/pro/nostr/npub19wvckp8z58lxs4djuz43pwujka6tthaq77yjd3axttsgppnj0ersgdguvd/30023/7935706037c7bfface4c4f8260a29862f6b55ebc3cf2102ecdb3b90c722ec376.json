@@ -1,0 +1,66 @@
+{
+  "content": "Andrew G. Stanton - Feb. 2, 2026\n\n---\n\nI recently received a message that follows a pattern I’ve seen dozens of times over the years. The details vary, but the structure is always the same.\n\nStripped of names and pleasantries, the request looked roughly like this:\n\n---\n\n> **Income Opportunity: Daily Small Business Surveys**\n>\n> We are looking for select participants to take part in a multi-month research project.\n>\n> Compensation is offered per survey completed.  \n> Surveys require 30–60 minutes and request high-quality, in-depth feedback.\n>\n> Participants must commit to completing surveys daily.\n>\n> If interested, please provide your phone number and email address to discuss next steps.\n\n---\n\nNothing illegal. Nothing overtly deceptive.\n\nAnd yet — everything important is missing.\n\n---\n\n## What Was Not Defined\n\nThe request did **not** specify:\n\n- who owns the responses after submission  \n- how the data would be used downstream  \n- whether responses could be resold or repackaged  \n- whether attribution was possible or prohibited  \n- whether disqualification could occur after time was spent  \n- whether contributors retained any reuse rights  \n\nThe phrase *“high-quality, in-depth feedback”* does a lot of work here — without committing to anything concrete in return.\n\nThis ambiguity is not accidental.  \nIt is structural.\n\n---\n\n## The Normal Outcome\n\nIn most cases, the expected flow is:\n\n1. The participant invests time and cognition  \n2. Responses are filtered, qualified, or discarded  \n3. Accepted responses are absorbed into a dataset  \n4. That dataset is monetized elsewhere  \n5. The contributor exits with a small payment and no traceable authorship  \n\nThe insight lives on.  \nThe author disappears.\n\nThis is the default operating model of modern surveys.\n\n---\n\n## Reversing the Lens\n\nInstead of asking, *“Should I participate?”*  \nI asked a different question:\n\n**Why is this the only model we’re offered?**\n\nSo I did the same thing the system does — I extracted the structure.\n\nNot the person.  \nNot the intent.  \nThe pattern.\n\nAnd once you see the pattern clearly, the alternative becomes obvious.\n\n---\n\n## The Point of the Sovereign Attribution Engine\n\nThe Sovereign Attribution Engine was not written as a rebuttal to any individual message.\n\nIt was written because this pattern is everywhere:\n- in surveys\n- in research panels\n- in feedback forms\n- in “opportunities” that quietly centralize value\n\nThe article proposes a model where:\n- contributors remain authors\n- ownership is explicit\n- consent is granular\n- attribution is preserved\n- aggregation is opt-in\n\nNot because everyone will accept it.\n\nBut because **no alternative currently exists**.\n\n---\n\n## Playing the Game in Reverse\n\nIf organizations are comfortable extracting insight anonymously,  \nthey should also be comfortable having their extraction model examined openly.\n\nNo names.\nNo accusations.\nJust structure.\n\nThis article is that mirror.\n\n---\n\n## Closing\n\nI did not write the Sovereign Attribution Engine because I expect mass adoption.\n\nI wrote it so that the next time someone says:\n\n> “This is just how surveys work.”\n\nThere is a clear, documented response:\n\n**They don’t have to.**\n\nAnd now, they no longer get to pretend there is no other way.",
+  "created_at": 1770075500,
+  "id": "7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dd0550a0902c50d3550d4f8ff8a426b250e401c70059122d9c0a8ee47ffce9bf14e05a50e59c0e7ad26753168fa6635905de2b7ee58faf976b8070f79d91c771",
+  "tags": [
+    [
+      "d",
+      "why-i-wrote-the-sovereign-attribution-engine-playing-the-extraction-game-in-reverse"
+    ],
+    [
+      "title",
+      "Why I Wrote \"The Sovereign Attribution Engine\"  Playing the Extraction Game in Reverse"
+    ],
+    [
+      "summary",
+      "This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to."
+    ],
+    [
+      "published_at",
+      "1770075500"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "extraction"
+    ],
+    [
+      "t",
+      "research"
+    ],
+    [
+      "t",
+      "surveys"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "consent"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "display_date",
+      "2026-02-02"
+    ]
+  ]
+}

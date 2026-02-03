@@ -1,0 +1,70 @@
+{
+  "content": "Andrew G. Stanton - Feb. 2, 2026\n\n---\n\nNearly every survey system in existence is designed around a single assumption:\n\n**The respondent is an input. The organizer owns the output.**\n\nThis assumption is so normalized that it rarely gets questioned. Whether the survey pays $0, $5, or $50, the structure is almost always the same:\n\n- Responses are submitted anonymously or pseudo-anonymously  \n- Ownership transfers implicitly at submission  \n- Downstream use is opaque or undefined  \n- Responses are aggregated, resold, or monetized without attribution  \n- Contributors retain no rights, no reuse, and no revocation\n\nEven when the process is legal, it is still extractive.\n\nThe Sovereign Attribution Engine exists to break that model.\n\n---\n\n## The Core Reframe\n\nA traditional survey asks questions.\n\nA sovereign system **invites authored responses**.\n\nInstead of treating people as data sources, the Sovereign Attribution Engine treats them as **authors issuing signed statements in response to a prompt**.\n\nThis is not a UX tweak. It is a power shift.\n\n---\n\n## Foundational Principles\n\n### 1. The Responder Owns the Response\n\nResponses are created, stored, and archived by the contributor — not the organizer.\n\nThey may live:\n- locally\n- in a personal archive\n- or in a self-controlled publishing system\n\nThe organizer never becomes the default custodian.\n\n---\n\n### 2. Authorship Is Explicit and Verifiable\n\nEach response is:\n- signed by an identity (real-name or pseudonymous)\n- cryptographically attributable\n- verifiable long after publication\n\nInsight has provenance.\n\n---\n\n### 3. Consent Is Explicit, Granular, and Revocable\n\nThere is no implied transfer of rights.\n\nEach contributor explicitly grants permissions such as:\n- aggregation\n- anonymized analysis\n- quotation with attribution\n- time-bound reuse\n\nAnything not granted is prohibited by default.\n\n---\n\n### 4. Responses Are Composable, Not Captive\n\nA response is not locked into a single platform or project.\n\nThe same authored insight may:\n- answer multiple prompts\n- be reused by the contributor\n- evolve over time\n- be referenced rather than resubmitted\n\nThis respects the contributor’s time and cognition.\n\n---\n\n### 5. Aggregation Is Opt-In, Not Automatic\n\nOrganizers request inclusion.\nContributors grant it.\n\nAggregation becomes a **privilege**, not an entitlement.\n\n---\n\n## A Concrete Structure\n\n### Prompt (Public, Minimal)\n```\nPrompt ID: SMB-OPS-2026-01\nQuestion: What tools or practices do you rely on to manage operational risk?\nRequested length: 300–600 words\nRequested tags: #smb #operations #risk\n```\n\n### Response (Sovereign, Authored)\n- Written as a note or article\n- Signed by identity\n- Stored by the author\n- Tagged with the Prompt ID\n\n### Grant (Explicit Consent)\n```\nI grant the organizer permission to:\n✔ aggregate anonymized insights\n✔ quote excerpts with attribution\n✘ resell raw responses\n✘ claim exclusivity\n```\n\nNothing more. Nothing hidden.\n\n---\n\n## Why This Breaks the Survey Industry\n\nThe Sovereign Attribution Engine:\n- eliminates qualification games\n- removes incentive for low-effort answers\n- prevents silent data reuse\n- increases signal while reducing volume\n- filters out organizations unwilling to respect contributors\n\nMost companies will reject this model.\n\nThat is not a flaw.\nThat is the filter.\n\n---\n\n## Who This Is For\n\nThis system is not for:\n- growth marketers\n- quota-driven recruiters\n- data brokers\n- extractive research firms\n\nIt *is* for:\n- independent researchers\n- ethical journalists\n- long-horizon organizations\n- foundations\n- historians\n- builders who value authorship\n- individuals who refuse anonymous extraction\n\n---\n\n## A Quiet Truth\n\nPeople are not unwilling to share insight.\n\nThey are unwilling to be **stripped of agency** in the process.\n\nThe widespread exhaustion with forms, surveys, and identity capture is not apathy — it is withdrawal from systems that do not respect contributors.\n\nThe Sovereign Attribution Engine does not try to persuade everyone.\n\nIt exists so that when someone asks:\n\n> “Is there a non-extractive way to ask people questions?”\n\nThe answer can finally be:\n\n**Yes — but it requires respect.**\n\n---\n\n## Closing\n\nThis is not a platform.\nNot a product.\nNot a funnel.\n\nIt is a **pattern** — one that restores dignity, authorship, and consent to human insight.\n\nLow adoption is expected.\nDurability is the goal.\n\nSome things are worth building even if only a few people ever use them.\n\nThose few are enough.",
+  "created_at": 1770075456,
+  "id": "5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5376649d869ea0a040dc774b8a1e764746c7e27c980f859fbef22303f59740b9dc7a4cd785c696dca8628b0e2a4abb18ec716f470e621db8aa68597510de6ab1",
+  "tags": [
+    [
+      "d",
+      "the-sovereign-attribution-engine"
+    ],
+    [
+      "title",
+      "The \"Sovereign Attribution Engine\""
+    ],
+    [
+      "summary",
+      "Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction."
+    ],
+    [
+      "published_at",
+      "1770075456"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "research"
+    ],
+    [
+      "t",
+      "surveys"
+    ],
+    [
+      "t",
+      "consent"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "display_date",
+      "2026-02-02"
+    ]
+  ]
+}
