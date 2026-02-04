@@ -1,0 +1,22 @@
+{
+  "content": "(This is illustrative — not a model answer or a position anyone is expected to agree with.)\n\nPrompt:\n\nWhat would make ​you willing (or unwilling) to run and use a local-first tool like Continuum?\n\nResponse: \n\nI’m interested in tools that reduce long-term dependency on platforms, even if they increase short-term friction. A local-first approach makes sense to me because it keeps authorship, keys, and history under my control, rather than optimizing for convenience or reach.\n\nThat said, I’m not certain I’d use a tool like this daily. I’d likely rely on existing clients for casual posting, and use something like Continuum more deliberately — for work I care about preserving, auditing, or standing behind long-term.\n\nWhat I’m evaluating is whether the added responsibility feels proportional to the durability it offers. If it does, that tradeoff feels justified. If not, I’d want to understand where the friction outweighs the benefit.",
+  "created_at": 1770164268,
+  "id": "f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "806a6c2683f04242dbe9211eff54ffdc3677dd3819460185ffb1904bee5b12ad2b2e1e17d72406a44e1095a69cf6b71172c87f126719f0d270456db1bbb9f671",
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:testing-the-sovereign-attribution-engine",
+      "",
+      "root"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

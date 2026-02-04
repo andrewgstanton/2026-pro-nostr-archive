@@ -1,0 +1,32 @@
+{
+  "content": "# Sovereign Attribution Survey - Continuum\n\nI’ve published an article outlining a small experiment I’m calling the **Sovereign Attribution Engine**.\n\nIt’s a request for *authored, signed responses* to a single prompt about local-first tools (Continuum), intentionally outside normal feed dynamics.\n\nDetails—including participation rules, a **1,000 sat acknowledgment**, and a **small response cap (up to 10)**—are in the article.\n\nIf intentional authorship resonates, please read there.",
+  "created_at": 1770156456,
+  "id": "99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0e2315eca61c01d0075e89abdc252ae6ef177793ac5e38397a8b79b2759f10a05b190632238c5016c161f26dcefe7ca8518f09b5f80e4b0bbc5138cfad789071",
+  "tags": [
+    [
+      "d",
+      "sovereign-attribution-survey-continuum-1770156456"
+    ],
+    [
+      "title",
+      "Sovereign Attribution Survey - Continuum"
+    ],
+    [
+      "published_at",
+      "1770156456"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
