@@ -1,0 +1,26 @@
+{
+  "content": "# Continuum - Local First Publishing Clarification\n\nContinuum runs locally on your own computer.\nYour writing, keys, and signing stay local. No website. No login.\n\nPublishing happens from the same program — it just sends a copy out. The original always stays with you.\n\nSovereignty here is about control of execution, data, and authorship — not ideological maximalism.\n\nMobile clients trade sovereignty for convenience. That’s a valid tradeoff.\nContinuum makes a different one.\n\nUse what fits your needs.\n\nFor clarity: I use Primal on my phone as well as Continuum. This isn’t an either/or.",
+  "created_at": 1770190978,
+  "id": "0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b10cea388379f9cc53f9564ec541093b2d6344dfe0e4d74b95493ece5f97b09bc5dd54be7abdd1021dffee0f777a56cba13b9644b05dd358d53248e835d70ac0",
+  "tags": [
+    [
+      "d",
+      "continuum-local-first-publishing-clarification-1770190978"
+    ],
+    [
+      "title",
+      "Continuum - Local First Publishing Clarification"
+    ],
+    [
+      "published_at",
+      "1770190978"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}
