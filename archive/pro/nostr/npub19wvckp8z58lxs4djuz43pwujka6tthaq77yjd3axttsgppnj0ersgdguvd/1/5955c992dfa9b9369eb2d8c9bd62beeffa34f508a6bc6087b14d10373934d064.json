@@ -1,0 +1,29 @@
+{
+  "content": "This is fantastic Sam thanks for sharing !\nnostr:naddr1qqa8wefdv9ex2tt5dahj6etpwd5kc7fdwpkx2ctnv4jz6tfdw35x2ttsdamx2un50ykk7e3dd4hkgetjdckhqmr9v9eh2un9qyxhwumn8ghj7mn0wvhxcmmvqgszzcpjn57wlvpurljzhyuk04fnm38zfn67ghmykpuw27s59kmjgssrqsqqqa28kth70s",
+  "created_at": 1770226061,
+  "id": "5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c340b1e7718a7317732315a2291069f4c3c926b4afccb38d38a1d326a5d3bb8ca2d87ecd927f866da88fcee846549c69d58de6a2e6bcff78182d218630e6ab7f",
+  "tags": [
+    [
+      "a",
+      "30023:2160329d3cefb03c1fe42b93967d533dc4e24cf5e45f64b078e57a142db72442:we-are-too-easily-pleased---the-poverty-of-modern-pleasure",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2160329d3cefb03c1fe42b93967d533dc4e24cf5e45f64b078e57a142db72442",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}
