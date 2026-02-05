@@ -1,0 +1,50 @@
+{
+  "content": "# Note — “So What?” Is the Question That Matters - 2/5/2026\n\nIf something sounds obvious, the real question isn’t whether it’s true — it’s what it *forces you to do differently*.\n\n\nWhen I write things like:\n- “Nostr is neutral”\n- “Clients aren’t”\n- “Algorithms are editorial”\n\nI realize some people probably think:  \n**“Ok — so what?”**\n\nThat’s fair.\n\nHere’s the *so what* for me:\n\nThese observations aren’t academic. They force concrete decisions every time I build.\n\nThey force me to decide:\n* whether to rank at all  \n* whether to default to chronology even when it’s less engaging  \n* whether to hide complexity or surface it  \n* whether to optimize for comfort or honesty  \n\nAnd every choice has a cost.\n\nChronology costs engagement.  \nTransparency costs simplicity.  \nAgency costs convenience.\n\nI still have to choose — every day — knowing there is no neutral option once you’re building a client.\n\nSo if something sounds obvious, that’s fine.  \nThe part that matters is what you do *after* you admit it.\n\nFor me, it means fewer shortcuts and more friction — by design.\n\n \n#continuum #nostr #clients #builders #agency #tradeoffs",
+  "created_at": 1770317185,
+  "id": "79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "38a3301133f2108ab1a6a605475fee45ab85c5430259e33894455c07f8c50148322acd4340f92e24e2155a56be465128a9efae0fdad898f807234fd6dc58a371",
+  "tags": [
+    [
+      "d",
+      "note-so-what-is-the-question-that-matters-252026-1770317185"
+    ],
+    [
+      "title",
+      "Note — “So What?” Is the Question That Matters - 2/5/2026"
+    ],
+    [
+      "published_at",
+      "1770317185"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "clients"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "agency"
+    ],
+    [
+      "t",
+      "tradeoffs"
+    ]
+  ]
+}
