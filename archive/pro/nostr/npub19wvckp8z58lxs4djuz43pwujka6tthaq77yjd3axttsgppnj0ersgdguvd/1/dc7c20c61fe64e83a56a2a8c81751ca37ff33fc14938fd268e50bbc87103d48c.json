@@ -1,0 +1,26 @@
+{
+  "content": "# Turned off WiFi - Continuum kept working\n\nSomething small but telling I noticed today.\n\nI turned off Wi-Fi entirely and kept working in Continuum.\n\nI could still write, edit, and revise drafts without interruption.  \nThe app didn’t lock me out or stop me from working — it just couldn’t reach relays when I tried to publish (as expected).\n\nThat contrast stood out to me.\n\nIf I only had a network-dependent client available, I would have been completely blocked the moment the internet disappeared.\n\nNot a critique — just an observation.\n\nLocal-first changes how software behaves when the world goes offline.",
+  "created_at": 1770339635,
+  "id": "dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a46a8155a131fb9984cfcd47a91b4a17bc1e80639a12a9cedb6f4b1ffd9854984c5e0736ae562826d9dc04fff8f135fd26fbf43f765e6778780d82130b48eb02",
+  "tags": [
+    [
+      "d",
+      "turned-off-wifi-continuum-kept-working-1770339635"
+    ],
+    [
+      "title",
+      "Turned off WiFi - Continuum kept working"
+    ],
+    [
+      "published_at",
+      "1770339635"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

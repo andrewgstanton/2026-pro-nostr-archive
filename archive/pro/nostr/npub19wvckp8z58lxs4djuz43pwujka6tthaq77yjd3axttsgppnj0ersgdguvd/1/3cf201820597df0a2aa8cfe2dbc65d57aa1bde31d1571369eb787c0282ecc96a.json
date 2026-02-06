@@ -1,0 +1,48 @@
+{
+  "content": "# Milestone - Continuum Running Elsewhere\n\nToday marked a real milestone for me.\n\nFor the first time, someone other than myself was able to run Continuum on their own machine and actually use it.\n\nThis was done *outside* of any traditional Nostr client — although Continuum is, in essence, a client itself. There was no app store, no hosted platform, no account creation flow. Just local software running on someone else’s computer.\n\nThere was some startup friction (as expected, and now documented).  \nThe interaction UI is still rough in places.\n\nBut another human being was able to:\n* update a profile,\n* publish a note,\n* publish an article,\n* and then see that content show up across multiple independent Nostr clients.\n\nThat matters.\n\nIt means this isn’t just “working on my machine.”  \nIt means the core loop is real: **publish once → exist everywhere**, without being tied to a single app or platform, and running **entirely on your own machine.**\n\nThis is still early, still imperfect, still very much in progress — but today crossed an important line. \n\nI’m grateful for the patient tester, honest friction, and the reminder that real software only becomes real when someone else uses it.\n\nOne step at a time.\n\n#Sovereignty #Consistency #IndependentPublishing #LongTermThinking",
+  "created_at": 1770338390,
+  "id": "3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "860372684af3a4283bf832c5f2f3d7a8fd5a72a27319605cecd6f31c50ddbb62950c465448ae397f1d5b8dc3354bd1a6fdd7af4c2ea0e149c2a36068e05d7d10",
+  "tags": [
+    [
+      "d",
+      "milestone-continuum-running-elsewhere-1770338390"
+    ],
+    [
+      "title",
+      "Milestone - Continuum Running Elsewhere"
+    ],
+    [
+      "published_at",
+      "1770338390"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "consistency"
+    ],
+    [
+      "t",
+      "independentpublishing"
+    ],
+    [
+      "t",
+      "longtermthinking"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}
