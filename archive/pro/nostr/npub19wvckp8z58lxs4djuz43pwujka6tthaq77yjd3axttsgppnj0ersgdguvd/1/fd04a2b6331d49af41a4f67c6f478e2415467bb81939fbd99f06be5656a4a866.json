@@ -1,0 +1,44 @@
+{
+  "content": "# Note 1 - 2/6/2026\n\n# When No One Is Watching\n\n**Verse:**  \n> “Moreover, it is required of stewards that they be found faithful.” — 1 Corinthians 4:2\n\nFaithfulness is not measured by response.\n\nSilence does not mean failure.  \nLack of affirmation does not mean disobedience.\n\nSome work is done before witnesses arrive.  \nSome seeds are planted in soil that stays quiet for a long time.\n\nIf you are faithful when no one knows,  \nyou are not late — and you are not forgotten.\n\n**Scripture:**  \n> “Be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.” — 1 Corinthians 15:58\n\n#faithfulness #stewardship #hiddenwork",
+  "created_at": 1770401171,
+  "id": "fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d127f9bfd7062d6c55ff4aadcf65c7695bd121c52390e89b5c535c5035dd2d702292135ec62bcf412da8289b6528aa716f7c567a7325eed2500bd2dafa4e6430",
+  "tags": [
+    [
+      "d",
+      "note-1-262026-1770401171"
+    ],
+    [
+      "title",
+      "Note 1 - 2/6/2026"
+    ],
+    [
+      "published_at",
+      "1770401171"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "hiddenwork"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

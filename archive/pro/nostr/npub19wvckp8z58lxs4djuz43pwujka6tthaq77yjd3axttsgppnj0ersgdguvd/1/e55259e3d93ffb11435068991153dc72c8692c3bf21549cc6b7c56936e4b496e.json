@@ -1,0 +1,44 @@
+{
+  "content": "# Note 3 - The Work of Waiting - 2/6/2026\n\n**Verse:**  \n> “The Lord is not slow to fulfill his promise as some count slowness.” — 2 Peter 3:9\n\nWaiting is not the absence of work.  \nIt is work done without visible progress.\n\nWhat feels like delay is often formation.  \nWhat feels unproductive is often preparatory.\n\nSpeed can build structures.  \nOnly patience builds people.\n\nIf you are waiting, you are not idle.  \nYou are being shaped.\n\n**Scripture:**  \n> “For still the vision awaits its appointed time… If it seems slow, wait for it; it will surely come; it will not delay.” — Habakkuk 2:3\n\n#waiting #patience #formation",
+  "created_at": 1770402235,
+  "id": "e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b9d5e52a08bf20269aeac04eed5045eb7453090b088bf545385857a1edc1d3791f3d6fae170e1aee62d91f4b4bd1b6fc0d2d9486f4afd282ef72ecd16f7656f8",
+  "tags": [
+    [
+      "d",
+      "note-3-the-work-of-waiting-262026-1770402235"
+    ],
+    [
+      "title",
+      "Note 3 - The Work of Waiting - 2/6/2026"
+    ],
+    [
+      "published_at",
+      "1770402235"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "waiting"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "formation"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

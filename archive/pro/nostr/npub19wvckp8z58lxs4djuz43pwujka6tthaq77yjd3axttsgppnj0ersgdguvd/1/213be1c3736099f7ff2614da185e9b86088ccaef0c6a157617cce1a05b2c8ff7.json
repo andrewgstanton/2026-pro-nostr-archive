@@ -1,0 +1,44 @@
+{
+  "content": "# Note 4 - Obedience Without Outcomes - 2/6/2026\n\n**Verse:**  \n> “Trust in the Lord with all your heart, and do not lean on your own understanding.” — Proverbs 3:5\n\nObedience is not a contract.  \nIt does not come with guaranteed results or timelines.\n\nIf you only obey when you can see the outcome,  \nyou are still in control.\n\nTrue obedience moves without clarity —  \nand rests without proof.\n\n**Scripture:**  \n> “By faith Abraham obeyed when he was called to go out… And he went out, not knowing where he was going.” — Hebrews 11:8\n\n#obedience #trust #sovereignty",
+  "created_at": 1770402323,
+  "id": "213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a1b65630cab8466274a074fb335a790392aefdb33244bbb8f26ee3cf0cc2d603d176cea07cc27467485540c5790de32511e502b7cde2e56e886579d1aeae417c",
+  "tags": [
+    [
+      "d",
+      "note-4-obedience-without-outcomes-262026-1770402323"
+    ],
+    [
+      "title",
+      "Note 4 - Obedience Without Outcomes - 2/6/2026"
+    ],
+    [
+      "published_at",
+      "1770402323"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "obedience"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

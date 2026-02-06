@@ -1,0 +1,44 @@
+{
+  "content": "# Note 2 - When the Work Feels Heavy - 2/6/2026\n\n**Verse:**  \n> “Let us not grow weary of doing good, for in due season we will reap, if we do not give up.” — Galatians 6:9\n\nWeariness is not weakness.  \nIt’s often a sign that the work actually matters.\n\nThe temptation is to stop because nothing is happening.  \nThe truth is usually the opposite: something *is* happening — just underground.\n\nDo not confuse fatigue with failure.\n\n**Scripture:**  \n> “Those who sow in tears shall reap with shouts of joy.” — Psalm 126:5\n\n#perseverance #builders #quietwork",
+  "created_at": 1770401737,
+  "id": "c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2259e17ca191dc1aa929b1d031d8863359974d8ac170f77847e5048dd2ea9f9326c7e28a6b2c9fcebe1146ddd24f12830da0a65ba38919108c743a89121906d9",
+  "tags": [
+    [
+      "d",
+      "note-2-when-the-work-feels-heavy-262026-1770401737"
+    ],
+    [
+      "title",
+      "Note 2 - When the Work Feels Heavy - 2/6/2026"
+    ],
+    [
+      "published_at",
+      "1770401737"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "perseverance"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "quietwork"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "kind": 1,
+  "created_at": 1770402561,
+  "tags": [
+    [
+      "d",
+      "note-1770402388"
+    ],
+    [
+      "published_at",
+      "1770402561"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "title",
+      "Note 5 - The Hidden Measure - 2/6/2026"
+    ],
+    [
+      "e",
+      "04ecf64c06dd068486dab5c9711685fbeaef295e6a239337d92b2cfc20cf7b13",
+      "edit"
+    ]
+  ],
+  "content": "# Note 5 - The Hidden Measure - 2/6/2026\n\n**Verse:**  \n> “Your Father who sees in secret will reward you.” — Matthew 6:6\n\nNot everything visible is valuable.\n\nThere is a measure God uses that platforms never will:\ntruthfulness in secret.\n\nIf He sees it, it counts.\n\n**Scripture:**  \n> “The Lord sees not as man sees: man looks on the outward appearance, but the Lord looks on the heart.” — 1 Samuel 16:7\n\n#integrity #hiddenwork #faith",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e",
+  "sig": "ffe7dba603ea70ecdcde74b1d1c6f13130ad52d975e72a28d177ec527f087296540ce334abaf04e86e8c611f2e1bf723a536ce079284875da7195613ddf2d782"
+}
