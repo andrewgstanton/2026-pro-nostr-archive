@@ -1,0 +1,32 @@
+{
+  "content": "# 📌 Milestone: Continuum now runs from a USB\n\nToday I crossed an important threshold with Continuum.\n\nI can eject a USB stick, reinsert it, open a terminal, run a single command — and Continuum starts.\nNo rebuild. No cloud dependency. No prior state required.\n\nThe application image lives on the USB.\nThe data lives on the USB.\nThe system boots from cold and runs deterministically.\n\nThis wasn’t about Docker per se. It was about proving something more fundamental:\n\nA tool should still work when the network, the account system, and the vendor are gone.\n\nAlong the way, I ran into exactly the kind of friction that motivated Continuum in the first place:\n\ngated installers\n\nversion lockouts\n\naccount pressure\n\ndisappearing artifacts\n\n“just sign in” assumptions baked into tooling\n\nNone of that is dramatic. It’s just structural. And once tools stop being local-first, everything becomes conditional.\n\nContinuum takes the opposite posture:\n\nartifacts over accounts\n\nlocal state over remote permission\n\nverification over trust\n\noffline as a first-class mode, not an error state\n\nThis milestone doesn’t mean Continuum is “finished.”\nIt means the foundation is solid.\n\nFrom here on out, whatever gets built on top of it inherits something important:\n\nIt still works when you’re not allowed to ask.\n\nThat’s the point.",
+  "created_at": 1770443055,
+  "id": "f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6610e20ab2d0961a522c90edea385c195b8ff5cc67aa7db7c34d09d9a582b92ffced5fc153dda234a76a49c4190a3a6d1975cf0ba01f2b11ac6a9d9a281f600d",
+  "tags": [
+    [
+      "d",
+      "milestone-continuum-now-runs-from-a-usb-1770443055"
+    ],
+    [
+      "title",
+      "📌 Milestone: Continuum now runs from a USB"
+    ],
+    [
+      "published_at",
+      "1770443055"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol"
+  ]
+}
