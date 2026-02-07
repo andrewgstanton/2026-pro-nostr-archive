@@ -1,0 +1,32 @@
+{
+  "content": "# Note to myself\n\n",
+  "created_at": 1770418068,
+  "id": "dafd439348f49731788da0ae475ac757a82c8aa50d6bb14904a309cefbdfe355",
+  "kind": 1,
+  "pubkey": "e470c9fb5267c297155c369a73e9bd03fd1b485876232f47740a9578a977f896",
+  "sig": "2e11b236f534edcfdcba4670213639880b0f67fce5d1d9b5684e1cadf24e8a67e65a6e6fd8c4c712fcb859caf022196f97502f137b8ebfac06646eaf77bf258d",
+  "tags": [
+    [
+      "d",
+      "note-to-myself-1770418068"
+    ],
+    [
+      "title",
+      "Note to myself"
+    ],
+    [
+      "published_at",
+      "1770418068"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}
