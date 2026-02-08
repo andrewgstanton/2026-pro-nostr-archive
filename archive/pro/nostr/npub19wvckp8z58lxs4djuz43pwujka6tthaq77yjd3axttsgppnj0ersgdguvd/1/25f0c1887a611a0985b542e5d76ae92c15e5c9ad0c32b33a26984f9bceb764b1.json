@@ -1,0 +1,52 @@
+{
+  "content": "# Note 4 — You Are Not the Source - 2/7/2026\n\nSabbath gently dismantles the illusion of indispensability.\n\nThe work pauses.\nProvision does not.\n\nLife continues without your supervision.\nAnd that is good news.\n\n> “Apart from me you can do nothing.” — John 15:5\n\n#sabbath #dependence #provision #faith #sovereignty",
+  "created_at": 1770508631,
+  "id": "25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "635c6dbc170b06cc275251aa9a8ff3a0704450c4e671193dc4a34a951a4a606c80fa40193d7232543a561032319390ba1b736c87ef97886db4556f6ee3bfa341",
+  "tags": [
+    [
+      "d",
+      "note-4-you-are-not-the-source-272026-1770508631"
+    ],
+    [
+      "title",
+      "Note 4 — You Are Not the Source - 2/7/2026"
+    ],
+    [
+      "published_at",
+      "1770508631"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "dependence"
+    ],
+    [
+      "t",
+      "provision"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}

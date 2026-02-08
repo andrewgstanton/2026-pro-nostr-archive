@@ -1,0 +1,52 @@
+{
+  "content": "# Note 1 — Sabbath Is a Confession - 2/7/2026\n\nSabbath is a confession before it is a command.\n\nIt confesses that I am not infinite.\nThat I am not essential.\nThat the world does not rest on my shoulders.\n\nTo stop is to admit the truth gladly,\nnot resentfully.\n\n> “The Lord is God; it is he who made us, and we are his.” — Psalm 100:3\n\n#sabbath #rest #humility #trust #limits",
+  "created_at": 1770505628,
+  "id": "f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1c035278fc56b0c3598993959e668164bb4f7c6e931bbf615eb1a5257c120e1f402ae2e7afee8da0080f48f2682fa31d9bac68a6cc53146535ccd8e3b9f2a350",
+  "tags": [
+    [
+      "d",
+      "note-1-sabbath-is-a-confession-272026-1770505628"
+    ],
+    [
+      "title",
+      "Note 1 — Sabbath Is a Confession - 2/7/2026"
+    ],
+    [
+      "published_at",
+      "1770505628"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "humility"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "limits"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ]
+}
