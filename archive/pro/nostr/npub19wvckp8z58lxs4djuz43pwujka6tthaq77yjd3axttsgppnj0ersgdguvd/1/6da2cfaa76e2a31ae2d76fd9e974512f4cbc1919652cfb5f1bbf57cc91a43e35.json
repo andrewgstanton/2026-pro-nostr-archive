@@ -1,0 +1,42 @@
+{
+  "content": "# Be consistent - 2/9/2026\n\nPeople are living a lie.\n\nWe say we don’t like our identities and data being siloed.\n\nAnd yet we build systems and businesses that do exactly that to others.\n\nNot out of malice — but because incentives reward capture, not exit.\n\nSovereignty isn’t a belief.\nIt’s an architectural choice.\n\n#sovereignty\n#builders\n#architecture\n#integrity",
+  "created_at": 1770666174,
+  "id": "6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "10a8f7b220f2db7455ca235e3298f3d92eebde0bd069cd915f9d6378882fb29a9ca1f3c1ec4e632148985d0eac54117d5b09591485dd4afad3768b273907e44d",
+  "tags": [
+    [
+      "d",
+      "be-consistent-292026-1770666174"
+    ],
+    [
+      "title",
+      "Be consistent - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770666174"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "integrity"
+    ]
+  ]
+}
