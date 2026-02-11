@@ -1,0 +1,52 @@
+{
+  "content": "# Note 5 — Continuing Anyway - 2/9/2026\n\nNot every day produces clarity.\nNot every day produces validation.\n\nSome days only produce another brick in a wall no one sees yet.\n\nContinuing anyway is how walls become shelter.\n\nScripture\n\n“Unless the Lord builds the house, those who build it labor in vain.” — Psalm 127:1\n\nTags\n#continuing #trust #faithfulbuilding #patience #longhorizon",
+  "created_at": 1770687958,
+  "id": "0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "55faa1cf807b73711c79268228611ea9995cee15958080c913cfa17c6deaccb685ec77a614717c8be363a49a38cad86464fcaf25361794d5567281fbf0741171",
+  "tags": [
+    [
+      "d",
+      "note-5-continuing-anyway-292026-1770687958"
+    ],
+    [
+      "title",
+      "Note 5 — Continuing Anyway - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770687958"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuing"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "faithfulbuilding"
+    ],
+    [
+      "t",
+      "patience"
+    ],
+    [
+      "t",
+      "longhorizon"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "content": "# Note 2 — Continuing Is a Skill - 2/9/2026\n\nStarting gets celebrated.\nContinuing rarely does.\n\nBut continuation is where judgment forms.\nWhere shortcuts get resisted.\nWhere systems either harden correctly — or collapse later.\n\nMost people can start.\nFew can continue honestly.\n\nScripture\n\n“The one who endures to the end will be saved.” — Matthew 24:13\n\nTags\n#endurance #faithfulness #buildingwell #integrity #longobedience",
+  "created_at": 1770687425,
+  "id": "d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e4e577349159cc9a779a46ef00414abd622268497cafc88a25cc703538fbd9ee262726a0b0d46983e00125447905ae7fcb9a545d0a4eef0af3a5874c2b95d64d",
+  "tags": [
+    [
+      "d",
+      "note-2-continuing-is-a-skill-292026-1770687425"
+    ],
+    [
+      "title",
+      "Note 2 — Continuing Is a Skill - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770687425"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "endurance"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "buildingwell"
+    ],
+    [
+      "t",
+      "integrity"
+    ],
+    [
+      "t",
+      "longobedience"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}

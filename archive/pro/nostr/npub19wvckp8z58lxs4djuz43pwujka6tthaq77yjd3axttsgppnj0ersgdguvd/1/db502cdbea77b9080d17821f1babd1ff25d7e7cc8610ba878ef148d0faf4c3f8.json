@@ -1,0 +1,48 @@
+{
+  "content": "# Note 4 — Building as Refusal - 2/9/2026\n\nSometimes building isn’t ambition.\nIt’s refusal.\n\nRefusal to let convenience erase responsibility.\nRefusal to let speed replace care.\nRefusal to let systems decide for you.\n\nYou build because not building would cost more.\n\nScripture\n\n“We must obey God rather than men.” — Acts 5:29\n\nTags\n#conviction #obedience #faithoverfear #buildingwithintegrity",
+  "created_at": 1770687853,
+  "id": "db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "82b173dfee6b36072c81cace5de2d02a4e7b27c4762aa0a8079527ba06013c3111f9378cdccd85216c339f78bcdcfb21ed719532108401bf170ca83bc5337286",
+  "tags": [
+    [
+      "d",
+      "note-4-building-as-refusal-292026-1770687853"
+    ],
+    [
+      "title",
+      "Note 4 — Building as Refusal - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770687853"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "conviction"
+    ],
+    [
+      "t",
+      "obedience"
+    ],
+    [
+      "t",
+      "faithoverfear"
+    ],
+    [
+      "t",
+      "buildingwithintegrity"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}

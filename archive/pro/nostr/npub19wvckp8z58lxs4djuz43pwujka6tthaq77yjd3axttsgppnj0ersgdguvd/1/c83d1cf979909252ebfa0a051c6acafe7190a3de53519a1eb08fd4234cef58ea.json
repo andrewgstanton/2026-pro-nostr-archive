@@ -1,0 +1,50 @@
+{
+  "content": "# Short Architecture & Risk Reviews\n\nMost teams don’t fail from lack of talent.\nThey fail when hidden constraints surface too late.\n\nI offer short, fixed-scope architecture & risk reviews for teams building complex systems — especially around identity, data ownership, AI, and long-term durability.\n\nWhat this is:\n• a 2–3 week, time-boxed review\n• architecture, identity, data, AI risk, failure modes\n• written assessment + concrete recommendations\n\nWhat this is not:\n• not a rewrite\n• not staff augmentation\n• not an open-ended advisory role\n\nFixed scope. Fixed timeline. Clear start and end.\nTypical range: $3k–$8k, depending on complexity.\n\nIf this resonates, DM with a short description of what you’re building and where you feel uncertainty.\nIf it’s not a fit, I’ll say so quickly and honestly.\n\n#architecture #risk #builders #ai #identity #sovereignty",
+  "created_at": 1770772329,
+  "id": "c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "371fa50c53cc6ef35db81ea92e04690ed0c638586f146934d19f8a69507813d64416ba46bd77bbf5ab18e4a34a7f864239bc767eede9bd4c1c98611bb868b2cd",
+  "tags": [
+    [
+      "d",
+      "short-architecture-risk-reviews-1770772329"
+    ],
+    [
+      "title",
+      "Short Architecture & Risk Reviews"
+    ],
+    [
+      "published_at",
+      "1770772329"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "risk"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ]
+}

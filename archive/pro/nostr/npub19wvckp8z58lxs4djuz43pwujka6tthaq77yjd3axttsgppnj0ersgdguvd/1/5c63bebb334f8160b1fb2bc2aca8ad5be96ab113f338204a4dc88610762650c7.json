@@ -1,0 +1,52 @@
+{
+  "content": "# Note 1 — Building When It’s Quiet - 2/9/2026\n\nBuilding doesn’t always feel like momentum.\nSometimes it feels like repetition without applause.\n\nMost durable things are built during those stretches.\nNoise comes later — or not at all.\n\nEither way, the work still counts.\n\nScripture\n\n“Let us not grow weary of doing good, for in due season we will reap, if we do not give up.” — Galatians 6:9\n\n\n#building #faithfulwork #continuing #durability #hiddenwork",
+  "created_at": 1770687365,
+  "id": "5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c96f75de11d1f10f108fdb6dabdf39acee5977fe0537a4e8139888470f5623779aeb97133ff0e8d426afb9c7d1f325e0fcc51bf4c42121591063dede85b11fa8",
+  "tags": [
+    [
+      "d",
+      "note-1-building-when-its-quiet-292026-1770687365"
+    ],
+    [
+      "title",
+      "Note 1 — Building When It’s Quiet - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770687365"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "faithfulwork"
+    ],
+    [
+      "t",
+      "continuing"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "hiddenwork"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}

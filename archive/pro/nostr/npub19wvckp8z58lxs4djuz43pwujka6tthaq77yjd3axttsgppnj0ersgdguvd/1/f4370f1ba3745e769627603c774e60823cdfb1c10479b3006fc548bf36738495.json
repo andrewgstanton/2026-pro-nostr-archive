@@ -1,0 +1,52 @@
+{
+  "content": "# Note 3 — Building Without Permission - 2/9/2026\n\nThere’s a strange freedom in building things no one asked for.\n\nNo roadmap pressure.\nNo audience optimization.\nNo need to justify why it exists.\n\nJust the quiet question:\nIs this correct?\n\nScripture\n\n“Whatever you do, work heartily, as for the Lord and not for men.” — Colossians 3:23\n\nTags\n#obedience #faithfulwork #calling #builders #sovereignty",
+  "created_at": 1770687764,
+  "id": "f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0e8f88c6f34d13f3c172ec0eb909dcbac3cd19bb7b68e98bc46074dc6eabf0a6459420f6d92f996dc188316086a73095ecb88d932bf947b7d7d63e43737d167b",
+  "tags": [
+    [
+      "d",
+      "note-3-building-without-permission-292026-1770687764"
+    ],
+    [
+      "title",
+      "Note 3 — Building Without Permission - 2/9/2026"
+    ],
+    [
+      "published_at",
+      "1770687764"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "obedience"
+    ],
+    [
+      "t",
+      "faithfulwork"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}
