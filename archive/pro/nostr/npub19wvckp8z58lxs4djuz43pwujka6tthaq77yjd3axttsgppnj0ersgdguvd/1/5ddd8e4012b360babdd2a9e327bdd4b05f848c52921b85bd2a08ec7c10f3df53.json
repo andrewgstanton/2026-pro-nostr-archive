@@ -1,0 +1,38 @@
+{
+  "content": "# Note 1 — We Had This Once - 2/13/2026\n\nThere is a strange irony in all of this.\n\nThirty or forty years ago, software was local by default.\nYour documents lived on your machine.\nYour credentials unlocked your device — not a remote server.\nYou bought a copy of something like Word or Quicken and it was yours.\n\nThen “the cloud” arrived — and convenience slowly replaced ownership.\n\nNow, in 2026, what feels radical is simply returning to what once was normal:\nrunning your own software, storing your own data, signing your own keys.\n\nLocal-first is not regression.\nIt is remembering.\n\nThe irony is that progress sometimes means recovering what we surrendered.\n\n“Thus says the Lord: Stand by the roads, and look, and ask for the ancient paths, where the good way is; and walk in it, and find rest for your souls.”\n— Jeremiah 6:16\n\n#localfirst #sovereignty #continuum",
+  "created_at": 1771012840,
+  "id": "5ddd8e4012b360babdd2a9e327bdd4b05f848c52921b85bd2a08ec7c10f3df53",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7e031ad3cce9f8ad022efff70cd14c51c2fbb916005d33c2a7b1783987fc54b6b261f6a5335e9fdf1c0e73c4684dd576baa22fb37b626d486b089ffdc751a36f",
+  "tags": [
+    [
+      "d",
+      "note-1-we-had-this-once-2132026-1771012840"
+    ],
+    [
+      "title",
+      "Note 1 — We Had This Once - 2/13/2026"
+    ],
+    [
+      "published_at",
+      "1771012840"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "content": "# Note 4 — Small Is Powerful - 2/13/2026\n\nLocal-first does not look impressive.\n\nThere are no glowing dashboards in the sky.\nNo billion-dollar valuations.\nNo endless venture rounds.\n\nIt looks like a folder.\nA repo.\nA clean SQLite database.\n\nBut seeds are small too.\n\nThe irony is that what is durable often begins quietly —\non a laptop, in a local directory, with a single identity file.\n\nFaithful systems scale differently than hype.\n\n“Do not despise these small beginnings, for the Lord rejoices to see the work begin.”\n— Zechariah 4:10\n\n#smallbeginnings #faithfulbuilding #continuum",
+  "created_at": 1771013431,
+  "id": "9ce0522e32575098d66c6c3cca0601698d8b06e4c4e8f474b513aa170b22d54e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "101d632c9eb30814dfa06ee2dfed9bd6979539464967ef91af77d087e87a8ab73e466b4d077a2223fb9ca89d84da503c42b75aa465640dddcb72e40408c56f28",
+  "tags": [
+    [
+      "d",
+      "note-4-small-is-powerful-2132026-1771013431"
+    ],
+    [
+      "title",
+      "Note 4 — Small Is Powerful - 2/13/2026"
+    ],
+    [
+      "published_at",
+      "1771013431"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "smallbeginnings"
+    ],
+    [
+      "t",
+      "faithfulbuilding"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "content": "# Note 3 — The Cost of Forgetting - 2/13/2026\n\nWe were told: “Don’t worry about storage. Don’t worry about backups. Don’t worry about architecture.”\n\nSo we forgot how systems work.\n\nWe forgot how to move our data.\nWe forgot how to migrate.\nWe forgot how to exit.\n\nThe irony of local-first is that it looks like complexity —\nbut it is actually clarity.\n\nWhen your notes, articles, and archives sit in plain folders you can see,\nyou understand your system.\n\nVisibility restores understanding.\nUnderstanding restores agency.\n\nAnd agency restores hope.\n\n“The prudent sees danger and hides himself, but the simple go on and suffer for it.”\n— Proverbs 27:12\n\n#agency #durability #build",
+  "created_at": 1771013357,
+  "id": "47d7a20caa63644d8331de02e9de5232009847d1fb295dae38d62f32c93b5ca1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d3e76181ce4b0388955dcf9fd648f4954b18522ef214ee7390d4cfbd8639a474f11ac1cc8b905118b8f36940aa79333f1c00e2376cafc0809983fa2ecca90e6a",
+  "tags": [
+    [
+      "d",
+      "note-3-the-cost-of-forgetting-2132026-1771013357"
+    ],
+    [
+      "title",
+      "Note 3 — The Cost of Forgetting - 2/13/2026"
+    ],
+    [
+      "published_at",
+      "1771013357"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "agency"
+    ],
+    [
+      "t",
+      "durability"
+    ],
+    [
+      "t",
+      "build"
+    ]
+  ]
+}

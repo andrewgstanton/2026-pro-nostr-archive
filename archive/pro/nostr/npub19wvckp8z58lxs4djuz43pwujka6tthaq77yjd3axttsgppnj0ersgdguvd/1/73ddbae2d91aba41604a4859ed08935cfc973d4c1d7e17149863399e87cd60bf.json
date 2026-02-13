@@ -1,0 +1,38 @@
+{
+  "content": "# Note 2 — Convenience Is Not Freedom - 2/13/2026\n\nThe cloud made everything easy.\n\nOne login.\nOne password reset.\nOne subscription that quietly renews forever.\n\nBut ease and freedom are not the same thing.\n\nIt is easier to rent than to own.\nIt is easier to delegate responsibility than to carry it.\nIt is easier to let someone else hold your keys.\n\nLocal-first feels heavier at first — Docker installs, JSON identity files, backups.\n\nBut the irony is this:\ndiscipline restores dignity.\n\nWhen you hold your own keys, you hold your own story.\n\n“The borrower is the slave of the lender.”\n— Proverbs 22:7\n\n#identity #keys #freedom",
+  "created_at": 1771013048,
+  "id": "73ddbae2d91aba41604a4859ed08935cfc973d4c1d7e17149863399e87cd60bf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9f320e8f7caf51cf570d48143e32e507afa5638a2db88c19690cce7c4e6c51f2fb972a8547abaabe29af37a9ec5f0fe0c39eb39672162e4c8854ec0a04e73b22",
+  "tags": [
+    [
+      "d",
+      "note-2-convenience-is-not-freedom-2132026-1771013048"
+    ],
+    [
+      "title",
+      "Note 2 — Convenience Is Not Freedom - 2/13/2026"
+    ],
+    [
+      "published_at",
+      "1771013048"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "keys"
+    ],
+    [
+      "t",
+      "freedom"
+    ]
+  ]
+}
