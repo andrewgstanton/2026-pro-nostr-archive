@@ -1,0 +1,32 @@
+{
+  "content": "# Founder Advisory Sprints\n\nSome decisions are too important to outsource — and too complex to solve alone.\n\nI offer short, paid advisory sprints for founders building infrastructure-heavy or high-consequence systems.\n\nThis is not mentorship theater.\nIt is not an ongoing obligation.\nIt is a defined window for thinking clearly together.\n\nWhat this is:\n\nA 3–4 week sprint (typically 4–6 sessions) focused on decisions you are actively wrestling with.\n\nCommon areas of focus include:\n\n* architectural direction and constraint design\n* incentive alignment and governance risk\n* AI + identity tradeoffs\n* where speed helps — and where it quietly damages the system\n* what you should not build or promise\n* This is structured thinking under pressure.\n\nWhat this is not:\n\n* not a board seat\n* not coaching\n* not growth consulting\n* not staff augmentation\n* not a path to equity or control\n* The sprint ends cleanly.\n\nWhy this exists:\n\nFounders are often forced to choose between thinking alone under pressure or bringing in people who come with agendas.\n\nThis format is meant to be bounded, honest, pressure-reducing, and respectful of your autonomy.\n\nYou remain the decision-maker.\n\nEngagement details:\n\n* 4–6 sessions over ~1 month\n* Clear focus and defined scope\n* Written summary of key risks and tradeoffs\n* Typical range: $2k–$4k per sprint\n\nIf you’re building something where correctness matters more than optics — and you want a second brain without strings attached — this is what I offer.\n\nDM if this resonates.",
+  "created_at": 1770928246,
+  "id": "83d899fa4f52eb8ab2dcd718054dfe60fe903ff3d3b97a544fc3e3f59d6e3bc0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8251171d84bef618ab2ecc97984c7cb092e99eb8bcf21bd7dcbef8350118f31125c2fd1590d7a653713a5a08093a80b1d1d8f9832e6c0f83f504560d0484b8e5",
+  "tags": [
+    [
+      "d",
+      "founder-advisory-sprints-1770928246"
+    ],
+    [
+      "title",
+      "Founder Advisory Sprints"
+    ],
+    [
+      "published_at",
+      "1770928246"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
