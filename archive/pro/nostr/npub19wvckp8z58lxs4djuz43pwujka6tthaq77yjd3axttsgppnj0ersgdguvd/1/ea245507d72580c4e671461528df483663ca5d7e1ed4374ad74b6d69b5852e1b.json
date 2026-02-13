@@ -1,0 +1,26 @@
+{
+  "content": "# Continuum is not a social client.\n\nIt’s a local-first Nostr workstation:\n\n– Deterministic publishing\n\n– Background queue\n\n– Relay transparency\n\n– Archive provenance\n\nNo SaaS login. Runs locally.\n\nPatronage: $250 one-time\n\n$225 via Lightning ⚡ andrewgstanton@strike.me",
+  "created_at": 1771016948,
+  "id": "ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "55ff53fd9c19e46d2c22e01f2b155828e90c27a522c0977483133c8576bf140ec9c9a9b056501bdd412929d805124267ca0818076ef9503254407f06f0d43ef4",
+  "tags": [
+    [
+      "d",
+      "continuum-is-not-a-social-client-1771016948"
+    ],
+    [
+      "title",
+      "Continuum is not a social client."
+    ],
+    [
+      "published_at",
+      "1771016948"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}
