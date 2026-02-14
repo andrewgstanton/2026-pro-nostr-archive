@@ -1,0 +1,26 @@
+{
+  "content": "# 🇩🇪 Continuum ist kein Social-Client.\n\nEs ist eine Nostr-Workstation nach dem Local-First-Prinzip.\n\n– Deterministische Veröffentlichung\n\n– Hintergrundverarbeitung mit Queue\n\n– Transparenz auf Relay-Ebene\n\n– Nachvollziehbare Archivierung\n\nKein SaaS-Login. \nLäuft vollständig lokal auf deinem eigenen System.\n\nUnterstützung: 250 $ einmalig\n\n225 $ via Lightning ⚡ andrewgstanton@strike.me",
+  "created_at": 1771038275,
+  "id": "5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b43f3406d79a37a0e76af88bfd0253c1e195f3c6cf3d02c7332a4bca10f7b94947e03350f36efa7e77c8bc42c8f15967dc2a86efa085ca99c97a8e541bed59d6",
+  "tags": [
+    [
+      "d",
+      "continuum-ist-kein-social-client-1771038275"
+    ],
+    [
+      "title",
+      "🇩🇪 Continuum ist kein Social-Client."
+    ],
+    [
+      "published_at",
+      "1771038275"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

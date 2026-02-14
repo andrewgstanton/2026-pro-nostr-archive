@@ -1,0 +1,31 @@
+{
+  "kind": 1,
+  "created_at": 1771041362,
+  "tags": [
+    [
+      "d",
+      "coninuum-example-running-locally-on-my-mac-1771040836"
+    ],
+    [
+      "published_at",
+      "1771041362"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "title",
+      "Coninuum Example Running Locally on my Mac"
+    ],
+    [
+      "e",
+      "314e6641e69414c3cd76cd1ec1ee062d80dbf62f8d87410d0c4597f6006e063f",
+      "edit"
+    ]
+  ],
+  "content": "# Coninuum Example Running Locally on my Mac\n\nThis article exists in three layers:\n\n- Running locally on my machine\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-local.jpg\n\n- Archived at a deterministic URL\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-archive.jpg\n\n- Stored as a signed Nostr event (kind:30023)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-02-13-raw-json.jpg\n\nRelay coverage: 5 / 34\nFull export layer: PDF, Word, Markdown, HTML.\n\nSame object. Same event ID.\n\nContinuum treats Nostr content as durable infrastructure — not feed entries.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730",
+  "sig": "6c293bc9460439a9ea60d5104e9c1e103f676ff3363c0fde144bc373664004225b599c478194bf5d2212975270d813a25a6b22c81c099f7764136bba95f7c813"
+}
