@@ -1,0 +1,33 @@
+{
+  "content": "# Substack Publishing on Continuum\n\nMany authors use both Substack and Nostr.\n\n\n1. Continuum Example Running Locally on my Mac\n\nThis article exists in three layers:\n\n- Running locally on my machine\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-local.jpg\n\n- Archived at a deterministic URL\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-archive.jpg\n\n- Stored as a signed Nostr event (kind:30023)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-02-13-raw-json.jpg\n\nRelay coverage: 5 / 34\nFull export layer: PDF, Word, Markdown, HTML.\n\nSame object. Same event ID.\n\nContinuum treats Nostr content as durable infrastructure — not feed entries.\n\n---\n\n2. Example: Continuum → Substack Workflow\n\nHere’s a real example using a recent article \"Building Continuum – Chap. 1.\"\n\nPublished locally in Continuum\n\nAfter signing + publishing, the article is:\n\n• Stored in my local archive\n• Verifiable by event ID\n• Relay status visible\n• Exportable in multiple formats\n\nContinuum is the source of truth.\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-encrypted.jpg\n\nViewing the encrypted / paid link\n\nPaid articles are encrypted at the event level.\n\nAccess is controlled via unlock code — not platform account state.\n\nThat means:\n\n• The content exists independently\n• Payment gates are optional overlays\n• I control the distribution logic\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-unencrypted.jpg\n\nRich Text Export (Substack-ready)\n\nOne click → Rich Text (Substack format).\n\nNo rewriting.\nNo formatting gymnastics.\nNo platform lock-in.\n\nCopy → Paste → Publish.\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-rich-text.jpg\n\nSame Article on Substack (Paid)\n\nSubstack becomes a distribution surface.\n\n\nBut it is not the origin.\n\nThe article began as:\n\n• A locally signed event\n• In my own archive\n• Under my key\n\nThat distinction matters.\n\nContinuum = authorship layer\nSubstack = optional distribution layer\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-02-13-substack.jpg\n\nClosing Thoughts\n\nI’m increasingly convinced that authors benefit from having an origin layer that exists independently of any single platform.\n\nFor me, that means:\n\n• Writing locally\n• Signing with my key\n• Archiving automatically\n• Then optionally syndicating elsewhere\n\nSubstack is a powerful distribution channel.\nBut it doesn’t have to be the source of truth.\n\nOptionality reduces fragility.\n\nThat’s what I’m building toward.",
+  "created_at": 1771054240,
+  "id": "97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d648d9e82daff221dca5e8e320c839efbcffd4106e4628499de9e25b6f1e71e744fbc9c6ad557c69231185f8018a3a23c56c525a47fd8074d09420bbc88bddb9",
+  "tags": [
+    [
+      "d",
+      "substack-publishing-on-continuum-1771054240"
+    ],
+    [
+      "title",
+      "Substack Publishing on Continuum"
+    ],
+    [
+      "published_at",
+      "1771054240"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
