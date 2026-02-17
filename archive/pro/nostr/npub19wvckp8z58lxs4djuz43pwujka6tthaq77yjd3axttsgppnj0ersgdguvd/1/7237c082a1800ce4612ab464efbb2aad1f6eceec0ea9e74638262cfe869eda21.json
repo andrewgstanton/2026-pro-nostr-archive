@@ -1,0 +1,17 @@
+{
+  "content": "No long-form today. Ran a revenue experiment instead. Different kind of work.",
+  "created_at": 1771139305,
+  "id": "7237c082a1800ce4612ab464efbb2aad1f6eceec0ea9e74638262cfe869eda21",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e33b986832d1c55b932dcaea3fa41d4effe9ca07021443b9136f0ab5edfbd9080be541810ebdf5f4189e56178e77548635248141fa8c1acb944c4fdecf71ba9b",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.primal.net",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

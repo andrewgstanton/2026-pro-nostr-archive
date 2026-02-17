@@ -1,0 +1,30 @@
+{
+  "content": "Fascinating I lived three years in Japan mostly in Nagoya.  \n\nI can relate very well to the points you make about how Bitcoin reflects Jaoanese sensibilities.\n\nI am working on a serial sci-fi series called „ The Bitcoin Chronicles“. \n\n",
+  "created_at": 1771180726,
+  "id": "55703d320ddb7028be247922582628d0fbf1ede1c871fc979e513a42eb52992f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d58aab9006b2e066c74f3acec0aef8416d30b8604ff62916fd2a7ba64a1b2d4c4ced4df1bc99f024c04f0516b1b59a5bf385652e3f83467ca6f0e2d0a92f7bdf",
+  "tags": [
+    [
+      "a",
+      "30023:d49df96739ef716e67b4d04d116e491cae89c04952b45219321e43b5c3a4cc1c:bitcoin-japan-and-the-architecture-of-restraint",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "d49df96739ef716e67b4d04d116e491cae89c04952b45219321e43b5c3a4cc1c",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.primal.net",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

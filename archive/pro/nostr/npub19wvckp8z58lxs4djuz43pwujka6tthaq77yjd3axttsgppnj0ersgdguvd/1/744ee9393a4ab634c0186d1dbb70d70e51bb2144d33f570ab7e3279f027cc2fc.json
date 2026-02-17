@@ -1,0 +1,33 @@
+{
+  "content": "# Demo of Continuum - 2/15/2026\n\nRecorded a short walkthrough of Continuum running locally — showing identity creation, profile publishing, and multi-npub management.\n\nLocal-first. Optional publishing.\n\nDemo:\n\nhttps://is.gd/kfguKH",
+  "created_at": 1771206161,
+  "id": "744ee9393a4ab634c0186d1dbb70d70e51bb2144d33f570ab7e3279f027cc2fc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4d723dd395ddc47656ec9036636c5a30affe76c7e8dcaacdbba5279cdc224e882eb565c972b974296c576e6486044689a61f8b251223263c07f3ca3c2d37d814",
+  "tags": [
+    [
+      "d",
+      "demo-of-continuum-2152026-1771206161"
+    ],
+    [
+      "title",
+      "Demo of Continuum - 2/15/2026"
+    ],
+    [
+      "published_at",
+      "1771206161"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ]
+}
