@@ -1,0 +1,67 @@
+{
+  "kind": 30023,
+  "created_at": 1771286762,
+  "tags": [
+    [
+      "d",
+      "building-continuum--chapter-9--the-friction-with-existing-clients-2026-02-16"
+    ],
+    [
+      "title",
+      "🔒 Building Continuum — Chapter 9 — The Friction with Existing Clients"
+    ],
+    [
+      "published_at",
+      "1771286762"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Existing Nostr clients worked. They were functional, even elegant. But friction exposed deeper architectural misalignment. This chapter explores why “good enough” was not enough — and how dissatisfaction became structural insight."
+    ],
+    [
+      "display_date",
+      "2026-02-16"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identityfirst"
+    ],
+    [
+      "t",
+      "uxfriction"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "26093f85a890ceace3c4189812eb758884c023b167c748fed7a967aa47548611",
+      "edit"
+    ]
+  ],
+  "content": "## Building Continuum — Chapter 9 — The Friction with Existing Clients\n\nExisting Nostr clients worked. They were functional, even elegant. But friction exposed deeper architectural misalignment. This chapter explores why “good enough” was not enough — and how dissatisfaction became structural insight.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:BOFWGK6UMpNuYHiPuhseaD5tcVgEBML913SDq83CeqbC8vA1fm83KDfPgr1kQjUAn4f6OP2TeIiwN7POoxesdJL79XjiDOAFt2QZv5PsmfxAPEfcLHjKIA5rUGXWvTTsZGdrKyvFTAirZYuR7mKqEF78b126c7jJ5TRDqX3dSJdDVmbyTWTPfXvrNOnxj7IqlMHS1I-kgi2KZygnJJgvbHycZcwq-5N1UTBKoolbny7njkz5AlVzPLdZSVr3EUZrJ5V6XeWgJ81dd0wvQ_N9GZdgXTdyLiCDMYXUzeFgrx9Cc8cKEcljoXafyhlRP_VFUW6MLy7YXHa8hJMoBdUkxuXLxu80FPmjo_LCdyZAc8pVKuUIai6iM5eqvmagktVX29KcPbV1dKe7QEr3VyQgZRxROQLm1u0ES241IHU7Z4edNBjUwCeyi6USRQqzoc8cuLVAQSrEXPH9JZjwE1iZLnX5HAdS-sr4omLmACaj93ktiJ8j6Biw6686ZZm-4LDmn89bpKO-UFDIkjwY18GmleuZpICgplQQhjwwmk_TaWsqt-XBx8xo3u6t7pGoiIvCn8iSxVyZPvBy6ikNlmM7As3YpY7xNlEcai_8DkJIBv86HmRnE5p8tijn94FzSHAKyKehT3lgbZeko-t4AUQNwKzs4ErBCt8ORySA9rcUcpNNOQLv3G3E08y_Ih8dr7w7ZTH3JFFOS1LivqnhrgstD949ujiJtDuVo_MgC6INqcX4WllSB0pv058p-nY4VWrID0l7x443RTFuhH_KioEuWGuTTssQUOYTwWNFWxN3BYbf2XSvMuk1eQdcSFgJpiRMFLVWT8QKDv7gbTWZuabpeedp7H86eoRbnJ_uLqzSR5S9SZmTxwW-Zl70AR1PV8tjk6YLC94XfiNTFEewlUOEUGKywcHHvO3S0LC9B8ngi3TfL9AtdjuPP6pE5UqexKLIWAlJekrtyPWxbFWOf-kq_SAJTVYndgYoj4N3aoo6xkpWRjlg1xUNZ3pvq1VC91qaIPSun3H_0iwIP_AbBi2F5-Cc81deEvNOTKDamleiUbQzcdtGqgAZu8IIfDdX3I9rbMLLhYbBXVEyuGDzVMucf4PIZBufUPhzExjmIVCjLB6tWQZbNzGLSwBJ_LlsXXmBq0qFGgsXqYBmWHjV21vTEHvXTzm4-C0vMLWtsfgqeB1yMyX9lX5IRALyAnNgjPKYMOETH29sroy7QOVwJp5XSfmCSQP_5T2ijJUxV-wUn_SVKBGbEurYiOyRi3jwn_34W68b9vdjNzHY4YLi_hmSZITeRMUNmKOzwqKIPx_E8fNz9ZTBkVLoAdoQhKxXVFY3MH5T-xIdHsSwTG09XBQ_teAmUFsZKjx-fvNksCxiLdFEwt6jDxUtepw1TqE6XhExGPlkfjRU-ftrZZYzfFUY6T9i_MQ_9g30dWmW5TElnHj0Re0nb85in_djGLQf6qogHDKRM_zD3Ufn15lZRDoDhWitJpUK2g03LHgzcO2aQVjDcLNCa9riiMWbTfYCiAz78SFLwT9kxz0bNIWi9a9tOtUgbZ3Voz4HK-ucIYvTUW_JKL6HYT44db1_Q9aZlpJof1E8pnaDE6QIkYBpGmUCdWy9suAbkORbY-052s_GuXr_eq9g3LrDhz0zVlHiKMd5lXIhV64Au9DykhQS8WU9fiKFwmPvlUhhlowsF3h12QOlZCOAaNSdGzEYNpTCyXM8wRCxb4-1LB7i0R2NufRCoA9_UAjzPBS-KRInOdaEnOVsV-Jymer6TG4auU3uZlTdvE_PuW__NZPSiyD0Ur94u-JA_fRp--inX12j_wsoiLHJ44wV0UCtyXJT_pOjB6h9KGoiSep1GHp0s3BffQ6A1rFwYXYUymW38zoXvIFKs4QMhYpu52VrPeagsWTzqZOFdLRwHTzNylkgN41eu2E-wd5j1sV7KOkJZU4DhbGhdRJrbVoZcqIF94_QBfxayC2eNl0wimJVLfxFf7lVSFFUExaSZMhYAHtTnIC5PeTrJAoMkcBdOj6X2KU_WTUw9FZkOlvtMvPVn3Vo4xrPlXrdlrKdaoM1PJJ-yHlz6TVhoHFrSs6j3A9iRDaVH625hhE-HXHF9s06WDeGdfHwA6e__v14_TXyoiMlgxpIxsTgxOS56CChE63YunWCYzU-tKqyGv_JuLgPeMBbhm4S9NcjD55szjyQoI92T-uHy01M_EunS1f_CHHTP9N0sPG8e_BnDAo5O5Gm_zfUD5ADxh8EUtCr_VVVT48SUIpV-HGPWypP2tMdF-d8qm1e2dYerRsJjZEj6oXROJktvl1J9eY3Z6zvvk4T2RNe8E-XvMYq2XcaUb7EF91imhZohmqN9CGw_U-lmwZpLDasyVEfqkSFJ8raFmo5tE4uQjWVl6VOfFSoHwI0qaqeCEykIBSA1Kvo6rA3-gzqJ09E1cyq_DdbRO6jXGk--eAsyjeoB7ZNgi21FZ1sW2eVzxe1lmN-evX463ev5iDM55O6JO8XzfAvAaKkRE8sJWVRN3vnJcizOgMlNV4CIQBBIlalfrKH27c1-xEtsLZn2qjsmQyqASFjME_7lhG4jISK3gTvuv5sb1oUMbVEDICD43otj4P1EY6uVWMsuxakEA1XYGXC2yJrgXSqNWj8XIZ54baZZbkqKmP2IlE2ZR6q7LH4TI3capNnq83UTNspoF8wi7m5rXGCwZB1FesJ0eQtKt6Qz7xWhZy2XMurHZhAawf-KdyM8WB8P9UXB-awYX2En6Jh3Imqp4222_QqldGJ5jdU30l3nYUo_ObeBnupyqXL0nftz3Hk3ZVI6pHol0-ejVRMtKl4qXcSOzU74ykSSQ0ofwF9o59PtexwiV9iiDYBc4iYK5LNiyrK9AYmto2iQTbwVSA4o4DtrHcv_WJo7Q9-XDL2HhOILpxVds4jpCRn3K9hKNbJGNOyBK5Fe161ltSnhT_FcBbsmV4Sp8FZeZUbbxoUC-bx5zc-vxcFUnjNl1eLRS56_naTlVHnMPXxG_aWoROQiFFsz07krC_PE-yHnrbk0o96t5o47sPyZVP_pgFZPRZKv-WBOTmB3hxT_Wwp1Gz3pb5FP2Kmk0IS_rfytqOdiqkCP9APjSMI6zZUYy1_wuEhn6wmqOo1G-focwtZ6Jv7gU0eD_ZBscxJAM0FFp0Pe-tYbSy7V3MgFvL7XMTrITSo9Mj1w9Kpkr_dgUroLbeJL0H_33jzpNCe8C5Cquf-2dKB-_YvsfWzliPufWLtlUn5BReZrJVo2iRvwh4zjJRUssKs95uL8wD_FPpgBWu1YLHpXjHeOPHXXNPt6_njMaeOvd_qQRWD2v4HAz8hLfoGvXMTlgm_QIh4VaWo1WFU34-M-ZigvTybtiJXr9y0DDeY2OC_OT4PKRg3YOl1UmEJ31r6KRvNGFSC143qFlrLhl1OoqfYdnjVPzYdIr88kFrDRdF1gUi5R9R6xfmyLTJFVFJYVaqXzDhJ0kfXx9IaawCm43n2QsQD1LxTy8xznsRaEWI9j4tbK5K5PbrHEGrdc81rNq-bTsMpaLgNOP_zlcH7XsY_5a2U85nbAppdNoelY6NQ_NWLt5SYFOxhnVinhwcPGrsONc9VPQFSZlcY9lChJ36ZqYbqReJ7LuCgPue0uUp6kyb2SLjv-klMJ7S8oAZgPB9c6BmldS_7YlbSQzA-VbXADPTeQkgO5RLZ3Xz2\n<!-- ENC_BLOB_END -->",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501",
+  "sig": "abd59a009b5486db02080d611f80363f7674a3a550e5eacde6a400bc277078f18fea0c02b067e9729ded8f6d883449a67088ea5403b971f881366c0aa6fd2220"
+}
