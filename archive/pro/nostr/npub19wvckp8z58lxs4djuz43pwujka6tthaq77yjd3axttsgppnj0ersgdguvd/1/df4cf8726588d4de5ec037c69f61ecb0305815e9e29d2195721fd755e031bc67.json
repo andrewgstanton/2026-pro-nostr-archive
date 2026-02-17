@@ -1,0 +1,33 @@
+{
+  "content": "# Verify Tool (in case anyone is interested)\n\nIn case anyone is interested,\n\nYou can verify any event on Nostr here:\n\nhttps://nostr.mycontinuum.xyz/e/verify.html\n\nto verify:  paste the event json into the text field, provide an optional NPUB and click \"Verify\"",
+  "created_at": 1771301441,
+  "id": "df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b8ea691e26b75584d6e662e6bd78b7c55fdb3575c94fe9a12d73f232f734a606faea76431c599bff436cc2889ffd300f5974c3d0652e4ccd7ffbf45ac11bf32f",
+  "tags": [
+    [
+      "d",
+      "verify-tool-in-case-anyone-is-interested-1771301441"
+    ],
+    [
+      "title",
+      "Verify Tool (in case anyone is interested)"
+    ],
+    [
+      "published_at",
+      "1771301441"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
