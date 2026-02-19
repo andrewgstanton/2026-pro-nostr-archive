@@ -1,0 +1,26 @@
+{
+  "content": "I value thoughtful conversations and meaningful collaboration.  \nTo protect focused build time, I structure external discussions intentionally.\n\n## Advisory Sessions\n\nI’m open to structured advisory conversations in the following areas:\n\n- Identity-first architecture  \n- Local-first systems  \n- Sovereign data strategy  \n- Bitcoin-native infrastructure  \n- Enterprise protocol-layer transformation  \n- Digital resilience & ownership models  \n\nAdvisory sessions are:\n\n- Time-boxed  \n- Structured  \n- Paid  \n\nAvailability and rate are provided upon request.\n\n---\n\n## Collaboration & Exploration\n\nIf you’re reaching out to:\n\n- Explore curriculum\n- Workshop product direction\n- Brainstorm architecture\n- Gather ecosystem insight\n- Discuss transformation strategy\n\nPlease include:\n\n- The specific topic  \n- The intended outcome  \n- Decision-making authority  \n- Budget (if applicable)\n\nClarity accelerates alignment.\n\n---\n\n## Not Currently Available For\n\n- Vendor discovery calls  \n- General networking coffees  \n- Unstructured “pick your brain” sessions  \n- Early-stage exploratory outreach without defined scope  \n\n---\n\n## Why This Policy Exists\n\nI’m actively building infrastructure in the sovereignty and identity space.  \nProtecting deep creation time allows that work to compound.\n\nIf there’s real alignment, I’m genuinely open to structured collaboration.\n\nIf not, I wish you well in your search.",
+  "created_at": 1771491278,
+  "id": "c85e1bc7f0b925120ce5f0ae9680a9be6860b168755d922f5e8f556707b923ef",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "04518eeb12e5de6e98a8607c99b9925363f107744d00854b29c8fd573a7d6b027ca9caff5f72bc3b5296bce420df99f98d15a0ad6005abf6326f54f89aaf7df7",
+  "tags": [
+    [
+      "d",
+      "advisory--collaboration-policy"
+    ],
+    [
+      "title",
+      "Advisory & Collaboration Policy"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}
