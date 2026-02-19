@@ -1,0 +1,57 @@
+{
+  "content": "📝 Note 3 — There Is a Time - 2/18/2026\n\nSigning now.\nPublishing later.\n\nDrafting privately.\nReleasing publicly.\n\n“For everything there is a season…” — Ecclesiastes 3:1\n\nClear states allow timing.\nTiming reflects wisdom.\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #Architecture #Scripture #Builders",
+  "created_at": 1771479732,
+  "id": "41e773ba2ebd664124efd106637061d7e4372f45523bb8e516055e7f0614e331",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ce44e1d6e6cd2a4c41e3598471c89fbd229f3cdde1a38919eb0877d9f1e88e0bb038e9c972b43ffb933cba3d4f6bd734e363b8b2784d930027fe92accd35be18",
+  "tags": [
+    [
+      "d",
+      "note-1771479732"
+    ],
+    [
+      "published_at",
+      "1771479732"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "scripture"
+    ],
+    [
+      "t",
+      "builders"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

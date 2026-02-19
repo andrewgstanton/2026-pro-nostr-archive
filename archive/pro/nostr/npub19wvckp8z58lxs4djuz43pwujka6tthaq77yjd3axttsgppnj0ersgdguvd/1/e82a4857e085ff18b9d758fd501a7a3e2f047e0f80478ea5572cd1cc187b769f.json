@@ -1,0 +1,57 @@
+{
+  "content": "📝 Note 2 — Authority First, Then Witness - 2/18/2026\n\nSigning is authority.\nPublishing is witness.\n\nFirst comes identity.\nThen comes testimony.\n\n“You shall be My witnesses…” — Acts 1:8\n\nA signed event is established.\nPublishing simply reveals it.\n\nAuthority precedes distribution.\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #Architecture #Scripture #Builders",
+  "created_at": 1771479684,
+  "id": "e82a4857e085ff18b9d758fd501a7a3e2f047e0f80478ea5572cd1cc187b769f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "325dbda8a89eda8ba6afa52c887129141f5e0a3aaa13d93d9c9f89e5a83287c95cd7c1cbc819bc6b94038061968e7cb9efa632ebf2531c763ad29af693b1d872",
+  "tags": [
+    [
+      "d",
+      "note-1771479684"
+    ],
+    [
+      "published_at",
+      "1771479684"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "scripture"
+    ],
+    [
+      "t",
+      "builders"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

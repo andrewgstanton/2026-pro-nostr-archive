@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1771479850,
+  "tags": [
+    [
+      "d",
+      "note-1771479816"
+    ],
+    [
+      "published_at",
+      "1771479850"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "24b17236ae15a558bae597c72421fbe4cd2d44a2e14ac7bcabea0affa55d6adb",
+      "edit"
+    ]
+  ],
+  "content": "📝 Note 4 — Order Brings Peace - 2/18/2026\n\nWhen systems blur states, users feel anxiety.\n\nDid it send?\nDid it fail?\nIs it public already?\n\n“For God is not a God of confusion but of peace.” — 1 Corinthians 14:33\n\nClear transitions reduce confusion.\nOrder produces peace.\n\nArchitecture shapes experience.\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #Architecture #Scripture #Builders",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "22ce74db2f03a664733ef041a3025f40d802c8ddab3ccbdcc339087dec8bbdea",
+  "sig": "d9d67fee2c9675dea4e420eec3d94c02965df3d25b73373782aa1d47ea862aca9996fd0fc469c2e1d28998e841783aa1ba3676b6f603a26db74e97d7ef99ca18"
+}

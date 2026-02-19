@@ -1,0 +1,29 @@
+{
+  "content": "Sovereignty means:\n\n- Custody over identity.\n\n- Custody over money.\n\n- Custody over work.\n\n- Exit as structural right.\n\n- Refusal of invisible leverage.\n\n- Formation of character through responsibility.",
+  "created_at": 1771489595,
+  "id": "de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "73cc47e3801711cd79b015f9ea0f15181f9f0006eecccf958682cc581397119042df3f2f7482d2354f9a7b295199e17823ac93a72110eb476e00b5751809ecb0",
+  "tags": [
+    [
+      "d",
+      "note-1771489595"
+    ],
+    [
+      "published_at",
+      "1771489595"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

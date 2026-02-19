@@ -1,0 +1,57 @@
+{
+  "content": "📝 Note 1 — Let Your “Yes” Be Yes - 2/18/2026\n\nThere is a difference between:\n\nSigning\nand\nSigning + Publishing\n\nClarity matters.\n\n“Let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’” — Matthew 5:37\n\nWhen actions are distinct, truth is preserved.\nWhen they blur, confusion grows.\n\nArchitecture should reflect integrity.\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #Architecture #Scripture #Builders",
+  "created_at": 1771479294,
+  "id": "6ba0a1803792d6bb3833847da078d90205bd678df72d1ad1407ae71eee71448e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "03cfd609c2156650c4144028fe43ebb5ae32f7bef488a7c1904f758ad16748845251860513cd3899c4a0ed120b468e3be96d508cb4875cd934c679876b15f9cb",
+  "tags": [
+    [
+      "d",
+      "note-1771479294"
+    ],
+    [
+      "published_at",
+      "1771479294"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "scripture"
+    ],
+    [
+      "t",
+      "builders"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "content": "📝 Note 5 — Establish the Work of Our Hands - 2/18/2026\n\nSigning establishes.\nPublishing spreads.\n\nOne is foundation.\nOne is multiplication.\n\n“Establish the work of our hands.” — Psalm 90:17\n\nBuild systems that honor process.\n\nClear states protect agency.\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #Architecture #Scripture #Builders",
+  "created_at": 1771479913,
+  "id": "299af26ee8fd52ede83b3aa8f84feba797b8cdb4fb8f5a1dc35a1693fb9f5518",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c1a06202981fb6b8d39fb9117191df0b5c14f1654ee044969227573730277f14a5638c896cf266d7cd3c56618225ec5be0013152201256dc80fc832dee6e99c2",
+  "tags": [
+    [
+      "d",
+      "note-1771479913"
+    ],
+    [
+      "published_at",
+      "1771479913"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "scripture"
+    ],
+    [
+      "t",
+      "builders"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}
