@@ -1,0 +1,23 @@
+{
+  "content": "Sample Note -- Signed only - 2/19/2026",
+  "created_at": 1771539810,
+  "id": "81eaecd8782dc6ebb2189e295a2ce8a401bae3508f6d9fb88092783d7b0ce4bb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "388f188723e8608bf24a6872b22ff9d4612d250efcd7b6aaefa7efcdd575a6bc76a7254397708f3b4eaf2d7f3ffa1c067ae48a8802d36aa12d2cda6462ed6cd2",
+  "tags": [
+    [
+      "d",
+      "note-1771539810"
+    ],
+    [
+      "published_at",
+      "1771539810"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
