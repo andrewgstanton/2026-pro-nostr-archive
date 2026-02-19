@@ -1,0 +1,30 @@
+{
+  "content": "This was a very encouraging article \n\nThanks for writing it ",
+  "created_at": 1771525835,
+  "id": "29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "95f2ccb419617e3f4d2f4ab5c29acab0377fed0eeff3329e691b907c1171463837bf2e7b237f1121ac84a60497fab985b555b87d810e63de916c2bc049cd76b0",
+  "tags": [
+    [
+      "a",
+      "30023:f9e4b57e93407002f36e978a574e7efa812ef33030e5c5ff71223a8402fd15d1:bitcoin-is-winning-where-it-matters",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f9e4b57e93407002f36e978a574e7efa812ef33030e5c5ff71223a8402fd15d1",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}
