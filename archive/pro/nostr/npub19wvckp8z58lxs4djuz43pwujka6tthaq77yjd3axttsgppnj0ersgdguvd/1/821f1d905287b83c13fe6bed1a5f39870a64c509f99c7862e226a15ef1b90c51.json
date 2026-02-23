@@ -1,0 +1,13 @@
+{
+  "content": "Viral\n\nHe optimized the hook.\n\nHe tracked the metrics.\n\nHe pivoted the tone.\n\nHe waited for the spike.\n\nIt worked.\n\nHe felt nothing.",
+  "created_at": 1771704115,
+  "id": "821f1d905287b83c13fe6bed1a5f39870a64c509f99c7862e226a15ef1b90c51",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e7c3d0a8f4a7b48bf4901d2818f5d52fbd61e3995cb2fe0ab0787eaf6c647c45deef2f525fc00f1eec447c34ff08997d6e6ee6a0adca604a392ff9bdb93fd25c",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

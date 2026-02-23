@@ -1,0 +1,26 @@
+{
+  "content": "Starke Analyse.\nDie eigentliche Herausforderung ist weniger das Protokoll, sondern die Konfigurations-Disziplin.\nEin local-first Layer kann helfen, diese Prinzipien zum Default zu machen – sodass Custody und Signieren nicht optional, sondern selbstverständlich",
+  "created_at": 1771706142,
+  "id": "e39039a72e99d2e940ec9e8cc44a51fc9e76f661afc1e4080565d60087cc025c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9e8594cc77950d4fdb6759de4c761134bb41ae32e3f26bb71398b088d5e7178f3e12d223341f35c1392753bcc1306228b2d79f10f84840291e040a24e4bdf2e2",
+  "tags": [
+    [
+      "a",
+      "30023:cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2:1771326222190",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "content": "Sabbath Mode\n\nHe stopped publishing for a day.\n\nThe world continued.\n\nSo did he.",
+  "created_at": 1771702442,
+  "id": "7b0232ccab338ddee73cae54545928cceb03fe6c71147f7d3a1716a631f13d7c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9e540b5d73fcb4b35045ee041abd9987cddc8cfddf9fde54d9f0bd74ee0ccb73ba6beb9e1ff759d75dcae94dcb0ed5e71fb503899f162d929ea975ddb2af9aaa",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

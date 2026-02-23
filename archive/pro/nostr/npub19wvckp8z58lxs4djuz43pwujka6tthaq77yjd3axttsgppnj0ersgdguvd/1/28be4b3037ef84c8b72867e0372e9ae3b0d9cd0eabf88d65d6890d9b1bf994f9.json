@@ -1,0 +1,42 @@
+{
+  "content": "Note 1 — Infrastructure vs Surface - 2/19/2026\n\nSoftware has layers.\n\nSome tools are surfaces.\nSome are substrates.\n\nSurfaces are visible.\nSubstrates endure.\n\nConfusing the two leads to bad architecture.\n\nContinuum is not a surface platform.\nIt is an identity and custody layer.\n\nThe foundation is rarely visible — but without it, nothing stands.\n\n“The wise man built his house upon the rock.” — Matthew 7:24\n\n#Continuum\n#LocalFirst\n#DigitalSovereignty\n#Architecture",
+  "created_at": 1771559209,
+  "id": "28be4b3037ef84c8b72867e0372e9ae3b0d9cd0eabf88d65d6890d9b1bf994f9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fbd79b127a471f318113c645ac8be71cd6b9f3df99e5914f08771c3cc6d84bec166ab2e5fe50b34db204bf1fb2e79a645201a0ef282762107724d30288e8cfa9",
+  "tags": [
+    [
+      "d",
+      "note-1771559209"
+    ],
+    [
+      "published_at",
+      "1771559209"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

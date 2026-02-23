@@ -1,0 +1,13 @@
+{
+  "content": "Merge\n\nThey met on a platform.\n\nThey stayed on a protocol",
+  "created_at": 1771702506,
+  "id": "1adce62631f80338813281a42cdcc955952821cfe8699935b0e107d7ff4b4a4a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eb4fd9fe2b2aa9ac7d5bf7e690d8355fd8d0f0535f9e4ab82ff875205deb899bba0aa6404bcf5f84517665da93055a905baa5d463c0050e60114592bf0d24206",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

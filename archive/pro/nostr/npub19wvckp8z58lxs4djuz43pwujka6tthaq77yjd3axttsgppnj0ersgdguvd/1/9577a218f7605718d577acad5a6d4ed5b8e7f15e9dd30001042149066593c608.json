@@ -1,0 +1,13 @@
+{
+  "content": "Relay\n\nThey banned him.\n\nThe relays didn’t care.",
+  "created_at": 1771702599,
+  "id": "9577a218f7605718d577acad5a6d4ed5b8e7f15e9dd30001042149066593c608",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "33e93c9ecef979752465d87ffae9699a91faab3ae491e7c333f97f0006bc3776ddffbd36128d61cf2f7863e046e7a21737a8e3b9f76ef118199068a4083dc6ac",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

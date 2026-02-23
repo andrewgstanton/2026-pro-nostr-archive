@@ -1,0 +1,46 @@
+{
+  "content": "Note 3 — Local-First Is a Constraint - 2/19/2026\n\nLocal-first design is slower.\nMore deliberate.\nLess convenient.\n\nThat constraint is intentional.\n\nWhen data lives with you, responsibility returns to you.\n\nFreedom and responsibility travel together.\n\n“To whom much is given, much will be required.” — Luke 12:48\n\n#LocalFirst\n#Responsibility\n#Sovereignty\n#Identity\n#Continuum",
+  "created_at": 1771560453,
+  "id": "0bcf5d02acad0055d376eaaf039801f2a1add506a170765dd1ee1c61850f77cc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8e3d2e36340c7f7e5c11811e53840c9e6ddb2c4b55048a5d34723ff46c222e857ca0ae166b5eee6f9c187aa1c526740184a835a5816f83b7406b27cb11e0f5d2",
+  "tags": [
+    [
+      "d",
+      "note-1771560453"
+    ],
+    [
+      "published_at",
+      "1771560453"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "responsibility"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

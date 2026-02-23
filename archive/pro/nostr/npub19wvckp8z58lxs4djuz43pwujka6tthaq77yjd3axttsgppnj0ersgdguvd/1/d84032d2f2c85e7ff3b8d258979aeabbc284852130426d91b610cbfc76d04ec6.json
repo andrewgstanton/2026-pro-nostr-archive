@@ -1,0 +1,46 @@
+{
+  "content": "Note 5 — Exit Is the Feature - 2/19/2026\n\nThe ability to leave without erasure is more important than the ability to go viral.\n\nExit is not hostility.\nIt is dignity.\n\nSystems that allow exit cultivate trust.\n\nSystems that trap users cultivate fear.\n\n“Stand firm, therefore, and do not submit again to a yoke of slavery.” — Galatians 5:1\n\n#Exit\n#DigitalSovereignty\n#Continuum\n#Architecture\n#Freedom",
+  "created_at": 1771560605,
+  "id": "d84032d2f2c85e7ff3b8d258979aeabbc284852130426d91b610cbfc76d04ec6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0da7fff25f1ae06b738a7c3feb9d7f2b3f5d5ce59f39edc2b6e83a240b5959984d65e57ed6204566935d4ad77b8c0321c24c10f1bf3c8ac843d6358907d8822d",
+  "tags": [
+    [
+      "d",
+      "note-1771560605"
+    ],
+    [
+      "published_at",
+      "1771560605"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "exit"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

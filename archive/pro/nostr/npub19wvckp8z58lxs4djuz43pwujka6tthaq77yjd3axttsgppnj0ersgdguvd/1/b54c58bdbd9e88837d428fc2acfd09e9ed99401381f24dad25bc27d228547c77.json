@@ -1,0 +1,46 @@
+{
+  "content": "Note 2 — Custody Before Distribution - 2/19/2026\n\nDistribution is transport.\nCustody is ownership.\n\nReach without custody is rented visibility.\n\nContinuum prioritizes control of identity and archive first.\nDistribution can happen across many clients.\n\nOwnership precedes amplification.\n\n“The borrower is servant to the lender.” — Proverbs 22:7\n\n#SelfCustody\n#Nostr\n#Exit\n#DigitalIdentity\n#Continuum",
+  "created_at": 1771559266,
+  "id": "b54c58bdbd9e88837d428fc2acfd09e9ed99401381f24dad25bc27d228547c77",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3d8743683ac424abdb7fc92faddfd2be2a868a3f7e9a37d10c8d7f0f58cbacf57ea43856d89bbe7f2eb5a8ab03570161e3d510508178a955033d74d945c7434a",
+  "tags": [
+    [
+      "d",
+      "note-1771559266"
+    ],
+    [
+      "published_at",
+      "1771559266"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "exit"
+    ],
+    [
+      "t",
+      "digitalidentity"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

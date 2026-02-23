@@ -1,0 +1,46 @@
+{
+  "content": "Note 4 — Protocol Is Transport, Not Tenancy - 2/19/2026\n\nProtocols move information.\nThey do not own it.\n\nContinuum signs locally.\nNostr transports.\n\nTransport is not tenancy.\n\nOwnership remains with the key holder.\n\n“Let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’” — Matthew 5:37\n\n#Nostr\n#Protocol\n#Keys\n#DigitalCustody\n#Continuum",
+  "created_at": 1771560495,
+  "id": "e8353eeb601a88ab003121698ada2a99db71499cccd19781e170ad624c5f7d81",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fcb82dd756c6d3f7ad962b8e50dd67e37a42464d5d62add2eed8e0d9e16e13ada9c512999e3c0a5a9044dcaeb144b7dd57e3411929dd867b3567315a74d7ffb8",
+  "tags": [
+    [
+      "d",
+      "note-1771560495"
+    ],
+    [
+      "published_at",
+      "1771560495"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "protocol"
+    ],
+    [
+      "t",
+      "keys"
+    ],
+    [
+      "t",
+      "digitalcustody"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "content": "Unpublished\n\nHe wrote the apology.\n\nSigned it.\n\nNever sent it.\n\nIt still exists.",
+  "created_at": 1771702977,
+  "id": "d5445d516e276e68a1ddecac4aaae666671c5ed14ec3ca4087a9e46d35fa08e8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a68f6fa8e571691bab564b84193f90101e3dc3aa7ae9fcadb6dd8e42cd8279b31472d89d7215eb342649464977856504252d44fab8c8f43fee9e4debfd22a7f",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

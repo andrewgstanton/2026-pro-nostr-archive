@@ -1,0 +1,13 @@
+{
+  "content": "Midair\n\nHe deleted his account.\n\nShe deleted hers.\n\nTheir messages vanished.\n\nExcept the screenshots.",
+  "created_at": 1771702740,
+  "id": "be40922a4be2c4e9d74853c846161fac0876142781f2cede9508ca9702b10c58",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "be6d8fd19f5631302a9c0e4089efacfe092bb89958d51068a04a6fcb047a7ec58b7eb31ace3c3039e537a71d830cd2a74a78853b8e9f5d43a4756b7aca4cc3ea",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
