@@ -1,0 +1,55 @@
+{
+  "content": "- Continuum runs entirely on your own computer.\n- There is no cloud account.\n- There is no hosted login.\n- Your identity and your signing keys remain under your custody.\n\nIt is not a social media client.\nIt is a sovereignty layer beneath them.\n\n## What Continuum Does\n\nContinuum allows you to:\n\n- Generate or import Nostr identities\n- Write notes and long-form articles\n- Send and receive secure messages (DMs) \n- Sign events locally with your private key\n- Publish to relays when you choose\n\nArchive everything deterministically on your machine\n\nSigning and publishing are separate actions.\n\nYour archive remains intact whether relays, clients, or platforms change.\n\n## How It Works\n\n- Install Continuum locally\n- Create or import an identity\n- Write content\n- Sign locally\n\nPublish to selected relays\n\nMaintain a canonical local archive\n\nEvents propagate across Nostr clients — but your source of truth stays with you.\n\n## Core Capabilities\n\n- Multi-identity management\n- Local key custody\n- Sign-only and Sign+Publish workflows\n- Long-form article publishing (kind:30023)\n- Notes (kind:1)\n- Delete support (kind:5)\n- Encrypted direct messages (kind:4)\n- Per-identity relay configuration\n- SQLite-backed local database\n- Deterministic export and rebuild\n\nNo subscriptions.\nNo vendor lock-in.\nNo dependency on a single relay or client.\n\n## Who It’s For\n\nContinuum is designed for:\n\n- Writers and long-form creators\n- Bitcoiners and sovereignty-minded builders\n- Journalists\n- Human rights advocates\n- Ministries and mission-driven organizations\n- Anyone who wants durable authorship\n\nIt is infrastructure for people who intend to keep their work.\n\n## What It Is Not\n\n- It is not a SaaS platform.\n- It does not replace Nostr clients like Primal.\n- It does not host your keys.\n\nContinuum sits beneath the interface layer — providing custody, structure, and durability.\n\n## Philosophy\n\nSovereignty is:\n\n- Custody over identity\n- Custody over work\n- Separation of signing and publishing\n- Structural exit\n- Responsibility over convenience\n\nContinuum is built on these principles.",
+  "created_at": 1771915090,
+  "id": "c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "487a6dae842e1ac29be037a315dce1720be7382a354ba323e150a89c24e31ddca31861650cb1967e119c628cfb801dee10fd48023ed253a51b71782b87cf6ad6",
+  "tags": [
+    [
+      "d",
+      "continuum-16---2232026"
+    ],
+    [
+      "title",
+      "Continuum 1.6 - 2/23/2026"
+    ],
+    [
+      "summary",
+      "A local-first publishing and identity tool built on Nostr"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "published": 1
+}
