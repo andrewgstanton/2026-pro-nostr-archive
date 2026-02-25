@@ -1,0 +1,42 @@
+{
+  "content": "Andrew G. Stanton - Feb. 24, 2026\n\n---\n\nThis isn’t a critique of Nostr clients.\n\nClients are essential.\n\nThey make the protocol visible.\nThey make conversation fluid.\nThey make discovery possible.\nThey reduce friction for participation.\n\nWithout clients, most people would never experience Nostr at all.\n\nBut clients are interfaces.\n\nLocal-first publishing is origin.\n\nWhen I say a certain kind of freedom doesn’t exist purely on clients, I’m not criticizing them.\n\nI’m describing something structural.\n\nClients focus on interaction:\n- viewing feeds\n- replying\n- reacting\n- managing relay connections\n- signing events through browser extensions or integrated key handling\n\nLocal-first publishing focuses on custody:\n- generating and storing keys under your control\n- signing artifacts independently of any UI session\n- maintaining a deterministic local archive\n- anchoring canonical history outside any single interface\n\nOn a client, you interact with the network.\nLocally, you anchor yourself within it.\n\nOn a client, identity is loaded into the interface.\nLocally, identity originates from keys you hold and manage directly.\n\nBoth are important.\nBoth are necessary.\n\nBut they serve different layers of the stack.\n\nClients make Nostr usable.\n\nLocal-first makes it grounded.\n\nI’m grateful for both.",
+  "created_at": 1772008491,
+  "id": "ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f432de8f689ccddc3c858c260a9e07cd439cf970e18380bfc2a81d0c8a8f6d08d8e5b71a52b43eb1ef67acc293b119324eb06a9a1e746ce02fb2a7923ea985a9",
+  "tags": [
+    [
+      "d",
+      "a-clarification-about-clients"
+    ],
+    [
+      "title",
+      "A Clarification About Clients"
+    ],
+    [
+      "published_at",
+      "1772008491"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-02-24"
+    ],
+    [
+      "e",
+      "630ba4f7c6681815e72457c937736f858e2711ad74cb9b0ee1aa4fbb91746c60",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
