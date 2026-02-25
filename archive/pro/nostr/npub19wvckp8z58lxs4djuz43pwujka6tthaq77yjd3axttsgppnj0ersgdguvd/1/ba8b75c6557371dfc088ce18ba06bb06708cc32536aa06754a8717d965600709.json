@@ -1,0 +1,26 @@
+{
+  "content": "Powerful article \n\nYou have given me more ideas to include in Continuum ",
+  "created_at": 1771954943,
+  "id": "ba8b75c6557371dfc088ce18ba06bb06708cc32536aa06754a8717d965600709",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e31faedbe6e2ec077d3b2b2fc4a32700b9d4849f1813bffdc46d5d08ff38b6744163ccab07f09e5163b078bd4581d5d57871af1df5f9e6e02e085f2c9b7447eb",
+  "tags": [
+    [
+      "a",
+      "30023:71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f:the-architecture-of-the-invisible",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
