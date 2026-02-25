@@ -1,0 +1,28 @@
+{
+  "content": "The Rules That Do Not Bend\n\nContinuum is not defined by features.\nIt is defined by constraints.\n\nThese are the rules that do not bend:\n\n1️⃣ Private keys never leave local custody.\nNo hosted key layer.\nNo escrow.\nNo abstraction.\n\n2️⃣ All content is signed locally.\nAuthorship is cryptographic, not cosmetic.\n\n3️⃣ Signing and publishing are distinct acts.\nIntention precedes distribution.\n\n4️⃣ All primary data is hosted locally by default.\nCustody and storage share the same trust boundary.\n\n5️⃣ Local content must be retrievable in protocol-independent, client-independent archives.\nFeeds are ephemeral.\nArchives endure.\n\n6️⃣ Creating and switching identities is a first-class activity.\nIdentity is not an account.\nIt is a sovereign unit.\n\n7️⃣ Relays distribute. Clients render. Continuum preserves.\nDistribution and presentation layers may change.\nThe durable layer does not.",
+  "created_at": 1772049123,
+  "id": "88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "244379bebf22270db6560b7b0e4674e85bdaecba9820469b56018e43a53166c92ea158a09cfc5bd3f8a1bb303b01ed8e42ab294b81fa51e000ff3f8d24acbf77",
+  "tags": [
+    [
+      "d",
+      "note-1772049123"
+    ],
+    [
+      "published_at",
+      "1772049123"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
