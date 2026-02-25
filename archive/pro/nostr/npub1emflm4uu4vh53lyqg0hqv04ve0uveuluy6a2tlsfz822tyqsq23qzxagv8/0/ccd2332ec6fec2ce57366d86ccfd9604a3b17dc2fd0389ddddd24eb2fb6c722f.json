@@ -1,0 +1,9 @@
+{
+  "kind": 0,
+  "created_at": 1772049210,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "content": "{\"name\": \"Continuum\", \"about\": \"A sovereign publishing dashboard for Nostr.  \\nWrite, edit, and publish from your own machine \\u2014 no platforms, no gatekeepers.\\n\\nBuilt for builders who value freedom, not followers.  \\n\\nmycontinuum.xyz | github.com/andrewgstanton/continuum\\n\\n\\ngithub: https://github.com/andrewgstanton/continuum\\n\\nupdated: 11:53 AM 2/25/2026 (PST)\", \"picture\": \"https://blossom.primal.net/8983ef0c3878a4fea4cbf0ad803e96f4f70e73118fb061732fc54801365f63b3.png\", \"banner\": \"https://blossom.primal.net/70a42c55dc7a30001affb4c5cf9ba91fbc2c28771916847dabb5f4ff7bdb94e3.jpg\", \"website\": \"https://mycontinuum.xyz\", \"nip05\": \"continuum@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "tags": [],
+  "id": "ccd2332ec6fec2ce57366d86ccfd9604a3b17dc2fd0389ddddd24eb2fb6c722f",
+  "sig": "5be59ff572234718c448c17b7aa12b1c95625354be711d75ca7f33d220654c4a5775ca25170d3c2afd3f74f9d1da0ee6a4d2f732ad5adfbfcba2e4256ec69e65"
+}
