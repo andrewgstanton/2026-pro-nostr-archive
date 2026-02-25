@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1771820706,
+  "tags": [
+    [
+      "d",
+      "engagement-draft-if-response--hope-for-all-fellowship-2026-02-19"
+    ],
+    [
+      "title",
+      "Engagement Draft (if response)- Hope For All Fellowship (2026-02-19)"
+    ],
+    [
+      "published_at",
+      "1771820706"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-02-19"
+    ],
+    [
+      "e",
+      "3f846bc53ce0ae2e26c38bc25f0b11c35a09f0c10daa13edb6da656eba52a5f6",
+      "edit"
+    ]
+  ],
+  "content": "If there’s serious interest in collaboration, the next step should be a defined scope and outcome.\n\nI’m happy to prepare a concise proposal outlining what I believe would be most valuable and how it could be implemented. From there, we can determine whether it makes sense to move forward.\n\nI’ve shared conceptual groundwork already. The next step should be concrete.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "01784fb46d18dc6ca2ea494c35c265200091a5f6a8a672410df43205d760fd78",
+  "sig": "8415191a6b96e68ad9daaa3d39d0883181903ec2ca7193d72b3cb8330fcf2f4a14611330733bfb166c6f45f96b236685b408646f1232a4b27d6eb34b4132f916",
+  "published": 0
+}
