@@ -1,0 +1,31 @@
+{
+  "content": "Feb. 25, 2026\n\nWe don’t rush this.\n\nWe move in layers.\n\n##cPhase 1 — Full Manuscript Structural Walkthrough (2–3 days)\n\nWe will:\n\nRead Part I–V for tonal consistency\n\nRemove repetition (you have some recurring phrases)\n\nTighten metaphors\n\nNormalize terminology (custody / leverage / authority / architecture)\n\nCheck rule consistency across chapters\n\nVerify emotional arc escalation\n\nSmooth transitions between chapters\n\nThis is not rewriting.\n\nThis is sharpening.\n\n## Phase 2 — Line Editing Pass\n\nWe’ll look for:\n\nSentence rhythm\n\nRepeated constructions\n\nOveruse of certain phrases (“authority,” “leverage,” “local-first”)\n\nParagraph length variation\n\nFlow between sections\n\nWe want:\n\nSerious.\nClean.\nTight.\nDurable.\n\nNot verbose.\n\n## Phase 3 — Formatting for KDP\n\nYou’ll need:\n\n1️⃣ Trim Size Decision (Paperback)\n\nMost likely:\n\n6 x 9 inches (standard nonfiction)\n\nCream paper\n\nMatte cover\n\nThis fits the tone of the book.\n\n2️⃣ Kindle Formatting\n\nWe’ll:\n\nRemove excess line spacing\n\nNormalize headings (H1 for chapters, H2 for subheads)\n\nEnsure no weird markdown artifacts\n\nPrepare clean DOCX or EPUB\n\n3️⃣ Front Matter\n\nWe’ll add:\n\nTitle page\n\nCopyright page\n\nDedication (optional)\n\nEpigraph (optional)\n\nAbout the Author\n\nAbout Continuum Press\n\n4️⃣ Back Matter\n\nA short Continuum description\n\nWebsite / Nostr identity\n\nCall to build (not call to buy)\n\n## Phase 4 — Cover Strategy\n\nThis is important.\n\nGiven tone, I strongly suggest:\n\nMinimalist.\nArchitectural.\nNot flashy.\n\nPossibly:\n\nDark background\n\nClean serif title\n\nSubtitle small\n\n“Continuum Press” imprint mark at bottom\n\nNo tech cliché imagery.\n\nNo glowing circuits.\n\nNo blockchain icons.\n\n## Phase 5 — Hardcover?\n\nYes.\n\nHere’s why:\n\nThis book reads like something that should exist physically.\n\nHardcover signals durability.\n\nAnd this is a book about durability.\n\nEven if hardcover sales are low, it aligns with the message.\n\nPractical Questions For You\n\nDo you want to publish under your legal name only?\n\nDo you want “Continuum Press” on the spine?\n\nDo you want a subtitle? (Example: Architecture, Custody, and Freedom in the Digital Age)\n\nApproximate word count?\n\nDo you want Scripture references subtly in front/back matter given your conviction?",
+  "created_at": 1772082013,
+  "id": "8bac6be5edcf0c5880cc2562b6184e84508b6b856e0b529d9dff5a9c2366230b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9695aca85db26b38093de223a93d6abe5bee4322dc09aec853dbc2291dafbb147d92af692be7e0e6d9f14406b1fef2de13725626aa007463f03f2e97ecbc40f5",
+  "tags": [
+    [
+      "d",
+      "next-phase-publish-ready-plan-building-continuum"
+    ],
+    [
+      "title",
+      "Next Phase: Publish-Ready Plan (Building Continuum"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-02-25"
+    ]
+  ],
+  "published": 0
+}

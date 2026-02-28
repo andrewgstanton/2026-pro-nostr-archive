@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1772219070,
+  "tags": [
+    [
+      "d",
+      "recruiter-talking-points---for-322026---andrew-whiteside"
+    ],
+    [
+      "title",
+      "Recruiter talking points - (for 3/2/2026) - Andrew Whiteside"
+    ],
+    [
+      "published_at",
+      "1772219070"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "8023dfe9fc4654986a89ae6a884c8d78c8fac2d7b2b5a2e1a401814ffae094d2",
+      "edit"
+    ]
+  ],
+  "content": "- I’ve been building software for about 25 years, mostly in startup environments where I’ve owned architecture end-to-end.\n- I’ve led and designed systems across multiple early-stage companies, typically taking products from zero to production.\n- More recently I built a local-first publishing platform in Python using Docker and SQLite, where I implemented a pooled relay manager and cryptographic signing layer.\n- I’m particularly interested in high-impact engineering roles where architecture and product direction intersect.\n\n**if asking about local-first:**\n\n- Offline-first, local-first architecture with cryptographic identity and distributed relay communication.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "ef2f70ec4427ea1428040c4d88a9b09931aa1559b9dfcb1a23a0880188e4d8a7",
+  "sig": "b1f5716919157973d81d55ec018c939254d4e125c280c60bf529b989fb8f98aefcd075d97b7afc11fd9ae68704e2e4c8be6bae1a585d2e100a8221dc52c47f55",
+  "published": 0
+}

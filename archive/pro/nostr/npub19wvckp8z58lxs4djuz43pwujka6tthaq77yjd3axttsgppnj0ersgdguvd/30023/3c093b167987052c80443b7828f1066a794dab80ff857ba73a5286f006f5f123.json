@@ -1,0 +1,27 @@
+{
+  "content": "Before March 9th, just outline 3 buckets:\n\n1️⃣ What Actually Happens When Teams Adopt AI\n\nTool enthusiasm vs workflow redesign\n\nGovernance + data concerns\n\nShadow AI usage\n\nProductivity illusions vs real gains\n\n2️⃣ Vendor Friction\n\nPricing unpredictability\n\nData boundary concerns\n\nIntegration complexity\n\nLack of process thinking\n\n3️⃣ What Actually Works\n\nStart with constrained use cases\n\nTie AI to measurable workflows\n\nTreat it as augmentation, not replacement\n\nInternal champions matter more than tooling\n\nThat’s more than enough.",
+  "created_at": 1772220611,
+  "id": "3c093b167987052c80443b7828f1066a794dab80ff857ba73a5286f006f5f123",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4d4c57b8604e9dd3ee586525109c65d8a1d0e0327f02101907fa89bf83991b4b7741a2b6ea48179f0334b51466f5a2c0f16658949316b2e6bf39f0243538a9ec",
+  "tags": [
+    [
+      "d",
+      "simple-prep-15-minutes-max---kaiser-associates-eric-hang---392026"
+    ],
+    [
+      "title",
+      "Simple Prep (15 Minutes, Max) - Kaiser Associates (Eric Hang)  - 3/9/2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

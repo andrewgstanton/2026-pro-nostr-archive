@@ -1,0 +1,43 @@
+{
+  "content": "Andrew G. Stanton - Feb. 24, 2026\n\n---\n\nThis isn’t a critique of Nostr clients.\n\nClients are essential.\n\nThey make the protocol visible.\nThey make conversation fluid.\nThey make discovery possible.\nThey reduce friction for participation.\n\nWithout clients, most people would never experience Nostr at all.\n\nBut clients are interfaces.\n\nLocal-first publishing is origin.\n\nWhen I say a certain kind of freedom doesn’t exist purely on clients, I’m not criticizing them.\n\nI’m describing something structural.\n\nClients focus on interaction:\n- viewing feeds\n- replying\n- reacting\n- managing relay connections\n- signing events through browser extensions or integrated key handling\n\nLocal-first publishing focuses on custody:\n- generating and storing keys under your control\n- signing artifacts independently of any UI session\n- maintaining a deterministic local archive\n- anchoring canonical history outside any single interface\n\nOn a client, you interact with the network.\nLocally, you anchor yourself within it.\n\nOn a client, identity is loaded into the interface.\nLocally, identity originates from keys you hold and manage directly.\n\nBoth are important.\nBoth are necessary.\n\nBut they serve different layers of the stack.\n\nClients make Nostr usable.\n\nLocal-first makes it grounded.\n\nI’m grateful for both.",
+  "created_at": 1772047508,
+  "id": "4dadaa778f9d731c9c315bdef317f429837fd8dde5e8862a187c70bccc87708d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7b986f507800e6820adc7b604d77b6dd1697a3077be3684813076e87d4f0154f632fd52b0f4f4096c2cc42aa009df221e8f9a2f48b376ccf935fb8af7400219c",
+  "tags": [
+    [
+      "d",
+      "a-clarification-about-clients"
+    ],
+    [
+      "title",
+      "A Clarification About Clients"
+    ],
+    [
+      "published_at",
+      "1772047508"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-02-24"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "e",
+      "ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
