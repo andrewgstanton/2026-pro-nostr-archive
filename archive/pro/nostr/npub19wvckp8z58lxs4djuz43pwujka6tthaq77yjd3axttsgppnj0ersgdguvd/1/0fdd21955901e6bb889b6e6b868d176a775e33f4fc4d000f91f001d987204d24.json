@@ -1,0 +1,49 @@
+{
+  "content": "📝 Note 2 — Build Quietly - 2/25/2026\n\nYou do not need applause to keep building.\n\nSilence is not disproof.\nLack of reaction is not lack of substance.\n\nSome work is upstream.\nIt only becomes obvious later.\n\nThe temptation is to measure impact too early.\n\nBetter to measure faithfulness instead.\n\n“And let us not grow weary of doing good, for in due season we will reap, if we do not give up.”\n— Galatians 6:9\n\n#sovereignty\n\n#selfcustody\n\n#nostr\n\n#localfirst\n\n#digitalsovereignty",
+  "created_at": 1772070602,
+  "id": "0fdd21955901e6bb889b6e6b868d176a775e33f4fc4d000f91f001d987204d24",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "00a79cc71c4047dd8ac3ce12c74fb79fe3a737c081b632d5f327a0392f23c24f6d3f5796b619b82ad4c694aad333877bbec124baf7eed3c465b10347c23a9ed8",
+  "tags": [
+    [
+      "d",
+      "note-1772070602"
+    ],
+    [
+      "published_at",
+      "1772070602"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

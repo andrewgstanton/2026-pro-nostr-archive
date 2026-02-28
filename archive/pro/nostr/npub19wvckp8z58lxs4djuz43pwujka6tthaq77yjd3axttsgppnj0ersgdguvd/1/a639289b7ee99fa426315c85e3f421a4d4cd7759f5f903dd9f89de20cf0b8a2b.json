@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1772308103,
+  "tags": [
+    [
+      "d",
+      "note-1772308024"
+    ],
+    [
+      "published_at",
+      "1772308103"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "19fc29c4b4bca6c7de5bb7b6271da1a08e0c1a566f5d7f65f6ad2bf60eca2ff4",
+      "edit"
+    ]
+  ],
+  "content": "Work is good - 2/28/2026\n\nBut when it occupies your thoughts without permission,  \nwhen it steals presence from those in front of you,  \nit has become a master.\n\nSabbath puts work back in its place.\n\n“The Sabbath was made for man, not man for the Sabbath.” — Mark 2:27\n\n#Work #Boundaries #Sabbath #Presence",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "a639289b7ee99fa426315c85e3f421a4d4cd7759f5f903dd9f89de20cf0b8a2b",
+  "sig": "a3aaa438bbc45b32adf65e87abdc2f5babf5e0b5c89a7afbc8621d1161d0fd7cb169e1e42e9ee2d80d691f76210bf8a90981fa622340b439d12b0355aa44bd5c",
+  "published": 1
+}

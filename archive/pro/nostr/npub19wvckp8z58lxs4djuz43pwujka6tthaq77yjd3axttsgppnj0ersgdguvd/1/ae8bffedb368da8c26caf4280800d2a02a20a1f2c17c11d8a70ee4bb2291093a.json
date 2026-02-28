@@ -1,0 +1,49 @@
+{
+  "content": "📝 Note 4 — Work as Offering - 2/25/2026\n\nFive notes. Three articles.\n\nNot for algorithm.\nNot for brand positioning.\nNot for comparison.\n\nBut because the work itself is worth doing.\n\nThere is dignity in execution.\n\nThere is clarity in disciplined output.\n\nDo the work. Sign it. Preserve it. Move forward.\n\n“Whatever you do, work heartily, as for the Lord and not for men.”\n— Colossians 3:23\n\n#sovereignty\n\n#selfcustody\n\n#nostr\n\n#localfirst\n\n#digitalsovereignty",
+  "created_at": 1772070674,
+  "id": "ae8bffedb368da8c26caf4280800d2a02a20a1f2c17c11d8a70ee4bb2291093a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "14cc3ea7987a089c25fc06230dcd275f2d9db9591c5c8a2739ba36f5ed30a1ef416053ccdf3899a89d12d1d00996d4fa3fdba27260fd7a5716a9b56277928ae5",
+  "tags": [
+    [
+      "d",
+      "note-1772070674"
+    ],
+    [
+      "published_at",
+      "1772070674"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

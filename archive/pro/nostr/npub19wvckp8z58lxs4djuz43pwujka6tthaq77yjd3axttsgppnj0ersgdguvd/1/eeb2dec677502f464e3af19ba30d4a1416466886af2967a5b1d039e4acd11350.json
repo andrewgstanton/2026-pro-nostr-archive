@@ -1,0 +1,49 @@
+{
+  "content": "📝 Note 3 — Integrity Over Metrics - 2/25/2026\n\nEngagement is visible.\nIntegrity is invisible.\n\nPlatforms reward reaction.\nDurability rewards discipline.\n\nIf you build for applause, you will adjust to the crowd.\nIf you build for integrity, you will adjust to principle.\n\nOne compounds faster.\nThe other lasts longer.\n\n“The Lord sees not as man sees: man looks on the outward appearance, but the Lord looks on the heart.”\n— 1 Samuel 16:7\n\n#sovereignty\n\n#selfcustody\n\n#nostr\n\n#localfirst\n\n#digitalsovereignty",
+  "created_at": 1772070641,
+  "id": "eeb2dec677502f464e3af19ba30d4a1416466886af2967a5b1d039e4acd11350",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bde363dc5df292fe11f71a935f50ce2176dda62c4385cac4d0c3f2f9626d05bc444865ec67bcdb7ec68316a88d57057e070e6889a1c0c96b261a7b213a4866e2",
+  "tags": [
+    [
+      "d",
+      "note-1772070641"
+    ],
+    [
+      "published_at",
+      "1772070641"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

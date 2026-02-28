@@ -1,0 +1,49 @@
+{
+  "content": "📝 Note 1 — Stewardship, Not Convenience - 2/25/2026\n\nSelf-custody is not a feature.\n\nIt is a responsibility.\n\nPrivate keys are not meant to be abstracted away because abstraction feels safer. They are meant to be guarded because ownership requires weight.\n\nMost people say they value sovereignty. Very few are willing to carry it.\n\nConvenience scales faster than responsibility.\nBut stewardship endures.\n\n“Moreover, it is required of stewards that they be found faithful.”\n— 1 Corinthians 4:2\n\n#sovereignty\n\n#selfcustody\n\n#nostr\n\n#localfirst\n\n#digitalsovereignty",
+  "created_at": 1772070404,
+  "id": "f0c5d6e13906e2dd1d778eededa41d399cffa886e282c26fe9901654c1f389d1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "edfe0818e8239dbc294870842724902a393ff7488e884d304a64cdb3b243f8490c22498285eabc58ddcabe8ad3c630ca5066bc0d1094d975ed362e2a1a7486f5",
+  "tags": [
+    [
+      "d",
+      "note-1772070404"
+    ],
+    [
+      "published_at",
+      "1772070404"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

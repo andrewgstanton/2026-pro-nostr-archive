@@ -1,0 +1,49 @@
+{
+  "content": "📝 Note 5 — Built on Rock - 2/25/2026\n\nFeeds scroll away.\nRelays prune.\nClients change.\n\nWhat endures is what is anchored.\n\nIf the archive is independent of platform,\nif authorship is cryptographic,\nif custody is local—\n\nthen the foundation is stronger than the interface.\n\nStorms test architecture.\n\nFoundations decide outcomes.\n\n“The rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.”\n— Matthew 7:25\n\n#sovereignty\n\n#selfcustody\n\n#nostr\n\n#localfirst\n\n#digitalsovereignty",
+  "created_at": 1772070714,
+  "id": "d467a07c095739d0625f8d1f8e74baf7008890dd83c533e7a48b31a0ffec3f69",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6486f7ac11556b571b24b4747330901a19d03dc37a197591913bd96f409de5972a9c36cc7e6e227fa7e7d0d5a26266020559d44642f66573d4111880319b6167",
+  "tags": [
+    [
+      "d",
+      "note-1772070714"
+    ],
+    [
+      "published_at",
+      "1772070714"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}
