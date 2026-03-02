@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1772479716,
+  "tags": [
+    [
+      "d",
+      "recruiter-talking-points---for-322026---andrew-whiteside"
+    ],
+    [
+      "title",
+      "Recruiter talking points - (for 3/2/2026) - Andrew Whiteside"
+    ],
+    [
+      "published_at",
+      "1772479716"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-02"
+    ],
+    [
+      "e",
+      "cffc12b770082a75f0038a8d906342f7c2318ee3cc99a630630b968802d35558",
+      "edit"
+    ]
+  ],
+  "content": "- I’ve been building software for about 25 years, mostly in startup environments where I’ve owned architecture end-to-end.\n- I’ve led and designed systems across multiple early-stage companies, typically taking products from zero to production.\n- More recently I built a local-first publishing platform in Python using Docker and SQLite, where I implemented a pooled relay manager and cryptographic signing layer.\n- I’m particularly interested in high-impact engineering roles where architecture and product direction intersect.\n\n**if asking about local-first:**\n\n- Offline-first, local-first architecture with cryptographic identity and distributed relay communication.\n\n**salary range (base + equity)**\n\nFor a Staff-level role in the Bay Area, I’d expect base somewhere in the 200–225 range depending on scope, with equity aligned appropriately.\n\n(initial call at 11:00 -- ended at 11:25 good discussion\n\ncompany is copilotkit.ai",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e28f43f6ba6d1aaa8818d40e1998c18266c25d01bdaa0817046b8f9703bde84e",
+  "sig": "839815d7db95e1101c4a441b3bb950302f73af3228f82a72f794823056d4e52a16c3d6c1bb1aa6c51b29b0ce524ef74632e3aa5062b47605c92c5acf5529a547",
+  "published": 0
+}
