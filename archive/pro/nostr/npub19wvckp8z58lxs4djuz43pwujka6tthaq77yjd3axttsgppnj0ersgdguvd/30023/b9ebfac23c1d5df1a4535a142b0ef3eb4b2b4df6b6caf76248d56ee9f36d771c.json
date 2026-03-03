@@ -1,0 +1,68 @@
+{
+  "kind": 30023,
+  "created_at": 1772508630,
+  "tags": [
+    [
+      "d",
+      "building-a-self-sovereign-client-portal-using-nostr-2026-03-02"
+    ],
+    [
+      "title",
+      "🔒 Building a Self-Sovereign Client Portal Using Nostr"
+    ],
+    [
+      "published_at",
+      "1772508630"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables."
+    ],
+    [
+      "display_date",
+      "2026-03-02"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "clientportal"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "nostrauth"
+    ],
+    [
+      "t",
+      "consultingtech"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "f9a5dc768dfba27a7c646cd6aeef0782cdb491d2787d3df7518068edf2a009c8",
+      "edit"
+    ]
+  ],
+  "content": "## Building a Self-Sovereign Client Portal Using Nostr\n\nA practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:Bhx5TWMEt6L8t5UvXsvYC1tP5fEIvNGis_HN7xo3nYKUgrlY3zBmg4ga7QW5EHciQlM2pajizsWwq1xxeL5fxlMl2egmcvDqYc8fEPkNbEeyTrJDwMUwAvKLUDh53hgcyZa0eZxS-lMwl7qUMOM5DtikBt4WMIK8BxDJcecBzClSa2i9fsA3_M-sw3NmGBsjdnFZGjSa8m3Vh8mskHnKq1JlPibI-kSm3KizM3ZROtokVFwuUuINZYiqrrqWb8p5zgOKS1wQ4J0HpNFBDaXi3KipSyUVX6FM5psKTH_WdFSR1j6jikTW0RoqKpvjwkxZgr8z8qixhMAxtlFNUs0W0uiaTOXZF-PxhDUZlPVHySdoZkdg1DpistiPR-fen0HeUsoediQyReqay4VIMl9TAqhBEWJAXMKHK7u1TQWqZKVteYwvj73D4JFUhIHN9xcidwN_PQee9lz8EuR57Kt4mIVLz3H0f19KUrGuQuMsILZIbYtwdPos9j591PNGLeU7wuKSjq1SAPTXP7mEXsqdLykMeS4OQRbv-XDXAsD_eBjgn69qKO5rMgsur4WJGZn0PaV9qxhU5w8V5cTAYkw85qPoch7lfeyLD7Y_XawL6wVi1HnvAoreCT2yyLdMt1mKHt2oe87j9XDHaVTLQyDNMqov90F9zZR6yNNMJ9BJyqb0SF-71-RPEWTi0HEBYjOu8x0wV3AUHyxy7EY6qx2SOgDJoy1zvFRvkPAwxsbC9L0I66tU64sPQdbnXS6NqQZLpVdExTdfZNoHZrxbiEWDkD7Dx7HrWj5PHFW2u3GFMjqDJKj-jXP1NpzUyydZ7VkP8Ajea2FVZW4sv7Hj8_GqHkvtIqk3G2hOj_wrenCJ9ElkFJcqKSsZFOVAIVoRw5xF3gJ0nUmsTVVulAD34F9rryHHy-1mylAvitPV-dqWS6jXkhQm7gEN9VKxVxfbcjB9BdUmZAvUMe0DFEa0H5znrDPcfamoPlqwYkzkOaFQXUUb12cCqJmtXuPCHDoYnmIKQfLEPNZmzZuKiZ3-pNExhMpuxi3Eom8sFB1y_dH8kNYhH00MeVvOPyobW8xmgUd4QlG1qKVJX0Rwx90uN2IQA2awSC9Q-KNVMZ63iFhDDbn7WfYzYT4_9bXTGS-sEmOooL1iClUzMqiQYNgdxepWDFsj3wUy0m1x_eOiRhKVnO3px5pQxqUtz4r9O9QNPIgtEUYnxYJ-ZFXfko87goaKYgxWL0VyzCAvuRZvuxKKcTt1F0OMvHR8cld3AYg4mawb4EdvH3Rv-HipJk8CWZfvRQGuQrc\n<!-- ENC_BLOB_END -->",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c",
+  "sig": "56224ab3e4921bed4be14e09325f89faff4a107c18877ab60b2bd79524eec52361919feb5d32eef40a59bd5b36433625a61926a23b556ac32765870fa7d08368",
+  "published": 1
+}

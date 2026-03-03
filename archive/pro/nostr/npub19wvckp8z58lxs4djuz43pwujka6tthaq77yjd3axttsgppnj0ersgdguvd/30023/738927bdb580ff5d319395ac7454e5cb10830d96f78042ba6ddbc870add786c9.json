@@ -1,0 +1,68 @@
+{
+  "kind": 30023,
+  "created_at": 1772508664,
+  "tags": [
+    [
+      "d",
+      "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02"
+    ],
+    [
+      "title",
+      "🔒 Nostr as an Authentication Layer for Consulting Engagements"
+    ],
+    [
+      "published_at",
+      "1772508664"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments."
+    ],
+    [
+      "display_date",
+      "2026-03-02"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "nostrauth"
+    ],
+    [
+      "t",
+      "consulting"
+    ],
+    [
+      "t",
+      "identitylayer"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "eb84eaf5c0ad1c2505d8fc16f96528f579df94caff7b0c6d07efc6299df65698",
+      "edit"
+    ]
+  ],
+  "content": "## Nostr as an Authentication Layer for Consulting Engagements\n\nEmail/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:Y59ezNKQNiibcFifmeK4nhK4INM_DjT47Vzhv0rMrCqCiOTfVQaPGR6Q5KQuvJdtF71ItV9_ljdvoVRO7cJpBC3GxF4STICmeMBuzwbx51Ac3OkSjF6U6AjdnI68iJBst4oTYJIlFsIIo_4FG1COVk6_ZbU04qpznOF2dqMVV3bSk4_3El0qMAhz6MwptmUCPp_LVcMp52B3reNM2h0SIFK0JRp39SQfSaOkWEJaefYqwNhr31j--LUK7u6rAj8fw2SrtMlqjj60jniXmF7TYI3bQ7DXUKMNDnNYmTKZsyD4tEpIlmyluHpik4Am-ghuvqjPPND16VVVzqnE04EhksIXE9MatY6hfu8SFrXlcgluGYDmlDvGpNqrZz9RiWzYlroeru0TXzn5pycekvVbcQuBVub8u4VGb3BhzNfske-pmi2RnXi-Kut8usAtPqDt3o6MJSr_RbczMbNsHQgzPZktWvqqHd82kCy8KrQqVptcUmxVwBL3CCCJa8-pYHPzFhlb6K7_pFH_Adn-zhNsibqSc2zAA8n1qXTZQ_wQyK3304RiISJGdvXtft8ClxR7lvn98yzCaNp_lS-4w053C9XBy7PRM5d28TarIGoK8P1n_EuFOQL-qRhJyJwiZgUKmHz22FFU-PBYWK1FmutZs9unK9rJR454NiPJjd9eo0Ttyg3bJ3rr3vDTvTV9N4ERHY7ExSQDJyIYVFDFQ43jMz9IDdUlAabEOyBCi6aiy4cbEjR6MRB9GU3uQ4RToozFt1hSelqb4dX-IOjlJ3MhgVgzEXUhxfS83x3neFFYZCTWyt2I1m_61VGzklb5q6UWVZB8SMDWgZcV6CY8_CTYi-KAjckn4Mx2FnPbUIeMCcX8mIOx5IuuXvqc9F2v-n3fcjxVYnx1yJNlG6xc9wviZ-sAFkPaYcFR9RuOeFuP80Q39wH5EC2HDlgXa91F24LpBs22QyNprLBCZuxfmGtIZSkxUt5mB7wJIxdao0uEA1HNsGEbr3rFieTSUGuj48_97rFKh6DCTFSWJB8NyYMu0Ko1YLd5Mm6ukuxfGAFaVwvwRkeA62ORq8i3Lz0JWOH7mLSoRBluzGa-2qs5JO3lI5ev4tG2e4-i2xGshohzjPbDoOpW0_QwJziO7uZXR4SnuyBTRrZ95WshvKvAIfDZ5wRBOhFnX27AbO8vOsKGho5HTAPoJ_PuuroxKyrP9ho142_zhkSpVhLg-R8waPoTexyGjaz3QfaK1gIjyeIOHzyAroZ6fPkwol_QlKRVj97CMsm9GO2jgt8IFClhNcy5so4aknKHbrVGmmI9ZQ_psa5BUMT_MOQ1T3DxgDgqQ3oKkuq6BF9MJd-wEO5mDDVB7LzLUGSueDLKhVBAArz9U3wtPkYj9P7dEOqpzBNdekM2I4CAzSV1y18LULSTEuBPy7r9qAaLWH3JGNaPeL2xfUkHATQEJVVUxSsqK0Xzp2DbnzHCFIsQ7BO6NZrevOYwNF-ZrorUuEFqP1aMKKz95LQlaETNw9rf1-ZfOJtT_Piii8jmcmI_4XjQjM0GUlDCju1_1qCrlvhKlfAMEy-2Lu9cqHrZ2Jk4VazvgJAiEjMLDvyHH4lOzldkrvpluc8ovq27BaqdDvAbr9iB-65Gre4atUl9_fAAPAo8SRY_PZev7-B82vP2FV5nqxlCfcDQMR2rP_lWnMWnpx8zQcQlo68bwXLSxbOGzw9N0LNl12bzpOworlwq05NBZzoxCAaUsvIPDZh8WJdvT1yPneFVfXAbriWOQ5uv-Cc89nyjqic3A6R_vAuLJfiKeJK2hC7Jr_AV1waRO5Zway-dGhrOrXyZt4Vh\n<!-- ENC_BLOB_END -->",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
+  "sig": "b60b0f8b4e72126e5a9a27cc9ff65b7f70b422f86882d525a768cb6c39efd902de54675008dceca06bf3308cf8cc68fe358c4e0b3a9e9827453abb1b6d532d0e",
+  "published": 1
+}

@@ -1,0 +1,68 @@
+{
+  "kind": 30023,
+  "created_at": 1772508647,
+  "tags": [
+    [
+      "d",
+      "replacing-oauth-with-nostr-in-enterprise-workflows-2026-03-02"
+    ],
+    [
+      "title",
+      "🔒 Replacing OAuth with Nostr in Enterprise Workflows"
+    ],
+    [
+      "published_at",
+      "1772508647"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems."
+    ],
+    [
+      "display_date",
+      "2026-03-02"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "enterprise"
+    ],
+    [
+      "t",
+      "auth"
+    ],
+    [
+      "t",
+      "oauthalternative"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "4b273e4965100c59ae3a5c61dc299a1a2b0aa582a85a93e336e8f2b4c038fc09",
+      "edit"
+    ]
+  ],
+  "content": "## Replacing OAuth with Nostr in Enterprise Workflows\n\nOAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:jjGXuvPXqp5Izy2kKFT0PI5Oehc4jRv5k0j6J3K2YrfYd8Ms50CHQGRezNlLfZqkPLRDyhwszsqoOxximijnBZ0vavQ_hYPS7hfo8sTzPTSz97AfJgVPAu3OHe1QKFQpnMF2fLjyQ4bHK5pzhvgCIXnnu-RLVGbTtBRjsJp2MgrNL7QyVjXl5V-XBOCZD3bPtYpv5YRnBztXroJz3C8oplPF5O4CaAwWAWABNYRSXSiYg1UA8sx2ALr1Enpli52Gkk3a9Cfta3aoIxmbrTW3zVZGCGDsEaqCqTlj5knh_jKkOmxUQJsN3YTE45x0a9QZEI2bKtBO8AFpdUd6Kr6m9Q8CDwXl61SunE9b-fqS_Nwc2GM5E3lTwBBvH_x3QEzZfE74zt_6-yWCEWmWBLQQDBWN1Tu7qUNW5wgzVbGemL95Mmivk93ucowbh2k7-HbTe2d6xVtNCnKpncHYlpguy0uG0iOaKC9CklErFW8h0s7GU9Zv8QRLSB7lNRVWBa7dvSiAifhtLPpav_RVs38HktBec_vlly_U4dXfIX9uSoyPbyAYpWctuMqMvh0-Exo__WdpwBU6_w_0XFIR3lEH8w30tjrNPtInwahNI9M-TAPwrV7Lf3iHdKmFvXxtwFi5rpqFGe4p1aIgYJJP-q-uZodi9tPFdgmZje2YOvrz5OvW9yzakmsPBJOzz8UDE52T-40ekjXgQzaUI2A-LM_BCxcKJEGbO62rtQkO_LHS2xSorwN7jM2GYAY-jDu6VIM_GC7RCgJ7nRTeUwLtFsBIdfVDoLujoIXpmQzO56afbjPurguoHjzcZvK6ML_rk6cRzwkC6ZiYAXzF4kQb5iagl0CPQWlbzDS3uuiIg_KJhFToqgPm488iS9z5hjpfpK455KUl0LotiFTBnbVK7ZDtJYoC-KEm4G8YJCi5HEBJsT7qz8lUaf0pSW3sFDxK6PrtsyhPISKl2g6b7HkWEfIsMSuJwYnfoFViKZRlGi11H1WSL0NCEQILBqYkuCkE3JAkEcD6BLHvntK35jFZ2vArqZYMivWqoFF-8ge3SonCOApk7aqb2540RRycihUjmF6xHp8Ap8uGv3DtK4h6tkm00GRVCNFEVhxgufWedpBRY4JIjW1sm-iGAxLECg81MDs-eSfclCLaZ6o5bWyXfyjJudG9xKZYbpItHQNTwQa2fqKPJxWQeAXryPc9kQZatYdq4cjshwjs1mVtF6CVIw\n<!-- ENC_BLOB_END -->",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35",
+  "sig": "f0d4c9a50f4d1769f7470d74687c824f483fb5b626e737cd0f27350425e9489addb74c98cc4cc0c3353c62e35dd5dce2dd3b64d91b12b3139b8118f1b1e6e5a2",
+  "published": 1
+}
