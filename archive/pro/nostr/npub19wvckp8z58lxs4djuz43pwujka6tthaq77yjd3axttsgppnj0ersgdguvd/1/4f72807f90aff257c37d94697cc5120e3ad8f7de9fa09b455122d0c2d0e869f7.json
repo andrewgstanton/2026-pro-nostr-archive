@@ -1,0 +1,39 @@
+{
+  "content": "# Build Small, Build Clean - 3/2/2026\n\nGrand plans collapse under complexity.\n\nStart with:\n\n- One identity\n\n- One relay\n\n- One signed event\n\n- One use case\n\nFrom there, systems compound.\n\nThe temptation is always to overbuild. To imagine scale before validation. To architect for thousands before serving one.\n\nBut clean systems grow.\n\nCluttered systems collapse.\n\nWhoever is faithful in little is faithful also in much. — Luke 16:10\n\nSmall is not weakness.\nSmall is controlled scope.\n\nBuild small.\nBuild clean.\nCompound later.\n\n\n#Building #Engineering #Discipline #Continuum",
+  "created_at": 1772507851,
+  "id": "4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7c5baf1ef1a28bdd529211022d4d59377e594cf3833fb030522a71a99a91abc62a20367f2e87dbcb7056b43d3314d65ce14c0e8951d47b5d588bafbe88be85ea",
+  "tags": [
+    [
+      "d",
+      "note-1772507851"
+    ],
+    [
+      "published_at",
+      "1772507851"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "engineering"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "published": 1
+}

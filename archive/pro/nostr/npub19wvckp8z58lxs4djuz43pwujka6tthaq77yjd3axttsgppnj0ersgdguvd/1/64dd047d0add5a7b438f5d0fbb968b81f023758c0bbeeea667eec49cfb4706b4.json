@@ -1,0 +1,43 @@
+{
+  "content": "Architecture Is Theology - 3/2/2026\n\n\n\n\n\nEvery system embeds a view of man.\n\nIf your architecture assumes trustlessness, it reflects realism about human nature.\n\nIf your architecture assumes centralized authority, it reflects dependency.\n\nBitcoin assumes we cannot blindly trust.  \nNostr assumes identity should not require permission.\n\nThese are not technical decisions alone. They are philosophical commitments embedded in code.\n\nTraditional web architecture assumes:\n- Centralized identity authority\n- Mutable data controlled by platform owners\n- Credential storage as a normal liability\n\nSelf-sovereign architecture assumes:\n- Identity should be portable\n- Keys should be locally controlled\n- Data should be verifiable independently of platform approval\n\nWhat does your software assume about humanity?\n\nThe heart is deceitful above all things. — Jeremiah 17:9\n\nEngineering that ignores human nature collapses under it.\n\nArchitecture is theology expressed in infrastructure.\n\n#Architecture #Bitcoin #Nostr #Systems #Engineering",
+  "created_at": 1772506731,
+  "id": "64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "da3c99c6fbe08275cfa80989230909d26aba7e1dd7413949ef27b504e1d90a4c0da747f228cc44708510ca5925a5a4560289286c3f5e233389eac817e5e33614",
+  "tags": [
+    [
+      "d",
+      "note-1772506731"
+    ],
+    [
+      "published_at",
+      "1772506731"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "engineering"
+    ]
+  ],
+  "published": 1
+}

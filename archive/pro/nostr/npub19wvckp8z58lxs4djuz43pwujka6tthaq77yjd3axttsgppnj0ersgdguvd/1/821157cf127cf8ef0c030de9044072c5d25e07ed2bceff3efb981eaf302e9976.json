@@ -1,0 +1,43 @@
+{
+  "content": "Identity Before Interface - 3/2/2026\n\nMost platforms optimize for UI.\n\nFew optimize for identity integrity.\n\nBut identity is the foundation.\n\nIf authentication is compromised, everything built on top is fragile.\n\nTraditional stacks focus on:\n\n- Smooth onboarding\n\n- Email/password flows\n\n- OAuth convenience\n\nBut passwords leak.\nOAuth centralizes control.\nEmail resets introduce attack vectors.\n\nNostr flips the stack:\nIdentity first.\nThen applications.\n\nThe wise man built his house upon the rock. — Matthew 7:24\n\nIf identity is cryptographically verifiable, applications become replaceable layers.\n\nIf identity is weak, the entire structure is unstable.\n\nCorrect order:\n\n1. Keys\n\n2. Verification\n\n3. Application logic\n\n4. Interface polish\n\nIdentity before interface.\n\n\n#Identity #Nostr #Auth #SelfCustody #Engineering",
+  "created_at": 1772507756,
+  "id": "821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "106efcd73c9c54eb424189c75eb1286d5bef195e81b9c86173b0395e0f175bb83e86a510793674d8d15c0a6a40eae9b81318fc7c03a40c44403ba1b907f4cf89",
+  "tags": [
+    [
+      "d",
+      "note-1772507756"
+    ],
+    [
+      "published_at",
+      "1772507756"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "auth"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "engineering"
+    ]
+  ],
+  "published": 1
+}
