@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1772652897,
+  "tags": [
+    [
+      "d",
+      "continuum-overview"
+    ],
+    [
+      "title",
+      "Continuum Overview"
+    ],
+    [
+      "published_at",
+      "1772652897"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-04"
+    ],
+    [
+      "e",
+      "7298c0954af988f10fa332ad28d804896a81f7e0a47a14b42fb31c39af8ce0da",
+      "edit"
+    ]
+  ],
+  "content": "## Local-First Identity and Publishing Infrastructure\n\n**Author:** Andrew G. Stanton  \n**Status:** Early Testing Release  \n**Contact:** andrewgstanton@pgmail.com\n\n**Lightning / NIP-05**: andrewgstanton@primal.net\n\n---\n\n# What Continuum Is\n\n**Continuum is a local-first environment for managing digital identity, publishing, and communication using cryptographic keys rather than platform accounts.**\n\nInstead of relying on centralized platforms to manage identity and content, Continuum allows individuals and organizations to operate from a **self-custodied local environment** where identity, publishing, and archives remain under their control.\n\nContinuum integrates naturally with the **Nostr protocol**, enabling durable publishing and cryptographic authentication workflows without requiring traditional account systems.\n\nThe goal is not to replace existing platforms, but to provide a **sovereign foundation for identity and authorship**.\n\n---\n\n# The Problem\n\nMost digital systems today rely on fragile identity infrastructure.\n\nCommon characteristics include:\n\n- centralized account databases  \n- password-based authentication  \n- platform-controlled publishing  \n- vendor lock-in  \n- loss of access when accounts are suspended or services disappear  \n\nThese systems create several persistent risks.\n\n### Identity Fragility\nAccounts can be disabled, deleted, or locked without warning.\n\n### Data Loss\nContent often exists only inside proprietary platforms.\n\n### Platform Dependence\nOrganizations become dependent on tools they do not control.\n\n### Fragmented Identity\nUsers maintain dozens of unrelated accounts across different systems.\n\n---\n\n# The Continuum Approach\n\nContinuum begins with **cryptographic identity**, not accounts.\n\nIdentity is represented by keypairs (for example Nostr `npub` identities), and actions are performed through **signed events rather than centralized logins**.\n\nThis architecture enables:\n\n- self-custodied identity  \n- durable authorship  \n- portable authentication  \n- verifiable publishing  \n\nContinuum provides a local operational environment where these workflows can be managed safely and consistently.\n\n---\n\n# Core Capabilities\n\nContinuum currently provides a local dashboard environment that allows users to:\n\n### Identity Management\nManage multiple identities (npubs / keypairs) within a single local environment.\n\n### Publishing\nCreate and publish notes and long-form articles using cryptographic signatures.\n\n### Durable Archives\nMaintain a permanent local archive of all authored content.\n\n### Relay Interaction\nInteract with Nostr relays for publishing and synchronization.\n\n### Local-First Operation\nAll signing operations occur locally. Private keys remain under the user’s control.\n\n### Containerized Deployment\nContinuum is packaged in a containerized environment so the system can run locally without complex installation.\n\n---\n\n# Who Continuum Is For\n\nContinuum is particularly useful for:\n\n### Independent Consultants\nConsultants who want a durable publishing and identity system they control.\n\n### SaaS Founders\nBuilders exploring alternatives to password-based authentication systems.\n\n### Ministries and Organizations\nGroups seeking resilient publishing, communication, and donation infrastructure.\n\n### Writers and Researchers\nIndividuals who want long-term authorship durability without platform dependency.\n\n---\n\n# Open Source Roadmap\n\nContinuum is currently distributed as a packaged release while the architecture continues to evolve.\n\nThe long-term plan is to **open source the platform once it reaches a sustainable stage of development**.\n\nEarly users and collaborators are helping shape the architecture during this phase.\n\n---\n\n# Current Status\n\nContinuum is in an **early testing phase**.\n\nThe available package provides a working environment for identity management, publishing workflows, and relay interaction.\n\nThe system is actively evolving based on feedback from early users.\n\n---\n\n# Next Steps\n\nIf you would like to explore Continuum:\n\n- download and run the testing release  \n- experiment with the publishing workflow  \n- provide feedback on the architecture  \n\nFor organizations exploring sovereign identity infrastructure or Nostr-based authentication, advisory and architecture sessions are available.\n\n---\n\n# Contact\n\nAndrew G. Stanton  \nandrewgstanton@gmail.com  \n\n---\n\n**Continuum is part of a broader effort to build durable digital infrastructure rooted in self-custody, cryptographic identity, and local-first systems.**",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "49d3308ac731343bc29ab8e04b0c4b6c25ef55f79a8cd7b44a625e5707a420a6",
+  "sig": "2a4ac961a6653e94bc942897d4d5199d3315d64d588e50e7b7270bcc747948eda9c123cf26b9780dd49b75837fb705cdf379523f3c1615b37a6fe210eacb08fe",
+  "published": 0
+}

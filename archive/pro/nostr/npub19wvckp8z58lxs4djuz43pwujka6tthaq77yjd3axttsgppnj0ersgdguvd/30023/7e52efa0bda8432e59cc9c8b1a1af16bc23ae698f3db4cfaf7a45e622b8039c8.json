@@ -1,0 +1,27 @@
+{
+  "content": "## What I Am Actually Offering\n\nNot a tool.\n\nNot “Nostr onboarding.”\n\nNot a tech experiment.\n\nI am offering structured Sovereign Digital Continuity for ministries.\n\n---\n\n## The Core Problem Ministries Face\n\n- Dependence on centralized platforms\n- Risk of deplatforming or shadow suppression\n- Fragmented archives\n- No custody of communication identity\n- Leadership transitions with no key continuity\n- Donor communication tied to third-party systems\n\nMost ministries do not have a digital sovereignty plan.\n\nThey have accounts.\n\nAccounts are not custody.\n\n---\n\n## What I Offer\n\n### 1. Identity Custody Setup\n\n- Establish a dedicated ministry identity (`npub`)\n- Key custody plan (who holds what, how backed up)\n- Separation of roles (leadership, communications, archive)\n\n---\n\n### 2. Durable Publishing Workflow\n\n- Profile setup (kind:0)\n- Signed notes (kind:1)\n- Long-form statements (kind:30023)\n- Save + sign before publishing\n- Optional relay distribution\n\nMinistries gain the ability to create signed communications independent of platforms.\n\n---\n\n### 3. Archive & Continuity Strategy\n\n- Full local mirror of ministry content\n- Version retention\n- Export flexibility\n- Off-site backup guidance\n- Leadership transition planning (key continuity)\n\nThis ensures communications survive beyond platforms or individuals.\n\n---\n\n### 4. Platform Independence Guidance\n\n- Relay strategy\n- Redundancy planning\n- Optional cross-posting workflows\n- Risk assessment discussion\n\nThe goal is not to abandon platforms.\nThe goal is to remove dependency.\n\n---\n\n### 5. Training & Support\n\n- 2–3 live onboarding sessions\n- Q&A window (30 days)\n- Strategic advisory discussion on digital continuity\n\n---\n\n## What Makes This Valuable\n\nMinistries invest heavily in:\n- Physical property\n- Mission planning\n- Financial oversight\n\nFew invest in digital continuity infrastructure.\n\nThis engagement helps them:\n\n- Reduce platform risk\n- Preserve long-term communications\n- Maintain identity custody\n- Operate with greater sovereignty\n\n---\n\n## Framing\n\nI am not pitching technology.\n\nI am offering:\nA structured conversation about long-term digital stewardship.\n\nContinuum is the tool.\nSovereign continuity is the outcome.",
+  "created_at": 1772649325,
+  "id": "7e52efa0bda8432e59cc9c8b1a1af16bc23ae698f3db4cfaf7a45e622b8039c8",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2f3fea0ad853a02e024bc6601f3dd1bb6bd8fbf49dd360c8815d4ac488d430083c57be46da92904474fefcaa14b06ec158fe2738509b92cb85f2343a51687e1b",
+  "tags": [
+    [
+      "d",
+      "ministry-offering--private-positioning-note"
+    ],
+    [
+      "title",
+      "Ministry Offering – Private Positioning Note"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

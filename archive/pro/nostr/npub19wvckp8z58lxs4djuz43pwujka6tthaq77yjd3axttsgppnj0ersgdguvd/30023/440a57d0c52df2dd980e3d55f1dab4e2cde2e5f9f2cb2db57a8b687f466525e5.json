@@ -1,0 +1,27 @@
+{
+  "content": "## Overview\n\nContinuum itself does not change for ministries.\n\nWhat changes is the **offering** — structured onboarding, identity strategy, and digital continuity guidance designed specifically for institutions.\n\nThis is not a “ministry version” of the software.\n\nIt is a **Sovereign Digital Continuity Engagement** built around Continuum.\n\n---\n\n## Package: Sovereign Identity & Publishing Onboarding  \n**Price:** $2,500 (one-time)\n\n### 1. Sovereign Identity Setup\n\n- Dedicated ministry `npub`\n- Key custody strategy for leadership\n- Backup and recovery guidance\n- Separation of communication vs archival identities (if desired)\n\n---\n\n### 2. Publishing Workflow Training\n\n- Profile metadata setup (kind:0)\n- Notes (kind:1)\n- Long-form articles (kind:30023)\n- Save + Sign before publishing\n- Multi-identity switching for different roles\n\n---\n\n### 3. Relay Strategy & Distribution\n\n- Recommended relay configuration\n- Redundancy strategy\n- Visibility vs resilience balance\n- Understanding propagation expectations\n\n---\n\n### 4. Archive & Continuity Strategy\n\n- Local-first archive management\n- Version retention and signed history\n- Export flexibility\n- Off-site backup planning\n- Leadership transition continuity planning\n\n---\n\n### 5. 30-Day Support Window\n\n- 2–3 live onboarding sessions\n- Q&A access via DM or secure channel\n- One follow-up strategy call\n- Minor configuration assistance\n\n---\n\n## Positioning Language (For Ministry Conversations)\n\nInstead of:\n> “Local-first identity layer.”\n\nUse:\n> “Independent control of your ministry’s communication keys and archives.”\n\nInstead of:\n> “Multi-npub management.”\n\nUse:\n> “Separate identities for leadership, communications, and archival custody.”\n\nInstead of:\n> “Optional relay publishing.”\n\nUse:\n> “You decide where and when your signed communications are distributed.”\n\n---\n\n## Core Value Proposition\n\nContinuum is not just a publishing tool.\n\nIt provides:\n\n- Platform independence\n- Identity custody\n- Signed archival continuity\n- Reduced deplatforming risk\n- Long-term institutional memory\n\nYou are not selling software.\n\nYou are providing **sovereign digital continuity**.\n\n---",
+  "created_at": 1772649354,
+  "id": "440a57d0c52df2dd980e3d55f1dab4e2cde2e5f9f2cb2db57a8b687f466525e5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d786d5bfa22a70c6e3599a063dcb58598dc529c24060c842a14414e381aafc62630b10e172a4d27fa5cb569bf8e66f0a1bb50feb0331ef968aaacda3d77ad415",
+  "tags": [
+    [
+      "d",
+      "ministry-sovereign-identity-onboarding-package"
+    ],
+    [
+      "title",
+      "Ministry Sovereign Identity Onboarding Package"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

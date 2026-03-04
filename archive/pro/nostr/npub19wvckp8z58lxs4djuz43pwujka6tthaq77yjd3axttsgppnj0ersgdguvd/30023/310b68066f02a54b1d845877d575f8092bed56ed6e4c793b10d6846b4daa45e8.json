@@ -1,0 +1,55 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 3, 2026\n\n---\n\nEvery modern platform owns your account.\n\nYour email.\nYour username.\nYour login.\nYour data.\n\nYou are not sovereign.\nYou are a tenant.\n\nThe lock-in is subtle.\n\nYou can export some data.\nBut you cannot export authority.\n\nAuthority remains centralized.\n\nIf your account is suspended:\nYou lose your reach.\nYou lose your audience.\nYou lose your leverage.\n\nNow imagine identity that exists outside the platform.\n\nA keypair.\nPortable.\nVerifiable.\nIndependent.\n\nThe platform verifies you.\nBut does not own you.\n\nThat changes the entire power dynamic.\n\n---\n\n## Structural Shift\n\nTraditional SaaS model:\n\nUser → Platform Database → Platform Authority\n\nSovereign model:\n\nUser (Keypair) → Signed Message → Platform Verifies\n\nThe authority sits with the key holder.\n\nNot the platform.\n\n---\n\n## Business Fear\n\nFounders ask:\n\n“If users own identity, don’t we lose control?”\n\nYes.\nYou lose arbitrary control.\n\nBut you gain:\n\n– Reduced liability  \n– Lower onboarding friction  \n– Higher trust  \n– Cleaner auditability  \n\nYou also attract a more resilient user base.\n\n---\n\n## Practical Implications\n\nWith sovereign identity:\n\n– Account deletion does not erase authorship.\n– Platform exit does not destroy identity.\n– Multi-platform presence becomes native.\n\nThe user becomes a node.\nNot a record.\n\n---\n\n## Revenue Angle\n\nBusinesses can monetize:\n\n– Verified identity badges\n– Reputation overlays\n– Signature-based contract layers\n– Auth-as-a-service\n\nBut the core identity remains portable.\n\nThis aligns long-term incentives.\n\n---\n\n## Why This Matters Now\n\nAI amplifies productivity.\nBut also amplifies impersonation.\n\nTrust signals must strengthen.\n\nCryptographic signatures are superior to:\n\n– Profile pictures\n– Blue checkmarks\n– Email verification\n\nThey are mathematically verifiable.\n\n---\n\n## Continuum’s Role\n\nContinuum provides:\n\n– Multi-key management\n– Local signing\n– Relay publishing\n– Archive durability\n\nIt prepares users for a world where identity is not tied to a login page.\n\nThis is not a niche feature.\n\nIt is a foundational shift.\n\n---\n\nPlatforms will either:\n\n– Resist sovereign identity  \n– Or integrate it  \n\nThose who integrate it early will build trust-native systems.\n\nAnd trust compounds.",
+  "created_at": 1772648995,
+  "id": "310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a7206c04aaa1c669bcc3e00e2d12db672068cf48cf53aa7d75657ba4635c05452b67b4a5cd840179e81db4aa0d85eed83b66f13cec03f695e01a72a5eee296b9",
+  "tags": [
+    [
+      "d",
+      "sovereign-identity-and-the-end-of-account-lock-in"
+    ],
+    [
+      "title",
+      "Sovereign Identity and the End of Account Lock-In"
+    ],
+    [
+      "summary",
+      "Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships."
+    ],
+    [
+      "published_at",
+      "1772648995"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "platformrisk"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "display_date",
+      "2026-03-03"
+    ]
+  ],
+  "published": 1
+}

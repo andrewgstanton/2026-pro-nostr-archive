@@ -1,0 +1,55 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 3, 2026\n\n---\n\nThere is a difference between believing in sovereignty and implementing it.\n\nImplementation requires structure.\n\nHere is a practical roadmap.\n\n---\n\n## Phase 1: Authentication Layer\n\nAdd:\n\n– Challenge endpoint\n– Signature verification\n– Session token issuance\n\nDo not remove email/password yet.\nLayer on top.\n\n---\n\n## Phase 2: Signed Actions\n\nReplace:\n\n“Click to confirm”\n\nWith:\n\n“Sign to confirm”\n\nThis creates:\n\n– Non-repudiation\n– Audit trail\n– Proof of consent\n\n---\n\n## Phase 3: Portable Identity Mapping\n\nStore:\n\nUserID ↔ PublicKey\n\nNot:\nEmail ↔ PasswordHash\n\nPublic keys are safer identifiers.\n\n---\n\n## Phase 4: Key-Aware UX\n\nEducate users:\n\n– What a key is\n– Why it matters\n– How to store it safely\n\nContinuum is an example of environment training.\n\nIt normalizes key custody.\n\n---\n\n## Phase 5: Optional Data Portability\n\nAllow:\n\nSigned export of:\n– Content\n– Contracts\n– Reputation\n\nThis increases trust.\n\n---\n\n## Economic Upside\n\nConsultants can:\n\n– Audit auth systems\n– Design migration paths\n– Implement phased rollouts\n– Provide compliance overlays\n\nThis is not speculative.\nIt is incremental.\n\n---\n\n## Long-Term Outcome\n\nWhen identity is sovereign:\n\nPlatforms compete on value.\nNot captivity.\n\nUsers become durable.\nBusinesses become leaner.\nTrust becomes mathematical.\n\nKeys are not ideological.\n\nThey are structural.",
+  "created_at": 1772649258,
+  "id": "3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "45205f7543cefe1808c76b2e487b958a09b7c62063ab4b3b06e8f649573f90740afb7b08cba925cb135129da0481105885b8f66fa3157e8698b9c574d1062d62",
+  "tags": [
+    [
+      "d",
+      "building-with-keys-a-practical-roadmap-for-sovereign-systems"
+    ],
+    [
+      "title",
+      "Building With Keys: A Practical Roadmap for Sovereign Systems"
+    ],
+    [
+      "summary",
+      "A practical guide for founders, consultants, and technologists who want to implement cryptographic identity into real-world systems without rebuilding everything from scratch."
+    ],
+    [
+      "published_at",
+      "1772649258"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "keys"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "consulting"
+    ],
+    [
+      "display_date",
+      "2026-03-03"
+    ]
+  ],
+  "published": 1
+}

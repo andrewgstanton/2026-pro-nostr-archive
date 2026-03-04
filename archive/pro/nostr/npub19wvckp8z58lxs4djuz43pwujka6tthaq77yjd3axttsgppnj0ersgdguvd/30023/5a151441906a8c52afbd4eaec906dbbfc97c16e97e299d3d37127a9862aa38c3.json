@@ -1,0 +1,27 @@
+{
+  "content": "# Ministry Engagement Tiers (Internal Clarity)\n\nThis is for my internal alignment only.\n\nThe goal is to match level of support to level of commitment.\n\n---\n\n## Tier 1 — Individual Patron Level ($250)\n\nThis is treated the same as any individual patron.\n\n### What It Includes\n\n- Individual access to Continuum\n- Light guidance via email / DM\n- Possibly one structured walkthrough call\n- General Q&A related to setup\n- Occasional advisory insight\n\n### What It Does NOT Include\n\n- Ministry-wide deployment\n- Group onboarding sessions\n- Identity architecture planning for leadership\n- Monthly advisory calls\n- Coordinated rollout across participants\n- Ongoing infrastructure stewardship\n\nThis is individual-level support.\n\nScope is limited and proportional.\n\nIf the ministry later decides to pursue structured deployment, we can transition to Lane 3.\n\n---\n\n## Tier 2 — Ministry Deployment & Stewardship ($2,500 Year One)\n\nThis is a formal institutional engagement.\n\n### What It Includes\n\n- Ministry identity custody planning\n- Leadership and communications role structuring\n- Group onboarding sessions\n- Participant-level guidance\n- Archive and continuity planning\n- Relay and distribution strategy\n- One 30–45 minute strategic call per month (12 months)\n- Priority support (48-hour response window)\n- Version guidance and upgrade planning\n- Leadership transition continuity advisory\n\n### Core Purpose\n\n- Reduce platform dependency\n- Establish sovereign identity control\n- Preserve institutional digital memory\n- Provide long-term digital stewardship\n\nThis is structured infrastructure support — not informal help.\n\n---\n\n## Internal Boundary Reminder\n\nTier 1 = Patron support.  \nTier 2 = Institutional stewardship.\n\nDo not provide Tier 2 scope at Tier 1 pricing.\n\nMatch commitment level to scope level.\nStay calm.\nStay aligned.",
+  "created_at": 1772647906,
+  "id": "5a151441906a8c52afbd4eaec906dbbfc97c16e97e299d3d37127a9862aa38c3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6f9af9cd8184e9176ad11545ed6bc24bed921d3cabfe46020879b07d6d3081b4022e920888c7f6734fe5f1aad10faeea30bf6aa3d99581062ce881be77868ff7",
+  "tags": [
+    [
+      "d",
+      "continuum-tiers"
+    ],
+    [
+      "title",
+      "Continuum Tiers"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

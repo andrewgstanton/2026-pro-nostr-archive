@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1772652930,
+  "tags": [
+    [
+      "d",
+      "work-with-andrew--sovereign-identity--ai-native-architecture"
+    ],
+    [
+      "title",
+      "Work With Andrew — Sovereign Identity + AI-Native Architecture"
+    ],
+    [
+      "published_at",
+      "1772652930"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "ca5ca7c9163bf06c81f5c12386d46c571a4ee78a25b6547f5b92f5b34e77cfdd",
+      "edit"
+    ]
+  ],
+  "content": "If you’re exploring **Nostr authentication**, **local-first infrastructure**, or **AI-assisted workflows**, I offer focused engagements that produce clear deliverables — not vague brainstorming.\n\n## Who this is for\n- **Consultants** who want a sovereign publishing + identity workflow and a clean story to bring to clients  \n- **SaaS founders** who want to reduce auth friction, credential risk, and operational overhead  \n- **Ministries** that want durable publishing, safer communication, and alternatives to fragile platform dependence  \n\n---\n\n## Offers\n\n### 1) Architecture Session (90 minutes) — **$500**\nA focused working session to map your current system and identify the highest-leverage improvements.\n\n**Good for**\n- Nostr auth and signature workflows\n- AI workflow integration patterns (secure + practical)\n- Containerization / local-first deployment strategy\n- Publishing and identity architecture\n\n**You receive**\n- A written summary + recommended next steps\n- A simple architecture diagram (if helpful)\n- A prioritized action list\n\n---\n\n### 2) Implementation Sprint (1–2 weeks) — **Starting at $2,500**\nA short, outcome-driven build.\n\n**Examples**\n- Nostr authentication (challenge/verify/session) integrated into an existing app\n- Dockerized local-first architecture (repeatable setup + docs)\n- AI-assisted workflow pipeline design (privacy + control)\n\n**You receive**\n- Working implementation\n- Documentation + handoff notes\n\n---\n\n### 3) Ministry Sovereign Infrastructure Audit — **$2,500**\nA practical review of your ministry’s publishing, comms, and donation rails with a sovereignty-first lens.\n\n**You receive**\n- Risk + dependency analysis (platform fragility / lock-in)\n- Sovereign publishing plan (durable authorship)\n- Optional: Bitcoin/Lightning donation pathway strategy\n- Implementation roadmap (phased, realistic)\n\n---\n\n## Continuum (optional)\nContinuum is my local-first publishing + identity environment. If it’s a fit, I’ll help you incorporate it into your workflow.\n\n---\n\n## Contact\n- DM me on Nostr\n- Email: **andrewgstanton@gmail.com**",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "8b488a66f55d5f31d8e7d1fca6e505000e3ed0fe2b0b4f2013e65ea194eac8dd",
+  "sig": "e8666b8ee64173dde818e706de2aedf8c3b1b6e55a1f9cd4c32a086811e2958171337fd08c9d6a851e3f406cf93011687c6a2ca1c6474c1592ccca7eb3dd9ff3",
+  "published": 0
+}
