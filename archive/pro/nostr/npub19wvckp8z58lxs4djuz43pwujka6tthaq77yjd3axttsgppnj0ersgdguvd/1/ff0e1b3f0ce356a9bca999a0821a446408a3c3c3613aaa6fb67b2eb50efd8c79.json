@@ -1,0 +1,35 @@
+{
+  "content": "Local-first - 3/3/2026\n\nLocal-first identity trains responsibility.\n\nResponsibility matures users.\nMature users build durable ecosystems.\n\n“Each one should carry their own load.” — Galatians 6:5\n\n#LocalFirst #Continuum #Keys",
+  "created_at": 1772648550,
+  "id": "ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "96210f27b2f1abfa5d3ed6e5eb017295e00db932c31c559715ecc273f3f8c0619bdf33460788aca7a590d640ede2c8b5971b9e0ddb10c233485f469916e793a9",
+  "tags": [
+    [
+      "d",
+      "note-1772648550"
+    ],
+    [
+      "published_at",
+      "1772648550"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "keys"
+    ]
+  ],
+  "published": 1
+}

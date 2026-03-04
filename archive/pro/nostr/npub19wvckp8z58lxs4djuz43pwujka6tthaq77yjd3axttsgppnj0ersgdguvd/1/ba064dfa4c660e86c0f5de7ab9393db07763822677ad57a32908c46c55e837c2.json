@@ -1,0 +1,31 @@
+{
+  "content": "Portable Identity - 3/3/2026\n\nPortable identity forces platforms to compete on merit.\n\nIf users can leave without losing themselves,\nyou must build something worth staying for.\n\n“Whatever you do, work heartily.” — Colossians 3:23\n\n#PlatformDesign #Freedom",
+  "created_at": 1772648514,
+  "id": "ba064dfa4c660e86c0f5de7ab9393db07763822677ad57a32908c46c55e837c2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "07ff286d4376cbfd69f9a2ce8780bfa14fb726bc53fa86b78376490d6d8dcf644ccfd8b875f770dc4f33f6517c4cb36eaad7e7a7996cb51ddadb9c87af46e3fb",
+  "tags": [
+    [
+      "d",
+      "note-1772648514"
+    ],
+    [
+      "published_at",
+      "1772648514"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "platformdesign"
+    ],
+    [
+      "t",
+      "freedom"
+    ]
+  ],
+  "published": 1
+}

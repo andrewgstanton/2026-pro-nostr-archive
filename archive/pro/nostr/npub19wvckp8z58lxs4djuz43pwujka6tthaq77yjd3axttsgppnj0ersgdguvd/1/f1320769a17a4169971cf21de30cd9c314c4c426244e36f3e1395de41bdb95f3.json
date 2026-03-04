@@ -1,0 +1,31 @@
+{
+  "content": "Passwords create support tickets - 3/3/2026\nSignatures create certainty.\n\nOne is memory-based.\nThe other is math-based.\n\n“Let what you say be simply ‘Yes’ or ‘No’.” — Matthew 5:37\n\n#Authentication #Continuum",
+  "created_at": 1772648252,
+  "id": "f1320769a17a4169971cf21de30cd9c314c4c426244e36f3e1395de41bdb95f3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f531b20f9af259a0b82355403c2724d310e4fea5a69cc01a3709ad471421fdabf24043eacacbe2500bbec3e3ab887ebfadbf0665e1877466534501a05f98a81e",
+  "tags": [
+    [
+      "d",
+      "note-1772648252"
+    ],
+    [
+      "published_at",
+      "1772648252"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "authentication"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "published": 1
+}

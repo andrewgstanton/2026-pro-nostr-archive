@@ -1,0 +1,35 @@
+{
+  "content": "Sovereign systems reduce operational anxiety. 3/3/2026\n\nWhen users hold their own keys,\nyour platform stops being a vault\nand becomes a verifier.\n\n“Commit your work to the Lord, and your plans will be established.” — Proverbs 16:3\n\n#Sovereignty #Nostr #Identity",
+  "created_at": 1772648206,
+  "id": "59614d1844d62ac089cd5f268981f8d2c195441253dea2af5c741b833d23f7eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a4f2c4b3133ed59107132fc89cdee05b92fabb896ca748a1d496a61ed8cadfff141fb22533660554b297511c5ef0d8213e1b95e3ac5fbd9350bab98b6a1476f0",
+  "tags": [
+    [
+      "d",
+      "note-1772648206"
+    ],
+    [
+      "published_at",
+      "1772648206"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ]
+  ],
+  "published": 1
+}

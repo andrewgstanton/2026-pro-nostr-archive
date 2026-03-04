@@ -1,0 +1,31 @@
+{
+  "content": "Consulting - 3/3/2026\n\nConsulting in 2026 isn’t about writing more code.\n\nIt’s about removing structural risk.\n\nCryptographic identity removes entire categories of failure.\n\n“The prudent sees danger and hides himself.” — Proverbs 22:3\n\n#Consulting #DigitalRisk",
+  "created_at": 1772648352,
+  "id": "e9c73b7ed0b70c3f9fa24369c9bdfce47de69f53f5c18622823906f9b5ff6a06",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa8421dc3b390070014e6fcc24e1e6925090ff64b3d9d3b0a115a1f09e6ff298aee8ec4f9bad4e40bdaa96dae77021b67928db122f09b403322d0ef184ff5bcc",
+  "tags": [
+    [
+      "d",
+      "note-1772648352"
+    ],
+    [
+      "published_at",
+      "1772648352"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "consulting"
+    ],
+    [
+      "t",
+      "digitalrisk"
+    ]
+  ],
+  "published": 1
+}
