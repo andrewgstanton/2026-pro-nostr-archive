@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1772680160,
+  "tags": [
+    [
+      "d",
+      "startnation-micro-startup-operations-setup"
+    ],
+    [
+      "title",
+      "StartNation Micro Startup Operations Setup"
+    ],
+    [
+      "published_at",
+      "1772680160"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "47f3b8bd949a6f1e12b76cd20b2f67d3bc5aae90d7cedd39f78d3ab94cdd4e75",
+      "edit"
+    ]
+  ],
+  "content": "# StartNation Micro Startup Operations Setup\n($399)\n\nThis package provides a ready-to-run operational and financial infrastructure for early-stage micro startups (especially AI-native startups with 1–3 operators). The goal is to help founders move quickly from idea to revenue while maintaining clean financial records and operational discipline from the start.\n\n\n---\n\n# 1. Payment System Setup (Stripe)\n\nStripe provides the core payment infrastructure for most micro startups.\n\nDeliverables include:\n\n- Stripe account configuration  \n- Product or service pricing setup  \n- Payment links or checkout pages  \n- Basic billing configuration  \n- Integration with accounting system  \n\nThis enables founders to accept payments immediately without needing custom development.\n\n---\n\n# 2. Accounting System Setup (QuickBooks)\n\nQuickBooks serves as the financial record system for the startup.\n\nDeliverables include:\n\n- Account creation and configuration  \n- Chart of accounts setup  \n- Stripe integration  \n- Invoice template configuration  \n- Financial reporting setup  \n\nQuickBooks becomes the system of record for revenue, expenses, and financial reporting.\n\n---\n\n# 3. Expense Tracking System (Expensify)\n\nExpensify allows founders to easily track and categorize expenses without manual bookkeeping.\n\nDeliverables include:\n\n- Expensify account setup  \n- Receipt capture workflow  \n- Expense categorization structure  \n- Integration with QuickBooks  \n\nThis ensures that expenses are captured and categorized automatically as the business operates.\n\n---\n\n# 4. Invoicing System (QuickBooks)\n\nInvoices can be generated and tracked directly through QuickBooks.\n\nDeliverables include:\n\n- Invoice template setup  \n- Client invoicing workflow  \n- Payment tracking  \n- Integration with Stripe payments  \n\nThis ensures that founders can easily invoice clients and monitor outstanding payments.\n\n---\n\n# 5. Revenue Dashboard (QuickBooks)\n\nQuickBooks can provide a simple but effective revenue dashboard that allows founders to monitor financial performance.\n\nExample dashboard metrics:\n\nMonthly revenue  \nMonthly expenses  \nNet profit  \nOutstanding invoices  \nTop customers  \n\nThis gives founders immediate visibility into the financial health of the startup.\n\n---\n\n# 6. Tax-Ready Bookkeeping Structure\n\nThis deliverable sets up the accounting structure so that taxes can be filed without needing to rebuild the company’s books later.\n\nMost early startups create accounting chaos by categorizing expenses inconsistently or failing to structure their revenue and expense categories properly. This setup provides a clean chart of accounts and standardized financial categories.\n\nExample chart of accounts structure:\n\nRevenue\n\n- Product revenue  \n- Consulting revenue  \n- Subscription revenue  \n\nExpenses\n\n- Software subscriptions  \n- AI tools (OpenAI, Anthropic, etc.)  \n- Marketing and advertising  \n- Contractors and freelancers  \n- Travel  \n- Equipment and office expenses  \n\nAdditional setup may include:\n\n- QuickBooks chart of accounts configuration  \n- Expense categorization rules  \n- Stripe to QuickBooks synchronization settings  \n- Sales tax settings where applicable  \n- Instructions for generating accountant-ready financial reports  \n\nThe objective is simple: when tax season arrives, the company’s financial records are already structured correctly.\n\n---\n\n# 7. Operational Checklist & Workflow\n\nThis deliverable provides a documented playbook describing how the operational tools work together and how the founder should run the business day-to-day.\n\nMost founders install tools like Stripe or QuickBooks but never integrate them into a coherent workflow. This component provides the step-by-step processes that connect payment processing, accounting, expense tracking, and reporting.\n\nExample payment workflow:\n\n1. Client signs contract or agrees to services  \n2. Invoice generated in QuickBooks  \n3. Payment processed via Stripe  \n4. Stripe transaction syncs to QuickBooks  \n5. Revenue appears in dashboard  \n6. Payment reconciled during monthly review  \n\nExample expense workflow:\n\n1. Expense submitted in Expensify  \n2. Receipt attached  \n3. Expense categorized  \n4. Synced to QuickBooks  \n5. Included in profit/loss reporting  \n\nExample monthly founder checklist:\n\nMonthly Operations Checklist\n\n1. Reconcile Stripe payments  \n2. Review expense categories  \n3. Generate profit and loss statement  \n4. Verify outstanding invoices  \n5. Export tax-ready reports  \n6. Review revenue dashboard  \n\nThis operational playbook ensures that founders understand exactly how the tools interact and how to maintain a clean financial record as the company grows.\n\n\n\n---\n\n# Summary\n\nThe StartNation Micro Startup Operations Setup provides founders with a complete operational and financial foundation for launching a micro startup.\n\nRather than simply installing software tools, the package delivers an integrated operational system including payment processing, accounting infrastructure, expense tracking, invoicing workflows, and tax-ready bookkeeping.\n\nThe goal is to help founders launch quickly while maintaining professional financial discipline from day one.",
+  "pubkey": "4bc301477b9357b783e3f1f52151da0d9d5d91502c9ead4231af6e86ca09ed61",
+  "id": "b8764845468078fe8f4cb05cb1d917bf1294b087bc90e6ed040216882a10e418",
+  "sig": "c8aa904d7b0188aa9531d59a9de64c97422b937f2bf4430bddac551730c2d06f33adceecdc4a18f3852092d20538d6b4236d26b5d99853101ac7a99595f56703",
+  "published": 0
+}
