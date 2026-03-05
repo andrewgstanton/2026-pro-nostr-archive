@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1772734197,
+  "tags": [
+    [
+      "d",
+      "note-1772729260"
+    ],
+    [
+      "published_at",
+      "1772734197"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "a12f16450c7bf61893f46572d4d8e4a045f712ed177d79fb61525fe841217c15",
+      "edit"
+    ]
+  ],
+  "content": "Paid Shellpoint Mortgage - 922 Rosedale \namount $794.67\nConfirmation # 77639514",
+  "pubkey": "f104c306cdb6f0e909b0c79773ce2acd0fa88113d634fb0f918f608bb1cdd669",
+  "id": "7a391359d8ca69f3a54253ed78fd8d37249ad199e05c4ef43fa6e1d2e5718198",
+  "sig": "fd4922768aeda1c8bc6692322fa46566c8f05a066fe0d4c2914a725dc34b09065c04a83847cfd333eb304ee8f638d6a7a769c1cea2a8e86d583f2bb53ba91f9a",
+  "published": 0
+}
