@@ -1,0 +1,31 @@
+{
+  "content": "A Grateful Heart Sees Clearly - 3/5/2026\n\nA grateful heart sees more clearly.\n\nThe challenges remain visible, but they are no longer the only things we see.\n\n#gratitude #perspective",
+  "created_at": 1772732999,
+  "id": "40cb869c6bb267b23b682194197405f6e3f977032f0192a8e51ff5ac06695695",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "49816b99d2d711d786187163ba6168939f74bd4e2dea79d1b742731ee4c6061082be3dd5ea11ead737a6aabb92f7d9566c5482aeba612c7ece63338eac1b7c5c",
+  "tags": [
+    [
+      "d",
+      "note-1772732999"
+    ],
+    [
+      "published_at",
+      "1772732999"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "gratitude"
+    ],
+    [
+      "t",
+      "perspective"
+    ]
+  ],
+  "published": 1
+}
