@@ -1,0 +1,23 @@
+{
+  "content": "Identity is the hidden infrastructure of the internet.\n\nWhoever controls identity ultimately controls access.\n\nTrue digital sovereignty begins when identity becomes portable.\n\n---\n\nContact: andrewgstanton@gmail.com or DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772670628,
+  "id": "1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "482fe2316432563fb14270e33c9fb0725fa17c9750ed63c2fb32d84eee0554e960f0976d5c54cfbf3ffae02c4bb3ed54e362437170d4151c523cf96c831bce2b",
+  "tags": [
+    [
+      "d",
+      "note-1772670628"
+    ],
+    [
+      "published_at",
+      "1772670628"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

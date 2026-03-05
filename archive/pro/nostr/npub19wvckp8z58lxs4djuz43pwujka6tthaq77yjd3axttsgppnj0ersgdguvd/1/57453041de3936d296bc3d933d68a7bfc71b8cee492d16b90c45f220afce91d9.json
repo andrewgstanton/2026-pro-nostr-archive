@@ -1,0 +1,23 @@
+{
+  "content": "Most authentication systems store secrets on the server.\n\nCryptographic authentication flips the model.\n\nThe server stores nothing.\n\nIt only verifies signatures.\n\n---\n\nContact: andrewgstanton@gmail.com or DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772670680,
+  "id": "57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e6ad7629f057f01ed67737c1e82ab771dbb7506378f8a6b7dfb570eecb6709a55f430f471bdd3a0ec05a52219f8ebbf493029f861db6cb7443c614f286fef71c",
+  "tags": [
+    [
+      "d",
+      "note-1772670680"
+    ],
+    [
+      "published_at",
+      "1772670680"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

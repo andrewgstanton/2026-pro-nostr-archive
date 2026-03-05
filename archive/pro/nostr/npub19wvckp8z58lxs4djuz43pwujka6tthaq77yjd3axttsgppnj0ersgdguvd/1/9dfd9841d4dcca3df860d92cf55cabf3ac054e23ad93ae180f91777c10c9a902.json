@@ -1,0 +1,23 @@
+{
+  "content": "Local-first software changes the power relationship between users and platforms.\n\nWhen your data and keys live locally, platforms become services rather than gatekeepers.\n\nSovereignty begins with custody.\n\n---\n\nContact: andrewgstanton@gmail.com or DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772670732,
+  "id": "9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "95dd386936eb58eb1de29cf8ea79a5c0267a04386fcb2973a69e1ba472615c7becdfb979a318e8af771e679f6be102a814def30d12dc0fdaf95af5f9fd9d15e5",
+  "tags": [
+    [
+      "d",
+      "note-1772670732"
+    ],
+    [
+      "published_at",
+      "1772670732"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

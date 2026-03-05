@@ -1,0 +1,23 @@
+{
+  "content": "Nostr is not merely a social protocol.\n\nIt is an identity layer.\n\nOnce you understand that, the design space expands dramatically.\n\n---\n\nContact: andrewgstanton@gmail.com or DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772670808,
+  "id": "2eddc1fcd7fa52b4c4b68311e603bfd8d4112aa96620b0288573f1a233f5bf69",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3044d6df6c3f9f629a2041639ed2e503751294e74c6fa7c0d672e99160680173485d2f560859bb10b4a4014424c7fa8df1940e2c9de1e058aae3c442d4eb740f",
+  "tags": [
+    [
+      "d",
+      "note-1772670808"
+    ],
+    [
+      "published_at",
+      "1772670808"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}
