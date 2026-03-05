@@ -1,0 +1,23 @@
+{
+  "content": "New article from Andrew (Akamaister)\n\n\"The Identity Layer Is the Next Infrastructure War\"\n\nThis is exactly the problem Continuum is designed to solve.\n\nhttps://is.gd/YWfF1s",
+  "created_at": 1772671619,
+  "id": "631dc368bc310b55f0ae3e0756adf008f6b297978ca03f6ae50f31b4af8cbe01",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "1e0adbb3a733b411be5f4c54e52c887b246140758ce0d4da179c3cb7fc503956a0c1e747f71d8b01889ac3d0735db08be20ad22b7fd776af008b992490cb0f6d",
+  "tags": [
+    [
+      "d",
+      "note-1772671619"
+    ],
+    [
+      "published_at",
+      "1772671619"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}
