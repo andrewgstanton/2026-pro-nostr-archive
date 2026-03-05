@@ -1,0 +1,59 @@
+{
+  "content": "Andrew G. Stanton - Journal Entry - Wednesday, March 4, 2026 \n\n---\n\n## Continuum Development Progress\n\nOne of the most meaningful technical developments today was designing the architecture for **scheduled publishing** inside Continuum.\n\nThe key constraint I continue to enforce is simple:\n\n**Continuum never stores unsigned events in the database.**\n\nDrafts remain drafts. They exist only as local working content.\n\nBecause of this rule, scheduling must work differently from most publishing systems.\n\nInstead of scheduling drafts, Continuum schedules **already signed events**.\n\nThis leads to a clean publishing flow:\n\n- **Sign Only**\n- **Sign & Publish**\n- **Sign & Schedule**\n\nWhen an event is scheduled, the system simply stores a minimal record that includes:\n\n- the event ID\n- the event kind\n- the scheduled publish time\n\nAll actual content already exists in the appropriate event tables (articles or notes).\n\nThe scheduler then runs in the background and calls the existing publish mechanism:\n\n`publish_event()`\n\nThis approach keeps the architecture simple, avoids duplication, and stays aligned with Continuum’s core philosophy:\n\n**events are sovereign artifacts once they are signed.**\n\nScheduling is merely a delayed broadcast.\n\n---\n\n## Relay Runtime Improvements\n\nI also continued refining the **relay runtime system**.\n\nRelays now load dynamically when an identity is selected, and the relay manager maintains the active connection pool.\n\nA relay status page now shows:\n\n- the active identity\n- the identity’s npub\n- the currently active relays\n- connection status\n\nOne improvement I plan to add is a timestamp showing when the relay set was last refreshed. This will make debugging relay behavior much easier.\n\nThese changes are gradually turning Continuum into something more than a publishing tool — it is becoming a **local Nostr operating environment**.\n\n---\n\n## A Conversation About Micro Startups\n\nToday I also had a call with Kevin discussing ideas around **AI-enabled micro startups**.\n\nOne idea that emerged was a service offering something like:\n\n**StartNation Micro Startup Operations Setup**\n\nA simple operational package that would help a new AI-native business get its back office in place quickly:\n\n- Stripe payment setup\n- QuickBooks accounting system\n- expense tracking\n- invoicing configuration\n- revenue dashboard\n- tax-ready bookkeeping structure\n- operational workflow checklist\n\nThe basic insight is that AI dramatically lowers the cost of building products, but operational overhead still slows founders down.\n\nIf someone could remove that friction quickly, it would create immediate value.\n\nIt is an interesting direction worth exploring further.\n\n---\n\n## NotebookML Discovery\n\nI also experimented with **NotebookML**, which turned out to be surprisingly powerful.\n\nIt generated structured summaries and visual diagrams from PDFs of my own articles about Continuum and StartNation.\n\nThere is a certain irony in using centralized AI services from large technology companies while working on a system designed to enable **sovereign, local-first publishing**.\n\nBut at this stage, these tools are incredibly useful.\n\nThey accelerate thinking and exploration.\n\nThe long-term goal remains the same:  \nto ensure that authors and builders ultimately control their own work and identity.\n\n---\n\n## Early Signals of Adoption\n\nYesterday I had a long call with Megistus, who actively consults on projects involving both Nostr and traditional systems.\n\nHe believes Continuum could be extremely useful in consulting environments where identity, signing, and structured publishing matter.\n\nHe plans to install it locally and test it soon.\n\nOne of his first suggestions was exactly the feature I started designing today:\n\n**scheduled publishing.**\n\nThat kind of feedback is encouraging.\n\nIt suggests that the architecture is solving real problems, not theoretical ones.\n\n---\n\n## Continuing the Work\n\nI continue to publish regularly, even when engagement is minimal.\n\nMuch of this work is being built quietly.\n\nThat is fine.\n\nMost infrastructure projects look invisible for a long time until suddenly they are not.\n\nContinuum is still early, but each day the structure becomes clearer.\n\nIdentity management.  \nSovereign publishing.  \nLocal control.\n\nThe pieces are coming together.\n\nAnd tomorrow, the work continues.\n\n---\n\nAndrew G. Stanton  \nMarch 4, 2026",
+  "created_at": 1772691657,
+  "id": "9de3f4894de7212eadc7307b25df5ae01e25f43b5334c4671fe4e41c982e600b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ea1566710f492baf247cd2d042d3ba2d08e08b724d378155e5aa49e8a9ab1d732c788536dadfd569c3c8b4844a15d71d668cba9de4210cd7cb24a41f1e414d73",
+  "tags": [
+    [
+      "d",
+      "builder-journal--march-4-2026"
+    ],
+    [
+      "title",
+      "Builder Journal — March 4, 2026"
+    ],
+    [
+      "summary",
+      "Today was a productive day of architecture work, strategic conversations, and small confirmations that Continuum is moving in the right direction. The platform continues to mature while the surrounding ecosystem of ideas — sovereign publishing, Nostr identity, and AI-enabled micro companies — becomes clearer."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "builderjournal"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "startnation"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "display_date",
+      "2026-03-04"
+    ]
+  ],
+  "published": 0
+}
