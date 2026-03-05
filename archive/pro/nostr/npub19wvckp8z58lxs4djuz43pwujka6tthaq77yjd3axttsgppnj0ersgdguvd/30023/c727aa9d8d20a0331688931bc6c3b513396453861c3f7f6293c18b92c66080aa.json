@@ -1,0 +1,27 @@
+{
+  "content": "Steps\n\n## 1. clone to \"continuum-pro-test\"\n\n```\ngit clone git@github.com:andrewgstanton/continuum-pro.git continnum-pro-test\n```\n\n## 2. checkout latest branch\n\n```\ngit checkout latest\n```\n\n## 3. run build (to generate image)\n\n```\ncd dashboard\nchmod +x *.sh\n./clean_all.sh\n./clean.sh\n./build.sh\n```\n\n## 4. remove source and use run script tailored for distribution\n\n```\n./mk_prod.sh\n```\n\n## 5. zip directory and produce shahash from it\n\n```\nzip -r continuum-pro-test.zip continuum-pro-test/ \\\n  -x \"*.DS_Store\" \\\n  -x \"__MACOSX/*\" \\\n  -x \"*/.DS_Store\" \\\n  -x \"*/._*\" \\\n  -x \".Spotlight-V100/*\" \\\n  -x \".Trashes/*\"\n\nunzip -t continuum-pro-test.zip (should say 'No errors detected in compressed data of continuum-pro-test.zip.')\n\nshasum -a 256 continuum-pro-test.zip > continuum-pro-test.zip.sha256.txt\n\n```\n\n## 6. copy these files to the download folder:\n\n```\ncontinuum-pro-test.zip\ncontinuum-pro-test.zip.sha256.txt\n\n(from the continuum-pro-test directory root)\n\ncontinuum-overview.pdf\ncontinuum-overview.md\nREADME.md\nREADME_MAC.md\nREADME_WINDOWS.md\nLICENSE.txt\nNOTICE.md\n\n```",
+  "created_at": 1772662321,
+  "id": "c727aa9d8d20a0331688931bc6c3b513396453861c3f7f6293c18b92c66080aa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "447d72c2b22b7d8bf26d02e52cdb2a24d9a9093509a176b3e9f7d5276492e386442db61168f308829852acc5eb7815d749ad7874bbe53c4c2f66e2de779db34d",
+  "tags": [
+    [
+      "d",
+      "steps-to-prepare-a-download-release-served-on-google-drive-folder-continuum-pro-test"
+    ],
+    [
+      "title",
+      "Steps to Prepare a Download release (served on Google Drive folder \"Continuum Pro Test\""
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

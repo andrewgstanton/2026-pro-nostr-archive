@@ -1,0 +1,27 @@
+{
+  "content": "Simple structure:\n\nDaily\n\nwrite articles (3) -- include new footer in each\n\npost notes (5)\n\nWeekly\n\n10 direct outreach messages\n\n1 follow-up article tied to consulting\n\n2 conversations scheduled",
+  "created_at": 1772667486,
+  "id": "4753c9700a0d4d30f2577728a85f466ca0465917d5aeb31b84a7c5c699e8fdfe",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9597d35baeb759fdf698d2623c71556f8a42b5a0feaf8d29b30325e89269ec4e13777b56fde957aa70e4712db786a011010b8b5427a7c715b0ab1edb75d9bc9a",
+  "tags": [
+    [
+      "d",
+      "weekly-operating-rythm"
+    ],
+    [
+      "title",
+      "Weekly Operating Rythm"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

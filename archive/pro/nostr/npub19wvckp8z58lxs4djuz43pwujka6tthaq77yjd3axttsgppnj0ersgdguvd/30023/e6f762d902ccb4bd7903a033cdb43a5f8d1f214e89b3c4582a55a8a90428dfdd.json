@@ -1,0 +1,59 @@
+{
+  "content": "Author: Andrew G. Stanton  \nDate: March 4, 2026\n---\n\nFor most of the internet’s history, identity has been an afterthought.\n\nWe built services first, and then layered authentication on top of them. Password systems were bolted onto applications that were never designed for portability. OAuth systems were built to let platforms federate identity, but the user remained dependent on the platform itself.\n\nThe result is the system we live in today: a fragmented identity landscape where each service owns a piece of who you are.\n\nYour email provider owns one part of your identity.  \nYour social networks own another.  \nYour SaaS platforms own another.\n\nThe user is the only entity who does not actually control their own identity.\n\nThis model is reaching its limits.\n\nIncreasingly, identity is becoming the core infrastructure question of the internet. Whoever controls identity controls access, communication, and economic participation.\n\nIdentity is no longer just a login mechanism. It is becoming the foundation layer of digital society.\n\n## Passwords Were Never the Right Primitive\n\nPasswords were originally designed for small, trusted systems. They were not designed for a global network of billions of users.\n\nThey create several structural problems.\n\nFirst, they centralize risk. Every system storing passwords becomes a potential breach point.\n\nSecond, they fragment identity. Each service maintains its own identity database, creating a patchwork of accounts that the user must constantly manage.\n\nThird, they create friction. Password resets, multi-factor authentication, and account recovery systems all exist because the underlying model is fragile.\n\nThese problems have been partially mitigated by federated identity systems like Google or Apple sign-in.\n\nBut those systems introduce a different problem.\n\nThey consolidate identity under the control of a few large platforms.\n\nYou no longer manage dozens of identities. Instead, you depend on one or two corporate gatekeepers to authenticate you everywhere.\n\nThat is not sovereignty. It is consolidation.\n\n## Cryptographic Identity Changes the Model\n\nCryptographic identity systems change the structure of the problem entirely.\n\nInstead of an account stored by a service, identity becomes a keypair controlled by the user.\n\nThe service does not store the identity.\n\nThe service verifies signatures.\n\nWhen identity is based on cryptographic signatures:\n\n- The user owns the key  \n- The user chooses where to present that identity  \n- Services verify the identity rather than controlling it  \n\nThe user becomes portable.\n\nThis is the model emerging in systems like Nostr.\n\nAn npub represents a public identity.  \nThe nsec remains under the user’s control.\n\nWhen you authenticate using signatures rather than passwords, the service does not store your credentials.\n\nIt simply verifies the proof that you control the key.\n\nThat distinction removes an entire class of problems that have plagued internet authentication for decades.\n\n## The Missing Piece: Local Sovereignty\n\nEven cryptographic identity systems can be implemented poorly.\n\nIf keys are stored in browser extensions or cloud wallets, the user still does not truly control the identity.\n\nTrue sovereignty requires local custody.\n\nKeys should be generated locally.  \nKeys should be stored locally.  \nSigning should happen locally.\n\nThis is the principle behind local-first identity environments.\n\nInstead of relying on hosted clients, the user runs software that manages their identities directly.\n\nEvents are signed locally.  \nPublishing happens after signing.  \nThe user maintains a durable archive of their own work.\n\nThis is the architecture Continuum is exploring.\n\nContinuum provides a local-first identity environment where users can manage identities, sign events, archive content, and publish to relays while maintaining control of their keys and data.\n\nIn that sense, Continuum sits underneath the social layer of Nostr.\n\nIt is infrastructure for authorship.\n\n## The Infrastructure Shift Ahead\n\nThe next decade will likely see a major shift in how identity works on the internet.\n\nPassword systems will slowly fade.\n\nPlatform-controlled identity systems will continue consolidating power.\n\nAnd cryptographic identity systems will begin forming a third path.\n\nA path where identity belongs to the user.\n\nWhere authentication happens through signatures rather than passwords.\n\nWhere authorship is durable rather than platform-dependent.\n\nIdentity is not just a login screen anymore.\n\nIt is the foundation of digital sovereignty.\n\n---\n\n“Where the Spirit of the Lord is, there is freedom.”  \n— 2 Corinthians 3:17\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer limited advisory and implementation sessions.\n\nOptions:\n\n• 90-minute architecture session – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\nContact: andrewgstanton@gmail.com  \n\nDM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772670120,
+  "id": "e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1ab25c73f3e3216c16f7328c310c374820100d1f0a6e302ba8bfb1e6949bee8e9881078da65f188863271b20718450d6bd25dd6615afa310d105e23b52bd5ebc",
+  "tags": [
+    [
+      "d",
+      "the-identity-layer-is-the-next-infrastructure-war"
+    ],
+    [
+      "title",
+      "The Identity Layer Is the Next Infrastructure War"
+    ],
+    [
+      "summary",
+      "Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials."
+    ],
+    [
+      "published_at",
+      "1772670120"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "display_date",
+      "2026-03-04"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ]
+  ],
+  "published": 1
+}
