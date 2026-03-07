@@ -1,0 +1,40 @@
+{
+  "content": "The internet never solved identity - 3/6/2026\n\n---\n\nSummary: The internet solved communication and distribution but left identity fragmented across countless platforms.\n\n---\n\nThe internet solved some remarkably complex problems.\n\nPacket routing across global networks.\n\nDistributed communication between millions of machines.\n\nInstant data transmission across continents.\n\nBut one problem remained strangely unsolved.\n\nIdentity.\n\nInstead of a unified identity layer, the internet evolved into thousands of separate account systems.\n\nEvery platform requires a new login.\n\nEvery service maintains its own user database.\n\nEvery application manages its own authentication flow.\n\nThe result is fragmentation.\n\nUsers manage dozens or even hundreds of accounts. Password resets, email confirmations, and login failures have become routine parts of online life.\n\nCryptographic identity offers a simpler approach.\n\nInstead of accounts issued by platforms, users generate keypairs.\n\nApplications verify signatures rather than managing identity databases.\n\nThis approach reduces fragmentation dramatically.\n\nOne key can authenticate across many services.\n\nOne identity can move across many applications.\n\nProtocols like Nostr demonstrate how this model might work at scale.\n\nRather than solving identity through centralized systems, they solve it through cryptography.\n\nThe identity belongs to the user.\n\nApplications simply recognize it.\n\n---\n\n#identity #internet #nostr",
+  "created_at": 1772853773,
+  "id": "273fc6b9aa905fd54a60a03ba0ec6e0168f8555e1c8a1a75fdec295aec3b9efb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "92e0f3f3ff5cd1d1afaee65b181799b84b637d12b3c8a49584d8abf442afdcc802053455d85f9bb912dec002d92d1d6b3a61c2cbf8f4188b0c2b0cc8ca3d38e2",
+  "tags": [
+    [
+      "d",
+      "note-1772853773"
+    ],
+    [
+      "published_at",
+      "1772853773"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "internet"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

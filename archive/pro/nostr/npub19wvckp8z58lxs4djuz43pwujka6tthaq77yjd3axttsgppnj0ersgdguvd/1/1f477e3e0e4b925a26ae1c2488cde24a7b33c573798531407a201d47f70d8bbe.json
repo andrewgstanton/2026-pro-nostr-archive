@@ -1,0 +1,40 @@
+{
+  "content": "The architecture is the product - 3/6/2026\n\nSummary: In durable systems, architecture matters more than features. The structure of the system determines what it can become.\n\nA common mistake in software is thinking that features define the product.\n\nIn reality, architecture defines the product.\n\nFeatures are temporary. They change, evolve, and sometimes disappear entirely. Architecture, however, shapes what the system can become over time.\n\nIf the architecture is fragile, no amount of features can save it.\n\nBut if the architecture is strong, the system can evolve almost indefinitely.\n\nThis is why many durable technologies appear deceptively simple at first.\n\nGit did not launch with dozens of polished features.  \nSSH did not attempt to solve every networking problem.  \nBitcoin did not attempt to replicate the entire financial system.\n\nEach focused on a clear architectural foundation.\n\nOnce that foundation existed, the ecosystem grew around it.\n\nThis perspective is useful when evaluating new software.\n\nInstead of asking:\n\n“What features does this system have?”\n\nA better question is:\n\n“What architecture does this system enable?”\n\nArchitecture determines:\n\n• how identities are managed  \n• how data moves through the system  \n• who ultimately controls the environment\n\nLocal-first systems and cryptographic identity models are interesting not because of their current features, but because of the architectural possibilities they create.\n\nOnce identity becomes portable and data becomes local-first, an entire new class of applications becomes possible.\n\nThe architecture changes first.\n\nEverything else follows.\n\n#architecture #infrastructure #systems",
+  "created_at": 1772853364,
+  "id": "1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ca39cb1cd60e14e290d8824c6ed87c9b963f7c27709d3af1266bd7e03ec5c0f9c6a6958def8c2cb1a39a33d9583937795f340009e0b7971e4c855da11e9c97f5",
+  "tags": [
+    [
+      "d",
+      "note-1772853364"
+    ],
+    [
+      "published_at",
+      "1772853364"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "systems"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

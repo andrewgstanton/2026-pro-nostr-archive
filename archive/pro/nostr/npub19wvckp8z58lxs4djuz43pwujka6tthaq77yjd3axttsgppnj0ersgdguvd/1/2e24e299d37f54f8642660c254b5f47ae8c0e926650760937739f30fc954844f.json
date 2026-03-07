@@ -1,0 +1,28 @@
+{
+  "content": "Example screenshot of an event (kind:1) that was signed but then published later\n\nhttps://is.gd/wawt2Z\n\n(this note itself will be published 2 minutes from the time it was signed)",
+  "created_at": 1772868432,
+  "id": "2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05a7f22bec5dbd168c709a0ef1146636f227ca71f7fcdfdf40570d32ac956e21ef92c961fbd55e4719d6c190e70ae994463c9f62592a3f55b0659dde5480f24c",
+  "tags": [
+    [
+      "d",
+      "note-1772868432"
+    ],
+    [
+      "published_at",
+      "1772868432"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

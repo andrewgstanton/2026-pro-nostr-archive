@@ -1,0 +1,40 @@
+{
+  "content": "Keys are the foundation of sovereignty - 3/6/2026\n\n---\n\nSummary: Digital sovereignty begins with controlling your cryptographic keys rather than relying on platform-managed accounts.\n\n---\nWhen people talk about digital sovereignty, the conversation often becomes abstract.\n\nBut the concept itself is very concrete.\n\nIt begins with keys.\n\nIf you control your keys, you control your identity.\n\nIf someone else controls them, they control your access.\n\nTraditional platforms rarely allow users to control their own identity infrastructure. Instead, they issue accounts and manage authentication internally.\n\nUsers log in with email addresses and passwords.\n\nThe platform becomes the authority.\n\nCryptographic identity flips this model.\n\nInstead of the platform creating the identity, the user generates a keypair.\n\nThe public key becomes the identifier.\n\nThe private key becomes the authority.\n\nThis small shift changes the power structure of the system.\n\nPlatforms no longer issue identities.\n\nThey verify signatures.\n\nNostr demonstrates this model clearly.\n\nUsers generate keys locally. Events are signed locally. Relays simply transmit the signed messages.\n\nApplications interpret those messages in different ways, but the identity remains independent of any single service.\n\nThis independence is what makes digital sovereignty possible.\n\nThe key does not belong to the platform.\n\nIt belongs to the individual.\n\nAnd that changes everything about how identity works online.\n\n---\n\n#sovereignty #identity #keys",
+  "created_at": 1772853650,
+  "id": "10f142b7e6607ed6af4cabff1ce7c4eca5275bad244c7460e1baab0dccedb4b5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eb90ff8bebbef93b394ef207bf825d4643fc98c5746a374e598fc1230003b47d7a166f919813b7ff479f9ce077b758c49f090c1e88396f74226b2d2a8d71ba7a",
+  "tags": [
+    [
+      "d",
+      "note-1772853650"
+    ],
+    [
+      "published_at",
+      "1772853650"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "keys"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

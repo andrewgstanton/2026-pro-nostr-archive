@@ -1,0 +1,40 @@
+{
+  "content": "Builders often work in silence -3/6/2026\n\n---\n\nSummary: Many of the most important infrastructure projects are built quietly for years before gaining widespread recognition.\n\n---\n\nThere is an unusual rhythm to infrastructure work.\n\nFor long periods, it feels like nothing is happening.\n\nA small group of builders works quietly. Progress is slow. Adoption appears minimal. Most people are unaware the system even exists.\n\nThen gradually, something shifts.\n\nDevelopers begin experimenting with the tool.\n\nEarly adopters begin using it for real work.\n\nThe architecture proves reliable.\n\nEventually, the system crosses a threshold where it becomes difficult to ignore.\n\nMany foundational technologies followed this path.\n\nGit was initially used by a small group of developers before becoming the dominant version control system.\n\nBitcoin existed for years before gaining global attention.\n\nEven the early internet protocols developed quietly before becoming essential infrastructure.\n\nInfrastructure rarely spreads through marketing.\n\nIt spreads through usefulness.\n\nBuilders who focus on architecture rather than hype often work in relative silence for long periods.\n\nBut if the foundation is strong, the work compounds.\n\nOver time, quiet systems can become indispensable.\n\nNot because they demanded attention.\n\nBecause they continued working.\n\n---\n\n#builders #infrastructure #craft",
+  "created_at": 1772853927,
+  "id": "23e85fa957ece1dbd7654dc7c3db24c5e25ef5cd1909175224d6cc00ed6dd4d6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "537703b2f7ffefc9c61e2bd05ba44d54f803e08daea866fa0cb94c57a2ff632f3884f27c3bd4c3aa5e32e3ae2207877ac60ed65e0e3bff0fb0f8f52d884fbb6b",
+  "tags": [
+    [
+      "d",
+      "note-1772853927"
+    ],
+    [
+      "published_at",
+      "1772853927"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "craft"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

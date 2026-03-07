@@ -1,0 +1,40 @@
+{
+  "content": "Software should fail gracefully -3/6/2026\n\nSummary: Systems designed for resilience assume parts of the network will fail. Local-first architecture ensures work can continue regardless.\n\n\nMany modern applications assume the network is always available.\n\nThat assumption works most of the time.\n\nUntil it doesn't.\n\nOutages happen. APIs break. Services disappear. Platforms change policies or simply shut down.\n\nWhen an application depends entirely on remote infrastructure, these failures can stop work immediately.\n\nLocal-first systems approach this problem differently.\n\nInstead of assuming the network will always work, they assume it will sometimes fail.\n\nThe system is designed to continue functioning regardless.\n\nData is stored locally.  \nApplications run locally.  \nNetwork synchronization becomes an enhancement rather than a dependency.\n\nThis philosophy mirrors how resilient physical infrastructure is designed.\n\nElectrical grids include redundancy.  \nRoad networks offer multiple routes.  \nDistributed systems replicate data across multiple locations.\n\nResilience is not achieved by eliminating failure.\n\nIt is achieved by designing systems that continue working when failure occurs.\n\nLocal-first software applies this principle to personal computing.\n\nIf the network disappears, the work continues.\n\nIf a relay goes offline, the content still exists elsewhere.\n\nIf a platform disappears, the identity remains intact.\n\nGraceful failure is one of the most underrated qualities in software architecture.\n\nBut historically, it is one of the qualities that separates durable systems from fragile ones.\n\n---\n\n#resilience #architecture #local-first",
+  "created_at": 1772853527,
+  "id": "3ba1ee9d8bd16d3d0db1aa7ed118ea8c5a8a8f2fad4d5a25ac3a3440e596646c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "494f9f5b34a7897c1da72e8068d701b6f3e37927a47dabbf5500a55be77d39daa95987995fe2c11619d86fef21fea8bc6a478234ad0673be9a217e5114fc8c5e",
+  "tags": [
+    [
+      "d",
+      "note-1772853527"
+    ],
+    [
+      "published_at",
+      "1772853527"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "local"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
