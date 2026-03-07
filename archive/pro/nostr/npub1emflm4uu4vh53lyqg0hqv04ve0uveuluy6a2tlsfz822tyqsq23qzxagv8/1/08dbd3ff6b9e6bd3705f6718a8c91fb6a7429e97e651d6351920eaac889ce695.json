@@ -1,0 +1,28 @@
+{
+  "content": "Continuum update: scheduled publishing for notes is now live.\nArticles coming next.\n\nAuthors can queue posts locally and have them publish automatically — without handing their private keys to any platform.",
+  "created_at": 1772777742,
+  "id": "08dbd3ff6b9e6bd3705f6718a8c91fb6a7429e97e651d6351920eaac889ce695",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "c47b12fd3beb83bee3db50d075624a0f17a6890e7de1bf31b0a7d994cc9a1ff7c5ecca791c93ec75a1f984a05de5afe6bf2af779eb473e901ac0d343659f00b5",
+  "tags": [
+    [
+      "d",
+      "note-1772777742"
+    ],
+    [
+      "published_at",
+      "1772777742"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
