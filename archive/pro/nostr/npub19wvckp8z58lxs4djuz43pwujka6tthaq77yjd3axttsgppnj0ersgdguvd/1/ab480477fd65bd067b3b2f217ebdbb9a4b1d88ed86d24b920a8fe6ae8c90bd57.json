@@ -1,0 +1,28 @@
+{
+  "content": "Continuum now supports scheduled publishing for notes.\nArticles coming next.\n\nThis means you can write locally, queue posts, and let them publish automatically — without giving custody of your keys to any platform.",
+  "created_at": 1772777436,
+  "id": "ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c5a706a98747183d9660c8cc5d0071b6b9b629af615fbf87c808bf9f2d3da3f11fc07569b41e400c019c4be3ca9a3afeed4caf82ec7b73f9c89372e4279ae044",
+  "tags": [
+    [
+      "d",
+      "note-1772777436"
+    ],
+    [
+      "published_at",
+      "1772777436"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
