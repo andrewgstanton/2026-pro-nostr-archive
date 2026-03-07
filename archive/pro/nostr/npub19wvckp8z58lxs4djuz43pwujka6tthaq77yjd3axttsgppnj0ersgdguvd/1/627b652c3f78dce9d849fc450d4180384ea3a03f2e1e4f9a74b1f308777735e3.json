@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1772927280,
+  "tags": [
+    [
+      "d",
+      "note-1772922901"
+    ],
+    [
+      "published_at",
+      "1772927280"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "81ca6d2ec26436c57345358b1cfc3623c8eee61d6072291f99000ed08a2264d7",
+      "edit"
+    ]
+  ],
+  "content": "Example screenshot of the UX treatment creating a new note while offline\n\nThe \"Sign & Publish\" button is disabled but you can still:\n\n- save draft \n\n- sign the note\n\n- schedule the note to be published in the future (when network services return\n\n---\n\nhttps://is.gd/t2gjHp\n\n---\n\n#offline #sovereign-publishing #nostr #local-first",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3",
+  "sig": "747e14c73dda9248446b0d1f1fb24e0fb4e6b94842e2e35f0d315370b7fc47b00767802288ed01efa776b506576772db5689e43d3307eaa16f88aeb44f792697",
+  "published": 1
+}
