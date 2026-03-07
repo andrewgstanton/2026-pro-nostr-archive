@@ -1,0 +1,56 @@
+{
+  "content": "Andrew G. Stanton - Friday, March 6, 2026\n\n---\n\nMost online services begin with the same request.\n\nCreate an account.\n\nIt is such a familiar pattern that most people rarely question it. Every platform requires a login. Every application manages its own user database. Identity becomes fragmented across hundreds of services.\n\nBut this model has a fundamental flaw.\n\nYour identity exists only inside the platform that created it.\n\nIf the platform disappears, your identity disappears with it.\n\nIf the platform bans your account, your identity within that system vanishes.\n\nIf the platform changes its policies or algorithms, your digital presence can change overnight.\n\nThis is not ownership.\n\nIt is tenancy.\n\nThe account model was originally a practical solution to early internet limitations. When the web first emerged, cryptographic identity systems were difficult to implement and computationally expensive. Email addresses and passwords provided a simple mechanism for identifying users.\n\nOver time, this system became deeply embedded in internet architecture.\n\nEntire industries formed around identity management. Companies built single sign-on systems. Platforms created proprietary authentication APIs. Developers integrated login flows into every application.\n\nBut the underlying model remained the same.\n\nPlatforms issued identities.\n\nUsers rented them.\n\nCryptographic identity changes that model completely.\n\nInstead of creating an account on a platform, users generate their own keypair.\n\nThe private key remains under the user’s control.\n\nThe public key becomes the identifier.\n\nWhen a user wants to authenticate or publish information, they sign a message with their private key. Anyone with the corresponding public key can verify that signature.\n\nThis simple mechanism eliminates the need for centralized identity authorities.\n\nPlatforms no longer issue identities.\n\nThey verify signatures.\n\nThe implications of this shift are significant.\n\nFirst, identity becomes portable.\n\nA user can authenticate across multiple services using the same keypair. There is no need to create separate accounts or manage multiple password databases.\n\nSecond, identity becomes durable.\n\nBecause the keypair exists independently of any platform, the user’s identity can persist even if individual services disappear.\n\nThird, identity becomes verifiable.\n\nSigned messages allow authorship to be proven cryptographically rather than through platform metadata.\n\nNostr demonstrates how this model can work in practice.\n\nUsers generate keypairs that represent their identity within the network. Events are signed using the private key and published to relays. Applications read these events and present them in different ways.\n\nBecause the protocol is open, multiple applications can interpret the same events. Users are not locked into a single interface or platform.\n\nThis architecture encourages experimentation.\n\nDevelopers can build new applications without needing to bootstrap entirely new identity systems. They can rely on the existing key infrastructure provided by the protocol.\n\nContinuum extends this idea by focusing on local-first identity management.\n\nInstead of relying on browser extensions or remote key services, Continuum stores identities locally in simple files. Signing operations happen locally. Publishing happens through protocols.\n\nThis approach keeps identity custody in the hands of the user.\n\nIt also simplifies workflows.\n\nWhen identity is local, users can sign messages, publish events, or authenticate with services directly from their environment. There is no need to rely on third-party intermediaries.\n\nOf course, cryptographic identity also introduces new responsibilities.\n\nUsers must manage their keys carefully. Losing a private key can mean losing access to an identity permanently. Security practices become important in ways that many web users have never had to consider.\n\nBut this responsibility is also what enables sovereignty.\n\nWhen users control their keys, they control their identity.\n\nNo platform can revoke it.\n\nNo service can modify it.\n\nNo algorithm can suppress it.\n\nIdentity becomes a property of the individual rather than the platform.\n\nThis shift may represent one of the most important architectural changes in the future of the internet.\n\nInstead of building larger platforms, developers may begin building applications around portable identities.\n\nPlatforms become services.\n\nIdentity remains with the user.\n\nAnd the internet becomes a network of individuals rather than a collection of centralized silos.\n\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772853160,
+  "id": "637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "203bc117752f0a1971806ed5c7df779bd8fbebc1b9432a80459a4c07e5d9072c01493ea600e827bfe7f09aedc31dc10566c1ea8aba186d026d3b1b8bb28e215d",
+  "tags": [
+    [
+      "d",
+      "identity-before-platforms"
+    ],
+    [
+      "title",
+      "Identity Before Platforms"
+    ],
+    [
+      "summary",
+      "Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity."
+    ],
+    [
+      "published_at",
+      "1772853160"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "authentication"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "display_date",
+      "2026-03-06"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

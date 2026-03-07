@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1772867420,
+  "tags": [
+    [
+      "d",
+      "builder-journal---march-6-2026--tightening-continuums-startup-logic"
+    ],
+    [
+      "title",
+      "Builder Journal  - March 6, 2026 — Tightening Continuum’s Startup Logic"
+    ],
+    [
+      "published_at",
+      "1772867420"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Today focused primarily on improving Continuum’s startup and bootstrap behavior. While the system already worked, the initialization logic was doing unnecessary work by loading cached data for **every identity** instead of only the one currently active.  The refactor ensures that startup and refresh operations now operate **only on the active npub**, significantly reducing unnecessary processing and making the system more predictable as the number of identities grows.  This was less about adding features and more about making the architecture cleaner and more scalable."
+    ],
+    [
+      "display_date",
+      "2026-03-06"
+    ],
+    [
+      "e",
+      "531c83ce6038b1965be09ae057adc2bb462f5aedbaa33d5e0cb9fba5b91d0597",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Friday, March 6, 2026\n\n---\n\n## Key Improvements\n\n### 1. Eliminated Full Cache Reload on Startup\n\nPreviously, when the application refreshed its database state, it could load cached data from **all identity cache folders**.\n\nThis meant that as more identities were added, the startup process would do increasingly unnecessary work.\n\nThe logic now ensures that:\n\n- Only the **currently selected npub** is refreshed\n- Only that identity’s cache is processed\n- Relay fetch operations are scoped correctly\n\nThis change dramatically improves efficiency and avoids future scaling issues.\n\n---\n\n### 2. Bootstrap / DB Initialization Refactor\n\nThe database initialization logic was cleaned up to make the startup flow more deterministic.\n\nThe system now:\n\n- Verifies whether the SQLite database exists\n- Checks whether required tables are present\n- Automatically bootstraps the database if needed\n- Runs the appropriate data refresh only when necessary\n\nThis reduces edge cases where a partially initialized database could cause confusing behavior.\n\n---\n\n### 3. Clarified Event Insertion Path\n\nWe reviewed how events move through the database insertion layer.\n\nThe design keeps:\n\n- `insert_event_to_db()` as the primary entry point\n- specialized handlers (such as DM insertion helpers) as internal utilities\n\nThis keeps the event pipeline consistent and easier to maintain.\n\n---\n\n### 4. Scheduled Publishing UI Improvements\n\nThe scheduled events view was simplified to make it easier to scan.\n\nChanges included:\n\n- More compact table layout\n- One-line entries per event\n- Removal of redundant status highlighting\n- Fix for \"View Note\" appearing when the note no longer exists\n\n---\n\n### 5. Publish Status Logic Fix\n\nThe UI was sometimes reporting **“failed to publish”** even when relays had accepted the event.\n\nThe publish logic now checks relay responses correctly, preventing false failure messages.\n\n---\n\n## Architectural Direction\n\nToday’s work reinforced an important direction for Continuum:\n\n**Scope operations to the active identity whenever possible.**\n\nAs users manage multiple npubs, the system must avoid unnecessary global operations.\n\nThis refactor moves Continuum closer to a model where:\n\n- identities remain logically isolated\n- operations are deterministic\n- startup remains fast regardless of how many identities exist.\n\n---\n\n## Reflection\n\nNot every day produces visible features.\n\nSome days remove invisible inefficiencies.\n\nToday was about tightening the core of the system so that Continuum behaves predictably even as it grows.\n\nThat kind of work rarely gets attention — but it’s what allows software to last.\n\n---\n\n## Personal front (not Continuum Related):\n\n- cleaned back to the roots tank and replaced pods with new seeds (pea shoots)\n- whiskers continues to cough 2-3 times / day\n- money is tight\n- upcoming expert session (AI) - Monday March 9\n- tomorrow morning Men's breakfast\n- Kiyomi made eel for dinner (around 9:30 PM)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5199e9e1303063a76e41f87b751358bf6bc7044102161b1ad615fc752e97031a",
+  "sig": "065b4b55e2644fee4865491eef0b0f8d61a8fa46749d4c7e89e37d78230555a9fa36f8f8c3ac523ba8b75228e25f3913f5f98f79a532e58df31108be86968d32",
+  "published": 0
+}

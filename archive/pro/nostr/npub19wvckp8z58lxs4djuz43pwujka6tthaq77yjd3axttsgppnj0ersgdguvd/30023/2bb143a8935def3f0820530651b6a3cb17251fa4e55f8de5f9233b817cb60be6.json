@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Friday, March 6, 2026\n\n--\n\nThe phrase “personal computer” used to mean something very specific.\n\nIt meant the computer belonged to you.\n\nYour files lived on your machine. Your applications ran locally. Your environment could be customized, modified, or replaced without asking permission from anyone else.\n\nIn many ways, the early era of personal computing was defined by experimentation. People installed software from floppy disks. They configured operating systems manually. They learned how systems worked because the systems were accessible.\n\nOver time, that model changed.\n\nAs internet connectivity improved and cloud infrastructure matured, software began moving away from the local machine. Applications became web services. Data moved into remote servers. Identity shifted toward account systems controlled by large platforms.\n\nThis transition solved many real problems.\n\nSoftware updates became easier. Collaboration improved. Applications could run across multiple devices without complex synchronization.\n\nBut it also introduced a new dependency.\n\nThe computer itself became less important.\n\nInstead of being the primary environment, it became a terminal connecting users to remote services.\n\nIn the early days of cloud computing, this shift felt like progress. Storage was cheap. Services were convenient. Platforms offered features that would have been difficult to implement locally.\n\nBut over time, the trade-offs became clearer.\n\nWhen applications run entirely in the cloud, the user loses control over several important aspects of their environment.\n\nFirst, data ownership becomes ambiguous.\n\nEven when platforms claim users retain ownership of their data, the practical reality is that access to that data depends on the platform continuing to operate and continuing to allow access.\n\nSecond, identity becomes platform-dependent.\n\nMost modern applications require users to create accounts. These accounts exist entirely within the platform’s infrastructure. If the platform suspends an account or changes its policies, the user’s identity within that system can disappear.\n\nThird, resilience decreases.\n\nCloud infrastructure is remarkably powerful, but it is also centralized. Outages, policy changes, or technical failures can affect millions of users simultaneously.\n\nLocal-first software approaches these problems differently.\n\nInstead of placing the server at the center of the architecture, it treats the user’s device as the primary environment.\n\nData lives locally first.\n\nApplications function locally first.\n\nSynchronization happens when networks are available.\n\nThis does not eliminate the cloud entirely. Instead, it reframes the cloud as optional infrastructure rather than mandatory infrastructure.\n\nThat distinction matters.\n\nWhen software can function without constant connectivity, resilience improves dramatically. Users can continue working even when networks fail or services disappear.\n\nCryptographic identity further strengthens this model.\n\nTraditional web applications rely on accounts and passwords. Identity is managed by the platform itself. This creates fragmentation because every service maintains its own identity system.\n\nCryptographic identity removes that dependency.\n\nInstead of accounts, users generate keypairs.\n\nThe public key becomes the identifier. The private key becomes the authority used to sign messages and authenticate actions.\n\nPlatforms no longer create identities.\n\nThey simply verify signatures.\n\nNostr is one of the most visible examples of this architecture.\n\nRather than building a single centralized social network, Nostr defines a protocol for exchanging signed events. Users publish events to relays. Applications read those events and present them in different ways.\n\nBecause identity is cryptographic, users can move between applications without losing their identity.\n\nBecause relays are independent, content can exist across multiple servers simultaneously.\n\nBecause events are signed, authorship can be verified independently of any specific platform.\n\nThis architecture opens interesting possibilities.\n\nPublishing systems can operate without centralized platforms controlling distribution. Messaging systems can operate without proprietary accounts. Authentication systems can operate without email and password databases.\n\nContinuum explores these possibilities from the perspective of writers and researchers.\n\nInstead of building another platform, it focuses on creating a local-first environment where authors can manage their identities, archives, and publishing workflows directly.\n\nWriting happens locally.\n\nSigning happens locally.\n\nPublishing happens through protocols rather than platforms.\n\nThis model restores something that has been gradually disappearing from modern computing: the idea that individuals can control their own digital environment.\n\nThe personal computer becomes personal again.\n\nThe shift will not happen overnight.\n\nCentralized platforms remain powerful, and they provide convenience that many users value. But infrastructure changes rarely happen all at once.\n\nThey happen gradually, often beginning with small communities exploring alternative architectures.\n\nOver time, these architectures improve. Tools mature. Workflows become easier. Eventually, what once seemed experimental becomes normal.\n\nPersonal computing followed that path decades ago.\n\nLocal-first computing may be following it again.\n\nThe difference this time is that identity itself may finally belong to the user.\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772853021,
+  "id": "2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05b2f31ddc5ed7e2f6e40768a5443e944a4ea1cef4052764ee2426394b058da11c17779e95b1286145042dc83f787578cece6fb51384d9a0687e2cc7db249d8b",
+  "tags": [
+    [
+      "d",
+      "the-return-of-personal-computing"
+    ],
+    [
+      "title",
+      "The Return of Personal Computing"
+    ],
+    [
+      "summary",
+      "Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing."
+    ],
+    [
+      "published_at",
+      "1772853021"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "personal-computing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "display_date",
+      "2026-03-06"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
