@@ -1,0 +1,69 @@
+{
+  "content": "Andrew G. Stanton - Saturday, March 7, 2026\n\n---\n\nFor many people, the Sabbath is associated with stopping work.\n\nAnd in a practical sense, that is correct. The rhythm of rest is deeply embedded in both human history and Scripture. The modern world often ignores that rhythm, pushing productivity forward seven days a week.\n\nBut there is another dimension to the Sabbath that is worth considering.\n\nSometimes the work that emerges during a Sabbath reflection does not feel like work at all.\n\nToday was one of those days.\n\nI this afternooon continuing development on Continuum, refining its behavior when the system is offline. On paper, that might sound like ordinary programming work. But the experience itself felt different—quiet, focused, almost meditative.\n\nThere was no sense of pressure or urgency.\n\nOnly the steady rhythm of building.\n\n### Work Versus Calling\n\nThe modern world tends to blur the line between work and calling.\n\nWork is often defined as the activity that generates income. Calling, however, is something deeper. It is the work that aligns with purpose and conviction, regardless of whether immediate financial rewards exist.\n\nWhen work aligns with calling, the experience changes.\n\nThe hours pass differently. The mental strain feels lighter. Even difficult problems become strangely enjoyable.\n\nThis is the kind of experience that many builders, writers, and creators occasionally encounter. It does not happen every day. But when it does, it reveals something important about how humans are designed.\n\nWe were not meant to live purely in cycles of obligation.\n\nWe were meant to create.\n\n### A Small Step Toward Offline Software\n\nThe specific work today focused on improving Continuum’s offline capabilities.\n\nModern software assumes constant connectivity. Nearly every application is designed around the assumption that the internet will always be available.\n\nBut the real world does not behave that way.\n\nConnections drop.\n\nAirplanes lose signal.\n\nNetworks fail.\n\nRelays go offline.\n\nIn those moments, most applications simply stop functioning.\n\nContinuum takes a different approach.\n\nBecause it is built around local-first principles, most actions can still happen even when the network disappears. Notes can still be written. Events can still be signed. Scheduled posts can still be prepared.\n\nPublishing simply waits until the network returns.\n\nToday’s work brought the notes system very close to fully supporting this behavior. The system now clearly communicates when the network is unavailable and disables only the actions that truly require connectivity.\n\nEverything else continues to function.\n\nIt is a small step technically, but philosophically it represents something larger.\n\n### Writing Should Not Depend on the Network\n\nWriting is one of the oldest human activities.\n\nFor thousands of years, people wrote in journals, notebooks, letters, and manuscripts without needing a network connection or an account system.\n\nModern platforms changed that.\n\nToday, writing often requires a functioning server, authentication credentials, and a set of remote APIs. If any of those systems fail, the act of publishing—and sometimes even the act of writing—becomes impossible.\n\nLocal-first systems attempt to reverse that dependency.\n\nThe computer in front of you should remain capable regardless of the state of the network.\n\nWriting should never require permission.\n\nAnd publishing should simply be an additional step that occurs when connectivity allows.\n\n### Quiet Progress\n\nNone of today’s changes were dramatic.\n\nThere were no major announcements or releases. No large features were introduced.\n\nInstead, the work consisted of small improvements:\n\n- disabling publish actions when the network is offline\n- allowing scheduling to continue locally\n- improving system messaging when connectivity is unavailable\n- refining the behavior of note editing and publishing flows\n\nThese are the kinds of changes that most users never notice directly.\n\nBut they are also the kinds of changes that make software feel stable and reliable.\n\nReal systems are built through hundreds of small refinements.\n\n### Rest in the Midst of Work\n\nPerhaps the most surprising aspect of the day was how restful it felt.\n\nThat may sound strange. After all, programming and software architecture are not usually associated with rest.\n\nBut when work aligns with purpose, the experience changes.\n\nThe activity becomes something closer to reflection than labor.\n\nThere is a long tradition of craftsmanship that recognizes this phenomenon. Builders, artists, and writers often describe a state of focused immersion where the work itself becomes deeply satisfying.\n\nIt is possible that this experience reflects something fundamental about human design.\n\nCreation itself may be part of what we were meant to do.\n\n### A Different Kind of Sabbath Reflection\n\nSo yes, technically I worked today.\n\nBut it did not feel like work.\n\nIt felt like building something meaningful, one small step at a time.\n\nAnd sometimes that kind of quiet progress is exactly what a Sabbath reflection needs.\n\n---\n\nScripture Anchor\n\n“Come to me, all you who are weary and burdened, and I will give you rest.”  \n— Matthew 11:28\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772930676,
+  "id": "eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "04f9c735884d940e55e8abc18e70eb020533a4cafd0fceb349efef3c3b5ee6c0e8d26b7ef85b2f00dbc998cf51864cf31269a84f6bdc7b00b1b9e066f2f5506a",
+  "tags": [
+    [
+      "d",
+      "the-sabbath-and-the-joy-of-building"
+    ],
+    [
+      "title",
+      "The Sabbath and the Joy of Building"
+    ],
+    [
+      "published_at",
+      "1772930676"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Reflecting on how meaningful work can sometimes feel like rest when it aligns with purpose and calling."
+    ],
+    [
+      "display_date",
+      "2026-03-07"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "t",
+      "work"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "7c1b18ee169b848a2adbfe4990cd447162cdf8956c692f1ce4dd6b717de76b86",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

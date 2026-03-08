@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Saturday, March 7, 2026\n\n---\n\n\nModern software is built around constant connectivity.\n\nNearly every application assumes that a server somewhere is always available. If the network fails, the application stops working.\n\nThis design philosophy is so common that many people rarely question it.\n\nBut there is another approach.\n\nLocal-first software places the primary capability on the user’s machine. The system continues to function even when the network disappears.\n\nToday I spent time strengthening this behavior in Continuum.\n\n### Offline as a First-Class State\n\nMany applications treat offline mode as an error condition.\n\nContinuum treats it as a normal state.\n\nWhen the network is unavailable, the system simply adjusts its behavior. Actions that require relays are temporarily disabled. Actions that are purely local remain fully functional.\n\nYou can still write notes.\n\nYou can still sign events.\n\nYou can still schedule posts for later publication.\n\nThe network becomes an optional synchronization layer rather than a hard dependency.\n\n### The Hidden Fragility of the Modern Web\n\nThe modern internet is incredibly powerful, but it is also surprisingly fragile.\n\nMost users depend on a complex stack of services they do not control:\n\n- centralized authentication systems\n- remote databases\n- cloud hosting infrastructure\n- payment platforms\n- social networks\n\nWhen any one of these services fails, large parts of the digital world can become inaccessible.\n\nLocal-first architecture shifts some of that control back to the individual.\n\nThe data lives locally.\n\nThe keys live locally.\n\nThe writing happens locally.\n\nSynchronization happens only when it is possible.\n\n### A Quiet Improvement\n\nToday’s changes to Continuum were modest.\n\nThe notes interface now recognizes when the system is offline and adjusts the available actions accordingly. Publishing buttons are disabled when relays cannot be reached. Scheduling remains available because it does not require immediate network access.\n\nThese are small adjustments, but they move the system closer to a more resilient architecture.\n\n### Software That Respects Reality\n\nThe world is not perfectly connected.\n\nPeople write on airplanes.\n\nThey work in remote locations.\n\nThey lose connectivity in the middle of important tasks.\n\nSoftware should respect that reality rather than pretending it does not exist.\n\nLocal-first systems do exactly that.\n\n### Rest, Independence, and Design\n\nThere is an interesting philosophical connection between Sabbath principles and local-first design.\n\nBoth recognize limits.\n\nThe Sabbath acknowledges that humans cannot work endlessly without rest.\n\nLocal-first architecture acknowledges that networks cannot always be available.\n\nIn both cases, the system becomes healthier when it respects those limits.\n\nAnd in both cases, resilience emerges from accepting reality rather than trying to override it.\n\n---\n\nScripture Anchor\n\n“Remember the Sabbath day by keeping it holy.”  \n— Exodus 20:8\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1772931040,
+  "id": "f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7bc1dce7ab7a19de12a3aff91372b1cbff5be0e5b1c3455465b562b6896cdf1afaeffbc3a604a3661d897db009edd0f7be0106a46af6366e5b45e78010d49e52",
+  "tags": [
+    [
+      "d",
+      "local-first-software-and-the-rhythm-of-rest"
+    ],
+    [
+      "title",
+      "Local-First Software and the Rhythm of Rest"
+    ],
+    [
+      "summary",
+      "Exploring how local-first architecture reflects deeper principles about independence, resilience, and rest."
+    ],
+    [
+      "published_at",
+      "1772931040"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "display_date",
+      "2026-03-07"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
