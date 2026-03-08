@@ -1,0 +1,31 @@
+{
+  "content": "Andrew G. Stanton - Saturday, March 7, 2026\n\n---\n\n## Morning — Cornerstone Men's Breakfast\n\nThis morning I attended the men’s breakfast at Cornerstone.\n\nSean spoke about preparing small care packages for people living on the street — simple but practical items such as toothbrushes, wipes, cough drops, and safety items. The conversation focused on practical service: how ordinary people can respond to immediate needs around them.\n\nAfterward we spoke briefly and I shared the *Hope for Bitcoin* project and some of the ideas around Bitcoin and financial sovereignty. Sean seemed genuinely interested in the concept.\n\nOne idea that emerged from that conversation was the possibility of including small Bitcoin ecash vouchers in those care packages — something like $5 or $10 redeemable with participating merchants. The idea would be to provide not just supplies, but a small amount of financial agency.\n\n(I started asking \"Dr. C\" to summarize my day starting March 4).  So far it's been pretty helpful \n\n\n\nIt’s only a seed of an idea for now, but it’s worth exploring further.\n\n---\n\n## Afternoon — Hardening Continuum for Offline Conditions\n\nThe majority of the afternoon was spent improving how Continuum behaves when relays or network connectivity are unavailable.\n\nNostr relays are often unreliable, and local-first systems must gracefully handle those conditions.\n\nRather than allowing users to attempt actions that will inevitably fail, I implemented UI-level safeguards that detect offline conditions and disable publish-related operations.\n\n### Dashboard Changes\n\nWhen the system detects that relays are unavailable, the dashboard now disables relay-dependent actions.\n\nSpecifically:\n\n- DM buttons are disabled\n- Relay interaction controls are disabled\n- Data refresh controls are disabled\n\nThis prevents unnecessary errors and makes the system behavior clearer to the user.\n\n### Notes Editor Changes\n\nThe same approach was applied across the notes publishing flows.\n\nIn the following screens:\n\n- **Edit Note**\n- **Edit Published Note**\n\nPublish-related controls are now disabled when the system detects an offline state.\n\nThis includes:\n\n- **Sign & Publish**\n- **Sign & Republish**\n\nThese actions require relay connectivity, so disabling them avoids confusing failure states while still allowing local editing.\n\nThe goal is simple: users should always understand which actions are possible locally and which require network connectivity.\n\n---\n\n## Brainstorming — Local AI Agents for Content Curation\n\nAnother thread of discussion today was the idea of using **local AI agents** to help organize and curate the large body of content I’ve already published.\n\nAt this point there are:\n\n- **700+ articles**\n- **500+ notes**\n\nThis volume of content is becoming difficult to navigate manually.\n\nOne possible direction is to run local agents that could:\n\n- categorize articles\n- cluster related content\n- suggest themes or collections\n- help assemble future books or series\n- assist with archive indexing\n\nRunning these agents locally — rather than through centralized services — would align well with Continuum’s local-first architecture.\n\nThis is still exploratory, but it feels like a natural next step.\n\n---\n\n## Infrastructure Idea — Running a Personal Relay\n\nAnother idea that surfaced today was hosting a personal relay.\n\nMany of the relays currently used are unreliable, which complicates publishing and synchronization.\n\nOne possible solution is to start with a **containerized relay** running locally or on a small server.\n\nAn initial configuration could:\n\n- allow reads and writes only from approved pubkeys\n- prevent spam\n- provide reliable publishing for identities managed in Continuum\n\nThis would give much more deterministic behavior compared to relying entirely on public relays.\n\n---\n\n## Reflection\n\nToday’s work was less about new features and more about resilience.\n\nLocal-first software has to handle real-world conditions:\n\n- unreliable networks  \n- inconsistent relays  \n- large personal archives  \n\nThe improvements today move Continuum one step closer to that goal.\n\nAnd in parallel, the ideas about local agents and personal infrastructure point toward the next phase of the project: tools that help manage and curate the growing body of work being created inside Continuum.\n\n## Personal notes\n\n- my dear cousin Alexys Steiner passed away 11:00 PM tonight (I found out following morning - Sunday).  She had suffered multiple strokes over the last week and went home to hospice a few days ago.  \n- whiskers is \"Ok\" he continues to cough once or twice a day (sometimes more)\n- Weather was quite warm today (in the 70s)\n- still grateful for all the goods things the Lord has given us (and continues to do so).  Truly.  Just wish things would move faster with Continuum and I had more traction/feedback",
+  "created_at": 1772995440,
+  "id": "d03fb854f6b381d5b8fac8702e4a93ec56d13ffcb39cc6fa39f8cb69b6257af3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "30ac911dc4791090cf5870a2712c55c6303c4b22fbd397e437df8cc3e485d092da08067f1962d93c90e745a6f826e8c1bf41d66557fc430cd02d35583d282a43",
+  "tags": [
+    [
+      "d",
+      "builders-journal--march-8-2026"
+    ],
+    [
+      "title",
+      "Builder’s Journal — March 8, 2026"
+    ],
+    [
+      "summary",
+      "Today was a mix of community conversation and practical engineering improvements to Continuum.  The morning began at the Cornerstone men’s breakfast, including a meaningful conversation with Sean about service and the potential role Bitcoin might play in helping people on the margins.  The afternoon was focused on improving Continuum’s behavior when relays or network connectivity are unavailable — specifically by disabling publish-related actions in the UI so users are not attempting operations that cannot succeed.  I also spent some time brainstorming the next phase of tooling around Continuum’s growing body of content and infrastructure."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ]
+  ],
+  "published": 0
+}
