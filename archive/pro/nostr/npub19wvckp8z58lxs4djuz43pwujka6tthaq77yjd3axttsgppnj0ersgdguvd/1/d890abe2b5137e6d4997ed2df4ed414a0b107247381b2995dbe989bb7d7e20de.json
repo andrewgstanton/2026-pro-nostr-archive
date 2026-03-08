@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1772943897,
+  "tags": [
+    [
+      "d",
+      "note-1772943664"
+    ],
+    [
+      "published_at",
+      "1772943897"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "99e1df2837343f0f62fbda02e2f99bc71f842627844fdb54f9a6d63b827f2557",
+      "edit"
+    ]
+  ],
+  "content": "Offline-Safe Scheduled Publishing for Notes\n\nToday I confirmed an important behavior in Continuum’s notes workflow: scheduled publishing is now offline-safe.\n\nThis means authors can continue working normally even when the network is unavailable.\n\nThe system now behaves as follows.\n\nWhen the network is offline:\n\n• Notes can still be written  \n• Notes can still be signed locally  \n• Notes can still be scheduled for future publication  \n• Relay operations such as publishing or refreshing data are disabled  \n\nIf a scheduled publish time arrives while the network is offline, the event does not fail and does not attempt to publish. Instead, the note simply remains in the **scheduled** state.\n\nOnce network connectivity returns and Continuum is restarted, the scheduler processes the queue and publishes the note normally.\n\nIn other words, the author’s intent is preserved even when the network is unavailable.\n\nThe flow now looks like this:\n\nWrite → Sign → Schedule → (offline period) → Network returns → Scheduler publishes\n\nThis is exactly the behavior you want from a local-first publishing system. The author’s work and intent remain durable locally, and relay publishing becomes an opportunistic step that occurs when network access is available.\n\nImportantly, offline periods do not produce misleading states such as “failed” or “missed.” The scheduled note simply waits until the system is able to execute the publish.\n\nWhen the network is offline, the interface reflects this clearly:\n\n• Publishing actions are disabled  \n• Delete operations are disabled  \n• The UI displays a banner indicating relay services are unavailable  \n\nBut the writing workflow continues uninterrupted.\n\nAuthors can draft, sign, edit, and schedule notes locally. Relay interaction only occurs when it is actually possible.\n\nThis small behavior change represents something deeper: Continuum continues to move toward a **local-first model of authorship**, where the author controls the workflow locally and the network becomes a distribution layer rather than a dependency.\n\nIn practice, Continuum now supports what I would call **offline-safe scheduled publishing for notes**.\n\nA small step technically — but an important one architecturally.\n\n#continuum #nostr #scheduling  #offline #local-first",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de",
+  "sig": "458ac5aeda7d3c8d1f85e22ee327a2e2ec759577af414e8d71ebfd049bea987ff76f17338d2e7595bb5169b8952011f94a605d32b9ac5ba3bfa64b2ce6ba13dd",
+  "published": 1
+}
