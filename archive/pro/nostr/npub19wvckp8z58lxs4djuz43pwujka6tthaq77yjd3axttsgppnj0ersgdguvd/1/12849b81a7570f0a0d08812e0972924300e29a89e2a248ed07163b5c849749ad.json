@@ -1,0 +1,48 @@
+{
+  "content": "Sabbath Reflections: Work That Does Not Feel Like Work - 3/7/2026\n\nSummary: A reflection on the strange gift of building something meaningful on the Sabbath without feeling burdened by it.\n\n---\n\nToday I worked.\n\nBut it did not feel like work.\n\nThere is a difference between labor that drains you and labor that feels aligned with purpose. Today was the latter. The hours passed quietly, almost unnoticed, as I continued implementing offline capabilities inside Continuum.\n\nIn particular, the notes system is now very close to being fully functional even when the network is unavailable. Notes can still be written, signed, scheduled, and managed locally. Publishing may wait until connectivity returns, but the act of writing itself does not depend on the network.\n\nThis feels important.\n\nMost software assumes the network is always present. But real life is not like that. Planes lose connection. WiFi drops. Relays go offline. And yet writing should continue uninterrupted.\n\nIn a small way, building software that respects this reality feels like honoring the rhythm of life itself.\n\nAnd today, oddly enough, that work felt like rest.\n\n#sabbath #reflection #work #calling #continuum",
+  "created_at": 1772929159,
+  "id": "12849b81a7570f0a0d08812e0972924300e29a89e2a248ed07163b5c849749ad",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1e45429ea8a6465feb18917bd8decf97c60978989b59a1212d9059416babf87b5ba270ea8ba420688e75b33c31d807b660c53ead748624b39e8e194e80f5d476",
+  "tags": [
+    [
+      "d",
+      "note-1772929159"
+    ],
+    [
+      "published_at",
+      "1772929159"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "t",
+      "work"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

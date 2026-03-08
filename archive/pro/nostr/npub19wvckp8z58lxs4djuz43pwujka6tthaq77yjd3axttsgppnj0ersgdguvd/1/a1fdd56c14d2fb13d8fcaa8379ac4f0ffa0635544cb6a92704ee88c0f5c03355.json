@@ -1,0 +1,40 @@
+{
+  "content": "Sabbath Reflection: Writing Without Permission - 3/7/2026\n\nSummary: Local-first tools allow creators to write without waiting for platforms or networks.\n\nOne of the things I appreciate about Continuum is that writing does not require permission.\n\nThere is no server that must be reachable.\n\nNo platform that must approve the post.\n\nNo account system that must authenticate you.\n\nYou can simply write.\n\nIf the network is available, the event can be published. If it is not, the event can wait.\n\nBut the act of writing itself is never blocked.\n\nThat small design choice restores something that the modern internet slowly took away: independence.\n\nAnd that independence feels particularly appropriate to reflect on today.\n\n#sabbath #sovereignty #writing",
+  "created_at": 1772929669,
+  "id": "a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9647f508ed2c5c2b107ec49c8ac7f4dc2fca6157b5537526b7f8018c0cf9e57bb3ecea4ae83d76abd472d82f6f346b41a50e9e6d1fbb4bde60709d3ca9a02954",
+  "tags": [
+    [
+      "d",
+      "note-1772929669"
+    ],
+    [
+      "published_at",
+      "1772929669"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "writing"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,44 @@
+{
+  "content": "Sabbath Reflection: Offline First - 3/7/20206\n\nSummary: Observing how building offline capabilities in Continuum reinforces the philosophy of local-first computing.\n\n---\n\nOne of the things I worked on today was strengthening Continuum’s offline behavior.\n\nWhen the system detects that the network is unavailable, it now communicates that clearly to the user. Certain actions—like publishing events or deleting notes from relays—are disabled while offline. Other actions remain available.\n\nWriting remains available.\n\nScheduling remains available.\n\nSigning remains available.\n\nOnly the parts that truly require the network are restricted.\n\nThis is what local-first software is supposed to feel like. The machine in front of you remains fully capable even when the outside world disappears.\n\nIt is surprising how rare that philosophy has become.\n\nToday’s small changes brought Continuum closer to that vision.\n\n#sabbath #continuum #offline-first #nostr",
+  "created_at": 1772929280,
+  "id": "82197e7f0b5990030b88efd625df56b478e39d6ad7647a32b6455b9a6b634ff4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4e62e961f0d34779ddd0302fc382672e5b8dc327e4064464ff7252a2178abc09c5a893f5957e89e14435eda8d9120757dc205cf25258daaf1a7cc31e44aebb5a",
+  "tags": [
+    [
+      "d",
+      "note-1772929280"
+    ],
+    [
+      "published_at",
+      "1772929280"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "offline"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

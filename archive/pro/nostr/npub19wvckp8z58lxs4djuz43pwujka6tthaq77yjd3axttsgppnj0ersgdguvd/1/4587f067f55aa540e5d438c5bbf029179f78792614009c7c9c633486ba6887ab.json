@@ -1,0 +1,44 @@
+{
+  "content": "Sabbath Reflection: Quiet Progress - 3/7/2026\n\nSummary: A reminder that meaningful progress often happens quietly and without external recognition.\n\n---\n\nThere are days when building something new feels loud. Announcements, releases, conversations.\n\nAnd then there are days like today.\n\nQuiet days.\n\nToday I spent most of the time refining small behaviors in the system. Disabling publish buttons when the network is offline. Ensuring notes behave correctly. Improving the overall experience.\n\nNone of this will likely make headlines.\n\nBut software is not built from headlines. It is built from hundreds of small, careful decisions.\n\nQuiet progress still counts as progress.\n\n#sabbath #reflection #building #persistence",
+  "created_at": 1772929443,
+  "id": "4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aec0fb05a8571fe4d61d4d4648f3062ac4b361a8c92dc2bd88d2b76dd94857164514e6a223f49da054cf6df2bd83b154a52407f05cdbb28a83849928192ab11d",
+  "tags": [
+    [
+      "d",
+      "note-1772929443"
+    ],
+    [
+      "published_at",
+      "1772929443"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "persistence"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

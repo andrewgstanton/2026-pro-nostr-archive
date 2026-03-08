@@ -1,0 +1,40 @@
+{
+  "content": "Sabbath Reflection: Rest and Building - 3/7/2026\n\nSummary: Considering the relationship between rest, calling, and building meaningful systems.\n\n---\n\nThe Sabbath is traditionally understood as a day of rest.\n\nBut rest does not always mean inactivity.\n\nSometimes rest means stepping away from obligation and moving toward calling.\n\nToday I continued building Continuum. And yet the work felt calm, focused, and almost restorative.\n\nPerhaps the difference is not activity versus inactivity.\n\nPerhaps the difference is obligation versus alignment.\n\nWhen the work aligns with purpose, the experience changes.\n\nIt becomes something closer to rest than labor.\n\n#sabbath #calling #reflection",
+  "created_at": 1772929778,
+  "id": "d3027205961f7985a04a8d504739bc3e8bfa2aa285e374c7f9c404d0f2c6e81c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d0d61d025d4789f69943f3873d04ca54f66825634bda414403fddee7c82ac299cbd3ad1b27a37ae0ccc5bf502032bb0d499398c7a11e2d3334cc61f4930c5b9e",
+  "tags": [
+    [
+      "d",
+      "note-1772929778"
+    ],
+    [
+      "published_at",
+      "1772929778"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "calling"
+    ],
+    [
+      "t",
+      "reflection"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
