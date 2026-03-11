@@ -1,0 +1,70 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 8, 2026\n\n---\n\nToday I reached an important milestone while working on Continuum.\n\nI successfully ran a **Nostr relay locally inside Docker**, with pubkey whitelisting enabled.\n\nRight now the relay exists **only on my machine**. It is not yet a permanent public relay and it is not exposed to the internet.\n\nBut that is actually fine — because even as a local relay it provides a number of important capabilities.\n\n## Why Run a Relay Locally?\n\nPublic Nostr relays are incredibly useful, but they are also unpredictable.\n\nSometimes they:\n\n- drop events\n- reject writes\n- go offline\n- respond slowly\n\nRunning a relay locally removes those variables.\n\nWhen the relay runs on your own machine you gain:\n\n- deterministic behavior\n- full visibility into events\n- a reliable write target for development\n\nFor building software, this is extremely valuable.\n\n## Docker Makes It Portable\n\nThe relay runs inside a Docker container.\n\nThat means it can be:\n\n- started easily\n- reproduced on another machine\n- deployed later to a more permanent host\n\nDocker also keeps the environment isolated and predictable.\n\nThis is exactly the type of setup that can eventually move from a laptop to a small always-on server with minimal changes.\n\n## Pubkey Whitelisting\n\nOne feature I enabled immediately was **pubkey whitelisting**.\n\nThe relay accepts writes only from approved public keys.\n\nThis means:\n\n- no spam\n- controlled publishing\n- predictable event flow\n\nFor a personal relay this is a very practical configuration.\n\n## Not Yet a Permanent Relay\n\nBecause the relay currently runs on my development machine, events written to it exist **only locally**.\n\nThey are not automatically replicated to the wider Nostr network unless they are also published to external relays.\n\nIn other words, this relay currently functions more like a **local development relay** rather than a permanent public one.\n\nThat distinction matters.\n\nBut it does not reduce the usefulness of the setup.\n\n## A Foundation for Local-First Infrastructure\n\nEven as a local relay, this configuration opens up new possibilities for Continuum.\n\nIt allows the system to:\n\n- publish events to a relay under my control\n- debug relay behavior easily\n- test publishing logic without external dependencies\n\nLater, the same Docker configuration could run on an always-on machine and become a fully reachable relay endpoint.\n\nFor now, though, it serves a different purpose.\n\nIt helps build **reliable local infrastructure first** — and that is exactly where good systems begin.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773034239,
+  "id": "a574993b520ef53c343ee83dfde02f79d016971884e73110fc19fc33fe952800",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "34dfb6766417023de0f68693163618fc15444ee50ae471b3d0bd629b3935316c0e857a1c49e8967ac9c31e83c35d51dcf683a2525759f8e62a32a59a38b3aafa",
+  "tags": [
+    [
+      "d",
+      "running-a-local-nostr-relay-in-docker"
+    ],
+    [
+      "title",
+      "Running a Local Nostr Relay in Docker"
+    ],
+    [
+      "published_at",
+      "1773034239"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Today I successfully ran a Nostr relay locally in Docker with pubkey whitelisting enabled. The relay currently runs only on my machine, which makes it ideal for debugging and development while also laying the groundwork for a future always-on relay."
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "docker"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "8723b3906573ad2f4246f50d34ddaa394bc110437af5efa36e0cb1caff3d98b8",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

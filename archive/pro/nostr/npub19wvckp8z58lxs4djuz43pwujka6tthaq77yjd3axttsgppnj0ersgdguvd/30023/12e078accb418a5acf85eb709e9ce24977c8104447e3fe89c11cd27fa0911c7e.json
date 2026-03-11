@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanton - Monday, March 9, 2026\n\n## The Goal\n\nToday’s work focused on completing scheduled publishing support for both notes and long-form articles in Continuum.\n\nThe core idea was simple.\n\nAuthors should be able to prepare content ahead of time, sign the event locally, and allow Continuum to publish the event automatically at a chosen moment.\n\nAchieving that behavior required coordination across several parts of the system.\n\nThe scheduler itself was only one component.\n\nThe surrounding infrastructure also had to understand the concept of scheduled events.\n\n## Extending the Scheduler Model\n\nContinuum already had a working scheduler for short-form notes.\n\nArticles, however, required additional integration.\n\nBoth notes and articles are represented as Nostr events, but they differ in kind:\n\nNotes use kind 1.  \nArticles use kind 30023.\n\nTo support both types, the scheduler needed to store the event kind alongside the scheduled event ID.\n\nThis allows the scheduler to treat notes and articles uniformly while still publishing them correctly.\n\nThe scheduler table therefore includes fields such as:\n\nEvent ID  \nKind  \nPublish timestamp  \nStatus\n\nThis small addition made it possible to extend scheduling across different event types.\n\n## Integrating the UI\n\nOnce the scheduler supported articles, the user interface needed to reflect the new states.\n\nThe article list view originally understood only two conditions:\n\nUnpublished  \nPublished\n\nWith scheduling introduced, a third state became necessary:\n\nScheduled\n\nIf an article has a future publish time, the interface now displays a scheduled badge along with the publish timestamp.\n\nThe publish button is disabled in this state, preventing accidental manual publishing while the scheduler already has a queued event.\n\nThis change keeps the interface consistent with how scheduled notes are displayed.\n\nConsistency across the UI makes the system easier to understand.\n\n## Updating the Article API\n\nAnother change was required inside the article API route.\n\nOriginally, the article list endpoint simply returned articles from the database.\n\nIt did not know anything about the scheduler.\n\nTo support the UI changes, the API now performs a join between the article table and the scheduled events table.\n\nIf an article has a scheduled publish entry, the API attaches additional fields such as:\n\nscheduled_publish_at  \nscheduled_publish_at_local\n\nThis allows the frontend to display scheduling information without needing to understand the internal structure of the scheduler database.\n\nThe API acts as the translation layer.\n\n## Publishing the Scheduled Event\n\nWhen the scheduled publish time arrives, Continuum retrieves the signed event from the database.\n\nThe event is then sent to the relay manager, which attempts to publish it to all configured relays.\n\nRelay responses are recorded so the UI can display relay coverage information.\n\nOnce publishing succeeds, the scheduler marks the event as published.\n\nThis prevents the scheduler from attempting to publish the same event again.\n\nThe publishing pipeline itself did not require major changes.\n\nThe scheduler simply feeds events into the same pipeline used for manual publishing.\n\n## Maintaining Simplicity\n\nOne design goal throughout this process was simplicity.\n\nRather than introducing a separate scheduling service, the scheduler remains part of the main Continuum application.\n\nEvents are stored in the same database.  \nPublishing uses the same relay manager.  \nThe UI reads from the same API routes.\n\nBy reusing existing components, the scheduler remains relatively small and easy to reason about.\n\nComplexity is often the enemy of reliability.\n\nKeeping the system straightforward improves its long-term maintainability.\n\n## A Small Step Forward\n\nThe scheduler implemented today may not appear dramatic from the outside.\n\nBut it represents another step toward a fully local publishing environment.\n\nAuthors can now write, sign, schedule, and publish content without relying on centralized platforms.\n\nAll identity operations remain local.\n\nPublishing remains optional and controllable.\n\nThe system becomes a personal publishing engine rather than a client for someone else’s platform.\n\nThat shift is subtle, but it changes the relationship between authors and the infrastructure they depend on.\n\nContinuum continues to move incrementally toward that vision.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773161012,
+  "id": "12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6f6d42980220cfe544d68d885ff6306f9169a8ff2140615b39c893bd9b35e7be1e315205ace5efb3fada20a1328d3e4fbb48c2ff3228700096ef128c656a1d85",
+  "tags": [
+    [
+      "d",
+      "building-a-local-publishing-scheduler"
+    ],
+    [
+      "title",
+      "Building a Local Publishing Scheduler"
+    ],
+    [
+      "published_at",
+      "1773161012"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Implementing scheduled publishing in Continuum required coordinating identity management, database state, and relay publishing logic across several parts of the system."
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "softwarearchitecture"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "e",
+      "9767ba794d06de8a683de11de681c79fbcb7eb092f1c1fd0534d6b844cd3a118",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

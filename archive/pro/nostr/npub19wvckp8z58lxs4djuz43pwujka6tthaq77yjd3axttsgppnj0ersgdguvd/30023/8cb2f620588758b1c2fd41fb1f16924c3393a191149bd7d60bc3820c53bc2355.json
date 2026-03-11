@@ -1,0 +1,69 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 8, 2026\n\n---\n\nMost Nostr developers spend their time interacting with public relays.\n\nThey publish events.  \nThey read events.  \nThey hope those relays behave consistently.\n\nBut public relays are outside your control.\n\nThey can:\n\n- reject events\n- go offline\n- throttle connections\n- filter content\n- respond unpredictably\n\nFor everyday usage that is acceptable.\n\nFor development it can be frustrating.\n\nThat’s why one of the most useful things a Nostr developer can do is **run a relay locally.**\n\n## A Local Relay Changes How You Build\n\nWhen a relay runs on your own machine, several things immediately improve.\n\nFirst, publishing becomes deterministic.\n\nIf your code publishes an event, you can verify exactly what happened because you control the relay receiving it.\n\nSecond, debugging becomes dramatically easier.\n\nInstead of wondering whether a public relay dropped your event, you can inspect the relay database directly.\n\nThird, development becomes faster.\n\nLocal relays eliminate network delays and remove a whole class of unpredictable behaviors.\n\n## What a Local Relay Actually Is\n\nRight now my relay runs locally inside Docker on my development machine.\n\nIt is **not yet a permanent public relay**.\n\nEvents written to it exist only on my machine unless they are also published to external relays.\n\nIn that sense it currently behaves more like a **development relay**.\n\nBut that is exactly what makes it useful.\n\nIt provides a controlled environment where I can test:\n\n- event publishing\n- relay responses\n- delete events\n- identity switching\n- relay manager logic\n\nWithout depending on external infrastructure.\n\n## Pubkey Whitelisting\n\nOne of the first configurations I enabled was **pubkey whitelisting**.\n\nThe relay accepts writes only from specific public keys.\n\nThis prevents spam and ensures that only approved identities can publish events.\n\nFor personal relays this is often a very practical configuration.\n\nIt turns the relay into a trusted publishing endpoint rather than a public write target.\n\n## Docker Makes This Easy\n\nRunning the relay inside Docker keeps the setup portable.\n\nThe container can run locally during development and later move to another machine with minimal changes.\n\nEventually the same configuration could run on a small always-on machine and be exposed publicly at a domain like:\n\nwss://relay.continuum.xyz\n\nFor now, though, it remains a development relay.\n\nAnd that is perfectly fine.\n\n## Why This Matters\n\nRunning a local relay deepens your understanding of how Nostr actually works.\n\nYou begin to see:\n\n- how events are stored\n- how relays handle writes\n- how publishing logic should behave\n- where failures actually occur\n\nIt also encourages a **local-first architecture**.\n\nInstead of relying entirely on external infrastructure, you begin building systems that work locally first and connect outward second.\n\n## The Bigger Picture\n\nThe long-term vision for many Nostr applications includes:\n\n- local signing\n- local archives\n- local relay infrastructure\n- optional replication to public relays\n\nRunning a local relay is a small step in that direction.\n\nEven if it never becomes a permanent public relay, the benefits during development are significant.\n\nAnd once you have one running, it becomes very clear why more Nostr developers should do the same.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773034262,
+  "id": "8cb2f620588758b1c2fd41fb1f16924c3393a191149bd7d60bc3820c53bc2355",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "784e7d175809f671732e8acbe1d4752203352a65d9d6a43af8ea6c423c9cf5370806755e6cf3fb737ebd2edd77ad68e7b81a0dfb74a29fab8887eb4561cade19",
+  "tags": [
+    [
+      "d",
+      "why-every-nostr-developer-should-run-a-local-relay"
+    ],
+    [
+      "title",
+      "Why Every Nostr Developer Should Run a Local Relay"
+    ],
+    [
+      "published_at",
+      "1773034262"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Running a Nostr relay locally is one of the most useful things a developer can do. Even if it never becomes a public relay, it dramatically improves debugging, reliability, and understanding of how Nostr actually works."
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "development"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "dcd4da46eb97e3ccf1348381f26860292efb205d708e4beba78e64a382fd8c4b",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

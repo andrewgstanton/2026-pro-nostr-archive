@@ -1,0 +1,31 @@
+{
+  "content": "Monday March 9, 2026\n\nPrepared by: Andrew Stanton\n\n---\n\n## Summary\n\nAI is lowering the cost of producing knowledge work and increasing the leverage of individuals and small teams.\n\nAs production becomes easier, new constraints emerge around judgment, trust, coordination, and identity.\n\nThe long-term opportunity may lie in systems that help people coordinate work, verify information, and manage increasingly complex networks of AI tools and services.\n\n\n## Core Perspective\n\nAI is dramatically lowering the cost of producing many forms of knowledge work.\n\nAs production becomes easier, the main constraints shift toward four areas:\n\n**Human constraints**\n- judgment — deciding what **should** exist\n- trust — **verifying** information and people\n\n**System constraints**\n- coordination — organizing work across people, tools, and AI systems\n- identity — knowing who or what is acting within a system\n\n## Major Shifts\n\n### 1. Smaller Teams Can Build More\n\nAI-assisted tools are reducing the operational overhead required to start and run projects.\n\nIndividuals and very small teams can now accomplish work that previously required larger organizations.\n\nExamples include:\n\n- AI-assisted software development\n- automated research and summarization\n- AI-assisted marketing and content generation\n\nThis does not eliminate organizations, but it increases the leverage of small teams.\n\n---\n\n### 2. Knowledge Work Becomes AI-Augmented\n\nMost roles are likely to evolve before they disappear.\n\nMany professionals will spend more time:\n\n- reviewing AI-generated work\n- validating outputs\n- refining prompts and instructions\n- making final decisions\n\nIn many fields, humans become supervisors of AI-generated work rather than primary producers.\n\n---\n\n### 3. Trust and Identity Become More Important\n\nAs AI-generated content becomes easier to produce, verifying the source of information becomes more important.\n\nThis increases the importance of systems that establish:\n\n- identity\n- reputation\n- authorship\n- verification\n\nTrust infrastructure may become increasingly important as AI-generated content grows.\n\n---\n\n### 4. Coordination Becomes a Central Problem\n\nAI tools increase productivity, but they also introduce new coordination challenges.\n\nOrganizations must manage:\n\n- multiple AI systems\n- multiple cloud platforms\n- automated workflows and agents\n\nThis increases the importance of governance, identity, and oversight.\n\n---\n\n## Cloud AI vs Local Systems\n\nCloud-based AI tools are currently the most capable and polished.\n\nHowever, relying exclusively on centralized services introduces dependencies.\n\nA likely long-term architecture may combine:\n\n- cloud AI for large-scale compute\n- local-first systems for identity, control, and resilience\n\n---\n\n## Skills That May Become More Valuable\n\nIn an AI-augmented environment, valuable skills include:\n\n- judgment\n- problem framing\n- domain expertise\n- evaluation of quality\n- coordination of people and tools\n\nAs production becomes easier, deciding what should exist becomes more valuable.\n\n---\n\n## Closing Observation\n\nHistorically, different eras were constrained by different resources.\n\nIndustrial era: capital and machinery  \nInternet era: distribution and access to information  \n\nAI may shift the constraint toward judgment and coordination.\n\nAI reduces the cost of producing work, but deciding what should exist and how systems should be organized remains a human responsibility.\n\n---",
+  "created_at": 1773081861,
+  "id": "a41af89149104848ab96a6807bed2eba05a3fe49e50ddbf7767dc9a9922754f9",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d408085816ca0c95305a294fd10ca5ebc9326532b943107f73132d442afef5ebfedba61ec8fe0f0bde179d3e2cbc3acdfa8af65e4cdf0d9ba3bffe56b5764dee",
+  "tags": [
+    [
+      "d",
+      "future-of-work--discussion-notes"
+    ],
+    [
+      "title",
+      "Future of Work – Discussion Notes"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-09"
+    ]
+  ],
+  "published": 0
+}

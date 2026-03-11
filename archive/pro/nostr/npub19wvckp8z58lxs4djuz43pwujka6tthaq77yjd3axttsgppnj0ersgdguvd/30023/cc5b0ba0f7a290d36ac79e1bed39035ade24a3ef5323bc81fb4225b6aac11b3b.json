@@ -1,0 +1,27 @@
+{
+  "content": "Future of Work Study\nMarch 9 – 10:00 AM\n\n---\n\n## Preparation Time\n\nYou do **not** need to spend hours preparing.\n\nThis is a qualitative research interview. The goal is to capture real perspectives from people working with AI.\n\n15–20 minutes of preparation is sufficient.\n\nFocus on a few clear themes rather than detailed technical explanations.\n\n---\n\n# Core Perspective (30-second framing)\n\nAI dramatically lowers the cost of producing knowledge work.\n\nThe real bottlenecks become:\n\n- judgment\n- trust\n- coordination\n- identity\n\nThe future of work will likely revolve around individuals or small teams orchestrating networks of AI tools and agents.\n\n---\n\n# Four Major Shifts\n\n## 1. Solo Builders Become Viable Companies\n\nAI tools reduce the operational overhead of starting and running a business.\n\nIndividuals can now perform work that previously required entire teams.\n\nExamples:\n\n- AI-assisted coding\n- AI marketing tools\n- AI research assistants\n- AI customer support\n\nResult:\n\nSmall \"one-person companies\" become viable.\n\n---\n\n## 2. Knowledge Work Becomes AI-Augmented\n\nAI will change how work is done before it fully replaces roles.\n\nMany professionals will become:\n\n- reviewers\n- editors\n- curators\n- decision makers\n\nInstead of producing raw output.\n\nExamples:\n\n- engineers reviewing AI-generated code\n- lawyers reviewing AI-generated briefs\n- analysts verifying AI-generated research\n\n---\n\n## 3. Trust and Identity Become Critical\n\nIf AI can generate:\n\n- articles\n- research\n- software\n- media\n\nThen **trust becomes scarce**.\n\nSystems that establish identity, reputation, and verification will become more important.\n\n---\n\n## 4. Organizations May Change Shape\n\nCompanies may evolve from rigid hierarchies into networks of specialists coordinated through AI tools.\n\nTraditional structure:\n\n- departments\n- fixed roles\n- large employee counts\n\nEmerging structure:\n\n- small teams\n- specialized collaborators\n- AI-augmented workflows\n\n---\n\n# Skills That Will Matter Most\n\nIn an AI-augmented world, valuable skills include:\n\n- judgment\n- problem framing\n- domain expertise\n- taste and quality evaluation\n- coordination and leadership\n\nAI makes producing output easier.\n\nKnowing **what should exist** becomes more valuable.\n\n---\n\n# Industries Most Affected\n\nKnowledge work fields will see major impact:\n\n- programming\n- research\n- writing\n- legal analysis\n- marketing\n- design\n\nMost roles will experience **augmentation first**, not immediate replacement.\n\n---\n\n# Key Insight\n\nHistorically, different eras had different constraints.\n\nIndustrial era: capital  \nInternet era: distribution  \nAI era: judgment\n\nAI reduces production costs dramatically, shifting value toward decision making and problem definition.\n\n---\n\n# Personal Observations (Optional to Mention)\n\nAI allows individuals to build tools and systems that previously required teams.\n\nThis includes:\n\n- AI-assisted software development\n- automated research workflows\n- AI-enhanced productivity for solo builders\n\nThe barrier to building new systems is falling quickly.\n\n---\n\n# Practical Guidance for the Interview\n\nDo:\n\n- speak conceptually\n- use real examples\n- keep answers under one minute\n\nAvoid:\n\n- deep technical explanations\n- protocol details\n- long architectural discussions\n\nUnless the interviewer specifically asks.\n\n---\n\n# Simple Three-Sentence Summary\n\nAI dramatically lowers the cost of producing knowledge work.\n\nThe bottlenecks shift to judgment, trust, and coordination.\n\nThe future of work will likely center around individuals and small teams orchestrating networks of AI tools.",
+  "created_at": 1773029657,
+  "id": "cc5b0ba0f7a290d36ac79e1bed39035ade24a3ef5323bc81fb4225b6aac11b3b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dd4e0bf70858b76472730432bebe52eeed1fa5292430594b0ea05a7d9756ac8432bbf35ea1486eb165282a637a082d84072ef3dc2a3499cc70eb70923708c92f",
+  "tags": [
+    [
+      "d",
+      "ai-expert-interview-prep"
+    ],
+    [
+      "title",
+      "AI Expert Interview Prep"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

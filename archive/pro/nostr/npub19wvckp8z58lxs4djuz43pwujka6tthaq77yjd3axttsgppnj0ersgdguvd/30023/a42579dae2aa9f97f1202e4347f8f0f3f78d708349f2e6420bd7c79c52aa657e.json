@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 8, 2026\n\n---\n\nPublishing events to Nostr relays sounds simple.\n\nIn practice, it rarely is.\n\nRelays can behave differently depending on their configuration, uptime, and load. Some accept events immediately. Others respond slowly. Some reject events or silently fail.\n\nHandling this correctly requires thoughtful publishing logic.\n\nToday I improved the **publish_event logic in the relay manager** used by Continuum.\n\n## The Problem\n\nOriginally the publish workflow could sometimes report a failure even when an event had successfully reached at least one relay.\n\nThat creates confusion.\n\nFrom a practical standpoint, publishing succeeds if **any relay successfully stores the event**.\n\nOnce one relay has accepted the event, the event exists on the network and can propagate further.\n\n## The Improved Logic\n\nThe updated logic now evaluates relay responses more carefully.\n\nInstead of treating publishing as a single binary result, the system examines responses from each relay individually.\n\nIf at least one relay confirms the write, the operation is considered successful.\n\nThis produces much more accurate feedback.\n\n## Testing With a Local Relay\n\nRunning a local relay inside Docker has been especially useful while working on this logic.\n\nBecause the relay runs on my own machine I can:\n\n- inspect events directly\n- test publishing behavior\n- debug relay interactions\n\nThe local relay currently acts as a **development and debugging relay**, not a permanent public endpoint.\n\nBut it provides a reliable environment for improving the publishing pipeline.\n\n## Building Toward More Reliable Publishing\n\nPublishing reliability is one of the most important parts of any Nostr application.\n\nBetter publish logic makes it easier to:\n\n- diagnose relay problems\n- provide accurate UI feedback\n- build stronger retry mechanisms later\n\nThese improvements are small but important steps toward a more robust publishing architecture.\n\nReliable infrastructure often emerges from dozens of small refinements like this.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773034204,
+  "id": "a42579dae2aa9f97f1202e4347f8f0f3f78d708349f2e6420bd7c79c52aa657e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "942a2bed6b4a673a1385cfe4513734f5fcd11d5a2ac980d5dc039d85528966b810fcf89f24199f800b384ad42a23e738c45e4cd0624893a0463668cb0a6705ee",
+  "tags": [
+    [
+      "d",
+      "improving-the-relay-publish-logic"
+    ],
+    [
+      "title",
+      "Improving the Relay Publish Logic"
+    ],
+    [
+      "published_at",
+      "1773034204"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Publishing events across multiple relays requires careful handling of success and failure conditions. Today I improved the relay manager logic in Continuum to more accurately evaluate publishing results."
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "software-architecture"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "f4ba41800f3a2ddfcfd4b33c692d344cb06af9ca2486c98131a3d639d7e69795",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

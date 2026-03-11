@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 8, 2026\n\n\n---\n\nThe more I work on Continuum, the more convinced I become that **local-first architecture** is the right foundation for many modern applications.\n\nToday’s progress reinforced that idea.\n\nTwo things happened:\n\n1. I successfully ran a Nostr relay locally inside Docker.\n2. I improved the publishing logic used by the relay manager.\n\nNeither change is dramatic on its own.\n\nBut together they strengthen a local-first workflow.\n\n## Running Infrastructure Locally\n\nThe relay currently runs on my development machine and is not yet exposed as a permanent public endpoint.\n\nEvents written to it remain local unless they are also published to external relays.\n\nThat means the relay currently functions more like a **development relay**.\n\nBut even in that role it is extremely useful.\n\nRunning infrastructure locally provides:\n\n- predictable behavior\n- easier debugging\n- independence from external services\n\nFor developers building Nostr tools, this kind of environment is invaluable.\n\n## Local Systems First, Network Second\n\nLocal-first architecture flips the usual order of operations.\n\nInstead of relying on remote infrastructure first, the system begins locally and then connects outward.\n\nIn practical terms that means:\n\n- signing events locally\n- managing identities locally\n- storing archives locally\n- optionally publishing outward\n\nThis approach increases resilience and reduces dependency on centralized systems.\n\n## A Path Toward a Personal Relay\n\nThe Docker relay configuration used today could later run on an always-on machine.\n\nAt that point it could become a permanent relay reachable at a domain like:\n\nwss://relay.continuum.xyz\n\nFor now it remains a development relay.\n\nBut the configuration and architecture are already in place.\n\n## Building Systems One Layer at a Time\n\nReliable infrastructure rarely appears fully formed.\n\nIt evolves through incremental improvements.\n\nRunning a relay locally, improving publishing logic, and refining development workflows are all small steps.\n\nOver time those steps accumulate.\n\nAnd eventually they produce systems that are both **flexible and durable**.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773031394,
+  "id": "54bb1d7b8a742f9e1052022f86f8de7038ff38ebd8ce549ae37a171cd050b357",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "719129fa2b9a26f2251a7edb33973785e58a357fc0f6909a01895da7790540b16ffd39fcc201aabaa389539366de1e08ae5261267ccf399b90eb198e09469b04",
+  "tags": [
+    [
+      "d",
+      "local-first-infrastructure-for-nostr-applications"
+    ],
+    [
+      "title",
+      "Local-First Infrastructure for Nostr Applications"
+    ],
+    [
+      "published_at",
+      "1773031394"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Running services locally — including relays — can simplify development and improve reliability. Today’s work on a local relay and improved publish logic reinforces the value of local-first architecture."
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-19-generated-sovereignty-articles.jpg"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "d2a194827cd7c3d2787358e52a33fb337d5bf76bb92e12f46a71f63d6d487ac5",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

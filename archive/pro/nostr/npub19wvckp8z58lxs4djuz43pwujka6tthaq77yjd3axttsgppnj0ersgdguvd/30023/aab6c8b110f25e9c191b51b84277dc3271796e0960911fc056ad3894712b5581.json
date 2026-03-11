@@ -1,0 +1,55 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 8, 2026\n\n---\n\nToday was a solid day of incremental progress on Continuum.\n\nMuch of the work focused on strengthening the **local-first infrastructure** that underpins the system.\n\nTwo technical milestones stood out.\n\n## Running a Local Relay in Docker\n\nToday I successfully ran a **Nostr relay locally inside Docker**.\n\nThe relay currently runs only on my development machine and is not yet exposed publicly. In its current form it functions primarily as a **development relay**, which is actually exactly what I need right now.\n\nRunning a relay locally provides several advantages during development:\n\n- deterministic publishing behavior\n- full visibility into events\n- easier debugging of relay interactions\n- independence from public relay reliability\n\nI also configured the relay with **pubkey whitelisting**, meaning only approved identities can publish events. This keeps the relay clean and predictable while testing.\n\nEvents written to the relay currently exist only on my machine unless they are also published to external relays. That means this relay is not yet a permanent public endpoint, but it provides a powerful local environment for building and testing.\n\nIn the future this same Docker configuration could run on a small always-on machine and become a permanent relay endpoint (for example `wss://relay.continuum.xyz`). For now, it serves as a reliable development relay.\n\n## Improvements to the Relay Manager\n\nAnother important improvement today involved the **relay manager publishing logic**.\n\nPublishing events to Nostr relays can be unpredictable. Different relays respond differently, and sometimes a publish operation may succeed on one relay but fail on another.\n\nPreviously the logic could occasionally report a failure even when an event had actually been accepted by at least one relay.\n\nI improved the `publish_event` handling so that the system evaluates responses from each relay more accurately.\n\nNow publishing is considered successful when **at least one relay confirms the write**, which more closely reflects how Nostr publishing works in practice.\n\nThis improvement also makes the UI feedback more accurate when signing and publishing events.\n\n## Local Infrastructure First\n\nToday reinforced something I continue to observe while building Continuum.\n\nSystems become much easier to reason about when the **local environment is stable and predictable**.\n\nRunning a relay locally, controlling publishing logic, and verifying behavior step by step creates a much stronger development foundation.\n\nPublic infrastructure will always play a role in distribution, but building systems that work **locally first** reduces complexity and improves reliability.\n\n## Closing Thoughts\n\nMuch of today’s work might appear incremental from the outside.\n\nBut small improvements in infrastructure and architecture accumulate over time.\n\nRunning a local relay and strengthening the relay manager are both steps toward a more reliable and self-sovereign publishing workflow.\n\nAnd that is exactly the direction Continuum is heading.\n\n## Personal Note:\n\n- my cousin passed away last night ~ 11:00 PM -- Lexis Steiner (formerly Sarah)\n- daylight savings time moved 1 hour later -- set the clocks forward 1 hour this morning (around 8:30 AM BEFORE I changed them)\n- continuing to stress about finances",
+  "created_at": 1773033966,
+  "id": "aab6c8b110f25e9c191b51b84277dc3271796e0960911fc056ad3894712b5581",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dc9883fe1286ca487f164fa3badb88ab4677dd7008cc09c80d191577051570eb64ace218bb2c37199b58b2fe287b7efb8c933396bdf3df2aae7119fa5a039510",
+  "tags": [
+    [
+      "d",
+      "builders-journal--march-8-2026"
+    ],
+    [
+      "title",
+      "Builder’s Journal — March 8, 2026"
+    ],
+    [
+      "summary",
+      "Today’s work focused on strengthening Continuum’s local-first architecture. I successfully ran a Nostr relay locally in Docker with pubkey whitelisting and improved the relay manager’s publish logic. These changes make development more deterministic and lay groundwork for more reliable publishing workflows."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders-journal"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "development"
+    ],
+    [
+      "display_date",
+      "2026-03-08"
+    ]
+  ],
+  "published": 0
+}

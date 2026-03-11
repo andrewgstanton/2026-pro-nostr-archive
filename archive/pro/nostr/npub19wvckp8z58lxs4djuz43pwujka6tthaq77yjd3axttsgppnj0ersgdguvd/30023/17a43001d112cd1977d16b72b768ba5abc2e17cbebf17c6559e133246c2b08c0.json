@@ -1,0 +1,69 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 10, 2026\n\n---\n\nOne of the quiet tasks I worked on today was publishing my OpenPGP public key.\n\nAt first glance this might seem like a small technical step. In reality, it represents something much larger: an effort to reclaim digital identity from centralized systems.\n\nFor most of the modern internet, identity is controlled by platforms.\n\nYou create an account.\n\nYou choose an email and password.\n\nA company stores your credentials in a database.\n\nIf they decide to suspend you, your identity effectively disappears.\n\nThis model has several problems.\n\nFirst, it centralizes trust.\n\nYou are forced to trust a company to maintain the integrity of your account. If their systems fail, if their policies change, or if their databases are compromised, your identity is affected.\n\nSecond, it fragments identity.\n\nMost people have dozens of accounts across different services, each with its own login system and identity representation.\n\nThird, it eliminates verifiability.\n\nYou rarely know whether the person you are communicating with is genuinely who they claim to be.\n\nCryptographic identity solves these problems in a different way.\n\nInstead of relying on passwords, you rely on key pairs.\n\nA private key proves ownership.\n\nA public key allows anyone to verify signatures.\n\nNostr adopts this model directly. Every identity on Nostr is simply a public key.\n\nYour posts, messages, and interactions are signed by the corresponding private key.\n\nThis creates a powerful property: identity is portable.\n\nNo company controls it.\n\nNo central server can revoke it.\n\nYour identity exists wherever your key exists.\n\nPublishing an OpenPGP key extends this idea beyond Nostr.\n\nPGP has been around for decades and is still widely used for secure communication and document signing.\n\nBy publishing a public key and fingerprint, I make it possible for anyone to:\n\n• verify messages that I sign  \n• encrypt communications intended for me  \n• confirm that certain statements genuinely came from me  \n\nThe fingerprint is especially important.\n\nA PGP fingerprint uniquely identifies the key and allows others to verify that they are using the correct one.\n\nWithout fingerprints, key substitution attacks become possible.\n\nPublishing the key on a dedicated page also creates a public anchor point.\n\nIf someone receives a signed message from me, they can verify it against the fingerprint published there.\n\nOver time I expect these systems to converge.\n\nNostr identities, PGP keys, and other cryptographic tools will likely interoperate more closely.\n\nInstead of fragmented accounts across hundreds of platforms, individuals will maintain a small set of cryptographic identities that they control directly.\n\nThese identities will allow them to sign messages, authenticate to services, and verify the authenticity of information.\n\nIn many ways, this represents a return to earlier internet principles.\n\nBefore social media platforms centralized everything, the internet was built on open protocols.\n\nEmail, HTTP, and other standards allowed individuals to communicate without needing permission from a platform.\n\nCryptographic identity is the missing piece that allows that model to function securely.\n\nPublishing a PGP key today is a small step in that direction.\n\nBut small steps matter.\n\nThey establish the foundations for a different kind of internet—one where individuals once again control their own identities.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773208455,
+  "id": "17a43001d112cd1977d16b72b768ba5abc2e17cbebf17c6559e133246c2b08c0",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d1f390f77e6c3628969e6d5631734542c96117d908ab3251ec1cf286665fa7d261ee67cd07e223046eb63055505e67cabd19fe46a18134bd8713b5d0cd90b4ba",
+  "tags": [
+    [
+      "d",
+      "reclaiming-digital-identity-why-i-published-my-openpgp-key"
+    ],
+    [
+      "title",
+      "Reclaiming Digital Identity: Why I Published My OpenPGP Key"
+    ],
+    [
+      "published_at",
+      "1773208455"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Publishing my OpenPGP key alongside my Nostr identity is part of a broader effort to restore verifiable identity on the internet."
+    ],
+    [
+      "display_date",
+      "2026-03-10"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "gpg"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "f374002dce18209dcc08c9e95ebf6ae9c2ba5126fc0274fabd0a154a6a37f03d",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
