@@ -1,0 +1,96 @@
+{
+  "content": "Andrew G. Stanton - Wednesday, March 11, 2026\n\nContinuum is for people who want more than a social media account.\n\nIt is for people who want a durable relationship to their own identity, their own archive, and their own published work.\n\nAt a practical level, Continuum is a **local-first publishing and identity environment**. You run it on your own machine. You manage your own identities. You write, sign, and publish intentionally. You retain a durable local archive of your work instead of depending entirely on a platform to remember you.\n\nThat makes Continuum useful for several kinds of people.\n\n## Writers and independent authors\n\nWriters need more than reach. They need continuity.\n\nA platform may give distribution, but it rarely gives permanence. Policies change. accounts are limited. algorithms shift. links break. entire services disappear. Continuum is designed for writers who want a publishing workflow that begins with authorship and custody rather than platform dependency.\n\nWith Continuum, a writer can manage multiple identities, draft and publish notes or long-form articles, and preserve a durable local archive of published work. The goal is not simply to “post,” but to build a body of work that remains accessible, attributable, and under the author’s control.\n\n## Journalists and researchers\n\nJournalists and researchers often need verifiable authorship, durable records, and an archive that is not entirely dependent on institutional systems or changing third-party platforms.\n\nContinuum supports that by combining local authorship with signed publishing. Work can be prepared and stored locally, then published intentionally. This creates a stronger foundation for attribution and continuity over time.\n\nFor researchers, this also means notes, essays, summaries, and long-form work can remain part of an organized archive rather than being scattered across disconnected tools and services.\n\n## Human rights activists\n\nHuman rights activists often work in environments where communications infrastructure is fragile, centralized platforms are unreliable, and durable records matter deeply.\n\nContinuum is not a magic shield, but it is aligned with a more resilient publishing model. Because it is local-first, work begins under the user’s control. Because identity is self-custodied, authorship does not depend on a centralized login system. Because archives are maintained locally, important records are not reduced to a stream of disposable posts.\n\nFor activists, witnesses, and those documenting abuse or injustice, durable authorship and intentional publishing are not abstract ideals. They are practical needs.\n\n## Ministries and mission-driven organizations\n\nMinistries and foundations often depend on platforms that do not reflect their values and do not provide durable control over identity, archives, or communications.\n\nContinuum offers a different model. It allows organizations to think in terms of stewardship rather than rented access. Messages, articles, and records can be created and preserved in a local-first environment and then published outward with intention.\n\nThis is especially important for organizations that care about message integrity, long-term archives, and freedom from unnecessary dependence on centralized gatekeepers.\n\n## Developers and builders\n\nDevelopers can use Continuum as a practical local environment for working with Nostr identity, publishing flows, relay interactions, and durable archives.\n\nIt is useful not only as an end-user application, but also as a reference point for thinking about local-first architecture, self-custodied identity, and intentional publishing systems. Builders exploring sovereign applications, Nostr-based tooling, or durable publishing workflows may find Continuum helpful both as software and as an architectural model.\n\n## Sovereign individuals\n\nContinuum is also for people who may not fit neatly into a category but know they want a different relationship to the digital world.\n\nThey want:\n- custody over their own identity\n- a durable archive of their work\n- the ability to publish intentionally\n- less dependence on centralized systems\n- a workflow aligned with sovereignty rather than convenience at any cost\n\nFor those people, Continuum is not just a tool. It is a different posture.\n\n## What Continuum is not\n\nContinuum is not primarily a hosted platform. It is not a conventional SaaS product. It is not built around account creation, centralized custody, or frictionless dependence.\n\nIt is software you run yourself.\n\nThat distinction matters. It changes the user’s role from tenant to steward.\n\n## In summary\n\nContinuum is for people and organizations who care about durable authorship, self-custodied identity, and a more sovereign publishing workflow.\n\nIt is for:\n- writers\n- journalists\n- researchers\n- human rights activists\n- ministries\n- developers\n- sovereign individuals\n\nIt is for those who want their digital life to rest on something more durable than a login and a feed.",
+  "created_at": 1773270390,
+  "id": "a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3d3da613d2f6b285a855c7724dfa361a33a91eb8190df0be8bf05bcb0db38d235353f88af20ce5113f94d5675609c78c969e2185793561a747d43df578dc8771",
+  "tags": [
+    [
+      "d",
+      "who-continuum-is-for"
+    ],
+    [
+      "title",
+      "Who Continuum Is For"
+    ],
+    [
+      "published_at",
+      "1773270390"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms."
+    ],
+    [
+      "display_date",
+      "2026-03-11"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4_wednesday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "durableauthorship"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "writers"
+    ],
+    [
+      "t",
+      "journalists"
+    ],
+    [
+      "t",
+      "humanrights"
+    ],
+    [
+      "t",
+      "ministries"
+    ],
+    [
+      "t",
+      "developers"
+    ],
+    [
+      "e",
+      "04582d674f15e29f2674400879018ff979bd543174ae9816936683c8767c80d6",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

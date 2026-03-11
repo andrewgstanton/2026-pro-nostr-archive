@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 10, 2026\n\n---\n\nOne of the most challenging aspects of building something new is the silence.\n\nWhen you release software, publish articles, or share ideas, the response is often minimal.\n\nThis can be discouraging.\n\nIt is easy to interpret silence as a lack of interest.\n\nBut the reality is more complicated.\n\nMany people read quietly.\n\nThey observe developments over time.\n\nThey watch to see whether a project continues evolving.\n\nOccasionally, someone sends a message that indicates they truly understand what you are building.\n\nThese moments are powerful.\n\nToday I received one of those signals from a Nostr user.\n\nThe message itself was not dramatic, but it was thoughtful and clearly engaged with the ideas I have been exploring.\n\nIt prompted me to spend a significant amount of time crafting a response.\n\nProbably close to two hours.\n\nThat may sound excessive for a single reply.\n\nBut thoughtful conversations are often where ideas develop most deeply.\n\nWhen someone genuinely engages with a concept, it forces you to clarify your own thinking.\n\nYou refine arguments.\n\nYou articulate assumptions.\n\nYou connect ideas that previously existed only loosely.\n\nOver time these exchanges shape the direction of a project.\n\nMany influential movements began through small clusters of conversations between individuals who recognized something important emerging.\n\nFrom the outside, these conversations are invisible.\n\nThey happen in emails, direct messages, or private discussions.\n\nBut they form the intellectual backbone of many innovations.\n\nBuilders learn to recognize these signals.\n\nThey understand that widespread attention usually comes much later.\n\nFirst there is a long phase of quiet work.\n\nDuring this phase, progress is measured not by popularity but by clarity.\n\nAre the ideas becoming sharper?\n\nIs the architecture improving?\n\nAre the underlying principles sound?\n\nIf the answers to those questions are yes, the project is moving forward—even if few people are paying attention.\n\nOccasional signals from thoughtful observers help confirm that progress.\n\nThey show that the work is reaching people who are capable of seeing what is emerging.\n\nThose signals are often enough to sustain builders through long periods of silence.\n\nOver time, the silence breaks.\n\nIdeas spread.\n\nProjects mature.\n\nCommunities form.\n\nBut in the early stages, progress is sustained primarily by conviction and a handful of meaningful conversations.\n\nToday was a reminder of that dynamic.\n\nA single thoughtful message can be enough to keep the momentum going.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773270366,
+  "id": "e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "93628e1c053c94733ccd823389b1f4af90deb6033c815eba5d4e5c6375f79e3e4f9b603cd2edce4fdfc13e016177feae258a6182b750b64b12876bf1dd561032",
+  "tags": [
+    [
+      "d",
+      "the-quiet-signals-that-keep-builders-going"
+    ],
+    [
+      "title",
+      "The Quiet Signals That Keep Builders Going"
+    ],
+    [
+      "published_at",
+      "1773270366"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work."
+    ],
+    [
+      "display_date",
+      "2026-03-10"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "signals"
+    ],
+    [
+      "t",
+      "network"
+    ],
+    [
+      "e",
+      "e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
