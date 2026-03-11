@@ -1,0 +1,36 @@
+{
+  "content": "Builders Work Quietly - 3/10/2026\n\nSummary: Much of building happens quietly, far from the noise of social media.\n\nToday was a reminder that building rarely looks dramatic from the outside.\n\nThere are long stretches of quiet work:\n\n• updating profiles  \n• refining small applications  \n• responding carefully to thoughtful messages  \n• experimenting with patterns  \n\nNone of this looks impressive on social media.\n\nBut these small steps accumulate.\n\nOver time they become the foundation for much larger systems.\n\n#builders #reflection",
+  "created_at": 1773206745,
+  "id": "3e37b3dc06fc616ca824ab1ea14be547e0ce0ea48b36131fef8bb20f8b4103c3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c80e505d872244e581fe596abdda63c0f25e69cf88b4e596176d659600169b4378991676d4618a0832937b4eb81e91983e67ccc88852d9ef7904effaa24a3911",
+  "tags": [
+    [
+      "d",
+      "note-1773206745"
+    ],
+    [
+      "published_at",
+      "1773206745"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "reflection"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "content": "Improved publish_event Logic - 3/8/2026\n\nUpdated the relay manager logic so publishing is considered successful if at least one relay accepts the event.\n\nThis better reflects how Nostr publishing works in practice.\n\n#nostr #relay-manager",
+  "created_at": 1773031726,
+  "id": "b724c47710fcb3573c575eaaf7b21e2ddcffa33f59a64bc3d54f40223eddc078",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ae055f887eec486daa565befbba50717ec4fa420ce5884a4dca41594fd788f90339140abb063cf301f9985b3a7a7d4e29a5d9b06f887b7b8135b76bc2fdbf2b9",
+  "tags": [
+    [
+      "d",
+      "note-1773031726"
+    ],
+    [
+      "published_at",
+      "1773031726"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relay"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

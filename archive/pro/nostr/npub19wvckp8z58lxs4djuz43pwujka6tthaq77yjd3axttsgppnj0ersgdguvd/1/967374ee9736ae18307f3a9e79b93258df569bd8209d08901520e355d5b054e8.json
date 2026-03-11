@@ -1,0 +1,48 @@
+{
+  "content": "Scheduled Publishing for Articles Now Working - 3/9/2026\n\nSummary: Continuum now supports scheduled publishing for both notes and articles, enabling authors to queue signed events locally and publish them automatically at a future time.\n\nToday I confirmed that scheduled publishing works not only for notes but also for long-form articles in Continuum.\n\nThe workflow now looks like this:\n\n1. Write the article locally\n2. Sign the event locally\n3. Choose a future publish time\n4. Continuum stores the signed event and waits\n5. At the scheduled time, the event is automatically published to relays\n\nThis means authors can queue work ahead of time without giving custody of their keys to a third-party platform.\n\nEverything happens locally.\n\nEven better, if the machine is offline when the scheduled time passes, the event remains in a scheduled state and publishes automatically once the network is restored and Continuum restarts.\n\nThis is exactly the kind of behavior a sovereign publishing system should have.\n\n#continuum #nostr #publishing #localfirst #sovereignty",
+  "created_at": 1773106750,
+  "id": "967374ee9736ae18307f3a9e79b93258df569bd8209d08901520e355d5b054e8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "430491fce25eca617e8b5f291f7831efa1ef3697bb7e92add8bb3c6d519ace4aee27d751bb84f00ceb5aca9949e7449dd86483cd8fd53d67196bfdd6acacb628",
+  "tags": [
+    [
+      "d",
+      "note-1773106750"
+    ],
+    [
+      "published_at",
+      "1773106750"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

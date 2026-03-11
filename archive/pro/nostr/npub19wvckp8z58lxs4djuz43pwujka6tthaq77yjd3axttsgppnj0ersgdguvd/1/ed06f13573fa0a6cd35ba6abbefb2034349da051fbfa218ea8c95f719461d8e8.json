@@ -1,0 +1,46 @@
+{
+  "content": "Updating My Nostr Profile and Adding PGP Verification - 3/10/2026\n\nSummary: I spent time updating my Nostr profile and publishing my OpenPGP public key for encrypted communication and verification.\n\nToday I spent some time refreshing my Nostr profile.\n\nThe biggest change was publishing my **OpenPGP public key** and creating a dedicated page for it.\n\nThis allows people to:\n\n• verify messages I sign  \n• encrypt communications to me  \n• confirm that identities I control are legitimate  \n\nIn the Nostr world, identity is tied to the **npub / private key pair**, but PGP still serves an important complementary role.\n\nPGP allows:\n\n• cross-platform identity verification  \n• signed documents outside Nostr  \n• encrypted email communication  \n\nPublishing the key fingerprint publicly is also important so people can confirm they are using the correct key.\n\nIt is a small step, but it strengthens the broader theme I care about:\n\n**self-sovereign identity and verifiable communication.**\n\n#nostr #pgp #gpg #identity #security",
+  "created_at": 1773206304,
+  "id": "ed06f13573fa0a6cd35ba6abbefb2034349da051fbfa218ea8c95f719461d8e8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "33156cbdc6f9e6d521f8c082412cf093f3c67fc98aed858f3f45f1687ab8b1cb0ed5c2bd4cf96182e226be81c781d47f3b29c1cef077548a7b62ca31b32d3a4a",
+  "tags": [
+    [
+      "d",
+      "note-1773206304"
+    ],
+    [
+      "published_at",
+      "1773206304"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "gpg"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "security"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}

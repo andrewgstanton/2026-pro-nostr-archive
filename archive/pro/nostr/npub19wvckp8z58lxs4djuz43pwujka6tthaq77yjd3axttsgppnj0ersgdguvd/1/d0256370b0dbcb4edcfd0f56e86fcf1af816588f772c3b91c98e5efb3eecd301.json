@@ -1,0 +1,27 @@
+{
+  "content": "stimmt !",
+  "created_at": 1773192732,
+  "id": "d0256370b0dbcb4edcfd0f56e86fcf1af816588f772c3b91c98e5efb3eecd301",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "15ca50c261b93b7bf185a2ce9d658623939e06df31a9dea06105d4931a4582ed650b58566cde88195920b4b1378dfa62961ee9a402a33271cdbed1403e041d4b",
+  "tags": [
+    [
+      "a",
+      "30023:cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2:1773165017088",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

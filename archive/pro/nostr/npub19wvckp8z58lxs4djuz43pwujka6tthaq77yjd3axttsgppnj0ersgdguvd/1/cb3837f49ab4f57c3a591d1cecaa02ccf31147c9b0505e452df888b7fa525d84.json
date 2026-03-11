@@ -1,0 +1,44 @@
+{
+  "content": "Identity and Trust on the Open Internet - 3/10/2026\n\nSummary: Publishing keys and verifiable identity infrastructure is a step toward restoring trust online.\n\nOne of the ongoing problems with the modern internet is the collapse of **verifiable identity**.\n\nMost systems rely on:\n\n• email/password accounts  \n• centralized identity providers  \n• opaque authentication flows  \n\nPublishing cryptographic keys reverses that model.\n\nInstead of trusting a company to verify who someone is, you verify **directly using cryptography**.\n\nNostr uses public keys for identity.\n\nPGP allows verification across other channels.\n\nWhen these systems are used together, they create something powerful:\n\n**portable digital identity that is not owned by a platform.**\n\n#identity #trust #nostr #pgp",
+  "created_at": 1773206799,
+  "id": "cb3837f49ab4f57c3a591d1cecaa02ccf31147c9b0505e452df888b7fa525d84",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bc54a38b47bfe16d9a93cfc38553e1e1cf4ab1bc1534bf6f7921b4fc5d0917c6c629e449fbe1bd2d055dac5922fe096728c3459f0f218050f805add4bbdad8a4",
+  "tags": [
+    [
+      "d",
+      "note-1773206799"
+    ],
+    [
+      "published_at",
+      "1773206799"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "pgp"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "content": "Toward a Personal Relay 3/8/2026\n\nThe relay configuration used locally today could eventually run on an always-on machine and become a permanent personal relay endpoint.\n\nFor now it serves as a development relay while the architecture continues to evolve.\n\n#nostr #relays",
+  "created_at": 1773031891,
+  "id": "28cf66976289b666c9250054a76314fc307c4a63daeb3ca45fc8f899786c9842",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8a69769390307210b3581bf4b5bac31ae7f47dfdebc13cf4c87d52c004a629f249ab21fc3e1a6ecbd5716d5482eec8ac55a62ce090c5cd1b522321e71c25a436",
+  "tags": [
+    [
+      "d",
+      "note-1773031891"
+    ],
+    [
+      "published_at",
+      "1773031891"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "content": "Title: Local Relay for Development - 3/8/2026\n\n\nThe Docker relay currently runs locally and is useful for testing relay interactions and inspecting events.\n\nEvents written to it remain local unless they are also published to external relays.\n\n#nostr #development",
+  "created_at": 1773031781,
+  "id": "6baf950e1ffa58799bcfb1332ee304d694396262fc877e5bb4c5c083b2ec2135",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ae1df4ee6f075cf0dbb244c44295d57495cf55e0884155058a8211676e7ec6f3cb125024b0d999b3a98b839dc544af55460031bc12e98ac56890c7fddad93a93",
+  "tags": [
+    [
+      "d",
+      "note-1773031781"
+    ],
+    [
+      "published_at",
+      "1773031781"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "development"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

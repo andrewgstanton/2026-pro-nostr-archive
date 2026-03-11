@@ -1,0 +1,44 @@
+{
+  "content": "The Pattern for Sovereign Micro-Apps - 3/10/2026\n\nSummary: Today reinforced a pattern for building extremely simple sovereign applications for real businesses.\n\nOne insight from today is that **simple sovereign applications are becoming easier to build**.\n\nEarlier today I finished a small application concept for **Kiki’s Kitchen**.\n\nThe architecture was intentionally minimal:\n\n• static HTML  \n• lightweight admin interface  \n• no external database  \n• simple local file storage  \n\nThe entire project was completed in **roughly two hours**.\n\nThis reinforces a pattern I’m beginning to see:\n\nSmall sovereign apps can be built quickly when the constraints are clear.\n\nInstead of building massive SaaS platforms, we can build **focused tools that run locally and solve a specific problem**.\n\nFor many small businesses, that is more than enough.\n\n#software #sovereignty #local-first #apps",
+  "created_at": 1773206852,
+  "id": "3dd26e46f6ccc9bc6e28cf64f4d539340abf10e79509114925aca920bcf9530f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e1e4a341bd40d65a1ec04076b5ce972701afa3cdab9ad19dce6552aa61b3c093b2e052490c35a916ae4eaf8102e6dfc1f8166ea77ce939345a872bfd48c307d6",
+  "tags": [
+    [
+      "d",
+      "note-1773206852"
+    ],
+    [
+      "published_at",
+      "1773206852"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "local"
+    ],
+    [
+      "t",
+      "apps"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

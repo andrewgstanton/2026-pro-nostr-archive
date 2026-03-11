@@ -1,0 +1,44 @@
+{
+  "content": "Article Scheduling UI Parity with Notes - 3/9/2026\n\nSummary: The article list view in Continuum now reflects scheduled publishing states similar to notes, improving visibility into upcoming posts.\n\nNotes already displayed scheduled publishing clearly.\n\nArticles did not.\n\nToday I corrected that.\n\nNow the article list view understands three states:\n\nUnpublished  \nScheduled  \nPublished  \n\nIf an article is scheduled, the interface now shows:\n\nScheduled badge  \nScheduled publish time  \nDisabled “Publish (Scheduled)” button\n\nThis keeps the UI consistent across notes and articles and makes it much easier to see what is queued for publication.\n\n#continuum #ui #nostr #software",
+  "created_at": 1773106973,
+  "id": "faf123e504bbf948b46162f220c9c3ceab2c3a4c5b0fb6fd4aadb305f006e12b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d568e1cd9969a03e1a13aeeec33566cf4b33392a5a387aa20aa99c9f311eb7a2d2c852b64b86d3be31bf4805592e735ff5096c89e65e833e9d2b2e88e7ca4921",
+  "tags": [
+    [
+      "d",
+      "note-1773106973"
+    ],
+    [
+      "published_at",
+      "1773106973"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "ui"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "software"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

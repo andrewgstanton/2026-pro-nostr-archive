@@ -1,0 +1,40 @@
+{
+  "content": "Relay Pubkey Whitelisting Enabled - 3/8/2026\n\nConfigured the relay with pubkey whitelisting so that only approved identities can publish events.\n\nThis keeps the relay clean and prevents unwanted writes while testing.\n\n#nostr #relays #security",
+  "created_at": 1773031656,
+  "id": "46b8e7e1cd0c0a7b79d850512f2bd8c4e5670b51a5a77301e3d0616cabfd8b13",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8c025d1e0c5db3bde707f8a18599afb28cd15d9c0dd99a5ffadd7054fe32dc4d49a593aa175263dc7d7ae5d0c994c5b5e5e27d65f04d7ee35453887149b37441",
+  "tags": [
+    [
+      "d",
+      "note-1773031656"
+    ],
+    [
+      "published_at",
+      "1773031656"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "security"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,44 @@
+{
+  "content": "Scheduling Events While Offline - 3/9/2026\n\nSummary: Continuum preserves scheduled publishing events even if the network is offline, ensuring they publish once connectivity is restored.\n\nOne subtle but important behavior showed up during testing today.\n\nIf Continuum is offline when a scheduled publish time occurs, the event does **not fail**. It simply remains in the scheduled state.\n\nOnce the network returns and Continuum restarts, the scheduler detects that the publish time has already passed and immediately publishes the event.\n\nThis avoids a major class of failure that many scheduling systems have.\n\nIn other words:\n\nOffline does not break the scheduler.\n\nIt simply delays execution until publishing is possible.\n\nFor a local-first publishing system, that behavior matters a lot.\n\n#continuum #nostr #offlinefirst #softwaredesign",
+  "created_at": 1773106859,
+  "id": "3c386129cde1ee3ce3a574b8263999c84861bf1f150af2ec9bfc5ad6a38ba516",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f1348fa27a0cdbbd48636dd65f9922978a0a6eb1253c6cb2d4b585dfd57d1aa5d756056c6b3e712f74f9e6789ec2a8158d4ba01fafc41e67ba2cea5cf795d94b",
+  "tags": [
+    [
+      "d",
+      "note-1773106859"
+    ],
+    [
+      "published_at",
+      "1773106859"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "offlinefirst"
+    ],
+    [
+      "t",
+      "softwaredesign"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,44 @@
+{
+  "content": "Local Scheduling as a Sovereign Publishing Primitive - 3/9/2026\n\nSummary: Scheduled publishing is a fundamental building block for sovereign publishing systems built on Nostr.\n\nMany publishing platforms support scheduled posts.\n\nBut they do so by storing drafts and keys inside centralized services.\n\nContinuum takes a different approach.\n\nEvents are signed locally first.\n\nThen the scheduler simply decides when to publish them.\n\nThis keeps the important boundary intact:\n\nSigning stays local.  \nPublishing can be delayed.\n\nThat small difference preserves control over keys and identity.\n\n#nostr #sovereignty #continuum #publishing",
+  "created_at": 1773107106,
+  "id": "677eecbdd83d2c359213d42b68f77a33cd28cda9acf41e28009b0accc0e1fba3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4a81c5a2440a3deeb02dcfe56b63f9c92136f0bf6fea844a72e0feed9753c71de45bf7b586b505ab438323736f93e71896d97ac98eeb008a673ac4b9acfbb469",
+  "tags": [
+    [
+      "d",
+      "note-1773107106"
+    ],
+    [
+      "published_at",
+      "1773107106"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "publishing"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

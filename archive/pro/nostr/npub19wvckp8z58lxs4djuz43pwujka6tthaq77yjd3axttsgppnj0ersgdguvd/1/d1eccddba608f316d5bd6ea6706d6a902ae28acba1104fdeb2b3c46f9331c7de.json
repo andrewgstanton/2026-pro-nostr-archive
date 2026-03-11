@@ -1,0 +1,44 @@
+{
+  "content": "Timezone Handling for Scheduled Publishing (Current State) - 3/9/2026\n\nSummary: Continuum currently displays scheduled publishing times using a fixed timezone while \nfuture improvements will allow timezone configuration per identity.\n\n\nWhile testing scheduled publishing today, I noticed that scheduled times are currently displayed using a fixed timezone.\n\nRight now the API converts scheduled timestamps using a hard-coded timezone setting.\n\nThis works fine for development and testing, but it is not the long-term plan.\n\nContinuum identities already store configuration data locally, and timezone settings can eventually be pulled directly from the active identity configuration.\n\nThat would allow each identity to display scheduled publish times relative to its own local context.\n\nFor now the behavior is simple and predictable, which is good enough while the scheduling system itself is being validated.\n\n#continuum #scheduler #nostr #software",
+  "created_at": 1773106430,
+  "id": "d1eccddba608f316d5bd6ea6706d6a902ae28acba1104fdeb2b3c46f9331c7de",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c8788ce16d054101c3b6b0b7b0506dff4ff9d4fde4f940710495253803a63c7fc0659061519daabefae2dcc00a80b55b2fe7f1f597712f56aab9bba78623e9d6",
+  "tags": [
+    [
+      "d",
+      "note-1773106430"
+    ],
+    [
+      "published_at",
+      "1773106430"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "scheduler"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "software"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

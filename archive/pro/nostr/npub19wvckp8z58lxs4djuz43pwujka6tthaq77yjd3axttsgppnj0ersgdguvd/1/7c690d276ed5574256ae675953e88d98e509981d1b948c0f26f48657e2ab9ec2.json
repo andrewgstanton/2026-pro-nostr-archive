@@ -1,0 +1,40 @@
+{
+  "content": "Local Relay Running in Docker - 3/8/2026\n\n\nSuccessfully started a Nostr relay locally inside Docker.\n\nThe relay currently runs only on my development machine and is not yet exposed publicly.\n\nEven so, it provides a useful environment for debugging, testing relay behavior, and validating publishing logic.\n\n#nostr #relays #docker",
+  "created_at": 1773031596,
+  "id": "7c690d276ed5574256ae675953e88d98e509981d1b948c0f26f48657e2ab9ec2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2d087121bc229b82378f0e600567e425d80a02a73f100f5d93b6d96a19ccf23b3fb896aca540cb90d16d457713754659533d2a54a7e9eb9470f43f8aa8d9683b",
+  "tags": [
+    [
+      "d",
+      "note-1773031596"
+    ],
+    [
+      "published_at",
+      "1773031596"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "relays"
+    ],
+    [
+      "t",
+      "docker"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

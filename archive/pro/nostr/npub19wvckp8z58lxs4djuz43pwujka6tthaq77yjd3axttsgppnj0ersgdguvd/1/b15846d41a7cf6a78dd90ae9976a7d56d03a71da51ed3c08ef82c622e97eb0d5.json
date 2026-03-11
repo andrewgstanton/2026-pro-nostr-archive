@@ -1,0 +1,44 @@
+{
+  "content": "A Positive Signal - 3/10/2026\n\nSummary: A thoughtful signal from a Nostr user prompted a deeper response and several hours of reflection.\n\n\nToday I received a positive signal from a Nostr user.\n\nSignals like this matter more than people might realize.\n\nMost of the time when you publish online, especially when building something new, you are operating in **relative silence**.\n\nYou release ideas.  \nYou ship code.  \nYou publish articles.\n\nAnd often the response is minimal.\n\nBut occasionally someone thoughtful reaches out and engages.\n\nThe user's message prompted me to spend time crafting a careful response.\n\nI probably spent close to **two hours thinking through and writing that reply**.\n\nThese moments are encouraging.\n\nThey remind me that even when progress feels slow, the work **is reaching people who understand what is being built**.\n\n#nostr #builders #signals #network",
+  "created_at": 1773206561,
+  "id": "b15846d41a7cf6a78dd90ae9976a7d56d03a71da51ed3c08ef82c622e97eb0d5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "19bf7f5ca78c2bb9027adcf37b771ca9fe1761289520323120c0174011496bf20557ac08fc0e3cb223e5a33678610f7bf1438a36ee8c8ca459260bf8d319c66e",
+  "tags": [
+    [
+      "d",
+      "note-1773206561"
+    ],
+    [
+      "published_at",
+      "1773206561"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "signals"
+    ],
+    [
+      "t",
+      "network"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
