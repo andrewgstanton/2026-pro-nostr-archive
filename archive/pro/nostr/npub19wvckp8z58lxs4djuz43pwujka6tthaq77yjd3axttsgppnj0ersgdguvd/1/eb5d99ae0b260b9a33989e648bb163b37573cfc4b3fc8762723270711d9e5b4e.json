@@ -1,0 +1,26 @@
+{
+  "content": "Private Relay as a Debugging Tool - 3/11/2026\n\nRunning a private relay locally has already proven useful for development.\n\nEven though the relay currently runs only on my machine, it provides several advantages:\n\n• deterministic testing\n• controlled publishing behavior\n• whitelisted writers\n• predictable event storage\n\nUnlike public relays — which sometimes fail, timeout, or behave inconsistently — a local relay behaves exactly as expected.\n\nFor debugging complex publishing flows, this is extremely valuable.\n\nEventually this relay could also be exposed via a reverse proxy as something like:\n\nwss://relay.continuum.xyz\n\nBut for now, running it locally inside Docker is already useful.",
+  "created_at": 1773289015,
+  "id": "eb5d99ae0b260b9a33989e648bb163b37573cfc4b3fc8762723270711d9e5b4e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3ee7cee4082280c41af4eedb7426cd4501050ab63b5ace08608b620f1ba22690bc93ff049c56feb31c0ac9a6db52d34539c7b7fe0b22b0f37c6e1f136487f84f",
+  "tags": [
+    [
+      "d",
+      "note-1773289015"
+    ],
+    [
+      "published_at",
+      "1773289015"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}

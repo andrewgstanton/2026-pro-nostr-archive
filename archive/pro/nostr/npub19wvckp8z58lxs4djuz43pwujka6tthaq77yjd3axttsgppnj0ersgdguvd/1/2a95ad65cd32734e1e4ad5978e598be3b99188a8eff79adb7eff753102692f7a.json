@@ -1,0 +1,26 @@
+{
+  "content": "Backfilling a Local Relay - 3/11/2026\n\nOne experiment I'm considering is **backfilling my local relay**.\n\nI currently have roughly:\n\n• 700+ articles  \n• 500+ notes\n\nIf all of those events are republished to the local relay, the relay becomes a **complete local mirror** of my writing history.\n\nThis would create a few advantages:\n\n• faster queries\n• deterministic storage\n• easier testing of relay behavior\n• simpler debugging\n\nThe relay effectively becomes a **local indexing engine for Nostr events**.\n\nThe main thing to watch is limits such as `maxLimit = 500` in strfry configuration.\n\nBut since this limit only affects queries, not stored events, it should not prevent the relay from holding the entire archive.\n\nAgain, something to test later.",
+  "created_at": 1773288973,
+  "id": "2a95ad65cd32734e1e4ad5978e598be3b99188a8eff79adb7eff753102692f7a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "08755020e45c64d56ec982af52621892f6f4793abd231616d181358325078a1024118d325c0bb2bb9f8cefba8ec04d36161a4d6e4805b9ac1ab46bcc10b01296",
+  "tags": [
+    [
+      "d",
+      "note-1773288973"
+    ],
+    [
+      "published_at",
+      "1773288973"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}

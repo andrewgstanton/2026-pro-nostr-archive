@@ -1,0 +1,26 @@
+{
+  "content": "Relay Lists as Persistent Artifacts - 3/11/2026\n\nAnother architectural question surfaced today: **where should my relay list live?**\n\nNostr has a built-in solution:\n\nkind:10002 — relay list metadata.\n\nBecause I already publish relay lists, Continuum could simply retrieve the **latest 10002 event** and use that as the canonical relay configuration.\n\nThis would mean:\n\n• relay configuration becomes portable  \n• relay lists become part of identity history  \n• new installations automatically inherit correct relay configuration\n\nInstead of storing relays only in local configuration files, they could become **signed identity artifacts**.\n\nThat is a much more elegant model.",
+  "created_at": 1773288926,
+  "id": "40503ffbf592e1e9abf5c301797b2f46bd2731498d95d154453246f6970328fe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "13808d7dd786252057337caa96c87e26aab868ddff34459dfc44cc9ef5d42a41d6911b74ee538dfec9a8ca7c6c0ac59587c05d6155999ce8fe658dac12b20148",
+  "tags": [
+    [
+      "d",
+      "note-1773288926"
+    ],
+    [
+      "published_at",
+      "1773288926"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}

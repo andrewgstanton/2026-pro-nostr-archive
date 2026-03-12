@@ -1,0 +1,26 @@
+{
+  "content": "Local Relay Backfill Experiments - 3/11/2026\n\nToday I started thinking more seriously about using my local relay (running strfry in Docker) as a **performance optimization layer**.\n\nRight now Continuum can rebuild the archive from:\n\n1. The deterministic archive repo\n2. Multiple public relays\n3. Local cached data\n\nBut a **locally running relay** opens another interesting possibility.\n\nIf I backfill the relay with all of my existing events (700+ articles and 500+ notes), the relay effectively becomes a **local event index**.\n\nThat means:\n\n• startup reads could be faster  \n• queries could be simpler  \n• archive rebuilds might become optional\n\nThe open question is performance.\n\nIs reading from a local relay faster than rebuilding from the archive?\n\nThe only way to know is to test it.\n\nThis isn't urgent, but it's an intriguing direction.",
+  "created_at": 1773288826,
+  "id": "abac8ee3bb24e50c102c882609b8b5d0e9acd024cb442aa0bfe19a518e713574",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6e8c79036605804e80a672c848c90cef173c259c9b9fa02f1535126a0b4701c427984ff2eceba6b1bd9fe591cf835746dcc5c92e95150e69e5fd2e609595d683",
+  "tags": [
+    [
+      "d",
+      "note-1773288826"
+    ],
+    [
+      "published_at",
+      "1773288826"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}
