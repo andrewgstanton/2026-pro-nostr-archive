@@ -1,0 +1,31 @@
+{
+  "content": "Today was a day of reflection and architectural exploration around relays and event storage.\n\nOne of the main threads of thinking centered on the local relay I recently deployed using **strfry inside Docker**. While the relay currently runs only on my machine, it already provides a stable environment for testing publishing logic.\n\nPublic relays often behave unpredictably — sometimes they accept events, sometimes they timeout, sometimes they silently reject requests. A local relay removes much of that uncertainty. It creates a deterministic environment where events can be stored and queried reliably.\n\nAnother idea that emerged today was the possibility of **backfilling the relay with the entire archive**. At the moment my dataset includes more than seven hundred articles and roughly five hundred notes. Republishing these events to the local relay would effectively transform it into a full local mirror of my writing history.\n\nThis opens an interesting architectural question: could a local relay serve as an indexing layer for Continuum?\n\nInstead of reconstructing state from multiple public relays or relying solely on the deterministic archive, Continuum might be able to query the local relay directly. If that proves faster, it could simplify parts of the system.\n\nI also revisited the idea of treating **relay lists as signed identity artifacts**. Nostr already defines kind:10002 events for relay metadata, which means the relay configuration itself can live on the network as a signed record tied to identity. That would allow Continuum to retrieve relay configuration dynamically instead of relying only on local configuration files.\n\nAlongside these architectural thoughts, I reflected on something that often accompanies long-term projects: silence. Despite publishing hundreds of articles and building substantial infrastructure, engagement remains relatively quiet. The internet tends to reward fast-moving content rather than slow, foundational work.\n\nBut infrastructure often looks quiet while it is being built.\n\nThe real signal usually appears later.\n\nFor now, the focus remains the same: continue building, continue writing, and continue refining the architecture of Continuum one step at a time.\n\n## Additional Notes\n\n- Heather is paying for my round trip to Las Vegas March 27-39 (return from SLC) - to say goodbye to Alexys (Sarah) my cousin (last night) -- that actually brings a level of calm to all my stress this month\n\n- Wells Fargo received the 5500 in rent deposits and about 5000 went to pay the last 3 Texas morntgages (due before 3/15).  So I can rest a little easier.\n\n- This morning through about 3 PM -- updated the index and some additioal pages for mycontinuum.xyz so users can download the continuum in a zip and also made the style consistent w/ nostr.mycontinuum.xyz (the archive repo)\n\n- Good talk w/ Kevin (5:30 - 7:50 PM) about internship program from Startnation ($99.00 / month per intern.  I think it's actually pretty doable and low hanging fruit",
+  "created_at": 1773290473,
+  "id": "85c2ef8d6caba3571b88b0e873dc3ab3d4cdc1c54b85a8fd4c9fec7fa3f21c07",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a9d025ed67f1fd1747a7cb6f620559288bf950d7d6cd104c00d8352b6b255c60e36e096858705e585a1aba5c7f2f19cbd114ad9c8eb8ba11ee18014c90867104",
+  "tags": [
+    [
+      "d",
+      "builders-log--march-11-2026"
+    ],
+    [
+      "title",
+      "Builder’s Log — March 11, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-11"
+    ]
+  ],
+  "published": 0
+}
