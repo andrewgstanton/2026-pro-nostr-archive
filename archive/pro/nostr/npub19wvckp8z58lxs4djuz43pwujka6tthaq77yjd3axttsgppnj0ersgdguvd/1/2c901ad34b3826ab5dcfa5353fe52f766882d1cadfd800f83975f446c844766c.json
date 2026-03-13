@@ -1,0 +1,28 @@
+{
+  "content": "3/12/2026 Architecture\n\nLocal-first architecture treats the machine as the primary node, \nwith networks acting as optional extensions.",
+  "created_at": 1773374507,
+  "id": "2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e3ebfa223ab435d9046c4cda0f4103231023e42b51735b441071e3b23e006ab8b573c6721bb5080752a9030de75ac26fae4b3d46729629057a701660fc4844c3",
+  "tags": [
+    [
+      "d",
+      "note-1773374507"
+    ],
+    [
+      "published_at",
+      "1773374507"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

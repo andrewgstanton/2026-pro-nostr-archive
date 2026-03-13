@@ -1,0 +1,28 @@
+{
+  "content": "3/12/2026 -- AI\n\nAI can generate applications locally, \nbut many still depend on centralized identity providers or cloud storage.",
+  "created_at": 1773374445,
+  "id": "bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c15a4093545f3516d24663de9a1329f2047bc6e01e9996f8e9f37e9540e412ec8fe0c563af22dab35235e8e484a4b9b60575f45f6bc75ee802c386ac565d274c",
+  "tags": [
+    [
+      "d",
+      "note-1773374445"
+    ],
+    [
+      "published_at",
+      "1773374445"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

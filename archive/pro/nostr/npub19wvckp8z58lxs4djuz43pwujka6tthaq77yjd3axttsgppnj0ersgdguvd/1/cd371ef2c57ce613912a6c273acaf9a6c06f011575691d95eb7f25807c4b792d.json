@@ -1,0 +1,28 @@
+{
+  "content": "3/12/2026 Sovereign custody \n\nSovereign custody involves control of identity, data, and history — not just where code is executed.",
+  "created_at": 1773374561,
+  "id": "cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f876cc05ebafd7d103707bf4e0ab62486ad75d5bdf4f2a723afe92e0543dc9b04ddc2442975ec7417d5a6bb5f453484bb0f53566351210fe5452085c598908e9",
+  "tags": [
+    [
+      "d",
+      "note-1773374561"
+    ],
+    [
+      "published_at",
+      "1773374561"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

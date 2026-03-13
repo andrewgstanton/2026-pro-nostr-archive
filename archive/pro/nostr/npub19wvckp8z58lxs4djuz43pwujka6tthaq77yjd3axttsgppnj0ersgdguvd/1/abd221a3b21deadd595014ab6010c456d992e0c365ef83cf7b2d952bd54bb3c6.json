@@ -1,0 +1,28 @@
+{
+  "content": "3/12/2026 - Local Software\n\nLocally generated software is not automatically sovereign \n\nTrue local-first systems must preserve custody of identity and data.",
+  "created_at": 1773374308,
+  "id": "abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9bea2a8b509b777863989df7c1df9048a8f64bedee1052f58fd546e20ee660797dc8d2ab583e99056fabcb85ea829967031cf5296c5b43386adf006a8dd9965c",
+  "tags": [
+    [
+      "d",
+      "note-1773374308"
+    ],
+    [
+      "published_at",
+      "1773374308"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

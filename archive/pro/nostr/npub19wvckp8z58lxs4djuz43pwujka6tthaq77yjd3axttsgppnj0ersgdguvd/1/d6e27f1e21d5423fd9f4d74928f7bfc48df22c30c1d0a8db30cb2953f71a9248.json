@@ -1,0 +1,28 @@
+{
+  "content": "3/12/2026 - AI is deflationary\n\nAs AI lowers the cost of building software, \narchitecture and custody decisions may become the most important design questions.",
+  "created_at": 1773374612,
+  "id": "d6e27f1e21d5423fd9f4d74928f7bfc48df22c30c1d0a8db30cb2953f71a9248",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b5d32beb8e7e3b0a31b8c62a8616e9ee838b595198bbf8dc3ed85c7c9356c3d1c649fb706d7fbcfb137f160248ed9adae4f52af48dc88b41a0d0bec5d86d1bda",
+  "tags": [
+    [
+      "d",
+      "note-1773374612"
+    ],
+    [
+      "published_at",
+      "1773374612"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
