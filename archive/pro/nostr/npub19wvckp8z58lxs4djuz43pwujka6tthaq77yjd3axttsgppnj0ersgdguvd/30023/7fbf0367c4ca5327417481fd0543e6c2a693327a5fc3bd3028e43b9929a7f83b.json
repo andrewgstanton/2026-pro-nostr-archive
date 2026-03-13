@@ -1,0 +1,69 @@
+{
+  "content": "Andrew G. Stanton - Thursday, March 12, 2026\n\n---\n\nA new phrase is entering the technology conversation: **locally generated software**.\n\nTools like Claude, Gemini, and local LLM environments can now generate entire applications on a developer’s machine. With a few prompts, a system can produce HTML, Python, Docker containers, and fully working services.\n\nAt first glance, this seems to represent a major shift toward sovereignty.\n\nBut there is an important distinction that must be understood:\n\n**Local generation is not the same thing as local sovereignty.**\n\nA program generated locally can still depend on remote infrastructure, remote identity systems, or remote data custody.\n\nIn other words, the code may originate on your machine, but the system may still rely on external control points.\n\nTrue **local-first architecture** goes much further.\n\nLocal-first systems prioritize several principles:\n\n**1. Data Custody**\n\nYour data must exist primarily under your control.\n\nNot in a SaaS database.  \nNot behind someone else's API.  \nNot dependent on another company's uptime.\n\nWhen the system runs locally, your data should live with you.\n\n---\n\n**2. Identity Custody**\n\nIdentity is the root of sovereignty.\n\nMany modern applications treat identity as something granted by a central authority:\n\n- email providers\n- OAuth providers\n- platform login systems\n\nBut systems like Nostr invert that model.\n\nYour identity originates with a key you control.\n\nApplications can interact with that identity, but they do not own it.\n\n---\n\n**3. Durable Archives**\n\nA locally generated application may still lose its entire history if a server disappears.\n\nLocal-first systems treat history as a first-class concept.\n\nYour archive should be portable, reconstructable, and independent of any single service.\n\n---\n\n**4. Network Optionality**\n\nLocal-first systems assume the network may fail.\n\nConnectivity becomes a feature, not a requirement.\n\nYou can still write, sign, and preserve work even when offline.\n\n---\n\nThese principles matter because we are entering a world where software will increasingly be generated automatically.\n\nIf generation becomes trivial, the real question becomes:\n\n**Who controls the identity and the data behind the software?**\n\nWithout sovereign custody, locally generated software may still be little more than a new interface for centralized systems.\n\nBut when local-first architecture is combined with sovereign identity, something different emerges.\n\nThe machine becomes more than a terminal.\n\nIt becomes a **node of authorship and authority**.\n\nAnd that shift may ultimately prove more important than AI itself.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773374933,
+  "id": "7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "614ffdaeac39fb9d45d0113ae33f8280363737188705e0a606777e5d71755fd2a0172d114e1e4ad9851d06fa2cf5318acba6cfe7801321a42a2759fbada68dc7",
+  "tags": [
+    [
+      "d",
+      "local-generation-is-not-the-same-as-local-sovereignty"
+    ],
+    [
+      "title",
+      "Local Generation Is Not the Same as Local Sovereignty"
+    ],
+    [
+      "published_at",
+      "1773374933"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "AI tools can now generate entire applications locally, but generation alone does not guarantee sovereignty. True local-first systems preserve custody of identity, data, and history."
+    ],
+    [
+      "display_date",
+      "2026-03-12"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "a56ede89718102075fde090ede74143d3abcb0531624e3405223a2365cb86d6f",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

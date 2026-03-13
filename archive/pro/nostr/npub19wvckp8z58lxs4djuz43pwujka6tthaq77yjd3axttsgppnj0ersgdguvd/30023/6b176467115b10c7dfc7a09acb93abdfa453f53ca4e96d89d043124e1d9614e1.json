@@ -1,0 +1,81 @@
+{
+  "content": "---\n\nIf you’re exploring **Nostr authentication**, **local-first infrastructure**, or **AI-assisted workflows**, I offer focused engagements that produce **working implementations and clear architectural direction** — not vague brainstorming.\n\n## Who this is for\n- **Consultants** who want a sovereign publishing + identity workflow and a clear story to bring to clients  \n- **SaaS founders** who want to reduce auth friction, credential risk, and operational overhead  \n- **Ministries** that want durable publishing, safer communication, and alternatives to fragile platform dependence  \n\n---\n\n## Offers\n\n### 1) Architecture Session (90 minutes) — **$500**\n\nA focused working session to map your current system and identify the highest-leverage improvements.\n\n**Good for**\n- Nostr authentication and signature workflows\n- Secure and practical AI workflow integration\n- Containerization and local-first deployment strategy\n- Publishing and identity architecture\n\n**You receive**\n- A written summary with recommended next steps\n- A simple architecture diagram (if helpful)\n- A prioritized action list\n\n---\n\n### 2) Implementation Sprint (1–2 weeks) — **Starting at $2,500**\n\nA short, outcome-driven build.\n\n**Examples**\n- Nostr authentication (challenge / verify / session) integrated into an existing application\n- Dockerized local-first architecture with repeatable setup and documentation\n- AI-assisted workflow pipeline design focused on privacy and control\n\n**You receive**\n- Working implementation\n- Documentation and handoff notes\n\n---\n\n### 3) Ministry Sovereign Infrastructure Audit — **$2,500**\n\nA practical review of your ministry’s publishing, communication, and donation rails with a sovereignty-first lens.\n\n**You receive**\n- Risk and dependency analysis (platform fragility / lock-in)\n- Sovereign publishing plan for durable authorship\n- Optional: Bitcoin / Lightning donation pathway strategy\n- Phased implementation roadmap\n\n---\n\n## Continuum (optional)\n\n**Continuum** is my local-first publishing and identity environment.  \nIf it’s a fit, I’ll help you incorporate it into your workflow.\n\n---\n\n## About me\n\nI’m the creator of **Continuum**, a local-first publishing and identity environment built on Nostr principles.\n\nOver the past **10 months**, I’ve written **hundreds of articles and notes** exploring sovereign identity, durable publishing, and AI-native workflows.\n\nI’m also currently drafting two books:\n\n- **Building Continuum**\n- **The Bitcoin Chronicles — Volume 1**\n\n---\n\n## Contact\n\n- DM me on **Nostr**\n- Email: **andrewgstanton@primal.net**",
+  "created_at": 1773376320,
+  "id": "6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7f20cbc984f3b28cbc99006ba6974529883d1894d8a9e3153d656208d71fe8122a5920f4b16915d01da77e4b3cce71e58c1c3e2049c8eb1685b4cd5e845bed62",
+  "tags": [
+    [
+      "d",
+      "work-with-andrew--sovereign-identity--ai-native-architecture"
+    ],
+    [
+      "title",
+      "Work With Andrew — Sovereign Identity + AI-Native Architecture"
+    ],
+    [
+      "published_at",
+      "1773376320"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-10"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "NostrDev"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "SovereignIdentity"
+    ],
+    [
+      "t",
+      "AIWorkflows"
+    ],
+    [
+      "t",
+      "SelfSovereignIdentity"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "StartupArchitecture"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "e",
+      "f37e5bd553b6f2c4116426e07125012ad28859332a8ba100e98f116388eb195f",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

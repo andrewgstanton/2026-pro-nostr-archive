@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanto - Thursday, March 12, 2026\n\n---\n\nAt first glance, many modern applications appear to run locally.\n\nYou install the software.  \nYou open it on your computer.  \nYou save files on your machine.\n\nBut under the surface, many of these systems are still deeply dependent on external infrastructure.\n\nYour data may be synced to remote servers.\n\nYour identity may rely on external login providers.\n\nYour history may be stored in proprietary formats tied to a platform.\n\nIn these cases, the system is only **superficially local**.\n\nThe illusion works because the interface lives on your machine.\n\nBut the real control points exist elsewhere.\n\nLocal-first architecture challenges this model.\n\nInstead of assuming the cloud is the center of the system, local-first systems assume the opposite:\n\n**Your machine is the center.**\n\nNetworks become optional extensions rather than dependencies.\n\nThis model introduces several advantages:\n\n- resilience when networks fail\n- long-term data durability\n- independence from platform policies\n- reduced attack surfaces\n\nIt also aligns more closely with how personal computing originally worked.\n\nEarly personal computers were powerful because they were self-contained.\n\nUsers could write, save, and run programs without asking permission from remote services.\n\nOver time, the industry shifted toward centralized infrastructure.\n\nCloud platforms simplified distribution and synchronization, but they also introduced dependency.\n\nLocal-first architecture seeks to restore balance.\n\nThe network still exists.\n\nBut it becomes a **tool**, not the foundation.\n\nIn a world where AI can generate entire applications in minutes, the real question is not how fast we can build software.\n\nThe real question is:\n\n**Who ultimately controls the results?**\n\nLocal-first systems provide one answer.\n\nThey put the user back at the center.\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).",
+  "created_at": 1773374855,
+  "id": "1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "78d76fa13d0766e70e7a5ff526c5cebdb10177c3fb59d462ccf355e8b017153ca36da634277b89784c0213d9a92ce739c94ada191300e5d0deaf6dc44a355115",
+  "tags": [
+    [
+      "d",
+      "the-illusion-of-local-software"
+    ],
+    [
+      "title",
+      "The Illusion of Local Software"
+    ],
+    [
+      "published_at",
+      "1773374855"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Many tools appear local but still depend on external infrastructure. True local-first architecture ensures users retain custody of their work."
+    ],
+    [
+      "display_date",
+      "2026-03-12"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "software architecture"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "e",
+      "099c2f42ab866f15d317460adf8542f4d4c93deb33a388dea44ca0367efb01ba",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
