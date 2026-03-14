@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773526241,
+  "tags": [
+    [
+      "d",
+      "note-1773374308"
+    ],
+    [
+      "published_at",
+      "1773526241"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6",
+      "edit"
+    ]
+  ],
+  "content": "3/12/2026 - Local Software\n\nLocally generated software is not automatically sovereign \n\nTrue local-first systems must preserve custody of identity and data.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "3fd839124778fd24c48d329bd144b1a0f7dbab683bc84010a182921dea68c069",
+  "sig": "e856af30ea006a8b0a27b67f2b19d525a85c9f42556bf0d740d50631d3dd8b66c6fd1a362fa15abdd643508da4950ce4a91ae7933b60bc47bbca6cbc45b94540",
+  "published": 1
+}

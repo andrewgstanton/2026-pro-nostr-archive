@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773526255,
+  "tags": [
+    [
+      "d",
+      "note-1773289081"
+    ],
+    [
+      "published_at",
+      "1773526255"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d",
+      "edit"
+    ]
+  ],
+  "content": "The Quiet Reality of Building - 3/11/2026\n\nOne thing that continues to surprise me is how quiet the response is to much of the work I'm publishing.\n\nToday I reflected again on the contrast between:\n\n• hundreds of articles written\n• a functioning software system\n• months of engineering effort\n\nversus the small number of reactions or comments online.\n\nBut this may simply be the nature of building early.\n\nThe internet rewards novelty, humor, and fast-moving memes.\n\nInfrastructure rarely attracts attention while it is being built.\n\nThe real value only becomes obvious **later**.\n\nSo the work continues.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "07464076232d1943595ee82e428af47c3bee62935483310180f1061311a379ae",
+  "sig": "976d92465adca7b885f2d42947a37d7020d4ba09d805ac7259c5b4037f9c87c328ba339ff4e1c5a5273827c3296639ba47bd0c8c1e250bd577a3c7391a84930a",
+  "published": 1
+}

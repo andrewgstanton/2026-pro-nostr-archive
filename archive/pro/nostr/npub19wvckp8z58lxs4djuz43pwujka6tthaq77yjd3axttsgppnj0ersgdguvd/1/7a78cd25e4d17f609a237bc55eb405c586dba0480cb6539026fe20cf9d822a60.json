@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773526193,
+  "tags": [
+    [
+      "d",
+      "note-1773374561"
+    ],
+    [
+      "published_at",
+      "1773526193"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d",
+      "edit"
+    ]
+  ],
+  "content": "3/12/2026 Sovereign custody \n\nSovereign custody involves control of identity, data, and history — not just where code is executed.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "7a78cd25e4d17f609a237bc55eb405c586dba0480cb6539026fe20cf9d822a60",
+  "sig": "e2f5595faa5f665a61bf706db3ed5d7d4078d9dbc92faea3d9f5e1c72478afabdafbe17eba3bd3f40cf2f19037c3b2ef34ee5922134d18594bb55c0882b59288",
+  "published": 1
+}

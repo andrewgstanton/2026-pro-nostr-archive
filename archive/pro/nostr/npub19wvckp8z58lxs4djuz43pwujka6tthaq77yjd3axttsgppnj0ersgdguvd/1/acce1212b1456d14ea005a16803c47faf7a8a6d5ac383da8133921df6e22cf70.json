@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773526209,
+  "tags": [
+    [
+      "d",
+      "note-1773374507"
+    ],
+    [
+      "published_at",
+      "1773526209"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c",
+      "edit"
+    ]
+  ],
+  "content": "3/12/2026 Architecture\n\nLocal-first architecture treats the machine as the primary node, \nwith networks acting as optional extensions.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "acce1212b1456d14ea005a16803c47faf7a8a6d5ac383da8133921df6e22cf70",
+  "sig": "55814aeba39102e8eb2bef3df7d552ded637f2341ac33e3759f04c7da38ea02e0eaaa3ee00a441be0cc396d50cb7d214617d84597fecf8e31ded88e8f2f3b071",
+  "published": 1
+}

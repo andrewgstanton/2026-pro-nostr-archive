@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773526136,
+  "tags": [
+    [
+      "d",
+      "note-1773418179"
+    ],
+    [
+      "published_at",
+      "1773526136"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65",
+      "edit"
+    ]
+  ],
+  "content": "The password internet is broken.\n\nEvery platform stores credentials.\nEvery breach leaks identities.\n\nCryptographic identity fixes this.\n\n#nostr #sovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "640ad3eaeb573b76643293ff85b8715f5bbdc286fbff3818bf192a44b7655a9f",
+  "sig": "91cb473d5fd0c9e3c174371ad41f3aba39d6273a67840974b279ac9aefd0e7af5744c1acf1e5763ade8e3c1b9e7cd0766ca3ce9a97fdbc655879d6ee22d55b11",
+  "published": 1
+}
