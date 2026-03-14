@@ -1,0 +1,36 @@
+{
+  "content": "The password internet is broken.\n\nEvery platform stores credentials.\nEvery breach leaks identities.\n\nCryptographic identity fixes this.\n\n#nostr #sovereignty",
+  "created_at": 1773418179,
+  "id": "afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6dd4f1f83e0349b7f67dc73eff5318385d501d3c2a7640e03dee28e9bc794fcb1b28fbc1bea31b27f3ad274e2959ed65c95893e5bf143a25deb74b4b5ad48552",
+  "tags": [
+    [
+      "d",
+      "note-1773418179"
+    ],
+    [
+      "published_at",
+      "1773418179"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
