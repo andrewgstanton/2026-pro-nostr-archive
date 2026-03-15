@@ -1,0 +1,51 @@
+{
+  "content": "---\n\nMarch 13 was a difficult day.\n\nFor most of the day I believed that the **California Franchise Tax payment was due March 15**, which created a constant background stress. Because the filing involves Form 568 and the $800 annual franchise tax, I assumed a payment had to be made immediately and began preparing to deal with it.\n\nTaxes are never pleasant, but the stress was compounded by something else that began happening in the late afternoon.\n\nAround **5:00 PM**, Google Drive started behaving strangely.\n\nSeveral filesystem operations inside my Continuum workspace began failing. I noticed file copy operations timing out when interacting with the `articles_local` directory. These are the JSON artifacts that store locally signed articles.\n\nErrors looked like this:\n\n```\ncp: articles_local/a2a19f52.json: Operation timed out\ncp: articles_local/c5850ed0.json: Operation timed out\ncp: articles_local/17db02f7.json: Operation timed out\ncp: articles_local/0d145086.json: Operation timed out\n```\n\nAt first the failures were confusing. The files themselves were not corrupt, and the system had been working normally earlier in the day.\n\nEventually it became clear that the likely cause was **Google Drive syncing interfering with local file access**.\n\nThe archives directory had been inside a Google Drive folder configured for offline sync. In theory this should work fine, but in practice cloud sync tools often hook deeply into the filesystem. When they try to reconcile changes or lock files, operations that normally complete instantly can suddenly hang or timeout.\n\nThis is exactly the kind of behavior that **local-first systems like Continuum are meant to avoid**.\n\nContinuum relies on deterministic local artifacts and predictable file operations. When a cloud sync service begins intercepting those operations, the reliability of the system degrades quickly.\n\nThe combination of **tax stress and technical instability** made the day mentally exhausting.\n\nStill, the work continued. Even on difficult days the rhythm of building, writing, and documenting moves forward.\n\nSome days progress feels smooth and productive.  \nOther days it feels like simply **pushing through resistance**.\n\nMarch 13 was the latter.\n\nBut even difficult days become part of the foundation of the work.\n\n---\n\nNOTE: I was feeling pretty dejected -- where the hell was I supposed to make the payment for April Mortgage (only have about 5K left).  I also had a call with Enoch Wang who was asking about Cafe Bianco purchase.",
+  "created_at": 1773561802,
+  "id": "22a146bffb3b1eb637bd0c4f13054ffada625208aa9e98e85228da56f7654941",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6c90bee6c1f574de2bf9843ff89730388d75db7ed1cab8d2cf711b2274a8515431df2693284d02332c938a11db9b5b7aea4c6c405e986f319caa97d3282ac30a",
+  "tags": [
+    [
+      "d",
+      "march-13-2026--stress-sync-failures-and-endurance"
+    ],
+    [
+      "title",
+      "March 13, 2026 — Stress, Sync Failures, and Endurance"
+    ],
+    [
+      "summary",
+      "March 13 was a difficult and stressful day marked by anxiety over a misunderstood California franchise tax deadline and unexpected filesystem failures caused by Google Drive sync interfering with local Continuum archives."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builderlog"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "essonslearned"
+    ],
+    [
+      "display_date",
+      "2026-03-14"
+    ]
+  ],
+  "published": 0
+}

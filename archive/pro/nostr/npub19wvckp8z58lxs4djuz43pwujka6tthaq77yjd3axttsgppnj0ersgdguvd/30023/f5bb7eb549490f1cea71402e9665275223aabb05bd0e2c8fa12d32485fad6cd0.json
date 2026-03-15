@@ -1,0 +1,51 @@
+{
+  "content": "---\n\nThe morning of March 14 began by addressing the technical problems discovered the night before.\n\nThe filesystem timeouts affecting Continuum artifacts appeared to be caused by **Google Drive synchronization interfering with local directories**. Because Continuum relies heavily on predictable file operations, this kind of interference is unacceptable.\n\nThe solution was straightforward but important.\n\nAll Continuum archive directories were moved **out of the Google Drive synced folder** and placed into a local shared directory called:\n\n*archives/*\n\n\nOnce the directories were relocated, the environment stabilized immediately.\n\nFile operations stopped timing out.  \nArtifacts copied normally again.  \nThe Continuum workspace returned to its expected behavior.\n\nTo prevent the issue from reappearing, **Google Drive auto-start was disabled** so that it would no longer attempt to sync local archive repositories.\n\nThis change reinforced an important lesson:  \ncloud sync tools are convenient, but they often behave unpredictably when interacting with systems designed to be **local-first and deterministic**.\n\n---\n\n### Tax Clarification\n\nLater in the afternoon I resumed work on the California franchise tax filing.\n\nWhile filling out **Form 568**, I discovered that the payment deadline was actually **April 15**, not March 15 as I had believed the day before.\n\nThe moment that became clear, a large amount of stress disappeared.\n\nThe LLC itself is relatively simple:\n\n- It holds **no California properties**\n- It is treated as a **disregarded entity**\n\nSo the filing process should remain straightforward.\n\nWhat had felt urgent the previous day turned out to have **another full month of runway**.\n\n---\n\n### Writing and Sabbath Reflection\n\nWith the technical environment stabilized and the tax pressure reduced, the evening became more reflective.\n\nSeveral articles and notes were written focusing on **Sabbath rest**.\n\nThe Sabbath theme is not merely about stopping work. It is about stepping out of constant striving and remembering that work itself is not the ultimate source of life or provision.\n\nThere is a rhythm to creation:\n\nwork, rest, renewal.\n\nWriting about Sabbath after a stressful day helped restore perspective.  \nIt reminded me that the deeper purpose of building is not endless activity but **faithful stewardship over time**.\n\n---\n\n### Continuum Authentication Design\n\nLater in the evening, work resumed on architecture for a **hosted Continuum client**.\n\nThe design being explored uses a **challenge–response authentication flow** based on Nostr keys.\n\nThe process works like this:\n\n1. A hosted client issues a **challenge**.\n2. The local Continuum instance **signs the challenge using the user’s Nostr key**.\n3. The hosted client **verifies the signature**.\n4. If the signature is valid, the user is considered authenticated.\n\nThis approach has several advantages:\n\n- the private key (`nsec`) **never leaves the local machine**\n- no third-party signing service is required\n- authentication remains consistent with **Nostr identity principles**\n\nIt effectively allows a user to **log in to a hosted client while still maintaining local key custody**.\n\nThis fits naturally with the broader Continuum philosophy of **sovereign identity and local-first infrastructure**.\n\n---\n\n### Closing Thoughts\n\nMarch 13 was chaotic and stressful.\n\nMarch 14 brought clarity and stabilization.\n\nBy the end of the day:\n\n- the archive environment was hardened\n- the tax deadline confusion was resolved\n- several Sabbath reflections were written\n- a new authentication architecture for Continuum began taking shape\n\nSometimes the most productive outcome of a difficult stretch is simply **regaining stability and perspective**.\n\nAnd once those return, the work continues.",
+  "created_at": 1773561830,
+  "id": "f5bb7eb549490f1cea71402e9665275223aabb05bd0e2c8fa12d32485fad6cd0",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "32b4ca678006d53c7a4e5ec6701f9ee6fd2f45420e938b1c041ec86afdeff760db58695b3b121f0c3508f34f94906f48c3b48923b61a089413af2fc3843f182e",
+  "tags": [
+    [
+      "d",
+      "march-14-2026--stabilizing-the-environment-and-returning-to-sabbath"
+    ],
+    [
+      "title",
+      "March 14, 2026 — Stabilizing the Environment and Returning to Sabbath"
+    ],
+    [
+      "summary",
+      "March 14 focused on stabilizing the Continuum environment by removing Google Drive from the archive workflow, clarifying the actual California tax deadline, writing Sabbath-focused reflections, and designing an authentication flow for a hosted Continuum client."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "builderlog"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "display_date",
+      "2026-03-14"
+    ]
+  ],
+  "published": 0
+}
