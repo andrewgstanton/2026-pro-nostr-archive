@@ -1,0 +1,40 @@
+{
+  "content": "The Shape of the Week - 3/14/2026\n\nSummary\n\n- The presence of Sabbath gives structure to the entire week.\n\nSabbath does not only affect one day.\n\nIt shapes the entire week.\n\nWithout Sabbath, work expands endlessly.\n\nThere is always another task.\n\nAnother project.\n\nAnother responsibility.\n\nBut when a day is set apart, the week gains structure.\n\nWork has a boundary.\n\nLife regains rhythm.\n\n> “Six days you shall labor and do all your work, but the seventh day is a Sabbath to the Lord your God.”  \n> — Exodus 20:9–10\n\n\n#sabbath #rhythm #time",
+  "created_at": 1773540979,
+  "id": "f3199e4e55d7c80e15b3bfb81da8a4a1c11aae1b69fea9f1c4d2fa642311f10f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05638621639768c16bc6bcfe6c631e2bd59caef0e354b8d1b408e00e7cf623f02ed199c47d4853666c81c5647e64586e8fd509f0aa2b310b8f1ef1b179364aa3",
+  "tags": [
+    [
+      "d",
+      "note-1773540979"
+    ],
+    [
+      "published_at",
+      "1773540979"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "rhythm"
+    ],
+    [
+      "t",
+      "time"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "content": "scheduled note -- 5 min from now",
+  "created_at": 1773537831,
+  "id": "6d76a45ceae239a37103af70d0079bc4556c35abdb074d869ab0eb532decd5cf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7f8d3ad8fa2bc118f0c68891102c2002d2350332f38f25881f277d0d572f179fccbe23ec1c030186b4784b0018930dd17adf046abee066e58da762b6dec8a495",
+  "tags": [
+    [
+      "d",
+      "note-1773537831"
+    ],
+    [
+      "published_at",
+      "1773537831"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

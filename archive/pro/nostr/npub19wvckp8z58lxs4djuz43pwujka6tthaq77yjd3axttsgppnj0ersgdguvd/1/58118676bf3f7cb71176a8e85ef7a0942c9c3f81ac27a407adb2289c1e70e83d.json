@@ -1,0 +1,40 @@
+{
+  "content": "Perspective 3/14/2026\n\nSummary \n\n- Sabbath restores perspective when the pressures of the week distort what truly matters.\n\nDuring the week it is easy for small problems to feel enormous.\n\nEmails.  \nDeadlines.  \nDecisions.\n\nBut when the pace pauses, perspective returns.\n\nThings that felt urgent become smaller.\n\nThings that truly matter become clearer.\n\nSabbath gives space for that realignment.\n\n> “Be still, and know that I am God.”  \n> — Psalm 46:10\n\n#sabbath #perspective #life",
+  "created_at": 1773540725,
+  "id": "58118676bf3f7cb71176a8e85ef7a0942c9c3f81ac27a407adb2289c1e70e83d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "88aa9560c1eaf2a6c8bedcb87302369bcaf0efdbaeb0a0b7905d3eb1cee87c5e4bcf7708b872ebcc4eb73cc0a5056faa0b5c2931b42f0ab96fc2d6957699e747",
+  "tags": [
+    [
+      "d",
+      "note-1773540725"
+    ],
+    [
+      "published_at",
+      "1773540725"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "perspective"
+    ],
+    [
+      "t",
+      "life"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

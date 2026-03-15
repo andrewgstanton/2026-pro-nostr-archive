@@ -1,0 +1,40 @@
+{
+  "content": "Sabbath and Freedom - 3/14/2026\n\nSummary\n\n- Sabbath is rooted in freedom from slavery and endless labor.\n\n\nSabbath was given to a people who had once been slaves.\n\nIn Egypt their time did not belong to them.\n\nTheir labor was demanded.\n\nTheir rest was controlled.\n\nWhen God delivered Israel, Sabbath became a declaration of freedom.\n\nOne day each week the system of endless labor stopped.\n\nSabbath reminds us that human life was never meant to exist in permanent servitude.\n\n> “Remember that you were slaves in Egypt and that the Lord your God brought you out.”  \n> — Deuteronomy 5:15\n\n\n#sabbath #freedom #exodus",
+  "created_at": 1773540848,
+  "id": "0909df431a946328cb737431bab14f0300422a622ce436e672d5416d4f05753e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3fc76d402612e51ab9e74db66249c35717b7469fd26cf647754e3f510992e8d3dd66f7f5f97fea8547abe85b6a6b1b48df091907393cfc99366f64da11f25d93",
+  "tags": [
+    [
+      "d",
+      "note-1773540848"
+    ],
+    [
+      "published_at",
+      "1773540848"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "exodus"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

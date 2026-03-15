@@ -1,0 +1,40 @@
+{
+  "content": "Remembering - 3/14/2026\n\nSummary\n\n- Sabbath is an act of remembering the story we belong to.\n\nThe Sabbath command begins with a word that is easy to overlook.\n\nRemember.\n\nSabbath calls us to remember where life comes from.\n\nRemember creation.\n\nRemember redemption.\n\nRemember that our lives are not sustained by our own strength alone.\n\nWithout remembrance, life slowly drifts into forgetfulness.\n\nSabbath restores memory.\n\n> “Remember the Sabbath day, to keep it holy.”  \n> — Exodus 20:8\n\n#sabbath #memory #scripture",
+  "created_at": 1773540582,
+  "id": "1a4aefa8b06cf68dae052efce015a8520f4cd12be6d16de2586e5c7421571c79",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8edcf9d637ed76e3db51d337696265ab2fa8d97bb9d76ca140a97af7d0ad970c25edaf06e8fab9ea235500e816972de0c70d22d336032e1c6788d33435137573",
+  "tags": [
+    [
+      "d",
+      "note-1773540582"
+    ],
+    [
+      "published_at",
+      "1773540582"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "memory"
+    ],
+    [
+      "t",
+      "scripture"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
