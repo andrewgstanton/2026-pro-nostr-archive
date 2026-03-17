@@ -1,0 +1,55 @@
+{
+  "content": "Andrew G. Stanton - Monday, March 16, 2026\n\n---\n\nToday was about turning the manuscript into something publishable.\n\nAfter yesterday’s full review, I now have a **complete manuscript** for *Building Continuum*. That alone is a significant milestone.\n\nBut instead of stopping there, the focus shifted immediately into **production infrastructure**.\n\nWork included:\n- preparing the manuscript for EPUB generation  \n- structuring metadata (title, author, ISBN, publisher, etc.)  \n- building and refining scripts for repeatable EPUB creation  \n- testing output in Kindle Previewer  \n- identifying gaps between “content complete” and “publication ready”  \n\nThis is where writing meets engineering.\n\nThe book is no longer just content — it is becoming:\n- a file format\n- a pipeline\n- a repeatable system\n\nThat aligns directly with the deeper philosophy behind Continuum:\n\n**Publishing should be owned, repeatable, and local-first — not dependent on external platforms.**\n\nEven in this early version, the pipeline is starting to take shape:\n- source → structured markdown  \n- metadata → YAML  \n- scripts → EPUB output  \n- validation → preview tools  \n\nThere are still rough edges (formatting quirks, metadata behavior, tooling friction), but the core loop now exists.\n\nThat is the important part.\n\n## Closing Reflection\n\nFinishing the manuscript is one milestone.\n\nBuilding the system to publish it — on your own terms — is another.\n\nToday marked the beginning of that second phase.",
+  "created_at": 1773730009,
+  "id": "b8211f9d9d8fbd81661e8113d126b416dbffbc25b9dfeac0fbf4a34a8c46e230",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f680019cfd19d5e19798ed16f83a813dfa9c1e0650e5cd7974c7b55fda67b660c756c0353c93c1cefba28ca2d5f45271b3540d4a435a97d77d5aa234857b2ff6",
+  "tags": [
+    [
+      "d",
+      "builder-journal--march-16-2026"
+    ],
+    [
+      "title",
+      "Builder Journal — March 16, 2026"
+    ],
+    [
+      "summary",
+      "Transitioned from manuscript completion into production. Finalized a complete version of *Building Continuum* and began building and refining EPUB publishing scripts and tooling."
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "daily-journal"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "epub"
+    ],
+    [
+      "t",
+      "tooling"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "display_date",
+      "2026-03-15"
+    ]
+  ],
+  "published": 0
+}
