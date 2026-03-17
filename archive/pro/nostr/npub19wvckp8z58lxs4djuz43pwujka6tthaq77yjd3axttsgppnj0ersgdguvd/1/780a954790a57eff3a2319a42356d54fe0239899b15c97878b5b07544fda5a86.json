@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732183,
+  "tags": [
+    [
+      "d",
+      "note-1773731853"
+    ],
+    [
+      "published_at",
+      "1773732183"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "681c4f0b49630e4e69687766c5cfe286633b41af01f2c8f33ced3dc14d629e93",
+      "edit"
+    ]
+  ],
+  "content": "5. The second book is always more practical.  - 3/15/2026\n\nThe first book explains why.\n\nThe second book starts answering:\n\nhow to build\n\nhow to operate\n\nhow to replicate\n\nThat’s where things become useful to others.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "780a954790a57eff3a2319a42356d54fe0239899b15c97878b5b07544fda5a86",
+  "sig": "9cb3883870e0b3e0a47ffa7a5ebdb7355e648f76c8b74ae234bb874b199c6adeba39a6c7acb81f750ea54794ca96410d56d48fbcd97f6736c1d74ba517bb7a56",
+  "published": 1
+}

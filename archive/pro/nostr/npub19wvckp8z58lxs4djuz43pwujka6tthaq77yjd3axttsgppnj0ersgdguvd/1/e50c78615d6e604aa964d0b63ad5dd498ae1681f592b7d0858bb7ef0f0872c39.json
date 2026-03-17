@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732156,
+  "tags": [
+    [
+      "d",
+      "note-1773731772"
+    ],
+    [
+      "published_at",
+      "1773732156"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "bdf627225abf1919335be00fc84c2316d289cb2a90c1763c43335bd5136a7092",
+      "edit"
+    ]
+  ],
+  "content": "3. Tools matter more at the end than the beginning - 3/15/2026\n\nEarly on, you can write anywhere.\n\nBut finishing requires:\n\nformatting discipline\n\nexport workflows\n\nconsistency\n\nThe last 10% is technical.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e50c78615d6e604aa964d0b63ad5dd498ae1681f592b7d0858bb7ef0f0872c39",
+  "sig": "79f1eb7bcfb57eadf42b17caa84cc688f3d15258effd9e0c23e956f9daf857823653bcf223bf1668d4f1e0460f434d1bbef884854b626d9fdd564dbb026ab832",
+  "published": 1
+}

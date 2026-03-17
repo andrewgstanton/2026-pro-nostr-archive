@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732139,
+  "tags": [
+    [
+      "d",
+      "note-1773731729"
+    ],
+    [
+      "published_at",
+      "1773732139"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "5fb5414203b57283ee591cb34ee401fca18a4e7f28955e0b625ce8d9c2ba0f8c",
+      "edit"
+    ]
+  ],
+  "content": "2. A finished manuscript is a different kind of problem. - 3/15/2026\n\nGetting close to completion doesn’t simplify things.\n\nIt changes the question from:\n\n“What should I write?”\n\nto:\n\n“How should this be delivered?”",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "7d5c7a2f75832a6e22bd3c3ff01849d593ca154034df99087795888328806913",
+  "sig": "12ed9885eaa1bd031c78e84992288181288600a380bd818ecbb9a6801a39c53a4750469b582d6da2ac79095879964af9c3e9fb2a44e40be5b822a0aa388da243",
+  "published": 1
+}

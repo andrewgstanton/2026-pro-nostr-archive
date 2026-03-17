@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732243,
+  "tags": [
+    [
+      "d",
+      "note-1773731482"
+    ],
+    [
+      "published_at",
+      "1773732243"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "ccd220b5a16d6b17b0a17cc7ecd3437a8317a7d29d1a58bf799e6e7ecd39c718",
+      "edit"
+    ]
+  ],
+  "content": "2. Publishing should be a pipeline, not an event - 3/16/2026\n\nWriting a book is one thing.\n\nBut building a repeatable pipeline to:\n\nformat\n\nexport\n\npublish\n\nThat’s how you go from one book → many works.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "3ac23159ae15be21a00d98c734fa0baaf519c4ced32b65fe656a5faef251829a",
+  "sig": "b00330cf030f0aac62aa022fefb8e9c4535e57f98581c90650e910cbc20201e569050b73bafb76966b44120465410b8b787ecc6b5170b3d96db4719f4d05b3c4",
+  "published": 1
+}

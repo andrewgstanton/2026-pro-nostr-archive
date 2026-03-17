@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732313,
+  "tags": [
+    [
+      "d",
+      "note-1773731635"
+    ],
+    [
+      "published_at",
+      "1773732313"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "570a34a1b38af1beb57c684bad97105b642667df4e92d92077e56034d1403aab",
+      "edit"
+    ]
+  ],
+  "content": "5. Building in silence is still building - 3/16/2026\n\nNo launch. No applause.\n\nBut today:\n\nthe manuscript moved forward\n\nthe pipeline improved\n\nthe system got stronger\n\nNot everything valuable is visible.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "af2fd0483d1a07adc0de798f3c25a3f8ad2f7d8f5ab5a3ee0ec886873ff2d1e0",
+  "sig": "8478804710d0409282bec855d5286bf9662757da4c898b7f056f7158b613ba12fb9814882b076abb6753e11da6c56149ec8087c3b62e8f814f50212638672c75",
+  "published": 1
+}

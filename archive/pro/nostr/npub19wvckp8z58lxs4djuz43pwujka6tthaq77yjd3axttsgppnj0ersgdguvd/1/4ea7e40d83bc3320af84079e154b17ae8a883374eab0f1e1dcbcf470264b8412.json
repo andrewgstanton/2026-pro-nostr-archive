@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732124,
+  "tags": [
+    [
+      "d",
+      "note-1773731685"
+    ],
+    [
+      "published_at",
+      "1773732124"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "3db6910c95843630aa1933d09463702073901a7db7cc8ed9d91c8495a5216c26",
+      "edit"
+    ]
+  ],
+  "content": "1. Editing is where the real writing happens - 3/15/2026\n\nDrafting gets attention.\n\nBut editing is where:\n\nclarity emerges\n\nstructure solidifies\n\ntruth sharpens\n\nMost people quit before this stage.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4ea7e40d83bc3320af84079e154b17ae8a883374eab0f1e1dcbcf470264b8412",
+  "sig": "6d790bc70d331b2479235127523bf163967ec534e0b00aa550ba9a0ad111174e14af618347444088984f921a756a23ccf4d053adf04cf6d91f3b0c57fcb665a4",
+  "published": 1
+}

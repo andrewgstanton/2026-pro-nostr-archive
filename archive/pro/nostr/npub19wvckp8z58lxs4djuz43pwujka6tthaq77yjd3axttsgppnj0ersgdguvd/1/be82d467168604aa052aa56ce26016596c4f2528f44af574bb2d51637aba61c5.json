@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732279,
+  "tags": [
+    [
+      "d",
+      "note-1773731530"
+    ],
+    [
+      "published_at",
+      "1773732279"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "3af199d5284e11dd3034d7a29f9152fdf00ff4eb6c692a56a0fde8758fcf0193",
+      "edit"
+    ]
+  ],
+  "content": "3. Local-first is not a philosophy — it’s a constraint - 3/16/2026\n\nRunning out of disk space today wasn’t just annoying.\n\nIt’s a reminder:\n\nIf you choose local-first, you inherit:\n\nstorage limits\n\nfile management\n\noperational responsibility\n\nThat’s the tradeoff for ownership.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "be82d467168604aa052aa56ce26016596c4f2528f44af574bb2d51637aba61c5",
+  "sig": "4018bb94c6489ab0b0a03584f8317e9dc0285c4e2aa8f2beb79ca965733e3ea41d044402e648d745eab182759de6ba997bfbd61c04c24053b7247ec2790e6ec0",
+  "published": 1
+}

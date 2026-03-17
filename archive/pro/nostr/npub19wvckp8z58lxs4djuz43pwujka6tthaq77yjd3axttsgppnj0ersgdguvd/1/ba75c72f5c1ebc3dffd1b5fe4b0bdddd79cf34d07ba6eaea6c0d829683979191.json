@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773732171,
+  "tags": [
+    [
+      "d",
+      "note-1773731814"
+    ],
+    [
+      "published_at",
+      "1773732171"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "b648e22b10c070de3c1862b9be90ee8f905abbb64b10c1a87a2daba6b88b369e",
+      "edit"
+    ]
+  ],
+  "content": "4. If you can’t publish it yourself, you don’t control it - 3/15/2026\n\nA manuscript without a publishing path is still dependent.\n\nReal ownership means:\n\nyou can produce the file\n\nyou can distribute it\n\nyou don’t need permission",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "ba75c72f5c1ebc3dffd1b5fe4b0bdddd79cf34d07ba6eaea6c0d829683979191",
+  "sig": "64074b0d45d2f1803ad6e564283b91366747d410d86c95bee923e8f573c2cb3228d26e82ce0035b2393ed5b138010c041c0d54be7391890a817411909c9e32f1",
+  "published": 1
+}
