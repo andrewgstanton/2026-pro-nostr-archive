@@ -1,0 +1,28 @@
+{
+  "id": "88eb751951a1b3ffe68f66b87c1458ea3db349c2a86eeb074366edd9030e9a50",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1773679997,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:0271e1b9ad97e3f15ed742327c5cea3493bd66280611638b7a0f6e28ad8cff90:S0w24EjzkEeHu7YDSCyW2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "0271e1b9ad97e3f15ed742327c5cea3493bd66280611638b7a0f6e28ad8cff90",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very interesting I have written a number of essays reflecting on the parallels of Bitcoin and Christianity very interesting ",
+  "sig": "a623ed4dff2bebe08c5da51c802fdcdb1172c8f35a2d289096b53a2186a665c9181af210750ea20d4f458ce4bf48e07c1f49b977e28f6d35fe4b6e60c78b4fb7",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
