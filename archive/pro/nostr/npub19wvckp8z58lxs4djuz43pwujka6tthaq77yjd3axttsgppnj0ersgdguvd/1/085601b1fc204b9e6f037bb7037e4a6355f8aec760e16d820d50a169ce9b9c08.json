@@ -1,0 +1,28 @@
+{
+  "content": "Faith That Moves Quietly - 3/17/2026\n\nPatrick didn’t build platforms.\n\nHe didn’t optimize for reach.\n\nHe just lived what he believed, consistently, over time.\n\nAnd somehow, that was enough to leave a mark that lasted centuries.\n\nThere’s something in that worth remembering.",
+  "created_at": 1773789636,
+  "id": "085601b1fc204b9e6f037bb7037e4a6355f8aec760e16d820d50a169ce9b9c08",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "438c72d7d136edd4c5420269e479bd9e38653187d91908807952b2f13fa8df724fd840a4ee9e59b989ccd52d19d33420e6563699582a81a36fa97ab8d2d083a2",
+  "tags": [
+    [
+      "d",
+      "note-1773789636"
+    ],
+    [
+      "published_at",
+      "1773789636"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

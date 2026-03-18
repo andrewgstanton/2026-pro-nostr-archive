@@ -1,0 +1,28 @@
+{
+  "content": "A Bit of Irish Blood - 3/17/2026\n\nSomewhere in the mix—Scots-Irish roots.\n\nIt’s funny how those threads carry forward.\n\nEven if distant, there’s a sense of connection. Not in a loud or defining way, but just enough to notice.\n\nA small thread in a much larger story.",
+  "created_at": 1773789557,
+  "id": "914d859a641f8b7af425e01999c6b9491ad5c380551da7b3f1930093cea5b7d3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c00f873ea25af178c4df34088b4acba311f3cc304959ac82bf30aa1cf8329e9d5da1787a3e1efa90295a3d426748ff78fda3c70d6e9a05582d0eb7dfec71469b",
+  "tags": [
+    [
+      "d",
+      "note-1773789557"
+    ],
+    [
+      "published_at",
+      "1773789557"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

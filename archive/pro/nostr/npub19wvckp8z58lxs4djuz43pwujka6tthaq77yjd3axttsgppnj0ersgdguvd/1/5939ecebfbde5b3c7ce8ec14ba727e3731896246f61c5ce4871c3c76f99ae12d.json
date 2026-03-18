@@ -1,0 +1,28 @@
+{
+  "content": "A Quiet Kind of Celebration - 3/17/2026\n\nSt. Patrick’s Day always feels a little different than the usual holidays.\n\nIt’s not loud (unless we make it that way), and it’s not really about spectacle.\n\nAt its root, it’s about a man who walked into a foreign land—not to conquer it, but to serve.\n\nThere’s something grounding in that.\n\nNot performance. Not recognition.\n\nJust faithfulness over time.",
+  "created_at": 1773789421,
+  "id": "5939ecebfbde5b3c7ce8ec14ba727e3731896246f61c5ce4871c3c76f99ae12d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f55ad1aa87ac1cf33b6a0f9bd40de21114602caa96f43a739188db67f6e74390f9d3196f7a4934dd88b64f0c5e79e355b027e72a01321adfa9c5c678517ec39b",
+  "tags": [
+    [
+      "d",
+      "note-1773789421"
+    ],
+    [
+      "published_at",
+      "1773789421"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

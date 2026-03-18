@@ -1,0 +1,28 @@
+{
+  "content": "Simple Joy Today - 3/17/2026\n\nNo need to overthink today.\n\nA good meal. A bit of green. Maybe a moment outside.\n\nNot everything has to be optimized or turned into output.\n\nSome days are just meant to be lived lightly.",
+  "created_at": 1773789602,
+  "id": "45b8fd6fda1c7ee3fb02323f8c97ecf1f96c02378e76ecf3822a9e560c373250",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0e306b651ff78cc8b81da42dc7c3a0b209dcd2a905c26ccbf2380603e860bb52b76389a2478ad63c65652b981775a508a57a28fa62bd11e9adbe17573723ff0a",
+  "tags": [
+    [
+      "d",
+      "note-1773789602"
+    ],
+    [
+      "published_at",
+      "1773789602"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

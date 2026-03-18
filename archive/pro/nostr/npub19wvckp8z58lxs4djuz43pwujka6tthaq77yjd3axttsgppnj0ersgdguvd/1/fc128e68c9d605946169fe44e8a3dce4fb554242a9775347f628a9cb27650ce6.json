@@ -1,0 +1,28 @@
+{
+  "content": "St. Patrick Wasn’t Irish - 3/17/2026\n\nOne of the more interesting details—Patrick wasn’t even Irish.\n\nHe was taken there as a slave, escaped, and then chose to go back.\n\nNot out of obligation, but conviction.\n\nThat kind of return… that’s rare.\n\nIt reframes the whole idea of “mission” from something abstract into something deeply personal.",
+  "created_at": 1773789467,
+  "id": "fc128e68c9d605946169fe44e8a3dce4fb554242a9775347f628a9cb27650ce6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ff56377380c43950b31e075df828d1ab30690f9b23a34e77c35c617eda2b891fda591ac4271207287003c765dd77fdb626fe7197efdc98601d7a9db985741507",
+  "tags": [
+    [
+      "d",
+      "note-1773789467"
+    ],
+    [
+      "published_at",
+      "1773789467"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
