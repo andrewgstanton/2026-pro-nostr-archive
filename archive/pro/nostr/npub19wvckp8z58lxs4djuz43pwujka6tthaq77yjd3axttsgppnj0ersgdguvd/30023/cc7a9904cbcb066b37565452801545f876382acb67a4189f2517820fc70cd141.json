@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 15, 2026\n\n---\n\nResistance rarely appears at the beginning.\n\nAt the start, everything feels open. There is energy, curiosity, and a sense of momentum. The work has not yet encountered friction because it has not yet reached depth.\n\nBut as the work continues, something changes.\n\nWhat was once easy becomes difficult.\n\nWhat once flowed begins to stall.\n\nAnd this shift can be confusing.\n\nBecause it feels like something is wrong.\n\nBut often, nothing is wrong.\n\nResistance is not always a signal of misalignment.\n\nSometimes, it is a signal of significance.\n\nIt appears when the work begins to move beyond surface-level effort.\n\nWhen it starts to require real attention.\n\nWhen it demands consistency rather than bursts of motivation.\n\nThis is where many things stop.\n\nNot because they cannot continue, but because resistance is misinterpreted.\n\nIt is seen as a barrier rather than a threshold.\n\nA sign to step back rather than a point to push through.\n\nBut resistance has a different function.\n\nIt filters.\n\nIt separates casual effort from committed work.\n\nIt ensures that only what is sustained continues forward.\n\nThis is why resistance often increases as the work becomes more meaningful.\n\nBecause meaningful work requires continuity.\n\nAnd continuity requires discipline.\n\nDiscipline is not the absence of resistance.\n\nIt is the ability to continue in its presence.\n\nTo recognize that friction does not invalidate the work.\n\nIt simply changes the conditions under which the work must be done.\n\nThis shift is subtle but important.\n\nBecause once resistance is understood as part of the process, it loses its power to stop progress.\n\nIt becomes something to move through, not something to avoid.\n\nAnd over time, this changes the relationship to work itself.\n\nIt is no longer driven by ease.\n\nIt is sustained by intention.\n\nThe work continues not because it feels good, but because it matters.\n\nAnd that distinction creates durability.\n\nBecause work that depends on ease will stop when things become difficult.\n\nWork that is anchored in intention will continue.\n\nEven when the path is not smooth.\n\n“Let us run with perseverance the race marked out for us.”  \n— Hebrews 12:1\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).\n\nNOTE: If you directly pay in sats it is  automatically **10% off any engagement or purchase.**\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n---\n\n## Copyright\n\n© 2025-2026 Continuum — All rights reserved.",
+  "created_at": 1773790838,
+  "id": "cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d46cc498a6548a09626f1cc66034e67eeaea293d643048b9d24553cd50a2e2392f5977b234330c43f19b92976be70264e16982389f7fdbefbb9fae927a0d7310",
+  "tags": [
+    [
+      "d",
+      "working-through-resistance"
+    ],
+    [
+      "title",
+      "Working Through Resistance"
+    ],
+    [
+      "summary",
+      "Resistance often appears when work begins to matter. This article explores the nature of internal friction—not as a signal to stop, but as a signal that something meaningful is being formed."
+    ],
+    [
+      "published_at",
+      "1773790838"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resistance"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "display_date",
+      "2026-03-15"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Sunday, March 15, 2026\n\n---\n\nNoise is constant.\n\nInformation flows continuously.\n\nUpdates, messages, content—there is always something new.\n\nAnd because it is always present, it creates a kind of pressure.\n\nA pressure to stay engaged.\n\nTo remain aware.\n\nTo respond.\n\nThis can feel productive.\n\nBut often, it is not.\n\nBecause constant engagement fragments attention.\n\nIt divides focus into smaller and smaller segments.\n\nAnd over time, this makes depth difficult.\n\nDepth requires continuity.\n\nIt requires sustained attention.\n\nIt requires the ability to remain with something long enough to understand it fully.\n\nBut noise interrupts that process.\n\nIt pulls attention away before depth can be reached.\n\nAnd when this happens repeatedly, work becomes shallow.\n\nNot because of lack of ability, but because of lack of continuity.\n\nThis is why depth must be chosen.\n\nIt does not happen automatically.\n\nIt requires boundaries.\n\nA willingness to step away from constant input.\n\nA decision to prioritize focus over reaction.\n\nThis is not always comfortable.\n\nBecause stepping away from noise can feel like missing something.\n\nBut in reality, it creates space.\n\nSpace to think.\n\nSpace to build.\n\nSpace to understand.\n\nAnd within that space, depth becomes possible.\n\nDepth changes the nature of work.\n\nIt moves beyond surface-level output.\n\nIt allows ideas to develop fully.\n\nIt creates clarity.\n\nBecause clarity does not emerge from constant input.\n\nIt emerges from sustained attention.\n\nThe challenge is that depth is slower.\n\nIt does not produce immediate results.\n\nIt does not align with systems optimized for speed and visibility.\n\nBut it produces something those systems cannot:\n\nUnderstanding.\n\nAnd understanding creates strength.\n\nIt allows work to be grounded.\n\nTo be coherent.\n\nTo be meaningful.\n\nWithout depth, work remains reactive.\n\nWith depth, it becomes intentional.\n\n“Be still, and know that I am God.”  \n— Psalm 46:10\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).\n\nNOTE: If you directly pay in sats it is  automatically **10% off any engagement or purchase.**\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n---\n\n## Copyright\n\n© 2025-2026 Continuum — All rights reserved.",
+  "created_at": 1773790939,
+  "id": "fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "55707752ffbd2249245e7bba0f8e4f65a2f6c73674f17b5b475998325b6c8e5f6c6d57103cf5009a68757315a130770989c82f0c327986065d02884e5312a81d",
+  "tags": [
+    [
+      "d",
+      "choosing-depth-over-noise"
+    ],
+    [
+      "title",
+      "Choosing Depth Over Noise"
+    ],
+    [
+      "summary",
+      "In a world saturated with information, depth becomes a deliberate choice. This article reflects on the decision to focus deeply rather than react constantly."
+    ],
+    [
+      "published_at",
+      "1773790939"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "depth"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "display_date",
+      "2026-03-15"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

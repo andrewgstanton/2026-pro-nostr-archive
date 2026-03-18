@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Sunday, Match 15, 2026\n\n---\n\nMomentum creates the illusion of stability.\n\nWhen things are moving forward, it feels like they will continue to do so.\n\nProgress becomes expected.\n\nFlow becomes normal.\n\nAnd because of that, it is easy to assume that momentum will sustain itself.\n\nBut momentum is not self-sustaining.\n\nIt is conditional.\n\nIt depends on continuity.\n\nAnd continuity depends on consistency.\n\nThis is where fragility emerges.\n\nBecause even small disruptions can break momentum.\n\nA delay. A distraction. A shift in focus.\n\nIndividually, these seem insignificant.\n\nBut collectively, they interrupt the pattern.\n\nAnd once the pattern is broken, restarting becomes harder.\n\nNot because the work has changed, but because the rhythm has been lost.\n\nThis is why momentum feels fragile.\n\nIt is not anchored in the work itself.\n\nIt is anchored in the pattern of engagement with the work.\n\nAnd patterns can be disrupted easily.\n\nThe challenge, then, is not just to build momentum, but to stabilize it.\n\nTo create conditions where continuity is more resilient.\n\nThis does not require intensity.\n\nIt requires consistency.\n\nSmall, repeated actions.\n\nA steady return to the work.\n\nA commitment to continuation, even when the pace slows.\n\nBecause momentum does not need to be fast.\n\nIt needs to be sustained.\n\nAnd sustained momentum behaves differently.\n\nIt is less dramatic.\n\nLess visible.\n\nBut more durable.\n\nIt does not rely on peaks of activity.\n\nIt is built on steady progression.\n\nThis kind of momentum is harder to disrupt.\n\nBecause it is not dependent on ideal conditions.\n\nIt can continue through variation.\n\nThrough interruptions.\n\nThrough shifts in energy.\n\nAnd over time, this stability becomes more valuable than speed.\n\nBecause it ensures that the work continues.\n\nEven when conditions are not perfect.\n\n“Let us not become weary in doing good…”  \n— Galatians 6:9\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).\n\nNOTE: If you directly pay in sats it is  automatically **10% off any engagement or purchase.**\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n---\n\n## Copyright\n\n© 2025-2026 Continuum — All rights reserved.",
+  "created_at": 1773790882,
+  "id": "8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5a046b4a958239918451d707a576e4e4076687ff99654a457cf298d941600261fe99246599968e270b9fb1475ad6ca3dc8597dcb6f0f0bb5e961e85968a2432b",
+  "tags": [
+    [
+      "d",
+      "when-momentum-feels-fragile"
+    ],
+    [
+      "title",
+      "When Momentum Feels Fragile"
+    ],
+    [
+      "summary",
+      "Momentum can feel powerful, but it is often more fragile than it appears. This article examines how easily progress can be disrupted—and how to stabilize it."
+    ],
+    [
+      "published_at",
+      "1773790882"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "momentum"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "consistency"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "display_date",
+      "2026-03-15"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

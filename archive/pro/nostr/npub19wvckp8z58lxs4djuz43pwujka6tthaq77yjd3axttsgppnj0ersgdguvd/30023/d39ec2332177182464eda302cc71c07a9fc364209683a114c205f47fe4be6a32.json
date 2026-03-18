@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Monday, March 16, 2026\n\n---\n\nProgress is often framed as addition.\n\nMore effort. More output. More activity.\n\nBut in many cases, progress begins with removal.\n\nRemoving friction.\n\nRemoving noise.\n\nRemoving constraints that make forward movement difficult.\n\nThis is not always obvious at first.\n\nBecause friction can become normalized.\n\nSmall inefficiencies accumulate. Minor disruptions repeat. Systems that once worked begin to degrade.\n\nAnd over time, these factors combine into something larger.\n\nA subtle resistance that slows everything down.\n\nIt is not dramatic.\n\nIt does not stop work entirely.\n\nBut it makes everything harder than it needs to be.\n\nAnd because it develops gradually, it is easy to overlook.\n\nUntil something forces a change.\n\nUntil the friction becomes too noticeable to ignore.\n\nThis is where clearing space becomes necessary.\n\nNot as an abstract idea, but as a practical step.\n\nRemoving what no longer serves the work.\n\nReorganizing what has become disordered.\n\nReclaiming control over the environment.\n\nThis process can feel unproductive.\n\nIt does not produce visible output.\n\nIt does not generate immediate results.\n\nBut it changes something fundamental.\n\nIt reduces resistance.\n\nAnd when resistance is reduced, movement becomes easier.\n\nThis applies not only to physical systems, but to mental ones as well.\n\nClutter is not limited to files and directories.\n\nIt exists in attention.\n\nToo many inputs. Too many threads. Too many unresolved tasks.\n\nThese create a similar kind of friction.\n\nThey fragment focus.\n\nThey dilute effort.\n\nThey make it difficult to sustain direction.\n\nClearing space, then, is not just about organization.\n\nIt is about alignment.\n\nBringing the environment back into a state where it supports the work rather than obstructs it.\n\nThis does not require perfection.\n\nIt requires intentionality.\n\nIdentifying what matters.\n\nRemoving what does not.\n\nCreating conditions where continuation is possible.\n\nBecause progress is not only about effort.\n\nIt is about flow.\n\nAnd flow depends on the absence of unnecessary resistance.\n\nWhen the path is clear, movement becomes natural.\n\nNot forced.\n\nNot strained.\n\nBut steady.\n\n“Let all things be done decently and in order.”  \n— 1 Corinthians 14:40\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).\n\nNOTE: If you directly pay in sats it is  automatically **10% off any engagement or purchase.**\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n---\n\n## Copyright\n\n© 2025-2026 Continuum — All rights reserved.",
+  "created_at": 1773791322,
+  "id": "d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a575daad51c631722466fc4ffaa97dfe2f0d231a8c68a125d12e256da32d0bfed8f16c165fa7cbe388d2f1ccf2d715e24be8ab7f9e0cf0fe17f160a775a6e395",
+  "tags": [
+    [
+      "d",
+      "clearing-space-to-continue"
+    ],
+    [
+      "title",
+      "Clearing Space to Continue"
+    ],
+    [
+      "summary",
+      "Sometimes progress requires removing friction rather than adding effort. This article reflects on clearing space—physically and mentally—to enable forward movement."
+    ],
+    [
+      "published_at",
+      "1773791322"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "focus"
+    ],
+    [
+      "t",
+      "clarity"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "environment"
+    ],
+    [
+      "display_date",
+      "2026-03-16"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
