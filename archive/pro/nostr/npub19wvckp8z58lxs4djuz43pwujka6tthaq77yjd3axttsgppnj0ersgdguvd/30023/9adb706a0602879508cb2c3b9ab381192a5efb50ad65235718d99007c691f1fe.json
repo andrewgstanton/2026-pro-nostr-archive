@@ -1,0 +1,60 @@
+{
+  "kind": 30023,
+  "created_at": 1773937267,
+  "tags": [
+    [
+      "d",
+      "builders-journal---march-17-2026--st-patricks-day"
+    ],
+    [
+      "title",
+      "Builder's Journal - March 17, 2026 — St. Patrick’s Day"
+    ],
+    [
+      "published_at",
+      "1773937267"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "A major milestone day. After months of writing, structuring, and refining, *Building Continuum* officially crossed into the publishing phase. This was not just another writing session — it marked the transition from private creation to public distribution."
+    ],
+    [
+      "display_date",
+      "2026-03-17"
+    ],
+    [
+      "t",
+      "buildingcontinuum"
+    ],
+    [
+      "t",
+      "kdp"
+    ],
+    [
+      "t",
+      "selfpublishing"
+    ],
+    [
+      "t",
+      "milestone"
+    ],
+    [
+      "t",
+      "sovereigncreator"
+    ],
+    [
+      "e",
+      "7635fac7d9c3f4ea95bdc2089d9020a90403bfb8ed02e0ab0f320cde0e183d04",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Tuesday, March 17, 2026\n\n---\n\n## Key Highlights\n- Uploaded *Building Continuum* to KDP  \n- Ordered ISBNs through Bowker  \n- Continued refining publishing pipeline and metadata alignment  \n\n## Reflections\nThis was a significant moment — not because of external validation, but because the work is now *real* in a new way. It exists beyond local files, beyond drafts, beyond iterations.\n\nThere’s a quiet weight to this:\n- The ideas are now exposed  \n- The work is no longer just “in progress”  \n- The next phase begins: distribution, discovery, and response  \n\nEven if recognition is uncertain, the act of publishing is itself a form of completion — and a step into a different kind of responsibility.\n\n## Scripture\n> “Commit your work to the Lord, and your plans will be established.”  \n> — Proverbs 16:3\n\nThis verse fits the moment: the outcome is not fully in your control, but the act of committing the work — faithfully and deliberately — is.\n\n\n## Notes:\n\n- Grateful for Kiyomi and Whiskers\n- BSF tonight was a good session (we started Nehemiah 1-2\n- weather has been very warm probably since last Saturday (3/14)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "9adb706a0602879508cb2c3b9ab381192a5efb50ad65235718d99007c691f1fe",
+  "sig": "417b0a0e08f9ed9fe931ec52ec613501bf3b70f7b0a4708b8aa754844bcd3fef2ad57d56523fa8e02365bf6c888224b5e6bda0f8962fe53094ce6e62e1c97fc0",
+  "published": 0
+}
