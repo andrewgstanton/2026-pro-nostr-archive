@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1773855243,
+  "tags": [
+    [
+      "d",
+      "note-1773855047"
+    ],
+    [
+      "published_at",
+      "1773855243"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "eacce22f87a51c67191c484c650fc15f4d209bd27083a9d702e83fd1d8425134",
+      "edit"
+    ]
+  ],
+  "content": "Most Nostr clients are solving for speed, UX, and engagement.\n\nThat makes sense.\n\nBut there’s a layer that still feels underbuilt:\n\n→ durable authorship  \n→ local-first identity workflows  \n→ publishing that doesn’t depend on any client being online or maintained  \n\nRight now, even in Nostr:\n\n- drafts are fragile  \n- signing often depends on browser extensions or external tools  \n- identity is portable, but *workflows* aren’t  \n- long-form content still feels bolted on  \n\nI’ve been working on a local-first system called Continuum that explores a different approach:\n\n- everything authored and stored locally first  \n- identities managed directly (no dependency on third-party signers)  \n- publish / republish as a separate concern  \n- deterministic archives (your work exists even if relays or clients disappear)  \n\nNot trying to replace clients like Primal.\n\nMore like:\n\n→ what if clients are the *interface layer*  \n→ and authorship + identity live somewhere more stable underneath?\n\nCurious how others are thinking about this.\n\nEspecially around:\n\n- draft persistence  \n- multi-identity workflows  \n- long-form publishing on Nostr  \n\nFeels like there’s still a big opportunity here.\n\n#Nostr #Bitcoin #LocalFirst #SelfSovereignIdentity #ProtocolDesign #OpenSource #IndieDev",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6",
+  "sig": "134e16106ba7ca8a6c429d8a6515af061d4b1fff3ea6e42320ebd8f89411adcaacac0a955490ffd07f21b7512a861fa9fa5f167ab89a8edb6d70f3523877f646",
+  "published": 1
+}
