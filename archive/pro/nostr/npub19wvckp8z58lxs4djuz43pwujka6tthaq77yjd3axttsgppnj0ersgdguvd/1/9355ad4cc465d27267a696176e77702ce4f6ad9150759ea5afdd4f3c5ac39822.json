@@ -1,0 +1,29 @@
+{
+  "content": "I added my email to the newsletter looks like it’s in Italian? \n\nAnyway I would love to see a subscription equivalent using a public key (instead of an email )\n\nWhat do you think ?\n\nI was brainstorming how I could do this with my partner ",
+  "created_at": 1774105230,
+  "id": "9355ad4cc465d27267a696176e77702ce4f6ad9150759ea5afdd4f3c5ac39822",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2cd16f1303c96cc08c69b2d2db2c7d15c6df22c540a187327e50bd561618b3a5ba40e68343bb3ea26cbb8f79730cbeb41e3aa01f4bd89c61e536bb5d11bef898",
+  "tags": [
+    [
+      "a",
+      "30023:1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e:fermata-291-larma-di-tutti",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

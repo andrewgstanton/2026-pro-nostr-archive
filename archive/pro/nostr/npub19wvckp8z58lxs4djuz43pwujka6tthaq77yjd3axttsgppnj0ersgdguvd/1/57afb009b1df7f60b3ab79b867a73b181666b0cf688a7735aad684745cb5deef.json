@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774116557,
+  "tags": [
+    [
+      "d",
+      "note-1774116234"
+    ],
+    [
+      "published_at",
+      "1774116557"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "19c20de2771be5639b4a8fdea1bfb01b9241c2e843927502769120687b931ab3",
+      "edit"
+    ]
+  ],
+  "content": "Thoughts - 3/21/2026\n\nSome hard truths - \n\n- Many on Nostr talk about freedom and sovereignty. Few actually embrace it fully. \n\n- Prominent Bitcoiners and Nostriches tend to get more likes and zaps for comments, posts or articles promoting sovereign concepts, freedom or self custody. Those that are less well known that promote the same things will be invisible to the network. This feels unfair at times, but this is just how network effects and social loops work in ANY social network or system, even if it is decentralized and discovery is not manipulated by algorithms.\n\n- I have published a lot about sovereignty and local authority a huge amount actually (600+ notes, 700+ long form articles.  Recently published a book (\"Building Continuum\") (now on Amazon) Yet almost no traction (relative to others that are more prominent), maybe a few zaps here and there.  Is my work too intense? Is Continuum still too hard to understand ?  I honestly don't know. I do know that short, meme-inspired notes tend to get liked and zapped more.  \n\nI guess I need to give it time.  I shouldn't care.  But I do.  I wish I didn't.\n\nYet, I am free.  truly free.  I can publish this through a local-first system I built called Continuum.  \n\nThis note is not posted from ANY Nostr client.  I didn't need to use any 3rd party tool for sharing my private key to connect to a client to post this.  \n\nI am thankful for that.  \n\nWhether anyone responds to this or not it's OK.\n\nI'm not writing to impress.  \n\nJust speaking what's on my mind.\n\nNow I'll get back to building and writing.\n\nNote: I wrote this note without any assistance from any AI tool to \"smooth\" over my wording.\n\nHave a great day everyone.  Truly!  Enjoy the sunshine and smell the grass! I do love you all. Let me know once in a while that my posts resonate with you.  \n\nZaps of course are always appreciated.\n\nTake care and God bless",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef",
+  "sig": "01c0f2d907fe149eaac6ccda297d7d7c0ee8c549888d2172e7b790bbe7dce60bdbbcda82e5dd93a69a840e2f236d6bed0cccbe55a664712a55a079fe505d3780",
+  "published": 1
+}

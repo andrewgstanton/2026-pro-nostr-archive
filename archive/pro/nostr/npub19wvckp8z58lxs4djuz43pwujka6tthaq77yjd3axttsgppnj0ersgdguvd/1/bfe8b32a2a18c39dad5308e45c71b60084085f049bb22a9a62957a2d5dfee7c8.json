@@ -1,0 +1,29 @@
+{
+  "content": "Powerful piece",
+  "created_at": 1774104997,
+  "id": "bfe8b32a2a18c39dad5308e45c71b60084085f049bb22a9a62957a2d5dfee7c8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "44e8a49c3285de3f1e2c79841fb347561e01e0439f67a0dc6f644aee8060270200c2b06bfc1e17e34d6865af8e60c81c45fc81023925e22710b56162295c9b2f",
+  "tags": [
+    [
+      "a",
+      "30023:1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e:fermata-291-larma-di-tutti",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

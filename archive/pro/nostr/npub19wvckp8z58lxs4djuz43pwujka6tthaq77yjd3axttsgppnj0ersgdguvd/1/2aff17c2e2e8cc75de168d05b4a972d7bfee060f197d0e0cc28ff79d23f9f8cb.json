@@ -1,0 +1,27 @@
+{
+  "content": "I published my first book: *Building Continuum*\n\nIt explores a question I couldn’t shake:\n\nWhat would authorship look like if it were truly local-first and identity-first?\n\nNot tied to platforms  \nNot dependent on external signers  \nNot fragile  \n\nOver the past 10 months, I’ve been building Continuum alongside this — a system where:\n\n- content is authored and stored locally  \n- identity is directly managed (no third-party custody)  \n- publishing is optional, repeatable, and decoupled  \n\nThis book is part reflection, part architecture, part invitation.\n\nCurious what others think — especially those working on:\n\n- long-form content on Nostr  \n- multi-identity workflows  \n- durable publishing systems  \n\nLink:\nhttps://is.gd/SVQpjQ",
+  "created_at": 1774028086,
+  "id": "2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c06bdbe8804ecdc32e4fcb43edaad72f70373df6ccdfc825d685bb60c84363e67d2be8a5ba8ac2f0768452c567a60ce0f818f01e3cf4e3281f502192465d4d10",
+  "tags": [
+    [
+      "d",
+      "note-1774028086"
+    ],
+    [
+      "published_at",
+      "1774028086"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
