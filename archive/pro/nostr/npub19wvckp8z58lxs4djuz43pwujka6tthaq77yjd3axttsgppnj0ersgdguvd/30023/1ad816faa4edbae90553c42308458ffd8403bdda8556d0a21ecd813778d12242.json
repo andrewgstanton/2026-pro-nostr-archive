@@ -1,0 +1,79 @@
+{
+  "content": "## 🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?\n\nLocal-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:lNhxobxdYWUV5lcfkBJ-IqUpiEFnAfSuiuJopETxplx2MJnLR269_g_0_4gWP53vbyzhiEVNJGSy0bGYnNwHqPgDjAM6ZYqJ9Ek5BIirnzFE6MsrLNEWAYk4l40RTRzPJeNLiu1owi6vk2b6JSccCeBHrSwhA66AoXqnVXOW3YRvK-Rzri12YWyBlkczoyM1zPRzGLsk0UVxEFFyR6d7yTXWYgB-Swh4WocsZBGBJMJKR2CVT4Zo7eZQSBFE6mpQ0y_ihFK5BcZ4WzJeNBMMWuQ7lJ6nisyDcZa4AXueT8N9IjnbOioYvP1IUDr8AYLcWvH6lCEckf5vmnuXSFRb35k7aOXkUGIV7r5FJt1TQL7XH_Y5yuVAk9KkfucJSm1npaa2_fZ26UzohhgzqYVeUij--rJDtHUlEwWD9cixWFGf4O3P-H6q_wrgSlQXHvV8ExOiNn_rc8jOb869OEaFxVte-PIMMLiS6ZRE0F1QWnSrFwc4xKeaSUWFJgFUsH773pxlhE6z_3QfZZg1bMJ0MfHQtI0DQcMoEFVOL_MfFR0lu3VoE5JzyCDZgNejvIPkicMuaDSUt8nu6HYIWKsOEsZmMy_ti11HGpOwAMHdQ7-j9T36umLfp5D9rm0IwbW6PUxGKf2iUITTEkfjOzhb0BC5KqO5hHMuR2Gu3pf90O2_n4qWrE6b2itHcJ6Qn-4YGuAcnb9eKZ_NqIKmAnoV5eTNFl2qiQqnyL8gH4a_Lih41rLl1XQYmHmQIj0Fy4varx8s8pAKNNGKKyQG2tpKU35GbOO1WFIECCyXGufKZo171R5lxipt1oktTIT33bd0Yyh81hulruRCQ9LFT14tRb0HR_FS-aFOBmElgM8m82Wdce8tGXzzmmYAIYs4ELN4YOc2FMQ36sc6lVsH262eg3k6m31IU8a_gkEQkumSyfyi22KI8M9JvdNhpYOcStxVSjDwK7LaB8D0Dg_9qA76oZ2nDFpj2qG1eKLqb4Pbc4fCOdMdnx5uRwNq_Z7cmfSWLLx44gm1tbk4lsUDXl2fu83_fFl8U59eH8DmivvUStVJ2a4NrBnzPConA-Iye5-AJnD4uGBpZqEuKo-a3mynJ_pnkOkH5UsqE-3rJi-3VW17FsXUmsCsV7mVUS7IGHftc5cIlGCuKmu_xV7Rux85oBeHone0FuH02nZFqL6MEc02AO1Y-pBZHOrcMMkaspMCU2_vasw3Kv7WFMi-mC2a26u1G8H_HMgTnTnVdH5oCVwp7dsUFmytNR8QUJ8gbFLbyVM9AXjgz0Z7S9oIlHPBMIAvudIXl0nnJY_3kkisHmeyNvo-GmBZGBAi8f53LWofyzYHc61tUme6bAh6jjpUXGkV4HGkLZiIhtrGBUkLq4LilOXAQdCJWGy4Tl0GPyCa0JkQckAXr-z1dx6rOx73P3nY40mOp695_wIHW8la_YN-OQLf8osPUr6jJF7Ex0Z-_diciHRve0eql15fFuzwE9WfhgxEayJFaJu1JPkzuDlQ6tNAkSPouapWDrCBTEIhEQm0Rvhy13mMcWQt3KIGT6U_YZzRNEyiOwaysU0z514xp7JOmSgClQU4fbEkDR13-Jv1PMULLuiEWbzKMJrO1Emlh0i5U25c2DsyirSXuOUtNN1AVXYchb9nTLn2NcVTApPOmrryT-HUJzdP3YZKGkbTSrud92T0g6i8PQ3UzCpIQdaRuudBiOtA_0KRxAoch4yakgl9KI3dIfABT6NmPKXZjzMveDfl0-czRVSIfZ_5UgIEGoCaVdxBFd6quDvp9bWfWKJQ_xeMUUGWOTxYZgmEo2OIQEuumLFxjU3OcRervTUk41l0cqWwiqj8Dc5cdpBZZcHmLlmr9W7FV3BUCdASmOuk3xeZvVfvXOSTsD638Gav6izIIod0uaImut7z_HJGLb1paLOzLOzcHkmcudapdOTo0AmTUSFISXVRJP7C23Uts_rScgQaz5XnhkK-p5Tcp1QOsnm9HFjyri0FiKhfYgv7MSlCCjl1yMZjgR9SLKZCgw0Lr_5LmVGKSHrcLoMbEH5Y9R3jhe4Y74cVMgNRE2kPHjB1fte6KmLslMrs39No_oQ01MqGFFAdwSw43xy0Cd7wTHDiSsJBmzSAK53hn5ugKVkJroU9QakJYdOal9N_zobax0JoKiEgeqXq-sPsl4A0equWKkzL5RLsJmfAydEiAH85DwII4DgrJKmGy-4_2MNdphBN6Va67n6voYisNNojXvy6U-vXv9nsUxZM15xVUzRH7L1RA0U_nSI05bO75Z-2Qo7CX5SKaS3hhJKx7zrVue1IXdF2nV_9jL7Z0c9-iJ5IWxp0DMdlHuzhcXKkxYNa-TBbbl5EZp7fyYZacQQD81G5aNO9hllvPIgB7k8ZG3HhgKw74RqxL8CC5zcKVH-54LjWmX5HueF6bWgguQMfuVkridm_eI4HuLVL9FRKIePHPnRy6N91xCFCuEb-zJcOO0LDwzvv9zmdZA00LeuTpPydUb8RyQdyuzgIHbKk1uKWvwjUtNDC_k45O-0oRl22JjpRqgNLlYxRkNo11P3vXj4wLdOpPm5tMH-wP4fJgyghfL9EmYTp76loCQMP6QLElzx6ddmli2Lvg5iivCoUgoqe5CKUoR4UC5U4MvJ9Ex2F1fJB8Q1FmT-NYdT1bthHB-IGxaGliW4zUKm-HXtlkGduW_PDJjxf_Mw9rAlWy8uRLyuwYPBg3fOhPMrs67TPBn_5LU5dRbpk6AAttY8tmlc_a7wkiXzJIOvMK4x027GvwY5cXBPNoVqIwRLEXaFS0R-Ldr3zZFUpgyV87-Bdl4SFGMSngR3YAN4x9d7pgd088Rk-bkehXNpmyjFexRWT8nZQg38pec-J9iTxapBBRvGbjRyNahPBejgjs_eH0dqYWSlQICgrAPS02mYYmtgvG8phJmElzPx9Ad0td6iXkXJC-mLoHX5Y7y7diuaid1o2AqMQE97PKCyoqKxv2cIwBoLai0H5GLeFWKaFNwdFHh3z079tCrWuQnVEGnFr-1dkcAeeSjvJkXkssLMM18hBERV5PdT8Tn3trgvdZiFVx5_7i2cmYUZohYUvKSQNl_OVWYFVO2siTEanEt-f7xLN19bZt0qRoZzKdpi4PnaZNwbH3ITrnV7K4CatGYw3Cz5shLenY2lHBzs8Wjak-PmmvS0sBRd2dLpMaenENsP4xZgHowXJJ1VpR6kMRAfhu00AGON7ZY-ZUMK9LWdTn7SeIaTMcLr2yTXpwc0TXOvaKKXoalZYuS1AiRCYjMThHfJi_hfjvSjdwMtcpU8Y_gIHQPHTGTWMIFIVOIJssqr7eZFNx2F88yySGct-kL_4qgEpcoz1eLbG2CN77yjVYfyHY6_f0jDS0IsnfO5DbXzKVtsDfP35ZOIAOsT5UPM_PqSe60nNSKtj_3_yoobc7foVets5X3LDkMaltkPo8a3jreYSWVuTYSLG50BEmISUNLCkHjR3NfFvMrGVZ_OCb1vJQRztOYVmG7QGLzwdp7eGr0nip_kC7DQsJXIq4QWVaNLJvcUsbwrSelQ381Iy2sL42Vt4Q2HmquSDe6ZBZpqp9SPquZ_VzFXnycq5Iqmcqcaw8W3ocD2485BaCuseZZnmt26vubJ2XK86H5RnHgmgU39IOQzQQHy_M5ckkVhKuc1AyeWnnWe7UlFNWUrw0PiiYNcOEllj4_P3UwYV0GLw5uqkSWdpkLt1khI5oDpuD1JN0YyrhS7RL2YqbPJ1fLmhQDZsWff7na0CEsMtjZBL_OW6FJCFE20KrOKl6iXMXd4YXvVhcrdNwCSqnSoCmURqe5UMyXz4SxGs3r2bgvS3kPlHy0hCWnT5TgEXKJXKYa17YQt3hV_wfnqyKJzYvwZmwiGLGEADuJOzV22pQQkkj2hoOo3_q8GtWEfr3CwcKhI1E4kgsDhep49WAq7JC_Bkgg4TwOOrEHniqI_djeHkhy0qtR8JgU_yf6GB4rDcfdmx347vfpvt80lOza-EXPYtvmB49Yt1p_26hBlwGXP0YLWKBp2qrMzDdmimi-EgvO7pNJluWh9k_j8I_2rEWUnsiekMpyotz_LdplD1_4kRO_d8ceSfcyiNp0_mDnPg46BAMX8GA4LTZvbHP02N0P8P2-wPkvVukx8DahricsJmfmYlfjBl7nDM8_xCKMUoxzwX-DLqBvB9AlJXybfOEDipG8ADXRI2baQvsEu7_lzICLFBxfUX17FDrz2TmRH_wD3vX-dHrIe4hDjwqTF9cttkUCiyWxjQD2a7i70xw3fqaHnfs09JlSKbWgHdW1c_wGBpBXMGBQ1fT-KWdsj1TuesWa18DHhDHYimwanYIJAEFCIHsYIBQhYse_qltjGCpB-OfYl5hPiidul0iCEDQaFEQj3t3Jcj7c8SL9Qq_2gkCW5kqcRFgGXz9wsXgPgdvQDDnJNG6XZ_sHmW5yDFRF3YOLSBuP0hgW9VEA09jK8M2WDO5FcpXRplTqQW0vIQBwcGFHP7-zV2YuuGjG25qr7Ilf_st1O0IC69u4XVNZ_pwnxf2LWLOUawp0qgKrmds32Be6qbKGWyc8cCd03lppA6CrR7Z1bLFcchi4gUqyzCmJTu0I6IhiWzjeR9b2hXn51FveGv2MkpCaLYb5cZ6RMN-l0zdRCpNR6NcDclA9nTPCeC3nCdOzE5e49HtxG8CVjdPrA4WMj26uKulszfW6CJti8y87lQzpznLec6hRE1aAYrlxPZmZ_eamoLKG68J-TcdTuC97Jjvbid0n74l3nn-FWbVto4noyZaXaV3dGcrnu2_izd6i9O2UDxjMP9qFuxLdsYfyk0sn6kypPesV3PFs_3CGtByPXT46tCuEufYPhRCAwTi5jkvOyDwwpQlJpfRfCGG1fvRtrd4tCxZe5x1Kr3cNpKFnx_aNNXCXfYv3FE7cY3eAESqdJW44AsYGUOKkKZ7fzi349CGUeHNVByzEyQWe-EW2xgHEm58pvCKnfm3hXMB4QoaRwRKPVrR3VktdBwmu_6NGwDugLwwmMA_iw984eCd3KZ_HQmmbmeKQgP6z3_oW31r4oOcIiOyFywY3PTjjo-pXzXUFm7fe0_PZrFCJV0kSfN5CpX9Iw4O82ZenX2cooojY17X-qIPBqmrUd_8oH9TRi1kIYNqLkKkD_lovvlJCxJgZwoFV2GUBaan7keO8E_zewKaelQBergfGW_8Beo5U1mpo1LR7eKvDngOD6nLDeSfuW5ylvk9e7q65l8c5ccdNgK1O3Ez0HgSsIozgE1nYIiXEWw86_BKJjdITxGg_pHw3E4XHRc6kRs3klkO4CryNmmcS0XJQ05fzXdM19ddQrNF9XrJkSjL29yqOOCwmchHKZd2GfTC3O4ZtQUnSgHZblnja-37R30vhDqYDjchjA6C3kEgmdik78xk32-Fi4NDr-SopTP91O3PiV2anHSK42Ia-L8mraihuK3ABSOMndiObhZ8wYtHtL4c0Vs19CvInPS0B5-FF0D7--JrXI-XJPuwrRwO3bCvQwMqVT-r0qYMS3lZxAJT1QDaMMX_qrjtVXyAYNU0W4CGkZBKWoe7MS3RHMNq6MX_ubDnfWJBxbj39qn7SrahSxF1bqy5uNxjhS6mh0xwXNCfnYQ47kRTXwcbPfiEriJ2xNlgZReNh4DsZHqTAcCf5LWBR83euhHgWvB0Q8suXClVVuKMk7v2iiyra0MC47ThWyQ-JR2t6JP3XgBF9lkNm70yeF0jOk55e2-1oadw6ClRZZFBY99I8ZEy8wdzPMKCQH5G_QlV-wVanO534G3Z4q9sL0yBuKefJ66AirpPocos-ZLFW-3GlZeqcpxpPzWfhJvhiyGUmJU2JKTI1sMZv6fD8hQRmSPBNuFAo-IvAoiU3cYM2AO3jAotcdPIylmZS0zq76Ls7OmbEFfzo6IyJGZyKRf2zi3f7w1HKXgGOEyA_UIwSH4ZBGmzdNxTzhUUECZtSH0a3V5-NUgkUgGb1Wj37vpJCFY04Jj2KO3_bZOI85mDzURUx_8pX1Oxe-JeVFlTgvmWOTMucbTV8bZYI5RXerqujXotAW3t7eeRSoLOXLYClOjWbHGjtu6t1kFvw8ZeKFyhy9Dv9urrBp1FocUlEBEWyiGiT8cG81CkOncugi8G51i3yKoHG17u7YyNJYT0ExTYVQTlGOdf5Yovg88SAjkJU5y2yQ7cNqvi5aiEVgMjt9-ybfIPgkJJIo-UBKSQhUKhuFFAJOrJdZwEmF5bnwYH8gZB7RFhEgDp0pp8Tgwi1WP6zNKRV5sDLpvjX0-HhbwiK7zevoiZdUEg_4jpKADOIvjXszkzTleOkE2UR06A886nDLfImtK2DKXwldy24B4oY2jE0RepLS6zdMQfYxtL-7UiEPhBM7oJ2Bq4sDWJ2Z5x6QuzWqNlsg7zBdvX-JBgMJr-GO0UV3NongDIqmuyiaEKGXS5uHTUeZq_umzX-pdDMg4j4L5wIFVyICyeRscKgXy2kYQJdv8eGqe6OmZA1JUKmzVhmIZzZTy9myu81Krq9Qw6IcCMA9RmqFgrgWXtbVXvGzvCEtrmIJBWvG59oBGcLDiwAyhS7QQU0dAlV4Lbr7aihgg3aLXRpdVSDChInRNAQAIrlGSUQ_qapN2gSFyR7qogm_EdzpgqEtaG6hRNW3fvfLH4wvT-TKOx3WjrPmlO477L-xg8YP2hDVJJX6iy4ANb92PS7ff4FD0MuaKwKlxaBiEAli14CjufCok2qGxxBgaOBVpiyTK5J5jNdtoL4LNcwGGzQuuF9GdgAFa7dpPpcbBnPEmaH9GrmIC81o5I_zjV0ejvM2-lKwsfAPJnOS4OpvkMYIL_pc7shYReuDQStJUYHk6O9O76XYerP_OjDMikuaf6PZMw6bJndgOg7peTYBYsx4vrHB00h5zZXD7r3sxqMnppvZqhxSAnZpsomKBpR7aJQNZJOmZtBjzwzAL_Fsy0but-QeoBQ2Pf19QXWDbRzc14I1VlYVNDefpw6Dc6i3BssD1in-pokA2N2G9wIoi1ZSJYlScV8V-JpT1X50mx-D5fBxdWfUDSqEdHAePGQ028mf52y_tVhnhhtsHfjxYUoJjRLL3OvITbp6ZP2yn6SMFeOETJvmPd72OyyndsQuG4Zsf5lIFBcMytKPoyq7-wgPSlXWH9hrEutMg_XtAr0JwShR0WiVx2H_nx1fZ5cRACXUDaD7bv3Vlp1unvhQJQPhP-sTDwyGk8UkFAwXVimCY04D1dRKsKyKtYOuD4Fmxy2RDvQCB4yAEl_QQxbZaVb2OqHbDTwNwCHfm6_Kpui8Orh8Vzmu2Xz1uJi6sQxfzsY0rECNiS09l0bFeLdNGi2z6jFi-f9z_ZWpqmvdSSxqEuUBpnn-Cy5q2isbQfpUDOtyZmwD5546MC0cz8CjRtOvdkZA1jch0ePzVSWcHihmfUyjTmwSis8KNCHOre8DdX-QirvEVHnoWhNQapIBqAOV7NudF1DsTTG0pZZ-k6P6C7aXK70GvsrmVpTGBOrVdc3WGyH3vPq-jUEvZS2xSkc87cTOrWMW5dRYe8jT8xentzNjPSeXuAWcLDphRLj0ZyxB1hFCbjNkGexivxG--BmucvTzjwSJzF5XwFb9qjDIUV46MfrEmN4lxP5wdG2TDBpYmx74RgB9PVEQ-JFHQU3jLCIgsoa-XvpYphvNh6KFlJS-3k0bg6fc2UU_SR8fAVx8X9Nrft100JZY-3eVfpDXqEwOhTEHnJSmTjmamHFR0N0AALRvWdBvUcZIfFPK-rukYmIHqN8AltMaEhDnGOnRdUQJkG6QxKnn2rk-W7T3z3gf6jaBjuTIgVjbwI6vfzZSzFivE4thiPk4KdDK7h89rhEQn-zpHthdqghJWU-Q0OUMk9vjNli8BgydyGF8XFta89ZDvlVjLVqk6bEKNhKlAbe2ewTbcD2-iCa9nuZ8HqOz_sjHtDGJBIZcq63jZYFCNRwydG8hr1igeJz2DewwEUGAYoHTH76k1vH0_iTtR0BcMv8muewE88prGPjq7T5M5_pFmBn_evsBucSpxhoHEgGjhKaJVA8yqlDngslHPvm3Rc6SSRp8Zjug8LLJ0QfY-WS2xmy5eDfg2aGoyPc4-XSA8WraEqifOZFzRyoYWWsCfNaAQYjvpDNkWPa7MHygj6AkXjx01crVGC59eq3FgFAZrBWQMXLWH8MRII-mYSer3xThuXY3huOeP56XPs9B8mDyWLpcwP4jeskLRhq7VvsIFtjnp8wbP8JwhZj-bMbuNjhgOjMewwnpEXEhpx7mq5QUD4kxppdFIejehqu8YW5WDKt4-0kJA3-NpPPIeZhiYUa_StGZAFEwfQCOjaWEKtYSmB_4oaoBUMCggQwKw1HY9F0ECLtMxMNTGOIgG8Ub6lfxo1m-fl-zY1vB5mVBEgdoJeZMUsPMwZsCKhvXurv3N2q6yqu_30IIW9UvYD-yKn_SChbyabo5EtOKUEMhrGxBQk2PovWGke9jADsaXaWt8UW8vJsA9zErbsfHMKGB_WWaFUkikddllwmJ0Qjm6ts3qcRU0DEs9qrMGpLfIuaK8CS9-DqkQC38ZZSUpWcCq826UoM4K_keDKE_QbHtpfuy2A7WkjJ8WxAjv60iBLNOYOfNMr97VKWosEAscRrwlOEwHGmZ8ge_5Vn9amrrxwG1NDIpH1Jk-OasRiitdi-8IozMKpg\n<!-- ENC_BLOB_END -->\n",
+  "created_at": 1774059432,
+  "id": "1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "921aea91105c73ef2c436deeffa0ecb02249cf053eb8e75eaf8a6583c9b82135aa03d58a8ef85563d9a539ed3878f2848484507c3a1d4a5b5fb5b327d8d62940",
+  "tags": [
+    [
+      "d",
+      "-book-2---building-local-first-systems---chap-1---what-is-local-first-really-2026-03-18"
+    ],
+    [
+      "title",
+      "🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?"
+    ],
+    [
+      "summary",
+      "Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems."
+    ],
+    [
+      "published_at",
+      "1774059432"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-18"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4_wednesday.jpg"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

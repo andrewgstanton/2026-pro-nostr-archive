@@ -1,0 +1,81 @@
+{
+  "content": "## 🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive\n\nMost systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:-a4SVVmEJGu7sEl5Xgl6s8C1KqArzA819_Prc4DfphsbwCfHBu8la46FCBv2K4vdD4FtifaBYSB889KlnPaKT7HA1xCZTiImn611DgLw2fiYp0ck0XlVvaRTdE5Za2grs-AsHF73ZQvOQZlHQ1wDLAEH71sma5eWJMKixombcU7p0B3rAh0PcHfta4p354oa-4_i9skS1P5p1cyna67wD5mSNU1fgIl_nF--Jz4lcaE-vrS5gQbabpPQfDV9bDC7pOCMeZ_y29cgXVb_kaN-3DIaBNTj08WE0SDlLYAm1vTL77CKJT1BFSY6A7NM5KH9wU9RZ_vWIvH8P2Ja-UEjyUnhnlcfWynlTT1jp1M980ChvSiQzCKs1QCN2xq0yo2lOX95AyY5u0yjqi1Iirt4GUzcRSioblt9Ijpx5Pf7PQk1QE-p-wZE2kDt5CsD27VPqsz8BgUuacpd3P1WaRwzk7H2nIcp-6YAk43i2patzqqEKx6kiYgksBp3P8pY1Pp0KiE_B6e_IS1NAu4mzVniTTevMPJpbdssk8Avq_uKZMctnbFN8ypVJYGBO8_b4Qq_2xcNts6JzYLRTiO-nVr-3rac6pA9A4uWRGeEqvr1xmY7DmqO-B9Kc-3fkXRPkf_O_-3Jnayq6rPwu_B0ElwkZrj3x8HCISu0_0tapfh0c1A9fUEZlGagIRuXP4beoNjgUqLJE5UNwfN3qSkZNaYhdj6rS_rYMdt7TgwZuJdaQDicqO8GJHTtnQfVHHaMIY0ptH0tHuKhqlmLG-oDnhhu8L7mhBBg9WLXGfT1s0aT743ZtzenXxNPlz8B6denziFv1wAy_3q_yJWXUgPdX5_4MiHYrdlVIXd89dGnGC0YLpB8Dc8WDUTcNl779AafXTAewWtQ-J457tQE_WDAk-98q6itQ1_YBmJBevdHM0XmSIx1007R_o9PKNw5eQwQhp9pG1fMkju1WyMDMZw7HmSoXUhO8gETT_M6hjCfv0x222inIW6qK7HIFkx-FLq67FrEMl6YPK4vVxH_A8nfyM6wMwCckoVwPxs4sm9uCyfSKJ_hCRGU_XxdqrRwwq8AbQkYWU-1QLgo_OQrYjG-xOYIrZic-DjMNhuvcBpMwfyUbTq0zNb6WP_IdpyjWRQdiijhjBRExFTeQJ1qzfPcfcuPke9EmFLNmHEYwBJ2jjDrjy6LygKoB01-4mLuVJF6WPn3ulGjAER0eww3aAqJ7fBtJKLLdzQaHFTqdmQGOE_Q0DEo9akyzLMTA48MygsGZZFFZbooElH03_VCLcnSFpdO0C8T-e62_mLmD6bCNFMZ3veKtbDGUnjNTKc2LOPhjaTocTQpo_bxWnf31EotXqBuPBQnpj24_3CjKMuZX36ztZUs8kqyDPj3_33WuLgd4VejaOKGvns4izgiKF73vrQ-W9UhsnHvhIOuhBewmEobu6Sfp4_tP6qaqt_z6FWu9UGZhFskFgdi0Hj17U6Mlh-tmqCOXR4x3SA71xINH2xk3QeyRRl_N1rqRwb1UalHSRFKJvCytXkrDfScXOim1kn9UBzj3lMCgUtUK0wmeRWQXhjDxu_CUhqNUbB6EpYYrw5qEGXpysbGpXC1iHUtVQkqeaCkwQKZHFRaojyjGWCscpkqzcBja8OiWx0WuMtUMcgB1uzZ785_7Lb33mBxDXQWsEQHPHmpFvFeZGMqkkWdXpGkAYp273msAMlVM1voOwEcB4dW0TQowpN2eWxTv2Bj8dXCzEPBlLLSSvWxi37nygRiTqhfHG7685zWG8r4QiIOGY7MQNHU1O2jYn650_fOcjvMhs6i5we3PPnyEBF-2nYVXZLCPHbrpPgkssSd6p99eGP_ixU77QpVzgZ4A5ys8ty6ySL3kqv8NoJYZednCSmoWyENEqlUNOKNenk-9jmfsukCVnvDogxP6nPXkN6Hm6DFHuVd8LMI3W3Dz6g9NetjVT4aZcYc8qY-4yoNbMBAe8l1Z9Mis7LY0k0GIfj56vh-zXRUrZcE2Ft4diJFCcC0Adq7V_mkv5zZtvSvkssflnWMylpmC8zDO39xch6NjbF0fZeQVE3XzpIv4XwYqbXmNyEW3qub78R3qvYAzMoD7vKCt1t2Wi-pQCZWrI--5-GiwY6vggL32JKJsHNcF62KC6ieTNlu3P40YpHqfgYOWIJQ84lnR-0Fy8BcqJ2IMHT5vdox4UNJymxsD-__MmIxBlJA_lvpFUa7_7suW_yrp5ffN29gZwhyQ5cR71VkYxZip4-0jHXfbdK5PMCjxyiIrm7UMB6wjj-VYdxAHRFU8E1vhACfES-jXF_URW3mZuvXjkm8MKXazlT6_k-720tjEcqXQoUtxVC2cxfLH-NZ2HmKGGAXZvmPEeiddD2UxLW5B5WMXUMhchBkj6LGrj0Q8xheEdmY1GVf4YW_HbqUNKWLAXlawMHT-mG7hGZEIsx8JW96IivWomzy7nx2CGENqY7btZhr53ERGmEDDaDjmsr43RlobhVP3TD-b76RQi-1txesB4eJB-WLaGOMMdoMfpcWjknyWLkMo7IbIPf4oH5UFOMq233LgPfcCPzVEJiI1jG1mGYmZA1r32lz24_dFjhcNFq9zfSP_8hLWCppXHmC_r0T23_7YvjCrw_Y65EwZYjTYaTMOVF0Fqxa7FzbnY1YMZWeseLGpFnBvuXdIsHhQe8XCSrZzAmzGnHiwQG5vqZ7V_DteeftMnJ2o0hjuRs0saPE_UaJkBKOwE3-hATlFndmXFJfH8ETwrct0gPDghG0pDT_Td8cvMJODPNSB__ca1GqlAjP8oenCBiZIfG1e54Hsp8S_SSv9fJ_PIuLOc_1risx9fc99kJug4OgeusZK8U_8aNNZy2j2nToVYDWeWRXIDyRgkcS8xv_n7yCYPCHRs-3WOfYPJMJDbikRwll1H_tdYnwO9I5g_ZM8C09Y0GslQYRt4vHp7RjWGFCLPZwkdRvRTTgxa6wmqnOnZegrkDg_CXGbHVceLKf9bebU4nzAUF9YWyR8zVsThUa4yCMr0yseYqrEQXuOnKHp0Twvk3umUKq3zTkjmCKVYwMBIoUb9yPhiU_h4mK00mdTcUeMjZn8cqEjlVXj0RtIZ4LzRgK1xsf454hydmAlHbPD4WuIug92RLrHnFBncGGW0O-_F164RUOt3KCS-LjNxMxjEM01TANynRpEGzYxZtuJKTcvYw4VyxIoansxHCvtEFmX--WaPXvgzSm05OhvqJ4L3QbIr-e2OsLmkSZhdGSvpfUOuBv27hCnllqJgD3_N2DvKG9fME0WXemlTY1CTSJSYRD-o5RGWfO9sKhmWhrocVRa2AbjWTduBb6X2wjNHmRn2cW3hBtT_OwKuGZ2ed_sIJDkmXvEnsgIxFKX08ok0iwJZnr1JyhZvSnivO7mullk0_VTN_vpRTbWPcp5buqihGHmzq-AbnWJnt-kcekk3DgnOUVRtVaiTEBXR_vZ97L6RY6WOVlDusYtqI-xHaYFRCgcdk3OJsUBoRtpMg0pcLY6IA9XwDOOn7LEmTF26ttvlqOIskaRZtu1-_7Sl1KDPZfWQLC1IkBqABtRrdcDh0D-0wQC1fBiyiCu1JXGsRiCX7tDRmPu_r-IEgVHuuQCEfaw8vRYW7ZmrVgba4w9UMxmn-Hu8fB0fn-AoMrpQ1m8o4fUDa3pSBnPzjR21J39x6pgV4G4ZNDtT4P6XFyraItVmkVOiP6NLPa_PK_QSYoK2Azn5_6e7Tb5zBCnV88E_tQ3LMm_alWaeXMdw91ZGi2NAAIt9mzRxVy4vvBgNG_U8PoG5wZE3TmSHugPN46_ddgqXxAiSDY0qboNfTz60wt6Myi0lYmdX2WvGNdKnwZzb1Fd2ysild09VXHjRpJVgw5TRTyY-lSY-OJ-A9oUx4d1T79bTUsGtYsJ7A9ogirx92XZIg1_4kbs_i7tzkuLrQD2AYmw3C-9UXoAKBN7sxEZBNYA7mKCtaulrpGSAT5khP46G-Mne-6pz60v3sgHVvuZAQQfNEIvWWXyIx7CTzTL1o-DEMkbqYGi3Lj6vAu35Z2tAuItp46XBD_7vzdrPrbiKwKEpLE4MYsEe2uQJhliOtQb7pIQDECDTI4TxlUCkCI9sQl57fmMcKc8t1Ota06C8zeW0pYw68WW3iLi7EWn9WNvQBQbfKZYjBqjlmXPMxYPy8dyz320blp0lo2Imuw6GnfAJpHMu85X8Vey1z7hpWvFIqzHVbKc9LfV67czuXPm-qvcA204OHB4G4zlHzScCCCJQ39ciT3qHHYPF9n0-n1EiXGwLAr3Wsx-Eaa7eQfgAcnQ7P7jk7Nl855lbJ9TucERAmqsGx0ibhQrP2KRdWRNHAhOPeYFj5i6vunma_odyJg-tEcBVI21vDohDDfGQsvIUJTMaPcOPIOx8xdAmaxCrevljS62jfbcbzORtr-JH0Q7ZYDopXKyxBj4UexYuEPhTogUWP4c8pk6HYVSEekAUfqp5LfweoAUimC6yhI9kaDp5jiva-MskS9CdcIdJ5pR_xjw3lFlh5t76JWNhnctDCQ-Q87JNP8KGmpwovxKN_dJd9daTSnhY6k1l09Ghqe7a3mVPlK8nRKqQ8GrFW1OX32Xwfqnj9XBP92dF1gi_3E3OKflMl3i7tdB3sScIO_H_nmGGvC_RdvADl0-2aQ99CMaACmON2AzFsVWaPATn9IDbzaRrkI8vS-pwdPSSwfLSex2HncYFy9WM2h0rYAYYaZSNSq1JfKxBA7TtePmUDbGxbDPEWqSaTJTh4wy_AYKxRAVWyPGbASRM9IEfO9fkqIYe8mI_hmsux4OPWbP2yL1hLqLLRqcgiJMOl5dUiheq0ryWUd7of2E2LxjHtZzT4LWqwKnG7j_4lcTDBbQVSvZZCdnlrpFHXxAdcswhEi7RvjC6XeVVRq3bnBiVAI60kJpj5SuHd1yzqD2tZUJFblkqNQcz9QxzSr0KgSVK3vmV79tni4XNpCf7HFgoVleLauLQVv25g3oGwvvSNmCUqD6xgk1wgP0ZV3ULvELTMdF68AlqE-shgUnoOVz9rVw_inMVyQmj-azTP0_XoOgumIMh3XTx2HxgEShyF1UiRq3qk1SSgpAhvRiL822x9fYn8uzz0mBkkYHYzUjNqixg5ruPMCOQwwgKCU5qVrHmmZhO_T9Vcu7rgsC7V7jSKSHhFhu9hrcfJsQTG2RRuJJkQdQ91ttGWQ028baBejrHNKe7TsCnjCSzSyeRsmi7lXkcfTUr0zoiJ7M8cYIUFlX8tZ3bM95mRtBHRM_LC2svCKNkAIZdWUJAcPimFceDZnR7diITNntDPzoz2Mns_uPbw6fDbOhIbouNqV3WBEG7eh0M4yOLOxlujRwc29ELuN8tWJ_xecGbpZQEPktCyutD78uSTsLmGjZzQ_N6RSoz3E1zSWmVHJFxPAoUIHy7Y2DcOVoWQDMsKDm5bMrKO7ze4HVNrM-X-XAenAp1SchbSRnRXlGDQI7GLQ-GKSSZ0p5vJn_FCHEOU2oXEdbEJRmrP9Ka8TiwyAavE97a418HwivBTb_W_d9lyCWOBCqUBqGdyjY3pUwji7agquv2sedSBP9ru-qz2O2eWRvxUFGj8M_NbOWi3TV0PoBaPyIuFNaHTFdcBORNTXyK-01EYbleKgbz-ryOnHOG1mMsZQHD2AdRVrD9qgGdJZDm8hyES-MpKA6ol5eqJ50lr44ukhF-bzbAcoRsBklCSe2BK1OQFzYYIw9kX8YccqQyN4QksqJHwrdRxUpUiImvzetCmIjovs3uOck80o0dAljG-tZB7aOmoUBwO7Vkd7npvhETR8y4NaNySPsKaM70Br7ZyEiDIeHHZz-Q2Un0Of84eNuAP-qNpRs3QEO1pdp80PfvwGwp3iT3pgnhyQwdN96XxNrcTDai3c02DPrLLZ2F7_MvUYFLfL5P8R7LoljsciUzFU13ueMC4Te3wNYcQRi3Vq4Tfg5pkAMW_8MfzagQZ2Hm-8vnRVpTaJ3y8PGl2LQmYnCpnZrfLw92jMBstnACoK_07BYzOt7-DKLMq9vER8P6j64L53XSC6KJoAS_CgSmuvyJyhMnG1Q9ogNAcIpop7gzaUJMUh__7SpjRKPjzeN4UzQddFJ7GZHMQTb7YERWmXS5czs_fIA8NVAMHWMIu-dxlRzjcAPt-h_zZSRXt61dfdS4_ehzSccGCsmgQ_cbCboQlR2jFClMcuTzkJKLKxv2KooFxkURcWrOYPDYeQEqIqdM0o3nQ1T2lPhHyTZv1fJGBGzNACmm8MlesS2DcEtfGdRosal39BajSgTliQcli56MGtE-4VNPEeXM-LgTdWvnf2jS_QeTlXOrJk3yvhZSAe4DciEF4n2AugFZaHGFjoYIUYCIGJz9V4p97h3y6xoZUiExrG6kU2dab0oqnYvbKQUJ4nAREWy0iG80hAohS2U6E9WTadCl9JYBNL1Bui99Ba1h1EdmEAAumeJ28krOkeZU5QAJY91fTQq3UOE3ovmJBgTkEqIuCU2_o_oOtLcHstfSMH5zNOYuGnyNtrEkvnqNaWPaNcqJW_xtECCH94zv3QhGXAPWRirGd1NqtG37B0e3VM7gzzKfHk_RduDvkNPvObSLK4vz-KeME4-ns33hEhsrZunkOfVqO0rT5fXYQPfZNIrTCA3wXHS87jXR6P_Y193p2vSDi2EEWlyu8EA7azZVQyYAU4W6mp1cUD_8b3n50xqQilyyP75HU1VeTt-Nb95y8-3sI3KRwm8_TzsRSupkfkffUOoY-gUFugYsgu7ZzPg_3LJCmvAD0A-r8QyA8XkkJ4b3Pdd0C4skeRG8PsvuHKb6pl5rP8FKJznz6sNN5heCwY-MvsAvq8gcdHCTjTthyT9HFU05vHIV6mPz30-b-4qrhkfuFBYgxcyo7BCGAempjm1vCbJojm5bkmrVq9S95AfuPb5U1U1PnE1RLmCdcgTwpeeKqvwGCHpSheDdNI2GPvFceXBpVrvG_WIwV1PI2deR4V00Vq5S2AeOv-W4JVevGLvqoCEHfBLKvnTfD109KBhUfIUCr0j_Q4ehHoS-buR-NCvWASfwl88-Bx4mU6rwvcd63quitly4DOCgSxtOmrnzBo9T1L_BFkKd7oHDwEphHcuDTNaEKNFD2icSjn5r0B3duXVXEKUdw2Jnrsghbi_5O3VTfnQRFYnaFYuWBr4XzAko-OtIrCYbIHWxVe32anvQHIp05aXQeJNJ2J2HV2wr3bDENlK-hCNYqn8fKNC-fVKqfFxuSmXrFEdJvEsU_o2f8caZ7BhDvZLsHPm9kAFIGFrxcdrzIQSEp_v2RKLJVtIzYDAl6qnS7hZzOsVmpQb-h2Ok4KT0IcfHquEjpqtHMwcyHuD1Rcz2RAEoTRWRrdlQ3IwQ514GKlSru_e8-JBBKBpGNIJBhzSgs9jVlUgljXLIi8l-w\n<!-- ENC_BLOB_END -->",
+  "created_at": 1774129585,
+  "id": "a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2ee13dabc1c028f7f3938638f080d95989da2217a8b2c2012ce5eed3c8c2d8ca78ded3ee4eb737f72396e7e4956529ef5d7616273d33840ae7cec7bab13dc818",
+  "tags": [
+    [
+      "d",
+      "-book-2---building-local-first-systems---chap-8---identity-as-a-first-class-primitive-2026-03-20"
+    ],
+    [
+      "title",
+      "🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive"
+    ],
+    [
+      "published_at",
+      "1774129585"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it."
+    ],
+    [
+      "display_date",
+      "2026-03-20"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "147ed43181b6ed94b9332fcbdeb1895ce4c6f85b44ef1a53c843701f58d1f182",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

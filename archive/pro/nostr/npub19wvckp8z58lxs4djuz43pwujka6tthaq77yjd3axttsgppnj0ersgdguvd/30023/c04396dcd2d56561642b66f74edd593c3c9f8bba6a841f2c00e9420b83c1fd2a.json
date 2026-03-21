@@ -1,0 +1,27 @@
+{
+  "content": "## Overview\n\nContinuum introduces a distinct approach to authorship by separating creation, finalization, and distribution into independent stages.\n\nThis enables a more precise and flexible model:\n\n> draft → signed → published\n\nEach stage represents a different level of authority and intent.\n\n---\n\n## 1. Draft\n\n- Not signed  \n- Editable  \n- Not authoritative  \n\nThis is the working state of content.\n\nDrafts can be modified freely and do not represent a finalized expression of the author.\n\n---\n\n## 2. Signed\n\n- Cryptographically signed  \n- Logically immutable  \n- Exists locally  \n- Not necessarily published  \n\nThis is the critical stage.\n\nA signed artifact represents:\n\n> a finalized expression of authorship, independent of distribution\n\nContent at this stage is complete and attributable, but remains under local control.\n\nIt may never be published.\n\n---\n\n## 3. Published\n\n- Signed and distributed  \n- Sent to relays  \n- Publicly visible  \n\nPublishing is an outward action.\n\nIt does not define authorship, only distribution.\n\n---\n\n## Optional: Archived\n\n- Organized and preserved over time  \n- May be removed from active sets  \n- Retained for historical continuity  \n\nArchiving is a long-term concern and may be implemented as needed.\n\n---\n\n## Key Insight\n\nMost systems collapse authorship and distribution into a single step:\n\n> draft → publish\n\nContinuum separates these concerns:\n\n> draft → signed → publish\n\nThis allows:\n\n- authorship without obligation to publish  \n- publication without loss of control  \n- clear distinction between creation and distribution  \n\n---\n\n## Implication\n\nNot everything that is written needs to be published.\n\nAnd not everything published defines authorship.\n\nBy introducing a signed, local-first state, Continuum enables:\n\n> freedom expressed through software design",
+  "created_at": 1773962713,
+  "id": "c04396dcd2d56561642b66f74edd593c3c9f8bba6a841f2c00e9420b83c1fd2a",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f06f23f1f794c869899def2ac3d52eb05906e85fa480c6c2ccac89e391620960559e5c4028330c620831892c0c335d4e72e8b2ccad7c58a4075b81518cbae3bb",
+  "tags": [
+    [
+      "d",
+      "continuum-content-state-model"
+    ],
+    [
+      "title",
+      "Continuum Content State Model"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

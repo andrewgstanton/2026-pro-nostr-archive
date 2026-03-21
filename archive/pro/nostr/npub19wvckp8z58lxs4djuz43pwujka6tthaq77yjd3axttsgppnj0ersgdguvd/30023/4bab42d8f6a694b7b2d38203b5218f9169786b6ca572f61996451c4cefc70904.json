@@ -1,0 +1,80 @@
+{
+  "content": "## 🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism\n\nLocal-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:r5fjSZdt7OSuUrBIJMFrHkZj2dpYZNcqfZP8o-UHFRbKtaSmn6UkNHS0IufqCGxxJCNw4_FjZ2Gl-nFNJEiHfPylP9Rf30hmya_tVAKSuBhGuqrzpEna8r841r13akLA9NHRUNwdiemkQQv4DrxJFGqTwq4pa04qLIxM5z02Mrj2hFKXnxYz-W-KQYR_H8c9UCsj4W4VmS6rctnrRhjAp-pJ6H_vXIiY5axu4uCNtVttEZ4Fu9BD2KXEMZreYn5tUPwo8bnGstf2qJ7KfKlqOE9J2oPx2m9Lh204-tuWb20eBowEQOvkbrR2agxw_vQ8ire83nTVe10X30F9Sai8wT40k3wWoDtm6tZ1vkE7LfM6RjAy0J2x6Ol1Qt53j-iAjfVQCZS-pwzp4lpNcuSY3mEQ7wuKV74Q8Hp61JaohQMKdYWHGfIWB6Lmp-HuLYY6T2rqnnOGyRJoaqjFl3-FSAnUfZIdDqSa3BbdFEdJe257ac78WUYQ3DWhtIG3PSvh-V_eq8JF4E99kv10UqoSDLdTm3z0MG4KCd9Ejl_aa90BaIUWkBt_-fwzcDzfbl7IQnhPXmIT1ywONazkdUAcSoRyuVrOXKSRt42acZBDxjOzdDP4dCdCs_Dw1M1_Y1b8OeH9Qbn1SI0spaFYsdjtnUivwuS2K4DuAa7447nT0iT7lSi0dWnAec6s5pdyfYo1B6KaLXHVeqxWHQbHcVOpwh3v6upZdnK4MdDLAJRAx-qARxa_yqB3yZEBXkILEtEX4NrSQhBnhC4kimuuqqn-oZcDDtQe3aiqWvahPfKc9Su2IsoPrxVOML_H7QEr9XV3mMCQkDO-XQye6WYvutGEdTFoHl-NNDILbiTros1FzMgeGrunJReFZXlUWJ_4VVfKcGLC0JyL84uf3CiV3prX69SJ8a-girj3Yh-DEXXvaAcclBC974kb8G767g2--HB9scCDbgKWhw_vRZQwRnkITO2vUTjM_HTUsFqgKVws3C6g0EhBTSAUEfHdo28uxLz82u8UVQkGRk8OL6oOTR2nO2lHom_vsxAsuTRmHQ13MLcb_grpLe2ruPKU5lz_Fv2Irkz3Gw8kyehAjKYYnHr-CXep_Fic591-TK8TpLxA9W2iqMVN4cMONj-bGvCVpdUL0AcuuootNaNQqYGL-KmmJmRLxauxQ5xM4gVjdHgsAV3kGW8D9tlO8zdBwhnw5ZLz6tkPLlZwezjKiDpW0kZuKLDo2KTICXd2qGlgKHPMmhoHaFXvnq19Jk8BymCkq6mAfadL9ixm8xNOOH3NNmY75m87eF_tuSQ-7EuJvwJHiEzLmjv2ntn_J29xEsDxk3961OcGnv-BLNn_QLhKsfPl7aYOSMY1IByfznQVNsX4GMZzMUfjI1dxMwBRYY_GSIbj652BXVvKmf9gJZpiLpjy_sHjEC3A4R0E_ylm8FsLBlpLQFmiymJPlcupDmGdxfq_HaPQY00WpgpYkmd5XwtQxqEvPUzCSMTOjc46CvInAnHlfpG6xawKtcHsslt6t99iQbQ2X2BgLoDH6CQ4loGUuVM6mejoOZL5AP4CYiPJjyFj8lyG0UlXpVzrciVDabEUddN_GwzW0X01c3aC51KL0Kv2Ldb69OQmOZoNWV1IsGalKPJkq7Nj3fixs540uu0c62kV0YLP4bGlid5AnnpLbIKQ9OwOpXYDZmtaw70Zvn4xBDPjks-joeo-xOruzERaIQyFSFVYD6APGzmJTpRzCxUELN4KWidFZCNFTlr9-2SaO-hxMdrBXkBU07VjF82tFyfID-rx5RGTbvPRHHxZLCpGsn4pmq-uKNNaSsIAbIpBWKYSL9vr_dm0B5dbvqJyHYx4l_4a6dJDwDIXH47h5O2wU2IZnJMdaGFg_5KhU3cmS9j0HM38RUTiXYvAkFKA8tV_FFPFvfsmW92JTgTpuMbooVACLstAA7xbTZdL2-LC3WXc31r8uh9udoCJx-h7vkRR101yC723gf1oF8w8CdLhZlj7U-6O1NBXuwawebWMqevaWiv0-4ia19dqogt0uSuoixuMt0ckRTp152wI25kFLYuXZ9oZOc99c2PtVjeELXnGlCyvCdJh5RCKwZh-kx19ukoCe4Ee76q5nvXcdl76X00Uyb8O1SZg1kEqNaBJ5X2PezqOleJrLOWDSLR1_bAVnNFD356bQU8Tbl-YrTBvyWK605M0vcABynYPJ17vvDx-gg11UUqtT6-i4ek20cu9mu5a7GzrZRKo02MZgcxd8H17Mi95l4loQERGIeZ4OPJLyPUzxm0lW58FNK1OPc6tES3JHIoVaOQ6C_-oAO4z2FewvEMPzH_xUsaxfm0VQKdTTHnie8dSI1tye4WxwYhfsmjZRF1Y9w-S0IWAc0oerVF75burxtOqmFdXcpb_Wk_mhUbu-3b7ki8mz-qY-EpHUcQ_CF-Tc5pdv-r5omEcgCwoZUX4eIGebo4ml1wF0flsOuBZAvfXL3XdyrPliB40Upr04yCk3gBKAE3PYBmuuwt7NaeGIRwrYJ8do1WUcUUPkiJ2yGAS0kwMmAke9QQfm-j4TsZCndnJ4PewgXRRJ_chA3gfbrV3mOGp9A6KBxlXw_jzhqPx43szqESg2blVYD6ZFfg6WOzYFeBEfxIBwiPIr60uJY8qa86q5gU3bgjOLd26WnjBHcCjM73d6SMm8-SE5f-wYBFvshq0T_SaesmQmWutVmVE7kfB2uPh4fv9fY1N-1RZYBqvnJLYdyE5f1k_hBvbQz4w8l-wDg-F4rRpHkn3QiadhEEsDw0gKkhP4mIVxPqCxlYeiVWwUVI0F-ZRDDjbjqkKH31mpdtRzndbQEoq2zDOAYTzdHJ1gcs1QAIHuAs9eKGG52VZIinFl5-Dal2_j3vpXgMejvltthqnz01HVRaKM8QpyvJxc1A1dNSz-3CYAwEEPL7EFLVrJrQH5wqVSKLwDFfhO06NgVOIVYhFY0QhMT5PVa-sjwG9h-Fuzq8i4iT1dThDtFa6FPcH_f3GNqXfeDiNupV4fBB-NhnWYmAGXGgWZm7Aumpu0QWpsv4m0lsO6UV-Cz7FhqVIRQ-JO7_ZoUFIo_4b8MRMfdaaHumVc7lbJxF-n1wt7KHHznZnFnUaomyciI_9puXIIl7aW_MI7_-NzaS4HMBEXf3aUbbVWeRTLU40K_1eeYJkJAOO82XNx8mDuL3eTaUcU2cdkg092GHQRvW2QrQSfnfIFgvUMF14fQftDGzbdui5xONsHRWtS_Q5S6O5tD_mG8jp9c1s96nWYXlmlsiQOVkFRrgU_PXSeEv1Dwhf6PZNIbeA7IvWamS3Evyrhy1ZFRXQhlCEz_yURd1uVUM7kwpezTMtp-1xSs8yqwgPSed7U3KqDaXek2fJYSKbyZsF9qrCUg3N1FQRQQY8lLKmZtIdLoUpQl4iank_6I6MRRBHqOTvDmK_RMKvlnDQc7uvGGZW2AKJTb8qTDNEcY-gLLl2WUluuaIzf4ZcR6TyEf8w0dARfbvi80dLrqICI3srCa3V5wnEEZMwb_S4OgbBeVlQubFs6rPG6ISMi28iTaA_CwEkzwn9eAu5LUr48KhUEJ4sdY9ePikJK4_9prvTMnF_I9JB8N8KESRowU8x5xFe7RdW6ro4PxC4ptyrwkpfDvnUnVCbD7g5D_qDmm8Ncxb2ajYyiiIuZwQLCZ72ZLNrNMkTiX-x_CFrrhXTldR7AmJ3LcpTE-STK0LM-fMyt5VCyLSLa5Ue8cumMhohBBjWR1hyBiZjQ7frr2CBaOXBtgusvX_WE3cLZ_KGIL4y9bsW3SNux67wXusJFEpm0EBabZBLj-_70xrCQGolzjQnbnT9nfDlwfMnnTB74VHRkd4fqlFEMVF9XnjB05Vcrrozqt21lZqNsGX2UtL8_XD-nKp4SZt16R0IxOmjfzhXUszPU1bT0Nyexzbsl-AKWUXMNAPyIlJIUaJpFEGSxVkcc5UZ2ENVOnLZ6E9QqOuXejqes2kFjiGGLBW2Kpvk7WwmJwhanoHOPIcJnRx5KFsNHjo6EK-n2T6E7xJ_bsPYqjeVFfocbGIhpBZ6F_eAdM9tEgklJGsuJMafMJXgm3OMgfqf80tL1bORIJztenSZY9YtlcUWHSsUIhhh2Q5xXhD7RGTL2E4RUwTAt5-MDiggL11LhSTw2n51UMsDC7upZwwP_Q5jlpN9jW6V4tyIzkekzCArSecSaibilDNBnTbvWetw-7dIDIA-8WChKrUuxEcx_IoT-yuK_lPRoabLnRer24Ob8Ew5dpziU_VDJjqeb1OUKU5VpJVRuBJ8BQ7mwZrMt2mZe3vExc0JJ4OKRxhs_Ak_-SIk53-Uc0cbnRmfogF_oYG_BHACtuLztdUjXjHs8auLLY7_ChJ40kQR07yG0e8cqBw9US4N2lMyqJpwfe1h0CSu5xM3eszv2ahfo2qxzM98eQj4YsBKTH30GOpEYjCY9v6nBENqFaI4l3SQpYSht60jKUIYgzGneITstDdbzucJB9U2trFCQOLY495OmxIMtHjjcd2c0JRoPYNW3XVDrPUyPWCbJUGlBWF10djy2zAyd3VcBvGZQ_LV_Bde_i_J80lSRWq5dtLUuN-wwuhVpcOLMOCG5dDNbum0u6SQHoMxmLKQhUIs8MfrwkQJJAIOpW3Dr6KEHdhHH-pfuW0yXCZibhWlbOHolJytHVWo1cyat3dbu0ZKkg-Qj3jj6ndhCd5HUwdBc4ILpDaftRBuiptFGC4vDlC5ZJlYBLAyntHkavwi3c2mDRkcnsfDaqtCcZsiHI612-jLfckMwcz98Jk3iKWZFW1rgm83sL5k91XRG0Yfz9KjamDAnLXR3hxDoQ5A0yIE_jj7S64jH6urmRg2c725vYyjxyKRskMmSzs95QCX_btx1jRBDxz3XuPJzSgZH4ZVgmbFsXgrnrR4n4AuBZLe9vB3h1z6glRj00qrjrie-bnFNFE7x7EA8q-bCq3_0tFA8P6wsKa0eEI-h2xHSQIf1zIdcaYSCpdBm8ujMEy_aPrNB9S6gCIZN7mZP-3GkjGjHO1LukXooY1dBlGFqTu9oNjbCgQwjekLc4-hu7pFoHl9CDUm37Bof72Fa57037_NE7tK3dxuG_FRtEWVEgl8d_SGLOlm2jL_B_-8MlCoi82CuxqJUnHjarhF-7TYyTgfWz4iXK6fK5vC2VrPz6tgTxh1IqFaik7DwjOQ5CL67IafUMGtuEREER3d-iow8ev1aOAVLQ4zW5rU-jTShGVWfwU8zin8cr0ZgYC8pEy_EgdUEF7RZhEOx6b3aBz301w-s98Jwwz7b_mqtGbMdjSPVcbzSqVtIYxhmedeq0sNCZLnEavJQYjPHWTc4ujC-HjctvmHgTpJyIrDfdQm-mjOyOUo8kzooIZOczDo3J7TMNGQt1JkL2hzapGtKyXZvDJu-szCuczVCFqECpaVtUHztE83NZgt3IeeqhZ9e9_ThIdfFzlCEaS7UIgpx1BUPEali-N8QjfYcXdIjesOUwHlbk-bhlM-8mSS-5FcSJoBtXun8CZIIRTdKz_Lh7ShMg11lrYjbibELzcijmUnWSFfCOvhmqPRRkv1Dbs1449XqJPxvnrGOinWSotcX5uCRKAhR1jVsE4m9hK5ko5MqwjRvUw9FFyrX4ULF3j0qE7AFolvj-2dSn9enPMLYlzHbDWcBBTf2Vw1q4jpc046GJtVQC4osJdcHNfWL_BHTOqAw0PEay3an_E7Pa1X5FFSivHFRfLCuxs6NyD28Qb_NMV3oWLxubidrYxiJqCjnBGjYhOVXc2Y7Tbo9k4pQSd5FZ8f_uOAyFzbllnl_tCy3pRxMer_ZetN7ZpHOIMmveC1So4EenYeRVAHZBTIH-67EV2_lWPEVGMyAE8TXNgZz2mBfMa0jEyUT7ePmTGyczwxBPqHm2p4ockTIP5ghHuf28daP3SrUsO-JanmwkGEKEeO13k67R6EiAUVATo8x7KrvONDyooBpHLNyXOVwUVQkhBD21fjGiy1RvjcBURG8PPa8vSg3ExaFRxrvEklnHZ3fngpLfStJXEobtXgmdh0vJ28f9VdIGKKC1Gc0FVkpZFp9OXgAWndoCEICKLnQ1F_-iH2bGCw06K1UVwEcp3tYqy4_jO5CKZzqkJRXt0CrRKiCBjmFsoQ9KzXQTPhH_AV2Z90svKbFAJz4DK4wxb-VqrTZ2AHMkTPZkmbaA07Bo6NRQqkN___oNQEemAesktMfDNJGrZnpcbZLD83CjvY97VnTvQUkdEq3p_0wfyPIzd89C3ApgiaG82XaEKXTISnC1cFsRn11k_RCd3Op6_-auUMhoSn9UUjd3f00b47swmQBojMUTXOblA9cOW2b9KoS9BwN2f2LKt3hWYhzlA-p6eKWVWtFYuT7pd1KvD2F361IHgCeqxxWcacYsDojLqtHcPcEP96ccn-A15MFLm25iJDQ9gGzVVi0hEQ_Qw2NVvndHT9Ax14avrkpMO80dl2NBO_1cAe239wfG3ZCTyYSg_L6CXljHkyNWo9lZDVjxsvK_3U0Ku-O5FN3Y38ySiqTdsw9-ERqdVC3QN3NceUCLsBMZmDWBlU-0i3i1jC-QirS8Er41t1pg3AtNYd-ow-incowDYjK9hRbnt90pG6B0P4FZOgi0_XEhOPVGpMwlU3q6HvyD8krJ0IFhe6qLdFipq7pldZDp1hpqY6SMXfhocP_93XPoj8ab40PUjUO9ae6iFJwYF9wCUUiSWWqu4hqA_6CxpfZbSA-lwYUFbGJTnKrG5TzxUr9eV7FfgAh5_AZGUq0CcNXcZc40KXjoCEPfKvbjF5FkEINK8RpoTAEeB0WbpT3eVSulAQKfguYoIqN-qT8SoeCyywvl9Gt8oy3XrgneERIVvXEf8Nlfa2lEk0pkL-IXnWaHsuaYkmnHVprYfjIR3gGrXM2pfVERIhqRT66KYddu8fH1baJxjRUvkyaIfXVPowh7PWgyL3YW69U7wQlP3rJIFOSQxeYX0qxLIambMmf_Ctc44KKkVhpleK_SUruvbfZHmLw1vFIxSTqm978aQr-CSwCT3mra7AqDBnVjV2d197Qmzx0ztkSuIt6Zys3f7U2QkzU2BoOSvVvwlUq2u-buVW-bd28xs9ArIY8u9118ybl68YH0lEaTERJsydlVfz50u5ICdn_5R2_78itm67Cmw4rnyotzVfJcYk-lk4qOBc-ygW02vl7lkCQm3MjzSDYFclOrybXWs3Snb3V-pKV9X0NsXCSOUlGMqvuBIcbYhzh16Xj5eOTvt_eog951ZhbZq9ZW9q-P-j-s0E8EciKKo93JekYOsLL9gYkRJgdB_iiboI4U7NzG-AjsepqEdOMHoMzJC_49g9I9iL20yBt1bC7mDo4MtDjStM-qasua0c2IZhEX0KHg5x5Hpf7lslgGy-W5Xn3PBdhA6kEoN-NTd28SyUPIYK2KGnf_5M6rZdEfq45ftRMOTE2CG1QGgc_pWfm9BAPT5DJbDE0KTjR42B3kzuLLNuE3JoDh55OzCWSKk3MNUo2UXYD9LA0Z111NcZXcedZhSJILn7Sw-VThiil3A_pF6W3aC_2imi5746lnGyA8fdlZ_kzJdle2QjHAXQCTBgvSyBbY83HqgXJtXueuFMo6cyAgBfACajLdSkJQRAQWmN\n<!-- ENC_BLOB_END -->",
+  "created_at": 1774129568,
+  "id": "4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "56c624ba263b76203ca480307976fd1b9084d1a8b9f67dc882fbaaa871c6705e1d6b28984f14d8153448018f54b097e4a2c499cbfe15c771a405353aae41b204",
+  "tags": [
+    [
+      "d",
+      "-book-2---building-local-first-systems---chap-7---determinism-over-dynamism-2026-03-20"
+    ],
+    [
+      "title",
+      "🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism"
+    ],
+    [
+      "published_at",
+      "1774129568"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization."
+    ],
+    [
+      "display_date",
+      "2026-03-20"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "determinism"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "reliability"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "7adef259a1d44ab2c163f03324c043c63e01ce84949806545d963ba77add3eb0",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

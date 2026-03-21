@@ -1,0 +1,27 @@
+{
+  "content": "# Building Local-First Systems  \n## A Practical Guide to Sovereign Software Design\n\n---\n\n## Part I — Foundations\n\n1. What Is Local-First, Really?  \n2. The Illusion of “Offline Support”  \n3. Authority vs Access  \n4. Data Ownership vs Data Access  \n5. Why SaaS Became the Default  \n\n---\n\n## Part II — Core Principles\n\n6. Local Authority First  \n7. Determinism Over Dynamism  \n8. Identity as a First-Class Primitive  \n9. Separation of Authoring and Distribution  \n10. Systems That Degrade Gracefully  \n\n---\n\n## Part III — Storage & State\n\n11. Files vs Databases vs Hybrids  \n12. SQLite as a Sovereign Core  \n13. JSON as an Interface Layer  \n14. Versioning Without Git  \n15. Designing for Recoverability  \n\n---\n\n## Part IV — Identity & Auth\n\n16. Why Identity Is Broken  \n17. Private Keys and Local Custody  \n18. Multi-Identity Systems  \n19. Signing vs Publishing  \n20. Trust Without Accounts  \n\n---\n\n## Part V — Publishing & Sync\n\n21. Publishing as an Output, Not a State  \n22. Relays, Not Backends  \n23. Replication Without Control  \n24. Scheduling and Queued Publishing  \n\n---\n\n## Part VI — Case Studies\n\n25. Continuum Deep Dive  \n26. Kiyomi’s App — Static, but Updateable  \n27. Other Experiments and Patterns  \n\n---\n\n## Part VII — Implementation Patterns\n\n28. Docker, USB, and Portable Systems  \n29. Designing Without a Backend  \n30. Tradeoffs, Limits, and When Not to Use Local-First",
+  "created_at": 1773962088,
+  "id": "cdf6a12798af3418971fc702dd979b2ab2636a0a3b2c37be5fccce0f66c9776e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ded2f237b732c537c4013f47c83a3d386a4fd4ab3c587b73767efbd45b268b9e2294e0d2223d47dcb015b76e04621da23fce0b68cdeec94442a91aff2f6d9d52",
+  "tags": [
+    [
+      "d",
+      "building-local-first-systems"
+    ],
+    [
+      "title",
+      "Building Local-First Systems"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
