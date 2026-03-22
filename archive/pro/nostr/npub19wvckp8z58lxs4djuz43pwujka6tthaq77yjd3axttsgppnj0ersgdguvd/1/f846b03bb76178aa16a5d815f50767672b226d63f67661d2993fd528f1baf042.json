@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774211126,
+  "tags": [
+    [
+      "d",
+      "note-1774154331"
+    ],
+    [
+      "published_at",
+      "1774211126"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "0054f982642c16a657adb43d1e1a6264696acba9896ed046fe56b9068fc579a0",
+      "edit"
+    ]
+  ],
+  "content": "Sabbath - 3/21/2026\n\nSabbath is not inactivity.  \nIt’s refusing to believe that everything depends on you.\n\n#Sabbath #Faith #Bitcoin #Nostr #Continuum #LocalFirst #Sovereignty #Writing #Building #Identity #Clarity #DigitalSovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "f846b03bb76178aa16a5d815f50767672b226d63f67661d2993fd528f1baf042",
+  "sig": "36530beb0e777705d4a0a445512b7fb41147a2503d06dc3f95a11f4d07be7f2c8766ead87d10533f98859dfce29b471cdb3f5c2e8387ee35384ed54751edcf4f",
+  "published": 1
+}

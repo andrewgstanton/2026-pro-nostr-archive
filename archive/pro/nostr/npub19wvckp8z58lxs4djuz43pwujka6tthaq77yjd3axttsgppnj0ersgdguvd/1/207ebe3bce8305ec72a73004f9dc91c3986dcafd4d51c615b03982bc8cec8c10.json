@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774211164,
+  "tags": [
+    [
+      "d",
+      "note-1774154434"
+    ],
+    [
+      "published_at",
+      "1774211164"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "0d89c9c1eb3f0ee962999b13941402249042b02c287243a890d6bcd69a6e3135",
+      "edit"
+    ]
+  ],
+  "content": "Continuum - 3/21/2026\n\nLocal-first isn’t just about ownership.  \nIt’s about the ability to step away.\n\n#Sabbath #Faith #Bitcoin #Nostr #Continuum #LocalFirst #Sovereignty #Writing #Building #Identity #Clarity #DigitalSovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "207ebe3bce8305ec72a73004f9dc91c3986dcafd4d51c615b03982bc8cec8c10",
+  "sig": "2f17c6104202e62d8e29d06e8ad35c5cedc0f0b8a8ee4dc4f9f9890bf8cdd19c3bb4c7cab33119344cede53f560d01f0f0faae80e84b3cd8694bac627277d56a",
+  "published": 1
+}
