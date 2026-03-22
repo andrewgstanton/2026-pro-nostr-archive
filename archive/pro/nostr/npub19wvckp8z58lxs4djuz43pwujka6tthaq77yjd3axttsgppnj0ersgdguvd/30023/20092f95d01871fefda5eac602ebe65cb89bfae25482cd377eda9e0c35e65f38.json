@@ -1,0 +1,31 @@
+{
+  "content": "Andrew G. Stanton - Thursday, March 19, 2026\n\n---\n\n## Summary\n\nThe first version (**v1.0**) of *Building Continuum* went live around 1:00 PM (cleared KDP store)\n\nThis was not treated as a final, frozen release. Shortly after publishing, I continued refining the content — making targeted edits and improvements throughout the afternoon and evening.\n\nBy the end of the day, the ebook had reached **v1.2**, which became the finalized version for digital distribution.\n\n## What Happened\n\n- Initial ebook (**v1.0**) published to KDP  \n- Immediate iteration post-launch  \n- Multiple refinements applied same day  \n- Finalized **v1.2** released in the evening  \n\n## Observations\n\nThis was a clear example of:\n\n- Shipping before perfection  \n- Tight feedback loop (even if internal)  \n- Treating publishing as a **process**, not an event  \n\nThe work did not wait for certainty — it moved forward and improved in motion.\n\n## Theme\n\nPublish → Refine → Stabilize\n\n## Note\n\nThe important shift here is psychological as much as technical:\n\nI crossed from *working on the book* → to *the book existing in the world*.\n\nThat boundary matters.\n\nChatGPT used to summarize, a little flowery but good summary",
+  "created_at": 1774155493,
+  "id": "20092f95d01871fefda5eac602ebe65cb89bfae25482cd377eda9e0c35e65f38",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "42557826368cd26d36f2d6a4be9569c07713ef64c5ba743250d050d76d1e5d96025fecb8113a127d701612a70b4fba85916c0870be26aad41995fc64f98a1e84",
+  "tags": [
+    [
+      "d",
+      "builders-jounal--march-19-2026"
+    ],
+    [
+      "title",
+      "Builder's Jounal  — March 19, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-18"
+    ]
+  ],
+  "published": 0
+}

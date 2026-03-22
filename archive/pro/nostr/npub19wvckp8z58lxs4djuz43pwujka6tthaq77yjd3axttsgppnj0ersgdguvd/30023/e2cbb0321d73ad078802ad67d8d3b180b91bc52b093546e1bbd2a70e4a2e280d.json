@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1774156605,
+  "tags": [
+    [
+      "d",
+      "builders-journal--march-20"
+    ],
+    [
+      "title",
+      "Builder’s Journal — March 20"
+    ],
+    [
+      "published_at",
+      "1774156605"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-03-20"
+    ],
+    [
+      "e",
+      "9ff2b3badd438ceb1273dfc1e25f65d2691f60026aa94085b6732f399e725c1d",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Friday, March 20, 2026\n\n---\n\n## Summary\n\nWith **v1.2 of the ebook live and stable**, the focus shifted away from writing and toward **formatting, structure, and physical production**.\n\nThe majority of the day was spent refining the technical pipeline behind the book — ensuring that both paperback and hardcover versions were correctly formatted, consistent, and ready for print.\n\nBy the end of the day, both versions were uploaded to KDP with finalized covers, and **proof copies were ordered**.\n\n## What Happened\n\n- Confirmed **v1.2 ebook** as the stable release  \n- Refined LaTeX formatting for print layouts  \n- Iterated on Pandoc pipeline for consistent output  \n- Prepared files for:\n  - Paperback edition  \n  - Hardcover edition  \n- Designed and uploaded covers for both formats  \n- Uploaded final print-ready files to KDP  \n- Ordered **physical proofs** of both editions  \n\n## Observations\n\nThis day was less about creativity and more about **precision and translation**:\n\n- Translating ideas → into correctly formatted pages  \n- Translating digital content → into physical artifacts  \n- Ensuring consistency across formats  \n\nIt required patience and attention to detail rather than momentum.\n\n## Theme\n\nRefine → Format → Materialize\n\n## Note\n\nThis marks a meaningful transition:\n\nThe work is no longer just *published* — it is becoming **durable**.\n\nA printed book does not depend on:\n- platforms  \n- logins  \n- uptime  \n\nIt exists on its own terms.\n\nNote: Paul Woodford came by about 3:45 PM to look at the bifold  closet doors (with mirros) to see if he can find replacement parts.  He was taking pictures, looking for about 15-20 minutes\n\nAlso chatGPT and I started on Book 2 - Building Local-First Systems -- first 5 chapters published, 4 in draft (9 out of 30).",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e2cbb0321d73ad078802ad67d8d3b180b91bc52b093546e1bbd2a70e4a2e280d",
+  "sig": "875654e656c89f93ffc5e7f43a799dea9dd4547991fa20150bb17d50d0e6a73ce01ef8865fdd1d53ff5f994e708aa2b26d33b661bc9cde59fbe3352fd729eae0",
+  "published": 0
+}
