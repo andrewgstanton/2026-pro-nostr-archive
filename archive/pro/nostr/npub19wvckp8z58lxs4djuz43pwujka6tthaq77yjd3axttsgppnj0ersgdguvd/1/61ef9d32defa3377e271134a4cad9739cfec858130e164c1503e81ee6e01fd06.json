@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774154531,
+  "tags": [
+    [
+      "d",
+      "note-1774154476"
+    ],
+    [
+      "published_at",
+      "1774154531"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "72bd825ac4e9fc5baad19fd2927cdb39c070f91060334b6c05a4a0f214ff81c1",
+      "edit"
+    ]
+  ],
+  "content": "Identity - 3/21/2026\n\nThe more you perform online…  \nthe easier it is to lose what is real.\n\n#Sabbath #Faith #Bitcoin #Nostr #Continuum #LocalFirst #Sovereignty #Writing #Building #Identity #Clarity #DigitalSovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "61ef9d32defa3377e271134a4cad9739cfec858130e164c1503e81ee6e01fd06",
+  "sig": "47ec5a2b7650fa650d127fc0121177779a48ff05177ecfe3dd4768f879f05f6eb2beb6658daa8a7f25a780764358b01b4007cc3d1c0af3fdd7bfd646ae94ecac",
+  "published": 1
+}

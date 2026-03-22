@@ -1,0 +1,14 @@
+{
+  "id": "83cb21411ea04849b63a38368ebe47d7113d7e84db0e08d1401142a2cd81a65c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774197358,
+  "kind": 1,
+  "tags": [],
+  "content": "I do not ALWAYS use my local host Instance of continuum to post.  Mostly but not always \n\nIt’s just good to know I have this option.\n\nBeautiful day here in SF\n\nTake care \n\n ",
+  "sig": "2e85dc94a3b0c62847244d5a1b5e1ebbf4f7acdaa15faebc84a515e48d55f2295998d442294076424565e26077bf51c10cf4aa977e209dd87c818ed4a28d3222",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

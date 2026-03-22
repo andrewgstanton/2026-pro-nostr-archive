@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774154617,
+  "tags": [
+    [
+      "d",
+      "note-1774154364"
+    ],
+    [
+      "published_at",
+      "1774154617"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "1a9a17f948096edf7221d2cb63f58773c5b34e4149dae151a727f7f20c6fd910",
+      "edit"
+    ]
+  ],
+  "content": "Building - 3/21/2026\n\nIf it cannot continue without you…  \nit is not yet built to last.\n\n#Sabbath #Faith #Bitcoin #Nostr #Continuum #LocalFirst #Sovereignty #Writing #Building #Identity #Clarity #DigitalSovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "212d9cc8643980bccca43f77d593c415493d56ba56f784aebc3fc7434fe8b52b",
+  "sig": "611918bfa2f2969615138e8bb5f29707e0ed1c37d54ffeae3a04102e8ad988c37744c39a1f04186b60516b34d9961befcfada81600702ecbd914ccc3dd2f3a66",
+  "published": 1
+}

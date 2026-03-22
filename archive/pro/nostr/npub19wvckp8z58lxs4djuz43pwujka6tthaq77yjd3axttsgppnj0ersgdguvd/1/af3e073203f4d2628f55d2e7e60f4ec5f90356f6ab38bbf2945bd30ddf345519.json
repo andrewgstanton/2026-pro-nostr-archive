@@ -1,0 +1,14 @@
+{
+  "id": "af3e073203f4d2628f55d2e7e60f4ec5f90356f6ab38bbf2945bd30ddf345519",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774198606,
+  "kind": 1,
+  "tags": [],
+  "content": "If anyone is curious I asked ChatGPT (“Dr. C”) to describe me\n\nHere us the exact question (prompt) I used:\n\n“Based on everything you know about me and what we have been working on together how would you describe me Dr c?” \n\nIt came up with 10 Points the last point was was a summary:\n\n“10. The Cleanest Description\n\nIf I had to reduce it:\n\nYou are a sovereignty-driven systems builder and writer\nwho is trying to create durable, identity-first infrastructure\nwithout compromising on first principles—even when it costs you.”\n",
+  "sig": "882c6901097b676adc9a2b8bbf0a80b31b95ab4ae6c5870b7470c05472fd650506d004dab657d3f2b393abc39703b9857b51a3744a586bb42f6e2e796ac9c645",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

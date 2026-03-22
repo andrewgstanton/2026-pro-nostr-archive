@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774154591,
+  "tags": [
+    [
+      "d",
+      "note-1774154397"
+    ],
+    [
+      "published_at",
+      "1774154591"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "7411e198f2863490929f533bacb6ae733284151c6890a5b34a8f6ab6c11d453f",
+      "edit"
+    ]
+  ],
+  "content": "Writing - 3/21/2026\n\nEngagement can be manufactured.  \nClarity cannot.\n\n#Sabbath #Faith #Bitcoin #Nostr #Continuum #LocalFirst #Sovereignty #Writing #Building #Identity #Clarity #DigitalSovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e4ebc8a9c1bc441d6edc89ad21b156ac203d7edf0a8054d51f9147adf13c17b3",
+  "sig": "60e28cd15475c7aacbfed32be6aa0a55286b328f2fccb682df401dc56d6c0b90a24d8f0f1306fcc6802608af237a35bb99d82df6267821e42cc93bb969c6c171",
+  "published": 1
+}
