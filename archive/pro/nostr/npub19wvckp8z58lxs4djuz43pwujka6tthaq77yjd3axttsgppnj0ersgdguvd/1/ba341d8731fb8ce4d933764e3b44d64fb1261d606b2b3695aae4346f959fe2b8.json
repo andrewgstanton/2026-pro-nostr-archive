@@ -1,0 +1,44 @@
+{
+  "content": "Discipline - 3/22/2026\n\nConsistency is not intensity.  \nIt is direction, held over time.\n\n#Continuum #LocalFirst #Ownership #DigitalSovereignty",
+  "created_at": 1774244512,
+  "id": "ba341d8731fb8ce4d933764e3b44d64fb1261d606b2b3695aae4346f959fe2b8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "600783dab39090fb493f3d84da65b35e51d5b709171d0073ebff33efcdb3359e4d38da1e6503ed094c87f5c2edcf8bdae0ac2d304c9c6bb55a3796ec4e8e8112",
+  "tags": [
+    [
+      "d",
+      "note-1774244512"
+    ],
+    [
+      "published_at",
+      "1774244512"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

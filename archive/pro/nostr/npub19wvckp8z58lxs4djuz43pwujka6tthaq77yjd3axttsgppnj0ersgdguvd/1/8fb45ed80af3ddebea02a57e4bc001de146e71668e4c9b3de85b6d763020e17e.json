@@ -1,0 +1,44 @@
+{
+  "content": "Signal - 3/22/2026\n\nSilence does not mean nothing is happening.  \nIt often means the work is still forming.\n\n#Continuum #LocalFirst #Ownership #DigitalSovereignty",
+  "created_at": 1774244476,
+  "id": "8fb45ed80af3ddebea02a57e4bc001de146e71668e4c9b3de85b6d763020e17e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5525d3c017f346313c58487fa87ca19790dd005117f9e5ffffdf4def63c4cf92dd345dbed6ffab5e3432a5b0f08d3f66bba7f94b6bedba3972a9fdfef38a1934",
+  "tags": [
+    [
+      "d",
+      "note-1774244476"
+    ],
+    [
+      "published_at",
+      "1774244476"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

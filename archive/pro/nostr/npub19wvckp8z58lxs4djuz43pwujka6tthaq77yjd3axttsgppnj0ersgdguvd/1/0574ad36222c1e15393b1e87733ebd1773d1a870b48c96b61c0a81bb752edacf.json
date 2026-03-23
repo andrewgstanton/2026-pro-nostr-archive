@@ -1,0 +1,44 @@
+{
+  "content": "Building - 3/22/2026\n\nBuilding is how ideas are tested.  \nNot discussed. Not imagined.  \nTested.\n\nThis note was CREATED, SIGNED and PUBLISHED Local-First not through any client\n\n#Continuum #LocalFirst #Ownership #DigitalSovereignty",
+  "created_at": 1774244625,
+  "id": "0574ad36222c1e15393b1e87733ebd1773d1a870b48c96b61c0a81bb752edacf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "78c876ddd15f15edf493d5e8021f4463d47f1893476b7feb7cbfddf947dbcd2bdaaaa6ee345810fd43f922acfab1699e91ea8e003b8acc2ab8c400b95bb56143",
+  "tags": [
+    [
+      "d",
+      "note-1774244625"
+    ],
+    [
+      "published_at",
+      "1774244625"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

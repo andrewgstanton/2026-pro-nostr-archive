@@ -1,0 +1,28 @@
+{
+  "content": "Note Published as Akamaister",
+  "created_at": 1774223903,
+  "id": "989802d87c714c5fc6b780fd90e34a0a650fc6304459530e57e71683d7794241",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cb22ac05d9fe414688853de4591de58cdc5f97f3f9edce317ceb4713e69ba8d2c3a55f0563ce9d55acd2e03640ec419b8649c4e9b6ab8f8d7e68d1339b7e03e9",
+  "tags": [
+    [
+      "d",
+      "note-1774223903"
+    ],
+    [
+      "published_at",
+      "1774223903"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

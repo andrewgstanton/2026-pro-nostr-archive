@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774220273,
+  "tags": [
+    [
+      "d",
+      "note-1774218063"
+    ],
+    [
+      "published_at",
+      "1774220273"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "e2936e15cb6fc49abb58193cb15c911a981556bcb6ac98c776035064bfca3efa",
+      "edit"
+    ]
+  ],
+  "content": "Example: Using Continuum on My Local Machine (Local → Network)\n\nThis is a real example of publishing a Nostr note using Continuum running locally — no client required.\n\nBelow are 5 screens showing the full flow — from writing a note locally to seeing it appear in another Nostr client.\n\nNOTE: On some mobile clients, images may appear at the end — they are labeled to match each step.\n\n\n\nScreen 1 — Continuum dashboard (running locally)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo-screen1.png\n\nThis is the Continuum dashboard running at localhost.\n\nIt shows:\n\n- my notes and articles stored locally  \n- my active identity  \n- publishing tools  \n\n- NOTHING here is hosted  \n\n- NOTHING here is seen through any client or app  \n\n- NOTHING depends on a platform  \n\nIf you're using a client today, your content typically starts there.  \n\n--> Here, it starts locally. <--\n\n\n\nScreen 2 — Managing identities (npubs)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo-screen2.png\n\nHere I am selecting from multiple identities.\n\nThese are Nostr keys, not accounts.\n\n- no email  \n- no password  \n- no platform login  \n\nEach identity can sign and publish independently.\n\nMost systems assign identity.  \n\n--> Here, it’s controlled directly. <--\n\n\n\nScreen 3 — Writing a note (local authoring)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo-screen3.png\n\nThis is the note being written inside Continuum.\n\nIt is created locally:\n\n- not inside a Nostr client  \n- not through a browser extension  \n\nJust direct authorship on my machine.\n\n--> Question: If your current tool disappeared, where would your drafts live? <--\n\n\n\nScreen 4 — Note after signing and publishing (local view)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo-screen4.png\n\nAfter clicking “Sign & Publish”:\n\n- the note is signed with my key  \n- sent to relays  \n- stored locally as a signed event  \n\nThis confirms the note has been created and published.\n\n\n\nScreen 5 — Same note visible in Coracle (external client)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo-screen5.png\n\nHere is the exact same note in Coracle.\n\nThis shows:\n\n- the note was published to the network  \n- any client can display it  \n\nIt was not copied or synced through a service.\n\nThe client didn’t create this note.  \nIt only displays it.\n\n\n\nWhat this example shows\n\n→ write locally  \n→ sign with your key  \n→ publish directly  \n→ view in any client  \n\n\nKey takeaway\n\nContinuum is the source of authorship.\n\nClients are just viewers.\n\nMost tools optimize for convenience.  \nThey also introduce dependencies you don’t notice until they matter.\n\n\nThis setup requires running Continuum locally (Docker, etc.).\n\nThat’s the tradeoff for full control and ownership.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "fb35f976ada68b2c96039b2c0a5216c722bc9c7b903ed6d845b10a1e02a55475",
+  "sig": "c5dd0cf57f74bcbd94d1ab11eb123cc0f12ddb519f888e2d7f3a7fab4152febac0c6fad0f18dfc2301d2d92c5615ee9aa28940052dcee538ea3a04372d1f3676",
+  "published": 1
+}

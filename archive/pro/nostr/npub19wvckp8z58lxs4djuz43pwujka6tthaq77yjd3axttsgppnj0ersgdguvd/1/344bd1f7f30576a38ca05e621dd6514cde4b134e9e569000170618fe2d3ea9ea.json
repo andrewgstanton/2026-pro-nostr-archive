@@ -1,0 +1,44 @@
+{
+  "content": "Continuation - 3/22/2026\n\nIf you only build when it feels good,  \nyou will stop long before it matters.\n\n#Continuum #LocalFirst #Ownership #DigitalSovereignty",
+  "created_at": 1774244454,
+  "id": "344bd1f7f30576a38ca05e621dd6514cde4b134e9e569000170618fe2d3ea9ea",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1f8fe3a0c3e3c09688f322dc26905dde16a3f1c96018b2a182da5c29c4782cf1a8b8310bcaabcbe200289f9f6c078337c2fb369d5dc5f908a9580173f669e2d8",
+  "tags": [
+    [
+      "d",
+      "note-1774244454"
+    ],
+    [
+      "published_at",
+      "1774244454"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

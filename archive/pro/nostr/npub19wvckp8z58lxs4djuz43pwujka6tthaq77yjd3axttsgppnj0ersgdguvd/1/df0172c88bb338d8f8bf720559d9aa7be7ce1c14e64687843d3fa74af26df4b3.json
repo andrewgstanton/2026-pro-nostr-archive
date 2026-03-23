@@ -1,0 +1,28 @@
+{
+  "id": "df0172c88bb338d8f8bf720559d9aa7be7ce1c14e64687843d3fa74af26df4b3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774220996,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1774220996"
+    ],
+    [
+      "published_at",
+      "1774220996"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "This note was signed OFFLINE",
+  "sig": "8b5260dc443441fac6a9252bdeb09a0189120f4860c48f4fe7d74149e837364d8f345162b7d1e2c285a96e7b21904208e1ea69a26dec3b465e1405b03f9ed966",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774225223,
+  "tags": [
+    [
+      "d",
+      "note-1774223756"
+    ],
+    [
+      "published_at",
+      "1774225223"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "dbf88368bf85577d748164357fdbf0a18e0680c75f6eb741502602eb58b53fb9",
+      "edit"
+    ]
+  ],
+  "content": "Example: Publishing With Multiple Identities in One Flow\n\nThis is a real example of creating and publishing notes using multiple identities in a single session — no login/logout, no account switching.\n\nBelow are 5 screens showing the flow.\n\n\n\nScreen 1 — Continuum dashboard (local)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen1.png\n\nContinuum is running locally.\n\nMultiple identities are available at the same time.\n\nThere is no concept of “logged in user”.\n\n\n\nScreen 2 — Select identity: Akamaister\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen2.png\n\nHere I select the identity “Akamaister”.\n\nThis determines which key will be used to sign the next note.\n\nIdentity selection is explicit.\n\n\n\nScreen 3 — Write and publish as Akamaister\n\ndrafting and publishing the note:\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen3-1.png\n\nnote published -- seen on primal:\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen3-2.png\n\nThis note is created and signed using the Akamaister identity.\n\n- signed locally  \n- published directly  \n\nNo login. No session. Just key selection.\n\n\n\nScreen 4 — Switch identity: Continuum\n\n(continuum is also an npub/keypair I have, this is NOT the same as the platform/application itself)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen4.png\n\nNow I switch to a different identity: “Continuum”.\n\nNo logout required.\n\nNo account switching.\n\nJust selecting a different key.\n\n\n\nScreen 5 — Write and publish as Continuum\n\nNote drafted, igned, published and shown in primal:\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo3-screen5.png\n\nThis note is created and signed using the Continuum identity.\n\nSame system. Same flow.\n\nDifferent identity, fully controlled.\n\n\n\nWhat this example shows\n\n→ multiple identities active at once  \n→ explicit selection per action  \n→ no login/logout model  \n→ no platform controlling identity  \n\n\n\nKey takeaway\n\nIdentity is not a session.\n\nIt’s a key you choose to use.\n\nMost systems tie identity to accounts and sessions.\n\nHere, identity is independent and selectable at any time.\n\n\n\nThis setup requires running Continuum locally.\n\nThat’s the tradeoff for full control over identity and publishing.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "b66b286355cb0e9088a94aba921635c4610e0f2f2050dd4a337b92461e24ee3f",
+  "sig": "f597f6f7fe7583ff00d24d56424be8028af20a3a3f76fa78f63ad960cde00d2bf0cb398247f83fea282c599b79496ba0f12a5d7ea4f94598e9984f3eb3f96e5c",
+  "published": 1
+}

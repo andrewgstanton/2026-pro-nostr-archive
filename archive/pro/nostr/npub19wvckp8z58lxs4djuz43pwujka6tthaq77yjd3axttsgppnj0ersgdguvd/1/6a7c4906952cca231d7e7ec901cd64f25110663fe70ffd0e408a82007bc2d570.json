@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774225436,
+  "tags": [
+    [
+      "d",
+      "note-1774220699"
+    ],
+    [
+      "published_at",
+      "1774225436"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "d807585747c6a7d08f7162a93a46821810d71f65c42cf8f500715f905a080071",
+      "edit"
+    ]
+  ],
+  "content": "Example: Using Continuum With NO INTERNET (Offline → Later Publish)\n\nThis is a real example of writing and signing a Nostr note completely offline — and publishing it later when connectivity returns.\n\nBelow are 5 screens showing the full flow.\n\n\n\nScreen 1 — Continuum running with no internet\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen1.png\n\n\n\nContinuum is running locally with no internet connection.\n\n- no relays  \n- no network access  \n- no client connection  \n\nEverything still works.\n\n->> Authorship does not require connectivity. <--\n\n\n\nScreen 2 — Managing identities (offline)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen2.png\n\n\nIdentities are still available.\n\n- keys are local  \n- signing is local  \n- no external dependency  \n\n--> Identity does not require a platform. <--\n\n\n\nScreen 3 — Writing and signing a note (offline)\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen3.png\n\n\nThis note is created and signed while offline.\n\n- no relay connection  \n- no client  \n- no external signer  \n\nThe note exists as a signed event locally!!\n\n--> If your current tool requires connectivity to create or sign, that’s a dependency.  <--\n\n\n\nScreen 4 — Scheduled for later publication\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen4.png\n\n\nThe signed note is queued for publishing.\n\n- stored locally  \n- ready to send when relays are available  \n\nPublishing is a separate step from authorship.\n\n\n\nScreen 5 — Internet restored, note published\n\n\nshown locally in continuum:\n\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen5-1.png\n\n\nshown on primal:\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-22-demo2-screen5-2.png\n\nOnce connectivity is restored:\n\n→ the note is published  \n→ relays receive it  \n→ clients can display it  \n\nThe note was already created and signed before the network was involved.\n\n\n\nWhat this example shows\n\n→ write offline  \n→ sign locally  \n→ publish later  \n→ network as distribution only  \n\n\n\nKey takeaway\n\nAuthorship, identity, and signing DO NOT require the internet.\n\nThe network is optional for creation — only required for distribution.\n\n\n\nThis setup requires running Continuum locally.\n\nThat’s the tradeoff for independence from connectivity.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6a7c4906952cca231d7e7ec901cd64f25110663fe70ffd0e408a82007bc2d570",
+  "sig": "3de67c7721b8e6fb8f70b7fc466b640b15018910e73d3b49f66361d067b1bf980a6a37c3c76f189fefcaf9e1e630ddd3d360be63151cb3f9b146410e69340d6c",
+  "published": 1
+}

@@ -1,0 +1,44 @@
+{
+  "content": "Stewardship - 3/22/2026\n\nWhat you build reflects what you believe  \nis worth your life.\n\n#Continuum #LocalFirst #Ownership #DigitalSovereignty",
+  "created_at": 1774244539,
+  "id": "b93d5eececb079a4316ab0ab0391c0c6b001baed2adab077d97f54a0e989fd7b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b7162b9ba684e54655bac75ce1c9c4038b30d874066750406c87e5952909c32aa08109ac60ffe79d3a0e3dca7da1c709c3bfafdbd60ab142b66e182a60b50b25",
+  "tags": [
+    [
+      "d",
+      "note-1774244539"
+    ],
+    [
+      "published_at",
+      "1774244539"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
