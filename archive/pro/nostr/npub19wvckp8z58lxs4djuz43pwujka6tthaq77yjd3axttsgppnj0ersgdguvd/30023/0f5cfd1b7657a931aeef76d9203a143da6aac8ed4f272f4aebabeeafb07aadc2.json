@@ -1,0 +1,71 @@
+{
+  "id": "0f5cfd1b7657a931aeef76d9203a143da6aac8ed4f272f4aebabeeafb07aadc2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774244060,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "building-is-a-form-of-stewardship"
+    ],
+    [
+      "title",
+      "Building Is a Form of Stewardship"
+    ],
+    [
+      "published_at",
+      "1774244060"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Building is not just creation—it is stewardship. It reflects how we manage time, responsibility, and what has been entrusted to us."
+    ],
+    [
+      "display_date",
+      "2026-03-22"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "responsibility"
+    ],
+    [
+      "t",
+      "work"
+    ],
+    [
+      "e",
+      "7e304a702f7cf3bdc7bfdfbff928e3a67b526c6d26494dd04b98317465eef55b",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sunday, March 22, 2026 \n\n---\n\nBuilding is often framed as creation.\n\nMaking something new.  \nDesigning something useful.  \nBringing an idea into the world.\n\n---\n\nBut there is another dimension that is often overlooked:\n\nBuilding is stewardship.\n\n---\n\nStewardship is about responsibility.\n\nNot ownership in the absolute sense —\n\nbut care over something entrusted to you.\n\n---\n\nTime is entrusted to you.\n\nAttention is entrusted to you.\n\nSkills, opportunities, relationships — all entrusted.\n\n---\n\nAnd what you build is one of the clearest expressions of how you steward those things.\n\n---\n\nBuilding requires direction.\n\nIt asks you to decide:\n\nWhat is worth your time?\n\nWhat is worth your focus?\n\nWhat is worth continuing even when it’s difficult?\n\n---\n\nThis is where building becomes more than productivity.\n\nIt becomes alignment.\n\n---\n\nBecause what you consistently build reveals what you actually value.\n\n---\n\nIf you say you value truth, do you build things that clarify it?\n\nIf you say you value freedom, do you build things that preserve it?\n\nIf you say you value durability, do you build things that last?\n\n---\n\nStewardship is not abstract.\n\nIt is visible.\n\nIn output.\n\nIn consistency.\n\nIn direction.\n\n---\n\nAnything worth building is also worth maintaining.\n\n---\n\nBuilding is not a one-time act.\n\nIt is an ongoing responsibility.\n\n---\n\nOver time, the builder changes.\n\nNot just the work.\n\n---\n\nThe act of building consistently:\n\n→ develops discipline  \n→ sharpens thinking  \n→ exposes weaknesses  \n→ strengthens patience  \n\n---\n\nSo the question is not just:\n\n“What are you building?”\n\n---\n\nIt is:\n\n“What is building you?”\n\n---\n\n## Work With Me\n\nIf you're exploring:\n\n• Nostr authentication  \n• Sovereign identity infrastructure  \n• AI-assisted workflows  \n• Local-first containerized systems  \n\nI offer a limited number of advisory and implementation sessions for builders, teams, and ministries working in these areas.\n\nTypical engagements include:\n\n• Architecture session (90 minutes) – $500  \n• Implementation sprint – starting at $2,500  \n• Ministry / Foundation advisory engagement – $2,500  \n\n### Early Adopters\n\nI'm also looking for **early adopters interested in running Continuum**, a local-first publishing and identity system built on Nostr.\n\nThere is **no cost for early adopters**, and I’m happy to personally help with installation and setup.\n\nEven if you're just curious and want to see how it works, feel free to reach out.\n\nFeedback from early adopters directly influences the direction of the project.\n\nContact: andrewgstanton@gmail.com  \nor DM on Nostr:\n\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\nYou can also support this work as a Continuum Patron ($250).\n\nNOTE: If you directly pay in sats it is  automatically **10% off any engagement or purchase.**\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n---\n\n## Copyright\n\n© 2025-2026 Continuum — All rights reserved.",
+  "sig": "ddb1637dc4da9b9536928b0ca51f6541ae9043e3632625e144a8e2e72edb8db40a2bf602067e0e0ca6cc4ebc53b8fc6c3997cd2bb889abab0ddb282c6b05d7f7",
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
