@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774382924,
+  "tags": [
+    [
+      "d",
+      "note-1774382754"
+    ],
+    [
+      "published_at",
+      "1774382924"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "8766d1c47a16d63e1724546260618801d388c752b6f9e32d03746f44130c602c",
+      "edit"
+    ]
+  ],
+  "content": "Note 1 — Signing — 3/24/2026\n\nPosting is easy.\n\nFamiliar. Fast. Disposable.\n\nBut something changes when what you publish is actually yours.\n\nNot just written — but signed.\n\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\n\n“I wasn’t posting into an account. I was signing an event.”",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "c70d25045a98d6ac0bfb421161526d1ce044641aec4f3bdd8cec9d7c0add8d5c",
+  "sig": "11b2facabe4324efeb52df7f3e63756c7495f4dedc6b488c39e9ce1d63151c5f3bc1c1bf5acaede88ce140dbf3d78c48b09071e93741efedbcfef4459084e0a6",
+  "published": 1
+}

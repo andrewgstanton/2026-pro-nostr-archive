@@ -1,0 +1,28 @@
+{
+  "content": "Note 4 — Systems — 3/24/2026\n\nMost people think they’re using a platform.\n\nPosting. Sharing. Engaging.\n\nBut they’re inside something much larger.\n\nA system they don’t control.\n\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\n“...participation in someone else’s system.”",
+  "created_at": 1774383222,
+  "id": "ede65d45ff109be56d9d5658b9b5da50b28b850a951c87a35be2fd0adf06d381",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3678ee33c445e9f2974adcfd76a6a3f1d68b6028d3f84811e7a669e8b0e98cd6854efd147ec03c145f7f0a0d4ec2de420260f23f22722a066a43f4d6d309028a",
+  "tags": [
+    [
+      "d",
+      "note-1774383222"
+    ],
+    [
+      "published_at",
+      "1774383222"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

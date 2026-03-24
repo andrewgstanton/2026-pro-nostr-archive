@@ -1,0 +1,28 @@
+{
+  "content": "Note 3 — Ownership — 3/24/2026\n\nEverything is accessible.\n\nAlways on. Always synced. Always available.\n\nBut access is not ownership.\n\nAnd most systems are built on access.\n\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\n\n“If I cannot run something offline, do I really own it?”",
+  "created_at": 1774383063,
+  "id": "2f122301ec5e325d1dda863a8ee9fb7a447a09009e67876a4ae730c85c315d81",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ea8f1e1111e82ec0ba16048d109af7753d9e142cb89719242e623e201d7e9e9f637c9fe2ae9431fac9e53052e63404b51284e118dfaa3bd2d9c15f392413f243",
+  "tags": [
+    [
+      "d",
+      "note-1774383063"
+    ],
+    [
+      "published_at",
+      "1774383063"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

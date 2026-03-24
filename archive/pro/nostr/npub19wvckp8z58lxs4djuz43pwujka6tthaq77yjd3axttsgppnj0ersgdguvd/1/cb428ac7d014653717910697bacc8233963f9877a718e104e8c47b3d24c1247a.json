@@ -1,0 +1,28 @@
+{
+  "content": "Note 2 — Indifference — 3/24/2026\n\nYou publish something meaningful.\n\nSomething you’ve thought about.\nSomething you’ve worked through.\n\nAnd then… nothing.\n\nNo reaction. No response.\n\nIndifference is part of the process.\n\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\n\n“Publishing exposes you to indifference.”",
+  "created_at": 1774382880,
+  "id": "cb428ac7d014653717910697bacc8233963f9877a718e104e8c47b3d24c1247a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9c677efb73435b06ff8db05e27a4f32c90f2723c1459c8c0d7dbed8d301f58a62894ec215e464c370e328c816485c4369eea807ecf6d9cd2a061a040c1e4c4ea",
+  "tags": [
+    [
+      "d",
+      "note-1774382880"
+    ],
+    [
+      "published_at",
+      "1774382880"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

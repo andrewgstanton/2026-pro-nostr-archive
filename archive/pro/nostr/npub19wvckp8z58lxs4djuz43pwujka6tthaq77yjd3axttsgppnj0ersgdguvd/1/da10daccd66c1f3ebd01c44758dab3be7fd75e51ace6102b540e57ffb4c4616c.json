@@ -1,0 +1,28 @@
+{
+  "content": "Note 5 — Interface — 3/24/2026\n\nMost of what we see is the interface.\n\nFeeds. Buttons. Profiles.\n\nIt feels like that’s the system.\n\nBut it isn’t.\n\nIt’s just what we’re allowed to see.\n\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\n\n“The client was just a window.”",
+  "created_at": 1774383330,
+  "id": "da10daccd66c1f3ebd01c44758dab3be7fd75e51ace6102b540e57ffb4c4616c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "af23d0e646baf335ce41aa605a547ba6bb64fa4bf7eaccde3ea5252caab6e205a5616e52a68121a5090e3749c4867be7216d4f55dd29518b0567dea6e88eb132",
+  "tags": [
+    [
+      "d",
+      "note-1774383330"
+    ],
+    [
+      "published_at",
+      "1774383330"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
