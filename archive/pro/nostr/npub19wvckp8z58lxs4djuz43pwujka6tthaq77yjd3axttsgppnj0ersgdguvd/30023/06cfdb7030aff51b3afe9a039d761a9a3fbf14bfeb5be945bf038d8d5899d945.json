@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 24, 2026 \n\n---\n\nThe internet goes down.\n\nYour document won’t load.  \nYour notes don’t open.  \nYour tools just… stop.\n\nSo you wait.\n\n---\n\nThis happens more often than we admit.\n\n- documents stuck loading  \n- notes that won’t sync  \n- tools that hang until the network returns  \n\nWe’ve learned to accept it.\n\n> “You need to be online.”\n\n---\n\nBut think about what that actually means.\n\nYou need a network connection…  \nto access your own work.\n\n---\n\nThis isn’t just a technical limitation.\n\nIt’s an architectural assumption.\n\n---\n\nMost modern systems treat the network as the source of truth.\n\nYour data doesn’t live with you.  \nIt lives somewhere else.\n\nWhat you see locally is:\n\n- a cache  \n- a temporary copy  \n- a synchronized view  \n\n---\n\nThis works — until it doesn’t.\n\nWhen the network fails:\n\n- your tools stop  \n- your work pauses  \n- your ability to continue disappears  \n\nNot because you forgot something.\n\nBecause the system requires permission to proceed.\n\n---\n\nWe’ve normalized this.\n\n- loading spinners  \n- “reconnecting…” messages  \n- sync conflicts  \n\nAs if they are just part of computing.\n\nBut they are not inevitable.\n\nThey are the result of a specific design:\n\n> dependency on constant connectivity\n\n---\n\nIt changes how you think.\n\nNot just what you can access —  \nbut whether you can continue.\n\nWriting.  \nEditing.  \nExploring an idea.\n\nAll of it becomes conditional.\n\n---\n\nLocal-first systems invert this.\n\nThe local environment is the source of truth.\n\n- your data lives with you  \n- your tools operate without permission  \n- the network becomes optional  \n\nNot required.\n\n---\n\nYou can:\n\n- write offline  \n- sign something offline  \n- continue working without interruption  \n\nAnd when the network returns:\n\n- you publish  \n- you sync  \n- you share  \n\nBut your work never stopped.\n\n---\n\nYou don’t have to accept tools that stop when the network does.\n\nThere are ways to build differently.\n\nSystems where:\n\n- creation is local  \n- continuity is preserved  \n- the network extends your work instead of controlling it  \n\nThis isn’t about going offline.\n\nIt’s about not being dependent.\n\n---\n\nIf your ability to think and create depends on a network,  \nyou are not fully in control of your own work.\n\n---\n\nThe network should extend your capabilities.\n\nNot define them.\n\n---\n\nIf your tools stop when the network stops,  \nthey were never really yours to begin with.",
+  "created_at": 1774373193,
+  "id": "06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "93adc45f06b3ffd5e1579ca2d4a7c19d95aaa13c4b9f4894a24305912d1f6a58d0d932e0fba8c29d1d8571957608b639bf2e8508ce4665403828cca635ae784d",
+  "tags": [
+    [
+      "d",
+      "you-shouldnt-need-the-internet-to-think"
+    ],
+    [
+      "title",
+      "You Shouldn’t Need the Internet to Think"
+    ],
+    [
+      "published_at",
+      "1774373193"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Most modern tools assume constant connectivity. If the network is down, the system stops working. This article explores how that assumption quietly reshapes how we create, think, and work — and why local-first systems restore something deeper than just offline access."
+    ],
+    [
+      "display_date",
+      "2026-03-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "offlinefirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "e",
+      "8626192cef2ffbd131b402872b67a67dfd051666d6f9967d0220c9aa74d52756",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

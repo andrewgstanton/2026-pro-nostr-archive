@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 24, 2026\n\n---\n\nYou open a Nostr client.\n\nYour feed is active.  \nPeople are posting.  \nReplies are flowing.\n\nYou can discover new voices in seconds.\n\n---\n\nIt works.\n\nAnd more than that — it works well.\n\nTimelines are easy to follow.  \nDiscovery is fast.  \nInteraction feels natural.\n\n---\n\nSo the question comes up:\n\n> “Why would I need anything else?”\n\n---\n\nIt’s a fair question.\n\nBecause clients are very good at what they do.\n\nThey are built for:\n\n- discovery  \n- timelines  \n- interaction  \n- surfacing content  \n\n---\n\nAnd that matters.\n\nWithout clients, the network would feel empty.\n\n---\n\nBut notice what they’re optimizing for.\n\n---\n\nThey are optimized for:\n\n> what’s happening now\n\n---\n\nYour feed.  \nYour replies.  \nYour interactions.\n\n---\n\nThey are not optimized for:\n\n- where your work lives  \n- how it’s created  \n- what happens if the interface changes  \n\n---\n\nSo most people end up doing everything inside the client:\n\n- writing  \n- editing  \n- publishing  \n\n---\n\nThe client becomes:\n\n> the workspace\n\n---\n\nAnd that’s where the subtle dependency returns.\n\n---\n\nBecause now:\n\n- your workflow depends on the interface  \n- your habits adapt to the tool  \n- your process is shaped by the client  \n\n---\n\nNothing is broken.\n\nBut something is missing.\n\n---\n\nNostr separates identity from platforms.\n\nThat’s a major shift.\n\n---\n\nLocal-first separates creation from interfaces.\n\nThat’s the next one.\n\n---\n\nYou don’t stop using clients.\n\nYou just stop depending on them for everything.\n\n---\n\nYou can:\n\n- write locally  \n- sign your work  \n- publish later  \n- use any client for discovery and interaction  \n\n---\n\nThe client becomes:\n\n> a window into the network\n\nNot the place where your work begins.\n\n---\n\nThis changes the relationship.\n\nYou use clients for:\n\n- discovery  \n- timelines  \n- interaction  \n\nBut your work:\n\n- exists independently  \n- moves between tools  \n- remains under your control  \n\n---\n\nYou don’t have to choose one or the other.\n\nYou can combine them.\n\n---\n\nClients for discovery.  \nLocal-first for ownership.\n\n---\n\nIf your writing only exists inside a client,  \nyou’re still working inside someone else’s interface.\n\n---\n\nYou can start small.\n\nWrite locally first.  \nSign your work.  \nUse clients as distribution — not as your workspace.\n\n---\n\nNostr gives you freedom from platforms.  \nLocal-first gives you freedom from tools.\n\n---\n\nBoth matter.\n\nAnd together, they become something much more powerful.",
+  "created_at": 1774375508,
+  "id": "d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8e0ba220c7fbe7bf8b58e1d8e9c223fb7238f1256bbf91c2f3862d945543e6c98c94dfcf0342bc58ef35f7be297d40fef161855eea632da3f263fc68a2b6f1a1",
+  "tags": [
+    [
+      "d",
+      "nostr-clients-are-enough"
+    ],
+    [
+      "title",
+      "“Nostr Clients Are Enough”"
+    ],
+    [
+      "published_at",
+      "1774375508"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Nostr clients are powerful — especially for discovery and interaction. But they are not designed for ownership, authoring, or long-term control. This article explores why clients are essential, but not sufficient, and what changes when you separate discovery from creation."
+    ],
+    [
+      "display_date",
+      "2026-03-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "e",
+      "b8124c8be749aef0c86f385557f677b1201c4a36738734b1656b0cc00aa7b9b7",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

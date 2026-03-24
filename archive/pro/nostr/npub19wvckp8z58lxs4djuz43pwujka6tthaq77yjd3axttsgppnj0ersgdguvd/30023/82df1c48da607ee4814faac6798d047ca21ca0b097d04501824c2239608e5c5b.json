@@ -1,0 +1,77 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, March 24, 2026 \n\n---\n\nYou start writing something.\n\nThen you hesitate.\n\nShould I post this?  \nIs it ready?  \nWhat will people think?\n\nSo you stop.\n\nOr you rewrite it into something safer.\n\n---\n\nThis happens more than we admit.\n\n- ideas never written  \n- drafts abandoned  \n- thoughts reshaped before they’re fully formed  \n\nNot because we can’t think.\n\nBecause we’re already thinking about publishing.\n\n---\n\nMost systems collapse these into one step:\n\n- writing  \n- publishing  \n\n---\n\nIt feels efficient.\n\nWrite → post → done.\n\n---\n\nBut something is lost in that collapse.\n\n---\n\nWriting and publishing are not the same thing.\n\nWriting is:\n\n- exploration  \n- clarification  \n- thinking in progress  \n\nPublishing is:\n\n- distribution  \n- presentation  \n- exposure  \n\n---\n\nWhen they are tied together, writing changes.\n\nEvery sentence becomes:\n\n- a performance  \n- a decision  \n- a calculation  \n\n---\n\nSo instead of thinking freely, you start filtering early.\n\nYou don’t write what you’re unsure about.  \nYou don’t explore ideas that aren’t finished.  \nYou don’t follow threads that might lead somewhere unclear.\n\n---\n\nThis isn’t a discipline problem.\n\nIt’s an architectural problem.\n\n---\n\nMost tools are designed for publishing first.\n\nFeeds.  \nPosts.  \nEngagement.\n\nThey assume the goal is to share.\n\n---\n\nBut creation comes before distribution.\n\nAnd it needs a different environment.\n\n---\n\nLocal-first systems separate these layers.\n\nYou can:\n\n- write locally  \n- revise without pressure  \n- keep drafts that don’t need to be shared  \n- sign content without publishing it  \n\n---\n\nSigning is not publishing.\n\nIt is a declaration:\n\n> this is mine\n\nPublishing is a choice:\n\n> I’m sharing this now\n\n---\n\nThose should not be the same step.\n\n---\n\nWhen they are separated:\n\n- writing becomes easier  \n- thinking becomes clearer  \n- ideas have space to develop  \n\n---\n\nYou can write offline.\n\nYou can refine over time.\n\nYou can decide later what matters enough to share.\n\n---\n\nYour process becomes yours again.\n\n---\n\nYou don’t have to write inside systems designed for performance.\n\nThere are ways to build and use tools differently.\n\nSystems where:\n\n- authoring is local  \n- publishing is optional  \n- ideas can exist before they are exposed  \n\nThis is what separation makes possible.\n\n---\n\nIf you can only write in a system designed for publishing,  \nyou are not fully in control of your own ideas.\n\n---\n\nWriting should be a place to think.\n\nNot just a place to perform.",
+  "created_at": 1774374282,
+  "id": "82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7ee28be5fa1c985b102b0d7d2232b8e33ae0670493e2fb9aa67bfe97f078cecf9c41e069736d09add94faef04d28217e5fb516ca9060cbe40cff804d94e26280",
+  "tags": [
+    [
+      "d",
+      "writing-isnt-publishing"
+    ],
+    [
+      "title",
+      "Writing Isn’t Publishing"
+    ],
+    [
+      "published_at",
+      "1774374282"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Most modern systems collapse writing and publishing into a single action. This creates hidden pressure and limits how ideas develop. This article explores why separating authoring from distribution matters — and how local-first systems restore a healthier way to think, write, and share."
+    ],
+    [
+      "display_date",
+      "2026-03-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "e",
+      "ecfdb915218f249c04776524d53d4f94c14f895ff448501d1ce5a2bddb011389",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

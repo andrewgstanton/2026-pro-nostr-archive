@@ -1,0 +1,75 @@
+{
+  "id": "7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774372792,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "you-dont-own-your-account"
+    ],
+    [
+      "title",
+      "You Don’t Own Your Account"
+    ],
+    [
+      "published_at",
+      "1774372792"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Most people believe they “own” their accounts, data, and identity online. In reality, they have access — not ownership. This article explores how small, everyday failures (like password resets and lockouts) reveal a deeper architectural problem, and why local-first systems change that foundation."
+    ],
+    [
+      "display_date",
+      "2026-03-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "e",
+      "e853a1363a98f3e08dd583c04c56d66968edfd1b6df847530f7ed638205e8c89",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Tuesday, March 24, 2026\n\n---\n\nConvenience is borrowed.  \nFreedom is owned.\n\n---\n\nYou forget a password.\n\nYou try to reset it.  \nThe email doesn’t arrive.  \nYou try again. Locked out.\n\nMaybe it resolves in five minutes.  \nMaybe it takes hours.  \nSometimes it never resolves at all.\n\nMost people don’t think much of it.  \nIt’s just part of using the internet.\n\nBut this keeps happening.\n\nAnd it happens across everything:\n- email  \n- banking  \n- social platforms  \n- work tools  \n\nAt some point, everyone runs into it.\n\nNot just inconvenience — loss of access.\n\n---\n\nThis isn’t a UX problem.\n\nIt’s an architecture problem.\n\n---\n\nMost systems today are built around accounts.\n\nAn account is not identity.  \nIt is a record in someone else’s system.\n\nThat distinction matters.\n\nBecause it means:\n\n- your access can be revoked  \n- your data can be restricted  \n- your identity is conditional  \n\nYou don’t control it.  \nYou are granted access to it.\n\n---\n\nThis works — until it doesn’t.\n\nAnd when it fails, there is no fallback.\n\nYou can’t “recover” identity you don’t own.\n\nYou can only request access again.\n\n---\n\nWe’ve normalized this.\n\nWe’ve accepted:\n- password resets  \n- 2FA loops  \n- account lockouts  \n- support tickets into the void  \n\nAs if they are just part of how things work.\n\nBut they are not inevitable.\n\nThey are the result of a specific design:\n\n> identity controlled by the system, not the individual\n\n---\n\nOnce you see this, the pattern shows up everywhere.\n\nIf your account is suspended:\n- your business disappears  \n- your communication disappears  \n- your work disappears  \n\nNot because you lost it.\n\nBecause you never actually had it.\n\n---\n\nLocal-first systems invert this.\n\nIdentity is not something you request.\n\nIt is something you hold.\n\n- keys instead of accounts  \n- signatures instead of logins  \n- local control instead of platform dependency  \n\nYou don’t ask for access.\n\nYou already have it.\n\n---\n\nThis doesn’t remove all friction.\n\nBut it removes the most important failure mode:\n\n> the ability for someone else to decide whether you can continue\n\n---\n\nMost people won’t think about this until something breaks.\n\nUntil they are locked out.  \nUntil access is gone.  \nUntil there is no one to contact.\n\nBy then, it’s too late to redesign the system.\n\n---\n\n---\n\nOwnership is not about convenience.\n\nIt’s about what happens when things fail.\n\n---\n\nYou don’t have to accept this as fixed.\n\nThere are ways to build differently.\n\nSystems where:\n\n- you hold your identity  \n- your work exists locally  \n- access is not something you request  \n\nThis is what local-first makes possible.\n\nIt’s not theoretical.\n\nIt’s something you can start using, building, and exploring now.\n\n---\n\nConvenience is great.  \nFreedom is better.",
+  "sig": "e927f5ec53993d54e9dd4c6ff10ace20bcd5c0f18f5880631f1074f8f6e9f97ef6c7a59f44cccd68c4e9c5160e7ec77a94314f3e59bf0c30c58470d5e8ba7187",
+  "_source": [
+    "ws://continuum-relay:7777",
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
