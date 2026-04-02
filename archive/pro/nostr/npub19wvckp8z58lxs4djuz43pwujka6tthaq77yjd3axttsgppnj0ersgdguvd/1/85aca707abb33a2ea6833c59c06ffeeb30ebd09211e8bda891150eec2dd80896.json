@@ -1,0 +1,47 @@
+{
+  "content": "A different kind of milestone this past week.\n\nFor the first time in a long while, I went 8–9 days without writing an article.\n\nBut the work absolutely did not stop.\n\nThis week was about shipping foundations:\n\n• native Mac app (.app) now working\n\n• native Windows build (.exe) now working\n\n• release packaging and downloads flow cleaned up\n\n• development paths unified across Docker, native builds, and local runtime\n\n• Continuum becoming dramatically easier to install and test without Docker or WSL\n\nSometimes progress is not another article.\nSometimes it is removing friction so others can actually use what you’ve built.\n\nThis week was one of those weeks.\n\nBuilding in public. One step closer.\n\n#Continuum #BuildInPublic #LocalFirst #Nostr #DigitalSovereignty #Bitcoin",
+  "created_at": 1775171515,
+  "id": "85aca707abb33a2ea6833c59c06ffeeb30ebd09211e8bda891150eec2dd80896",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d8c18097dc5b27c85969c5ffd9ae31a0a42e26e125824cc62d232595911607ac0dd4c520bc9ee17601129f0d5ce686599e05e181112c386b30205df6db2e4674",
+  "tags": [
+    [
+      "d",
+      "note-1775171515"
+    ],
+    [
+      "published_at",
+      "1775171515"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "published": 1
+}
