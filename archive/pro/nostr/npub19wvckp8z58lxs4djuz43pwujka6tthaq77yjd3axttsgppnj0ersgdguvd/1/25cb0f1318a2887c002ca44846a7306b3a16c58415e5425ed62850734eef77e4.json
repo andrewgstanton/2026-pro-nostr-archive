@@ -1,0 +1,55 @@
+{
+  "content": "You can see it in what gets amplified.\n\nSerious ideas?\nOften ignored.\n\nProvocative or emotionally charged content?\nThat spreads fast.\n\n---\n\nThat’s not unique to Nostr.\n\nBut it does shape the culture.\n\n---\n\nAnd it’s exactly why writing — real, structured, thoughtful writing — struggles in feed-based systems.\n\n---\n\nFeeds reward attention.\n\nWriting requires intention.\n\nThose are not the same thing.\n\n---\n\nIf you’ve tried to do serious writing here…\n\nyou’ve felt that gap.\n\nIt gets old. Fast.\n\n---\n\nSo you have a few choices:\n\n1. Go back to Substack, Medium, etc.  \n2. Accept the limitations and work around them  \n3. Build something better  \n\n---\n\nI chose option 3.\n\nThat’s Continuum.\n\n#nostr #bitcoin #writing #publishing #localfirst #sovereignty #continuum",
+  "created_at": 1774550574,
+  "id": "25cb0f1318a2887c002ca44846a7306b3a16c58415e5425ed62850734eef77e4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9544b56a9696687bdd7ed42fb254614b31a6ea027546bd549c8a6ec5811bd28921456179ccfe2a9110642a08c741ac3ccc92c777fd88c823bf8e21bff613f445",
+  "tags": [
+    [
+      "d",
+      "note-1774550574"
+    ],
+    [
+      "published_at",
+      "1774550574"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

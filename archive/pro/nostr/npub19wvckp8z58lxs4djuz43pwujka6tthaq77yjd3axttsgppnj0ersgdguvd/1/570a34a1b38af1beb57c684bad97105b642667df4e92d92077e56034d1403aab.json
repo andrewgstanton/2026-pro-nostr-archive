@@ -1,0 +1,26 @@
+{
+  "content": "5. Building in silence is still building - 3/16/2026\n\nNo launch. No applause.\n\nBut today:\n\nthe manuscript moved forward\n\nthe pipeline improved\n\nthe system got stronger\n\nNot everything valuable is visible.",
+  "created_at": 1773731635,
+  "id": "570a34a1b38af1beb57c684bad97105b642667df4e92d92077e56034d1403aab",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "935a492039dd2b5700ac3c389b310a1ea0d21c086e91c0a94b245f671aab8ad387b2f6895522123f2382639781f12ec644a9e6906439f5608d3dc818122b5651",
+  "tags": [
+    [
+      "d",
+      "note-1773731635"
+    ],
+    [
+      "published_at",
+      "1773731635"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

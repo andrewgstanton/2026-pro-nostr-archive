@@ -1,0 +1,52 @@
+{
+  "content": "Building Continuum is now live — ebook and paperback available.\n\nThis book is about reclaiming authorship in a world where platforms control access.\n\nhttps://is.gd/5CYXNd\n\n#BuildingContinuum #LocalFirst #DigitalSovereignty #FreedomTech #Bitcoin #Nostr",
+  "created_at": 1774545805,
+  "id": "a654a4b57e33955a7d7e0e884baad54a6f6790e54833d5b018a9b38ff5c37da5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "439ab03fcd576fb89a20b24454c5d6bbccb8879abe5e7fe974fcabedf7b28e76e6c1e5fa0b3183e217eaa26810627bb7bd065de963bb73adb08dbf81f3e44476",
+  "tags": [
+    [
+      "d",
+      "note-1774545805"
+    ],
+    [
+      "published_at",
+      "1774545805"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "buildingcontinuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "freedomtech"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

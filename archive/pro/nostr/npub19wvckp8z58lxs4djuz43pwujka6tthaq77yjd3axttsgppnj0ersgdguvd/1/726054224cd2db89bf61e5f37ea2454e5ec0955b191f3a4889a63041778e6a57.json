@@ -1,0 +1,50 @@
+{
+  "content": "Building Continuum is now live — ebook and paperback available.\n\nThis book is about reclaiming authorship in a world where platforms control access.\n\nhttps://is.gd/5CYXNd\n\n#BuildingContinuum #LocalFirst #DigitalSovereignty #FreedomTech #Bitcoin #Nostr",
+  "created_at": 1774545773,
+  "id": "726054224cd2db89bf61e5f37ea2454e5ec0955b191f3a4889a63041778e6a57",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "23e96e6efc7b4c006d8094c2def4389c1d450b83f085a6e488ee8b58f35223fc58bc966c0798c58e3bbf208d556a27b98145b905d1c09dea48d261baabedbfa9",
+  "tags": [
+    [
+      "d",
+      "note-1774545773"
+    ],
+    [
+      "published_at",
+      "1774545773"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "buildingcontinuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "freedomtech"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "ws://continuum-relay:7777"
+  ],
+  "published": 1
+}

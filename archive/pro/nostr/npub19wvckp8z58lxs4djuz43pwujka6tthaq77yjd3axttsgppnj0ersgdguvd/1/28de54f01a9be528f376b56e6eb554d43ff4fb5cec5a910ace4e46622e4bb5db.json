@@ -1,0 +1,48 @@
+{
+  "id": "28de54f01a9be528f376b56e6eb554d43ff4fb5cec5a910ace4e46622e4bb5db",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774547857,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1774547857"
+    ],
+    [
+      "published_at",
+      "1774547857"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "blogging"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "substack"
+    ]
+  ],
+  "content": "Nostr clients are being treated like they can handle everything.\n\nThey can’t.\n\nThey’re great for social.\n\nBut for real writing, they’re a downgrade from Substack.\n\nWriting needs a real authoring layer.\n\nContinuum is my solution—\nlocal-first, structured, and independent of any client.\n\n#nostr #writing #blogging #publishing #substack",
+  "sig": "6c9305292acd0fb6ddd07ce7b8a5e228c606586437578b501f7348a47c060931ae94f5e2baefaf005addb89436e1430d8a8c125c32643896c2a192b59b9ae31c",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

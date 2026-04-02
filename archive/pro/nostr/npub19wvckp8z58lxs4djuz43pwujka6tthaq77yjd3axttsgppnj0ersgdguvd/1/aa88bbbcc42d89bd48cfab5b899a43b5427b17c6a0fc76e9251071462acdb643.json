@@ -1,0 +1,39 @@
+{
+  "content": "Big milestone today for Continuum.\n\nAfter a long build session, both the Mac app (.app ) and Windows build (.exe) are now live.  \n\nThis is a major step toward making local-first publishing and sovereign identity accessible without Docker, WSL, or complex setup.\n\nWould love feedback from anyone willing to test the native builds.\n\nDownloads: mycontinuum.xyz/downloads\n\nBuilding in public. One step closer.\n\n#nostr #buildinpublic #localfirst #sovereignty #bitcoin",
+  "created_at": 1775109953,
+  "id": "aa88bbbcc42d89bd48cfab5b899a43b5427b17c6a0fc76e9251071462acdb643",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4cdef0d9359583a5df45c3f9d7b7d3236cca8ee590526ee86842c143e979d7b4c1aac9cdcc88997cb0bf188ec3009089985ace5ae1cd6185eec8567067a60a8c",
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

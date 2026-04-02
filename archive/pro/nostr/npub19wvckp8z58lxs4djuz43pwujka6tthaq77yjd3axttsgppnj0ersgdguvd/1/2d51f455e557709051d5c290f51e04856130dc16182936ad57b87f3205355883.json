@@ -1,0 +1,26 @@
+{
+  "content": "This is a test",
+  "created_at": 1772921873,
+  "id": "2d51f455e557709051d5c290f51e04856130dc16182936ad57b87f3205355883",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0faa64fe55b37be605426701d12344c93e221aecb98fdeacbf4380ea1463b03063a63bc0e58464bb34c7d2ed54d96e146a0ab7c32c43aaeb8cafb78e539e206a",
+  "tags": [
+    [
+      "d",
+      "note-1772921873"
+    ],
+    [
+      "published_at",
+      "1772921873"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

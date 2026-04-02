@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1774396784,
+  "tags": [
+    [
+      "d",
+      "note-1774395437"
+    ],
+    [
+      "published_at",
+      "1774396784"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "037b65ac1197553d0ac55f329b87b25e4165ba02b4311d0abaea487b079d3083",
+      "edit"
+    ]
+  ],
+  "content": "-- FRAGILITY --\n\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-03-24-substack-down-oops.png\n\nPlatforms like Substack feel permanent…  \nuntil they don’t.\n\nThis screenshot from earlier says everything.\n\nIt was a short outage.  \nIt happens.\n\nBut if your work only exists there…  \neverything disappears behind a status page.\n\nNo posts.  \nNo audience.  \nNo access.\n\nJust a message:  \n*“We are working to restore service.”*\n\nThis is the illusion.\n\nAccess is not ownership.  \nAvailability is not authority.\n\n(Substack is a mirror for me — not the source.)\n\nThis is why I built Continuum.\n\nA local-first system  \nwhere identity, content, and authorship  \ndo not depend on a platform being online.\n\nI explore this more deeply in my book  \n*Building Continuum: Local Authority in a Networked World*.\n\nBecause this isn’t about one outage.\n\nIt’s about a system  \nthat was never built to give you control in the first place.\n\nI didn’t just describe the problem.  \nI built the solution.\n\n---\n\n#localfirst #ownership #continuum #writing #sovereignty",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "62947edd3d0052daada14def8010b239af3878eee22fb4e255d190b8f87d8ec1",
+  "sig": "952ba10b4398959f1832cc715b92cc061babc8ec79b24595be1ad2e7e503f82c771540df3c3385566f13baf6781c2522c5b91f85e6206de2e3e73bb9bfae95f9",
+  "published": 1
+}

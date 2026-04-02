@@ -1,0 +1,39 @@
+{
+  "content": "Heute ein großer Meilenstein für Continuum. Kein Aprilscherz!!\n\nNach einer langen Build-Session sind jetzt sowohl die Mac-App (.app) als auch die Windows-Version (.exe) live.\n\nDas ist ein großer Schritt, um lokales, souveränes Publizieren und digitale Identität ohne Docker, WSL oder kompliziertes Setup zugänglich zu machen.\n\nIch würde mich sehr über Feedback von allen freuen, die die nativen Builds testen möchten.\n\nDownloads: https://mycontinuum.xyz/downloads\n\nÖffentlich bauen. Ein Schritt weiter.\n\n#nostr #buildinpublic #localfirst #souveränität #bitcoin",
+  "created_at": 1775110627,
+  "id": "12d4a3059802cd25a38a319a560b29e1e9d3f21e0b0319648cae24a49fc8161c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ce9a9bd2d523e0ac890780e67f4b52da86ff0fd2fa27340a55a56da6c255e78d1a30c2f739c9f85fa01ca7c95cec8664e611efa20c98f29ffad9479f8bf05429",
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "souveränität"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

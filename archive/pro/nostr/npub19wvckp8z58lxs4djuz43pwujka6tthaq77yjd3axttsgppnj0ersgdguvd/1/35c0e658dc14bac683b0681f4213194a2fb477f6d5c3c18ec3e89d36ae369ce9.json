@@ -1,0 +1,44 @@
+{
+  "content": "I’m excited about what we’re piloting through StartNation.\n\nA lot of solo founders need help but aren’t ready to hire.\n\nThis is exactly the kind of lightweight support model I believe more founders need.\n\nReferencing the full note below from StartNation:\n\nhttps://is.gd/pAMxTZ\n\n#SoloFounder #StartupGrowth #AI #StartNation",
+  "created_at": 1774900961,
+  "id": "35c0e658dc14bac683b0681f4213194a2fb477f6d5c3c18ec3e89d36ae369ce9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4844bcee6ad006bb25b9a9f29ee24c7c950471b87093be0f47bb5e50a0209ada23fb709cd42a4b79325798f169fe463cab23710ec4e13307eeae3b44842488b3",
+  "tags": [
+    [
+      "d",
+      "note-1774900961"
+    ],
+    [
+      "published_at",
+      "1774900961"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "solofounder"
+    ],
+    [
+      "t",
+      "startupgrowth"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "startnation"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

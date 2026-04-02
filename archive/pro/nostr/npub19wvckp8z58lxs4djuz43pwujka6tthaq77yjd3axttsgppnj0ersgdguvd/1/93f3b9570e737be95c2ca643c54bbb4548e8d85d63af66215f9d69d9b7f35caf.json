@@ -1,0 +1,26 @@
+{
+  "content": "1. Sovereign storage isn’t optional - 3/16/2026\n\nMost people think they have a writing workflow.\n\nWhat they actually have is:\n\na dependency chain\n\na sync service\n\nand a failure point\n\nIf your system breaks when Google Drive glitches, it’s not yours.",
+  "created_at": 1773731428,
+  "id": "93f3b9570e737be95c2ca643c54bbb4548e8d85d63af66215f9d69d9b7f35caf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ceeb015d541e6eecb092783e17224ddbc22b74f0112b10938ae50bd30c66c442d464bf9422820fd5546e39ecc10140bac547acb075e4e96150199e2de5e9207f",
+  "tags": [
+    [
+      "d",
+      "note-1773731428"
+    ],
+    [
+      "published_at",
+      "1773731428"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

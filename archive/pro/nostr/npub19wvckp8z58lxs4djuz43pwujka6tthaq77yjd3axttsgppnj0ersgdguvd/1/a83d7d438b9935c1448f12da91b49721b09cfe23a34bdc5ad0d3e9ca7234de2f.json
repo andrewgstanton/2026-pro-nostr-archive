@@ -1,0 +1,26 @@
+{
+  "content": "4. Most tools optimize for convenience, not durability - 3/16/2026\n\nCloud tools make everything easy — until they don’t.\n\nDurable systems feel heavier upfront:\n\nmore setup\n\nmore intention\n\nBut they don’t disappear under you.",
+  "created_at": 1773731589,
+  "id": "a83d7d438b9935c1448f12da91b49721b09cfe23a34bdc5ad0d3e9ca7234de2f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ed161761ca3c6b6e3ad87f121fb136cb46a43b7b30bc6af690b3a2a587de9e72f2d007ac82970ef22fbc93c81492cad8aad1baf7aec58972947cdd75352750bd",
+  "tags": [
+    [
+      "d",
+      "note-1773731589"
+    ],
+    [
+      "published_at",
+      "1773731589"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

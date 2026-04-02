@@ -1,0 +1,27 @@
+{
+  "content": "I'm writing this again without any assistance from an AI.  \n\nThese words are entirely my own.\n\nSomeone recently shared that some of the ideas expressed to him were clearly my own but\nnot \"in my voice\"\n\nThat's excellent feedback and I take it to heart.\n\nI use AI a lot. \n\nIt helps me form my thoughts and create connections that I otherwise might miss.\n\nBut I don't want ever want it to dominate my writing.\n\nThis is still something I am working through as I continue to build Continuum and hone my writing\nand my thoughts.\n\n\n- Andy S.",
+  "created_at": 1774400264,
+  "id": "61da2b9a07b546f1f3f9c4257175b34ee8ffa3941cfcdfbfcc822fdc94561968",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6bdb76697f7e67f044986c54f6b89da38634642a6489de3af7a3fb8b1e6d93f7bd74373b35202bdd3c7f944973e77676b296a355319327535104ce92ab9ca3e8",
+  "tags": [
+    [
+      "d",
+      "note-1774400264"
+    ],
+    [
+      "published_at",
+      "1774400264"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

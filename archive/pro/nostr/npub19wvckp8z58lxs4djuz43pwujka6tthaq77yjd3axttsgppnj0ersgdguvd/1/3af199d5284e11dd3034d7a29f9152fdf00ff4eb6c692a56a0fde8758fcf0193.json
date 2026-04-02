@@ -1,0 +1,26 @@
+{
+  "content": "3. Local-first is not a philosophy — it’s a constraint - 3/16/2026\n\nRunning out of disk space today wasn’t just annoying.\n\nIt’s a reminder:\n\nIf you choose local-first, you inherit:\n\nstorage limits\n\nfile management\n\noperational responsibility\n\nThat’s the tradeoff for ownership.",
+  "created_at": 1773731530,
+  "id": "3af199d5284e11dd3034d7a29f9152fdf00ff4eb6c692a56a0fde8758fcf0193",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c06ff3d3cbf1f6ec32e5baf3a3c29b075ae07b6de00a7867bd88f1526d23795f0a3fa1bf00ba1eccd8b9eac229bbb49393a95c4c1770fbd1bb08d2bbe91b7d96",
+  "tags": [
+    [
+      "d",
+      "note-1773731530"
+    ],
+    [
+      "published_at",
+      "1773731530"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

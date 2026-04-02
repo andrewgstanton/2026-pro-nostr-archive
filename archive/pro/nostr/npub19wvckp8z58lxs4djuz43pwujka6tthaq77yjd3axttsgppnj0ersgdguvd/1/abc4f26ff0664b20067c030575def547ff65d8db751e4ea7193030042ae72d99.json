@@ -1,0 +1,43 @@
+{
+  "content": "Decentralizing the protocol doesn’t automatically change the culture.\n\nIf the interfaces, incentives, and behaviors stay the same,\nyou get the same patterns — just on a different rail.\n\nMore freedom at the base layer doesn’t guarantee more depth at the social layer.\n\nThat’s not a criticism of the protocol.\n\nIt’s a reminder that culture doesn’t upgrade automatically.\n\nChanging the foundation matters.\n\nBut it doesn’t change people overnight.\n\n#DigitalSovereignty #LocalFirst #FreedomTech #Nostr",
+  "created_at": 1774547257,
+  "id": "abc4f26ff0664b20067c030575def547ff65d8db751e4ea7193030042ae72d99",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3b7b581c3c09a6fd937ea3ed2cc47fafa9f6fddfc95d0ba1f243bb0ebf49ce570b710ae963d61ad7f11e7e3a33ae0c875934abf2995f3a26f6032173f5b54991",
+  "tags": [
+    [
+      "d",
+      "note-1774547257"
+    ],
+    [
+      "published_at",
+      "1774547257"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "freedomtech"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

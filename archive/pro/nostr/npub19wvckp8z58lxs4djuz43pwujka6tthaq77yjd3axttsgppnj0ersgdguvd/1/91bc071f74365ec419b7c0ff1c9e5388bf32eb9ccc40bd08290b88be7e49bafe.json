@@ -1,0 +1,46 @@
+{
+  "content": "Nostr clients are being treated like they can handle everything.\n\nThey can’t.\n\nThey’re great for social.\n\nBut for real writing, they’re a downgrade from Substack.\n\nWriting needs a real authoring layer.\n\nContinuum is my solution—\nlocal-first, structured, and independent of any client.\n\n#nostr #writing #blogging #publishing #substack",
+  "created_at": 1774547821,
+  "id": "91bc071f74365ec419b7c0ff1c9e5388bf32eb9ccc40bd08290b88be7e49bafe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ce844941a792319ec055ae7fedf0b2f3d5e50c2880d2615200747425128acdbe7fb02577ba08913cdc9841096bcfe26a2c0bcc55f2304d9114ebac38e7442ded",
+  "tags": [
+    [
+      "d",
+      "note-1774547821"
+    ],
+    [
+      "published_at",
+      "1774547821"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "blogging"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "substack"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

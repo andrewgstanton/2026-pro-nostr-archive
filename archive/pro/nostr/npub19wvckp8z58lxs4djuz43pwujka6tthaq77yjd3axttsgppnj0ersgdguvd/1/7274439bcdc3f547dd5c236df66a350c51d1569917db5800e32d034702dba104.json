@@ -1,0 +1,55 @@
+{
+  "content": "BUILDING CONTINUUM\n\nLet’s be honest.\n\nMost Nostr clients **suck for writing.**\n\n---\n\nThey’re great for:\n\n• short posts  \n• replies  \n• scrolling  \n\nThey’re basically a better version of X.\n\n---\n\nBut for long-form?\n\nThey break down fast.\n\n---\n\nNo real structure.  \nInconsistent formatting.  \nNo control over how your work is presented.  \nNo guarantee it will even be readable later.  \nNo drafting. No workflow.\n\n---\n\nThat’s not publishing.\n\nThat’s just posting… with extra steps.\n\n---\n\nNostr (the protocol) is powerful.\n\nBut the client layer is optimized for feeds — not for authors.\n\n---\n\nSo if you’re trying to write seriously on Nostr today…\n\nyou feel it.  \nLike I do.  \nAnd it gets old fast.\n\n---\n\nThat gap is why I built Continuum.\n\n---\n\nLocal-first.\n\nYour identity.  \nYour content.  \nYour authority.\n\n---\n\nNot dependent on:\n• a client UI  \n• a relay  \n• or a platform staying online  \n\n---\n\nAnd yes — this will probably get ignored.\n\nWhich proves the point.\n\n---\n\nBuilding Continuum is now live  \nebook + paperback\n\nhttps://is.gd/rq4omr\n\n---\n\n#nostr #bitcoin #writing #publishing #localfirst #sovereignty #continuum",
+  "created_at": 1774548608,
+  "id": "7274439bcdc3f547dd5c236df66a350c51d1569917db5800e32d034702dba104",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b87dde5a9c09332bd5ffa6cac5b36f3d0ea6dee038511f7952899afdefc37739961640ce1162c972f566fb93ac2bc8a99fc1d360025359e7514a9b40924503dc",
+  "tags": [
+    [
+      "d",
+      "note-1774548608"
+    ],
+    [
+      "published_at",
+      "1774548608"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,41 @@
+{
+  "content": "Many Keys, Many Identities\n\nYou don’t have an identity.  \nYou have an account.\n\nAnd that account can be:\n- suspended  \n- reset  \n- deleted  \n- or quietly controlled  \n\nat any time.\n\n---\n\nThe problem\n\nMost systems assume:\n\none user → one account → controlled by a platform\n\nThat’s why:\n- you lose access  \n- your content disappears  \n- your reputation doesn’t transfer  \n- your login becomes your leash  \n\nEven if money becomes sovereign…  \nyour identity often isn’t.\n\n---\n\nThe shift\n\nBitcoin showed:\n\nYou don’t have one wallet.  \nYou have many keys.\n\nOwnership isn’t granted.  \nIt’s proven.\n\n---\n\nNostr extends this:\n\nYou don’t have one identity.  \nYou can have many.\n\nEach identity can represent:\n- a person  \n- a project  \n- a role  \n- a context  \n\nAuthorship isn’t assigned.  \nIt’s signed.\n\n---\n\nThe insight\n\nNone of these are inherently linked.\n\nYour Bitcoin addresses don’t know your identities.  \nYour identities don’t know your Bitcoin addresses.\n\nOnly you do.\n\n---\n\nSo what?\n\nThis solves real problems:\n\n- No lock-in → your identity isn’t owned  (only managed by you)\n- No single failure point → one key ≠ everything  \n- Clear separation → personal, business, projects  \n- Portability → your identity moves with you  \n- Selective disclosure → you decide what connects  \n\n---\n\nMost systems collapse everything:\n\nidentity = account = wallet = user\n\nA sovereign system separates them.\n\nidentity  \nauthorship  \nownership  \n\n---\n\nI don’t have an identity or an account;\nI manage identities and keys \n\n(Note: I discovered this while brainstorming with an AI\n\nMy ideas are my own though \n\n#Sovereignty #DigitalSovereignty #SelfSovereignIdentity #Bitcoin #Nostr #LocalFirst",
+  "created_at": 1774423889,
+  "id": "7a8ee5d80598df6bf617d943255e8876730542420d6766d8085d81e7dc820f4c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7b3eb7ad13d95b78a32b57b08e7092872acc702e7fa259214222ad2b1ebba0b80df40c6d68b5c3ade5400e0308d0434f2732e863eef31f17d84aee66edf85078",
+  "tags": [
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "DigitalSovereignty"
+    ],
+    [
+      "t",
+      "SelfSovereignIdentity"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

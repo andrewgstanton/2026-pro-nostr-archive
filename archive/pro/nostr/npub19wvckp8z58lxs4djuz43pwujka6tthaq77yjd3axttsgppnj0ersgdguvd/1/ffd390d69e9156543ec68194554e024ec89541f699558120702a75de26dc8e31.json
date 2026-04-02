@@ -1,0 +1,29 @@
+{
+  "content": "Context matters.\n\nMarcus Aurelius was no saint.\nChristians suffered under his rule.\n\nHe also took theriac, prescribed by Galen — standard medicine at the time, containing small amounts of opium (along with many other compounds).\n\nHistory doesn’t give us perfect men.\n\nThat is quite different than asserting he “consumed opium daily” without context.\n\nHis words still carry merit and reflect wisdom, restraint, and humility.",
+  "created_at": 1774399441,
+  "id": "ffd390d69e9156543ec68194554e024ec89541f699558120702a75de26dc8e31",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8cbaec1aa15373aa267b527e757fc70bc6c446407a20c5563a4c99e84d3d9735f20cf26f226a888e44a3970f7e4cc38f4e96aef4995dd2c7c124ebff3af14b82",
+  "tags": [
+    [
+      "d",
+      "note-1774399441"
+    ],
+    [
+      "published_at",
+      "1774399441"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
