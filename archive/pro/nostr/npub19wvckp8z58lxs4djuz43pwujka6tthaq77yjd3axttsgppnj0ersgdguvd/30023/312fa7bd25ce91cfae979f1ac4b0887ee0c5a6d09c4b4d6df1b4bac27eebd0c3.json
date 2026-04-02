@@ -1,0 +1,38 @@
+{
+  "content": "this is only a test",
+  "created_at": 1773549704,
+  "id": "312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7e9814fe1f1006b57438832e95c0e3019acc125779414a575f757d8d0599f8fcd21f28188f318061ae86951bb5e7f9eaaadbcf7fdae4d5c24cf560975859c406",
+  "tags": [
+    [
+      "d",
+      "test-article"
+    ],
+    [
+      "title",
+      "test article"
+    ],
+    [
+      "summary",
+      "this is a test"
+    ],
+    [
+      "published_at",
+      "1773549704"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "test"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
