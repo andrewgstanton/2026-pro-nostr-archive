@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1775185171,
+  "tags": [
+    [
+      "d",
+      "note-1775184263"
+    ],
+    [
+      "published_at",
+      "1775185171"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "a2cbb14b93bc361075ab0bd8386af8ac0997830963813005bdb8d402c81e13eb",
+      "edit"
+    ]
+  ],
+  "content": "External Validation - 4/2/2026\n\nGood meeting with another developer (met initially on Nostr) today (via zoom)\n\nHe was able to successfully download and run the app on his (windows) laptop, which is a huge milestone after the native build push.\n\nThe feedback was thoughtful, practical, and exactly what this stage needs.\n\nReal users > assumptions.\n\n#buildinpublic #localfirst #sovereignty #nostr #bitcoin #indiehacker",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2",
+  "sig": "25fab630035d825932067ecb089d633be7dfacd49d2f83aeb26bf886a60f96857fa5d200a152968d5ee032459c3ad295800b2b6b025132798090ef767473a052",
+  "published": 1
+}

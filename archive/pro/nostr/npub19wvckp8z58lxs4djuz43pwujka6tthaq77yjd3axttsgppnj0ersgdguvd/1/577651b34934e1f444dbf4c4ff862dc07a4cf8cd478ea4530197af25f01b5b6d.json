@@ -1,0 +1,27 @@
+{
+  "content": "Still trying to process all that has happened over the last 15 months (since the beginning of 2025), and I think it hit me recently.\n\nthat's all I have to say right now.",
+  "created_at": 1775255949,
+  "id": "577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "35563377089221eb6ef025024c7b9060e92f491df5982fb2557871cc6e7ec19e4d649e696eff7b5a337981d090ccf684ea73bd14297ac3f735d427323ed4a119",
+  "tags": [
+    [
+      "d",
+      "note-1775255949"
+    ],
+    [
+      "published_at",
+      "1775255949"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

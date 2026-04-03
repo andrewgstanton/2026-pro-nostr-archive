@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1775185186,
+  "tags": [
+    [
+      "d",
+      "note-1775184124"
+    ],
+    [
+      "published_at",
+      "1775185186"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "cdc129e7fc3469530f1019107d0ab5b30d97b35ef7455b1e0664c4f52b871e70",
+      "edit"
+    ]
+  ],
+  "content": "Unexpected Signal - 4/2/2026\n\nFunny moment today — my Uber driver on the way back was genuinely interested in the Continuum concept.\n\nWhen someone outside the technical / Nostr circle immediately understands why local-first identity matters, I pay attention.\n\nSignals like that matter.\n\n#buildinpublic #localfirst #sovereignty #nostr #bitcoin #indiehacker",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305",
+  "sig": "e1a9f6040a5e8b5999df3db18ea262ff21a8b80d35ce4e1c851abcf8aabbbe3f7767480398fe7722bcb5132e997c24338bbe2c79f234fa51f3ce511f2fd6a93e",
+  "published": 1
+}

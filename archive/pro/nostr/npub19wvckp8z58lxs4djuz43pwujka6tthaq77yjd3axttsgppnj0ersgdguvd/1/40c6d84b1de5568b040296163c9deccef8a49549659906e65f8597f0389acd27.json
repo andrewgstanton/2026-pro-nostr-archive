@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1775185201,
+  "tags": [
+    [
+      "d",
+      "note-1775184021"
+    ],
+    [
+      "published_at",
+      "1775185201"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "ebe77b088e7321b3d41e88bf72f2b21564ddec921a206765102e8859ad93657a",
+      "edit"
+    ]
+  ],
+  "content": "Honest Builder Note -4/2/2026\n\nPretty tired tonight.\n\nBeen pushing hard since 3/23 on deployment, publishing stability, and native app releases.\n\nStill, today felt important.\n\nMomentum is real.\n\n#buildinpublic #localfirst #sovereignty #nostr #bitcoin #indiehacker",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27",
+  "sig": "29dd017a90862832dc1a41dab36082fc9ecc7be27e3771e66c84260812834c3f35249ef89d90532a3993a75dbe16f468516551ce8725f545bf870312c614627c",
+  "published": 1
+}
