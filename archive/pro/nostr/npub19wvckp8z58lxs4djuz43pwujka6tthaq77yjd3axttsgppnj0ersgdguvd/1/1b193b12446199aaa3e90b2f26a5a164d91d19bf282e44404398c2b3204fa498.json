@@ -1,0 +1,35 @@
+{
+  "content": "Note 3 - 4/3/2026\n\nCloud-first is often easier at the beginning.\n\nSometimes easier for the builder.\nUsually easier for the customer at first.\n\nBut once you start seeing software through a local-first and sovereign lens, the tradeoffs become impossible to ignore.\n\nConvenience is real.\n\nSo is dependency.\n\nAnd especially so is freedom\n\nIt's GOOD FRIDAY -- Happy Easter and Resurrection Sunday to all!\n\n#sovereignty #digitalfreedom",
+  "created_at": 1775279095,
+  "id": "1b193b12446199aaa3e90b2f26a5a164d91d19bf282e44404398c2b3204fa498",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "26ea98086508dbf673b84bb5d93008c6e7ffbbbdc835921a2ee881badc0e5cfd8d13a761c2ca1d054e76d454c64f59c465d1f898d835e5f2ba03f3bdb40fb3ef",
+  "tags": [
+    [
+      "d",
+      "note-1775279095"
+    ],
+    [
+      "published_at",
+      "1775279095"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digitalfreedom"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

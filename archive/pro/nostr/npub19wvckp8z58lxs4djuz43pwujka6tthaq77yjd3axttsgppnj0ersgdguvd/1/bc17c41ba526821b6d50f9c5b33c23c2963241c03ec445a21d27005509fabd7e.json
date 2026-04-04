@@ -1,0 +1,39 @@
+{
+  "id": "bc17c41ba526821b6d50f9c5b33c23c2963241c03ec445a21d27005509fabd7e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775278907,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1775278907"
+    ],
+    [
+      "published_at",
+      "1775278907"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "Note 1 - 4/3/2026\n\nGood Friday\n\nI was thinking more about Continuum tonight (and honestly am in the mood to write more) \n\nContinuum is not just software.\n\nIt is a philosophy — almost a worldview.\n\nA way of thinking about identity, authorship, and ownership in a networked world.\n\nThe truth is, Continuum never started as a product idea.\n\nIt began as a reaction.\n\nA reaction to how dependent we have become on hosted platforms, borrowed identity, and systems we do not truly own.\n\nOnly later did it begin to take shape as software.\n\n\n#buildinpublic #localfirst #sovereignty",
+  "sig": "053d68057cd916bd74b2f2246d5f36fb8813958dac15f03c03f131669a413312be9e0b7cc5f9ceeb4b5370a7d9b284ca9621f872b9e2f7ff59f11a025ba1ba43",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

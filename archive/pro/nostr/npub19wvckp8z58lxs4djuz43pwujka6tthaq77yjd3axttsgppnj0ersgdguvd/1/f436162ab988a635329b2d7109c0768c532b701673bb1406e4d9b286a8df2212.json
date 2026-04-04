@@ -1,0 +1,35 @@
+{
+  "content": "Note 2. - 4/3/2026\n\nGood Friday\n\nI’ve been almost maniacally focused on local-first as the default build mode for nearly a year.\n\nAt first that can sound unusual.\n\nBut in another sense, it’s almost quaint.\n\nWasn’t software originally built this way?\n\nLocal authority first.\nNetwork second.\n\nSomewhere along the way, cloud-first became the unquestioned default.\n\n#software #localfirst",
+  "created_at": 1775278994,
+  "id": "f436162ab988a635329b2d7109c0768c532b701673bb1406e4d9b286a8df2212",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cbe545ddb0c2fd1e35e7d47312be9be026832bc62aa431f87320efb960b58a248450b72e2e03dfee40156a9ab4809b57f1876c6528f70aa7d4ce56eab410766f",
+  "tags": [
+    [
+      "d",
+      "note-1775278994"
+    ],
+    [
+      "published_at",
+      "1775278994"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
