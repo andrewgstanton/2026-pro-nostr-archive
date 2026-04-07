@@ -1,0 +1,39 @@
+{
+  "content": "I keep thinking about how much time goes into the parts no one sees.\n\nNot writing.\nNot publishing.\nNot even the product itself.\n\nJust making the build process cleaner.\n\nDocker.\nMac app.\nWindows app.\n\nHours spent so someone else can simply double click and begin.\n\nA lot of real work lives beneath the surface.\n\n#software #buildersjournal #continuum",
+  "created_at": 1775526836,
+  "id": "96a15a6319354f3c5fab130b22f7727ed2ea88ad13204678271f79e1defd3432",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "16dd233828ef74a3855e0f50ef6763e53b9371f8f3b1358605c3c375824bb4378dca582ec7ee03f4f93062b0782a14629c391ef98ae790d22af065e7a055d7c7",
+  "tags": [
+    [
+      "d",
+      "note-1775526836"
+    ],
+    [
+      "published_at",
+      "1775526836"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "buildersjournal"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

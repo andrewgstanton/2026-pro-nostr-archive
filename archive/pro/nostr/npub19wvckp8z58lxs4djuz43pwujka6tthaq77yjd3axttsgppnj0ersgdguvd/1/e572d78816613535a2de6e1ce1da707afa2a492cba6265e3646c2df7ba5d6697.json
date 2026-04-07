@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1775351179,
+  "tags": [
+    [
+      "d",
+      "note-1775351147"
+    ],
+    [
+      "published_at",
+      "1775351179"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "4c89305100b43aff0e513b2b593cebe2bf25dad3e806d7701ade6aa1d9148988",
+      "edit"
+    ]
+  ],
+  "content": "I keep thinking about how much of life is lived before anything is visible. 4/4/2026\n\nWe want the shoot breaking through the frost.\n\nWe want the stone rolled away.\n\nWe want visible growth.\n\nBut so much of what is real happens first beneath the surface.\n\nRoots deepen in silence.\n\nLife forms where no one can yet see it.\n\nSometimes the waiting itself is part of the work.\n\nI have waited a long time.\n\n#HolySaturday #Hope #Growth",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "e572d78816613535a2de6e1ce1da707afa2a492cba6265e3646c2df7ba5d6697",
+  "sig": "cd81a0b6cfb017a71c6e7e8903bdf1231af1c4958beae4965c78e0e99852cafe166d8940f72ff0bc8d24c17fda112d67b999b19fda56a84b0d898b664ddd8200",
+  "published": 1
+}

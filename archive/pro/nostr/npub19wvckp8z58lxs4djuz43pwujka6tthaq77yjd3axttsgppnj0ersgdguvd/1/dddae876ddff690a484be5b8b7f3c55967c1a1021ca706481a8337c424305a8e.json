@@ -1,0 +1,39 @@
+{
+  "content": "Today felt less like feature work and more like clearing the path.\n\nThe core ideas have been here for a long time.\n\nWhat I am doing now is making Continuum easier to enter.\n\nLess setup friction.\nLess terminal pain.\nLess “it works on my machine.”\n\nSame philosophy.\nStronger foundation.\n\nSometimes streamlining *is* the work.\n\n#localfirst #buildinpublic #continuum",
+  "created_at": 1775526863,
+  "id": "dddae876ddff690a484be5b8b7f3c55967c1a1021ca706481a8337c424305a8e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b714b52138deac0305126be7e9a9b9f58d59dd5fd6ac98bd72b8d1cf8fe141ae632a700a55657596e3a18ce4ad8b04f64a86e53ae26eda246dd238241e6e1947",
+  "tags": [
+    [
+      "d",
+      "note-1775526863"
+    ],
+    [
+      "published_at",
+      "1775526863"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

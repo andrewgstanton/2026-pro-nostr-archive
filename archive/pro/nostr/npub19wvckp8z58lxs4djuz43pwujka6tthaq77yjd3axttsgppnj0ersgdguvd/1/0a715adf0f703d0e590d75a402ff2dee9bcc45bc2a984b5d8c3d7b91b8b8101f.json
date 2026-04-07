@@ -1,0 +1,35 @@
+{
+  "content": "Resurrection Sunday and, in its own strange way, today felt like a kind of rising.\n\nNot dramatic.\n\nJust the quiet relief of finally finishing something heavy that had been hanging over me for far too long.\n\nSometimes resurrection looks less like triumph and more like finally coming up for air.\n\n#ResurrectionSunday #Gratitude",
+  "created_at": 1775449771,
+  "id": "0a715adf0f703d0e590d75a402ff2dee9bcc45bc2a984b5d8c3d7b91b8b8101f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "20bd15e6062ece65cc5ef6274274a86d442d15711c3ce64d1c4a479c5a2e98d2daacbbd4b059ecefdbdc805b1ec97e864dd7c04e2b051a2230e0eb8675188c84",
+  "tags": [
+    [
+      "d",
+      "note-1775449771"
+    ],
+    [
+      "published_at",
+      "1775449771"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resurrectionsunday"
+    ],
+    [
+      "t",
+      "gratitude"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

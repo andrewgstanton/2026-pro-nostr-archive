@@ -1,0 +1,35 @@
+{
+  "content": "Jesus was in the tomb today. - 4/4/2026\n\nThe in-between day.\n\nThe day where nothing appears to be happening.\n\nSilence.\nWaiting.\nThe stone still in place.\n\nAnd yet this is not absence.\n\nThis is the hidden work of God beneath the surface, like a new shoot beneath winter frost before it breaks through.\n\nTomorrow changes everything.\n\n#HolySaturday #ResurrectionHope",
+  "created_at": 1775350582,
+  "id": "5e534ce03d9e2b25e1bcd210e1d2c15cc1b070de4ec0b56b84570f5e9fb6a431",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "59b5f7aa5feeb5375cef40005c9869ddd65c41c1e4e9cf23cfd40b5cc35b829dc9874b8ef8e7415d0543f682bd0509fa4ce574166315ce8156fea09b5577503c",
+  "tags": [
+    [
+      "d",
+      "note-1775350582"
+    ],
+    [
+      "published_at",
+      "1775350582"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "holysaturday"
+    ],
+    [
+      "t",
+      "resurrectionhope"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

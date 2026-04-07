@@ -1,0 +1,35 @@
+{
+  "content": "Today was one of those days that carried both relief and exhaustion.\n\nFinished and filed federal, California, and Ohio taxes after what felt like an endless stretch of forms, statements, and carryforwards.\n\nBy God’s grace it ended in a refund, which honestly feels like a small mercy after how hard 2025 was financially.\n\nStill tired, but grateful tonight.\n\n#ResurrectionSunday #Gratitude",
+  "created_at": 1775449751,
+  "id": "18b02603da4c6bf0169bf94c56e69a30d3343de5044f75238ece61a995335a85",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "209e92ee97f298d0989d7eff7c6cb568aadca0c356278f3984f7e55b0963fea5f6a99fedf674c86a062c2eb862ee784bd3d45319c4880df83c6d28c5586d9f38",
+  "tags": [
+    [
+      "d",
+      "note-1775449751"
+    ],
+    [
+      "published_at",
+      "1775449751"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "resurrectionsunday"
+    ],
+    [
+      "t",
+      "gratitude"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

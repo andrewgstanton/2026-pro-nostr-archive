@@ -1,0 +1,39 @@
+{
+  "content": "I spent today streamlining the build process.\n\nDocker is still the foundation, but seeing the Mac app and Windows app builds coming together makes this feel different now.\n\nThis is not just about packaging.\n\nIt’s about removing friction between conviction and use.\n\nIf Continuum is really for real people, the path in has to be simple.\n\n#buildinpublic #continuum #localfirst",
+  "created_at": 1775526814,
+  "id": "41927bb61b3e0f7c69d984d0bdd2b5841654a7c3a5cc86e75d0dede0ae0ea73c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "073df712d471f5951320b9588e9fbc12f2186b17bd98ba969b14d7eba649ba6631bfc95b98165ccc6fe3a1e221083b222b86a3f301baab606d3450be1cbec9e6",
+  "tags": [
+    [
+      "d",
+      "note-1775526814"
+    ],
+    [
+      "published_at",
+      "1775526814"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

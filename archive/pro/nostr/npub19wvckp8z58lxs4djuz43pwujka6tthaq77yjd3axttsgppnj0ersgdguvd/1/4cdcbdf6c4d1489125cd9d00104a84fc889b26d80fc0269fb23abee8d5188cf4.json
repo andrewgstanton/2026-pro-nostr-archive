@@ -1,0 +1,35 @@
+{
+  "content": "The day after - 4/4/2026\n\nHe was crucified yesterday.  \n\nHis broken body put in a tomb.\n\nHope seems lost now\n\nBut He is doing His work.\n\nSome have believed this was also the day He descended into the depths — even into hell itself — proclaiming victory over death.\n\nI do not pretend to fully grasp that mystery.\n\nBut I do know this:\n\nthere is no darkness, no grave, no depth beyond His reach.\n\nEven there, in death, He is Lord.\n\nAnd I have seen a lot of that this past year.\n\n#HolySaturday #Victory",
+  "created_at": 1775350954,
+  "id": "4cdcbdf6c4d1489125cd9d00104a84fc889b26d80fc0269fb23abee8d5188cf4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cf006530d2e86ff68cff98d6cca02c861a0dc0293545b2b800ced9654b4efc1135c950ba7174f9452ac2aa87e78a18c6f57343a95e0ec87e14658e13ef474871",
+  "tags": [
+    [
+      "d",
+      "note-1775350954"
+    ],
+    [
+      "published_at",
+      "1775350954"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "holysaturday"
+    ],
+    [
+      "t",
+      "victory"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

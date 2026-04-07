@@ -1,0 +1,31 @@
+{
+  "content": "Spent most of this weekend finishing what I had put off for too long.\n\nTaxes filed.\nNumbers reconciled.\nCarryforwards recorded.\nDone.\n\nThere is something deeply freeing about closing a loop that has been weighing on the mind for months.\n\nTonight feels lighter.\n\nResurrectionSunday #Gratitude",
+  "created_at": 1775449825,
+  "id": "3454642d13fa32bb3ffcefcad8a8f893690b704a182f063909b7d4e35e60f60f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e149e9b20c363c02f109ccf397ab8c1030c89378ac46102609f680d6dcc774d3f8f449246cce02fab60bae12f7f5b6c1f7fb598b2c4ec94eacec970b64f5177c",
+  "tags": [
+    [
+      "d",
+      "note-1775449825"
+    ],
+    [
+      "published_at",
+      "1775449825"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "gratitude"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

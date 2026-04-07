@@ -1,0 +1,36 @@
+{
+  "id": "6b082a8832a9639825339d22f1fe10ee81502842e88a54da1be7d7e074c8eef1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775350418,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1775350418"
+    ],
+    [
+      "published_at",
+      "1775350418"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "holysaturday"
+    ],
+    [
+      "t",
+      "victoryoverdeath"
+    ]
+  ],
+  "content": "Holy Saturday - 4/4/2026\n\nI haven't been posting nearly as much as I used to.  \n\nFor the next few days, I think I will limit my posts to 3 notes per day, today is Holy Saturday.\n\nand I produced a few pieces reflecting that.\n\n#HolySaturday #VictoryOverDeath",
+  "sig": "c409814c7fa37120a9c27bef8d75e6f39c029f50131d78e0d134c52161099fd5c631e6f4b21eb3011a4645e72f94f298cc2560a9126b77590e95b68ecdaf3668",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
