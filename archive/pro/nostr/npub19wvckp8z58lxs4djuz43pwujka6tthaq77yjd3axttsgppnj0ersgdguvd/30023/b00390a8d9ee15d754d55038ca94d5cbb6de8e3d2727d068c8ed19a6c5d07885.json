@@ -1,0 +1,27 @@
+{
+  "content": "## Monday, April 6, 2026 — Build Pipeline Momentum (v1.6.2)\n\nToday was an important infrastructure day.\n\nA lot of the work was not flashy on the surface, but it materially improves how Continuum ships and how confident I can feel about every release going forward.\n\nThe biggest win was **streamlining the build and packaging pipeline** across both Docker and native macOS distributions.\n\nFor **v1.6.2**, I tightened the process so that a full release build now produces cleaner, more consistent artifacts, including:\n\n- Docker release package\n- native macOS application build\n- release hashes for verification\n- cleaner packaging flow end-to-end\n\nThe hash generation piece especially matters to me.\n\nThis is not just a packaging detail — it reinforces the sovereignty-first philosophy behind Continuum.\n\nUsers should be able to verify exactly what they downloaded.\n\nThat alignment between product philosophy and release mechanics feels important.\n\nThis was one of those days where the visible result is small, but the foundation underneath got significantly stronger.\n\nA smoother release process means less friction every time I ship.\n\nAnd right now, speed of iteration matters.",
+  "created_at": 1775630669,
+  "id": "b00390a8d9ee15d754d55038ca94d5cbb6de8e3d2727d068c8ed19a6c5d07885",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8fe36015b1c766978ad2f2bc3c5d6bb070d06e1459ae73f030de1ee984caf37d2166aecfa5bdd0c5bda673d65e14fd3aa8054ea52b995269656f9239066c04d4",
+  "tags": [
+    [
+      "d",
+      "builders-journal--monday-462026"
+    ],
+    [
+      "title",
+      "Builder’s Journal — Monday, 4/6/2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

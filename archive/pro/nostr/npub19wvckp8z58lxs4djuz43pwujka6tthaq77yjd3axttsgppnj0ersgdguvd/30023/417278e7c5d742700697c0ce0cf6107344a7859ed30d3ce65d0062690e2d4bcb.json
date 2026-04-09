@@ -1,0 +1,27 @@
+{
+  "content": "## Tuesday, April 7, 2026 — Native App Stability + Distribution Clarity (v1.6.3 → v1.6.5)\n\nToday was a major stabilization day for the native application flow.\n\nI moved through **v1.6.3, v1.6.4, and v1.6.5** with a strong focus on the launch experience and distribution clarity.\n\nThe biggest technical issue addressed was the **launch weirdness on native builds**.\n\nThis was one of those subtle UX issues that can quietly undermine confidence in the product.\n\nThe fix now ensures that:\n\n- if Continuum is already running\n- a double-click always launches correctly\n- any stale or lingering Continuum process is terminated first\n- the app restarts cleanly and predictably\n\nThat behavior now feels much more native.\n\nThis matters more than it may seem.\n\nFor most users, the app either just opens or it feels broken.\n\nReducing that ambiguity is a major quality-of-life improvement.\n\nOn the packaging side, **v1.6.4 and v1.6.5 introduced DMG build support**, which is another major milestone for macOS distribution.\n\nThis brings the experience closer to what users expect from a polished desktop application.\n\nJust as importantly, I also updated the **downloads page and pricing page** to more clearly explain the current open-source posture.\n\nI wanted to remove any mixed messaging around:\n\n- what is currently open source\n- what is not yet open source\n- what patrons are supporting\n- how this aligns with the long-term vision\n\nThat clarity matters.\n\nContinuum is built around sovereignty and first principles, so the messaging around openness, hosted value, and patron support needed to be explicit.\n\nOverall, these last two days were less about new features and more about making Continuum feel increasingly real as a product people can install, trust, and use daily.\n\nThat feels like real progress.",
+  "created_at": 1775630655,
+  "id": "417278e7c5d742700697c0ce0cf6107344a7859ed30d3ce65d0062690e2d4bcb",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "12f019d4448edf5f81eaedd44794778c46ef5a5d024d4613f942ec231d912235a8f8b2b951ac98961a71ecc58d9b48b9275b3848169aaa78326e48d41aaf6942",
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-april-7-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, April 7, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
