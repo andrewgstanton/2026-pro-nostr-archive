@@ -1,0 +1,39 @@
+{
+  "content": "4/8/2025\n\nQuiet but important milestone today.\n\nI left Continuum running overnight in Docker with the laptop closed.\n\nThis morning I reopened, refreshed the browser, switched identities, refreshed relays, sent a test note, and scheduled another test note.\n\nEverything went through normally.\n\nNo freeze.\n\nThis is the kind of invisible progress that builds real trust in the product.\n\n#buildinpublic #continuum #localfirst",
+  "created_at": 1775665557,
+  "id": "59733b3c5feb0f9e2550df4c0c12efbec3c91e1214730b76b1c46414a404dcfb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d014f8190ba550e66e55c2ae6e38ab9772a2ea3cfdbafc2adde0b3497f2f2c4962592e976c2c03131b46c9dafed23936aec489c48b0f14f9574b7365ba17cb2d",
+  "tags": [
+    [
+      "d",
+      "note-1775665557"
+    ],
+    [
+      "published_at",
+      "1775665557"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

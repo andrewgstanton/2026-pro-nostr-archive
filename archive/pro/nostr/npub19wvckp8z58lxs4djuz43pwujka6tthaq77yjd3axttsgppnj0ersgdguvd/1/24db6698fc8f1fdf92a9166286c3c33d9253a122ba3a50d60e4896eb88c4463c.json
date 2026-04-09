@@ -1,0 +1,39 @@
+{
+  "content": "Verify, don’t trust.\n\nWe say that about Bitcoin.\n\nBut it applies in many areas of life — and especially in places like Nostr.\n\nWords are cheap.\nIntentions are cheap.\nA like doesn’t mean much.\n\nPeople will say things in the moment:\n\n“Great article.”\n“Well said.”\n“I’ll check out the download.”\n\nBut unless those words are followed by action, they remain only sentiment.\n\nThis is the reality.\n\nVerify, don’t trust.\n\n#Bitcoin #Nostr #Sovereignty",
+  "created_at": 1775633344,
+  "id": "24db6698fc8f1fdf92a9166286c3c33d9253a122ba3a50d60e4896eb88c4463c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b89f8a020a028b2a46d6d942c4e8844ed2a8877382a9b28dffc33e1803153e55f8b3997c54628319292335661b168b98b62fadb8a738a79f922206d8ed36e7e7",
+  "tags": [
+    [
+      "d",
+      "note-1775633344"
+    ],
+    [
+      "published_at",
+      "1775633344"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

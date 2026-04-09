@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1775631303,
+  "tags": [
+    [
+      "d",
+      "note-1775631219"
+    ],
+    [
+      "published_at",
+      "1775631303"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "49d5a78825be5cfff7ecbb28c3c8309fa02353797a508710295bcc971d07dd16",
+      "edit"
+    ]
+  ],
+  "content": "Note #1 - 4/7/2026\n\nI honestly don’t know if anyone cares about these updates anymore.\n\nBut I’m putting them out there anyway.\n\nYesterday and today were real progress days — cleaner builds, DMG support, launch fixes, less friction, more stability.\n\nA lot of the most important work is invisible.\n\nStill building.\n\n#buildinpublic #continuum",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "c04e33d26050de3522cfafa37aea7abe1d851dc18f51ef308183e8f34d1e1392",
+  "sig": "2c45b3e359be94afa5fdcf1b10cc7ce393b9bf679315748f3e56bac96c92b3a6711387042d905de1b8e34cf44cf670c728894b714ba5ee39433ee15b12f22e4b",
+  "published": 1
+}

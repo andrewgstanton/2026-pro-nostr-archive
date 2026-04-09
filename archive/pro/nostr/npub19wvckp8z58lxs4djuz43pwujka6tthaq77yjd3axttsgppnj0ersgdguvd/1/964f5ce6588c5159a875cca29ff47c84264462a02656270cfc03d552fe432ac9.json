@@ -1,0 +1,35 @@
+{
+  "content": "Note # 2 - 4/7/2026\n\nSome of the most meaningful progress never looks exciting from the outside.\n\nNo flashy demo.\n\nNo big reaction.\n\nJust long hours making the release pipeline cleaner, the native app more stable, and the experience less fragile.\n\nMaybe no one notices.\n\nBut it matters.\n\n#localfirst #productdevelopment",
+  "created_at": 1775631263,
+  "id": "964f5ce6588c5159a875cca29ff47c84264462a02656270cfc03d552fe432ac9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "857852c0bd78398ba4dc28c59b44145cbb37966ca360db979b7da631a6f0982f0aa3c2826adeeb5b3d631d5f440043ebecfdd852b388cb0fde606f3699df4ae2",
+  "tags": [
+    [
+      "d",
+      "note-1775631263"
+    ],
+    [
+      "published_at",
+      "1775631263"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "productdevelopment"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
