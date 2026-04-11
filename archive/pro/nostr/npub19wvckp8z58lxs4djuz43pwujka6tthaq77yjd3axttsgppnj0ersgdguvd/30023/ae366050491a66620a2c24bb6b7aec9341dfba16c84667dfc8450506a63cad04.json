@@ -1,0 +1,84 @@
+{
+  "content": "Andrew G. Stanton - Thursday, April 9, 2026\n\n---\n\nWe are entering a world increasingly shaped by AI.\n\nThat much is now obvious.\n\nWriting.\nCode.\nPlanning.\nSearch.\nResearch.\nCreativity.\n\nAI is rapidly becoming embedded into nearly every layer of digital life.\n\nI use it daily.\n\nAnd I do not see that as inherently negative.\n\nThe real question is not whether AI is used.\n\nThe real question is whether the human being remains sovereign.\n\nThat question matters deeply to me.\n\n## AI as amplifier\n\nAt its best, AI is an amplifier.\n\nIt accelerates thought, iteration and building.\n\n\nFor a solo builder, the leverage is extraordinary.\n\nA single individual can now move at a pace that previously required teams.\n\nI have lived this directly through Continuum.\n\nIdeas become drafts faster.\n\nCode becomes prototypes faster.\n\nBugs get diagnosed faster.\n\nArchitecture gets clarified faster.\n\nThis is real leverage.\n\nBut amplification is not the same thing as authority.\n\nThat distinction is critical.\n\n## Who owns the output?\n\nThe central issue for me is ownership.\n\nWho owns the work?\n\nWho controls the identity?\n\nWho holds the keys?\n\nWho can revoke access?\n\nThese questions matter more in an AI-mediated world.\n\nBecause there is a subtle temptation to outsource not only effort but authority.\n\nTo allow tools to become the center.\n\nI resist that.\n\nAI should assist the builder.\n\nIt should not replace the builder as the center of authorship.\n\nThe individual must remain the authority.\n\nThis is one of the reasons I care so deeply about local-first architecture.\n\nYour drafts, keys and identity should remain local.\n\nThe same principle applies to AI.\n\nUse the tool.\n\nDo not surrender the center.\n\n## Sovereignty-first AI\n\nI do not believe the future is anti-AI.\n\nI believe the future must be sovereignty-first AI.\n\nThat means:\n\nthe human remains the author, owner and final authority\n\nAI can accelerate.\n\nBut it should not absorb authorship.\n\nThis is the same principle that drives Continuum.\n\nCloud systems often centralize authority.\n\nSovereignty re-centers it in the individual.\n\nAI must follow the same path.\n\nOtherwise, acceleration becomes dependency.\n\nAnd dependency eventually becomes control.\n\nThat is what I want to avoid.\n\n## The deeper question\n\nThe deeper question is not technical.\n\nIt is philosophical.\n\nWhat kind of world are we building?\n\nOne where tools empower human agency?\n\nOr one where convenience quietly displaces it?\n\nFor me, the answer is clear.\n\nThe future must be built around sovereignty.\n\nAI included.",
+  "created_at": 1775777881,
+  "id": "ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4fe790c5016d104245ab852de416c81974df43b73a5fcaecbae85aa9db96107513f750fa665a1548135112b44e921a4484483b749211581aaf4cbcd8f3fa2b8f",
+  "tags": [
+    [
+      "d",
+      "sovereignty-and-ai"
+    ],
+    [
+      "title",
+      "Sovereignty and AI"
+    ],
+    [
+      "published_at",
+      "1775777881"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual."
+    ],
+    [
+      "display_date",
+      "2026-04-09"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "AI"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "DigitalSovereignty"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "Builders"
+    ],
+    [
+      "t",
+      "Writing"
+    ],
+    [
+      "t",
+      "Identity"
+    ],
+    [
+      "t",
+      "FutureOfTechnology"
+    ],
+    [
+      "e",
+      "772811abc1d1eaa8ed48ad5d904d9cfa8f6b9c103127a8dba2beae6c6d35599e",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

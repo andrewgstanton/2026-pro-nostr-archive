@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Friday, April 10, 2026\n\n---\n\nToday felt like one of those days where something that has been mostly internal finally started becoming tangible.\n\nFor a long time, Continuum has been something I knew deeply from the inside.\n\nI know how the scheduler works.\n\nI know how the identities are stored.\n\nI know the relay flows, the local signing flow, the drafts, the explicit publishing model, the separation between writing and posting, the reason the keys stay local.\n\nFrom the inside, it has been real for a long time.\n\nBut there is always a difference between something being real to the builder and something becoming accessible to other people.\n\nThat is where today feels important.\n\nWe now have real cross-platform support in a way that I can say with confidence:\n\n- native macOS\n- native Windows\n- Docker\n- local-host zip package for Linux / terminal-style environments\n\nThat may sound like release engineering work, but to me it feels bigger than that.\n\nIt makes *Building Continuum: Local Authority in a Networked World* more tangible.\n\nWhen I wrote the book, I was trying to articulate something I had felt for a long time.\n\nOur current digital systems are built backwards.\n\nIdentity begins in the cloud.\n\nAuthorship begins in the feed.\n\nDrafts often live on rented ground.\n\nPublishing is collapsed into posting.\n\nToo much of what we create is platform-dependent.\n\nThe book was my attempt to put that into words.\n\nBut I also knew something uncomfortable.\n\nIf the software remained difficult to install or too dependent on a particular environment, then the book risked staying more philosophical than practical.\n\nThat tension has been sitting with me for a while.\n\nI never wanted *Building Continuum* to be only an argument.\n\nI wanted it to point toward something people could actually use.\n\nThat is why the build work this week matters so much.\n\nFor months, one of the biggest points of friction has simply been access.\n\nSomeone can resonate with the ideas and still never try the software because the path in is too narrow.\n\nIf the only realistic way to run it is Docker plus command line plus a bunch of setup assumptions, many people will simply stop there.\n\nNot because they disagree.\n\nBecause life is busy.\n\nFriction kills momentum.\n\nThat is one of the reasons I pushed so hard on native builds.\n\nThe macOS app was a major milestone.\n\nThe Windows app was another.\n\nGetting those into the downloads path alongside Docker and now a local-host zip package makes the project feel much more real.\n\nThis matters especially because the whole philosophy of Continuum is about reducing unnecessary dependency and restoring ownership.\n\nIt should not require people to jump through avoidable hoops before they can even experience the core idea.\n\nThe software itself needs to embody the principle.\n\nThe book explains the why.\n\nThe software has to carry the how.\n\nToday, for the first time in a while, it feels like those two are starting to align better.\n\nThere is still a lot to improve.\n\nThe UX still needs work.\n\nThe onboarding needs clearer guides.\n\nIdentity edit flows need to be improved.\n\nRelease notes and offline guides need to be surfaced better.\n\nBut the foundation is much stronger than it was even a few weeks ago.\n\nToday did not “complete” anything.\n\nBut it did make the vision more tangible.\n\nThat encouraged me.",
+  "created_at": 1775882834,
+  "id": "314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c4260f3c15ec47824607e11905b600a4ab6b9a503309bdc091be3eb8d494e5ebf1f512cb8a5ea60cdc96de0620b11fddeddf13a900f419876eaf810482c98a34",
+  "tags": [
+    [
+      "d",
+      "cross-platform-is-not-a-feature-its-a-threshold"
+    ],
+    [
+      "title",
+      "Cross-platform support makes \"Building Continuum\" tangible"
+    ],
+    [
+      "published_at",
+      "1775882834"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Today felt like a real threshold moment for Continuum. Cross-platform support across macOS, Windows, Docker, and local-host environments makes the ideas in *Building Continuum: Local Authority in a Networked World* far more tangible."
+    ],
+    [
+      "display_date",
+      "2026-04-10"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "BuildingContinuum"
+    ],
+    [
+      "t",
+      "CrossPlatform"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "BuilderJourna"
+    ],
+    [
+      "t",
+      "SoftwareArchitecture"
+    ],
+    [
+      "e",
+      "4ec0fb6f783a9d110108ef2c7b6ac88acaab6ecb7e64508aa861f5b02b7618d8",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

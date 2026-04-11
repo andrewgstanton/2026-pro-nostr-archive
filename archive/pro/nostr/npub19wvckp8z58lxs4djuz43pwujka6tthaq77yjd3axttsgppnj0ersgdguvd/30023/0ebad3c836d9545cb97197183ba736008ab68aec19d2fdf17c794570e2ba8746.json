@@ -1,0 +1,27 @@
+{
+  "content": "Two major things happened today:\n\n1. Someone (Kalon) actually purchased the ebook (pdf) using sats! (he wanted the pdf sent through wormhole.app (something else I learned about today that was very valuable.\n\n2. After chatting with Kalon, discovered he runs on linux so I figured out a way to to distrubte continuum with local source packaging (run the app in a python virtual environment no docker needed. \n\nLast night I was working on adding release notes functdionality into the app (which I started to do) -- this afternoon I wrapped everything up and releasted v1.6.7.1. - felt very good today\n(even though the book purchase wasn't very large -- it was in sats! that's huge!",
+  "created_at": 1775885244,
+  "id": "0ebad3c836d9545cb97197183ba736008ab68aec19d2fdf17c794570e2ba8746",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0f7cff75717b70949f47c170700c1d275adea01de9dff030a98acdcfde8b0d35aea3081220a4bb819d56aa1558efdd0bfd9a762a44c287d80ce25c1051dcc427",
+  "tags": [
+    [
+      "d",
+      "builder-journal---april-10-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - April 10, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

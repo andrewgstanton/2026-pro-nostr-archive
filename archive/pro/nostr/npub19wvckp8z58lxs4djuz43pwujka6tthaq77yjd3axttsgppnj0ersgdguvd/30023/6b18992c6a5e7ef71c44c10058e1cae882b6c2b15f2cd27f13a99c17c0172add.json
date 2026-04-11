@@ -1,0 +1,70 @@
+{
+  "content": "Andrew G. Stanton - April 10, 2026\n\n---\n\nOne thing that became clearer to me today is this:\n\nthe software is beginning to catch up with the book.\n\nWhen I wrote *Building Continuum: Local Authority in a Networked World*, I was trying to describe a different way of thinking about software and authorship.\n\nIdentity, Keys and Drafts should remain local.\n\nPublishing should be explicit.\n\nThose are not just product decisions.\n\nThey are first-principles decisions.\n\nBut as I have been building Continuum, I have also felt the gap between the architecture and the user’s first experience.\n\nThe internal model has been strong for a while.\n\nThe local-first structure.\n\nThe explicit signing flow.\n\nThe scheduler.\n\nThe relay model.\n\nThe archive.\n\nThe durable draft philosophy.\n\nAll of that has been there.\n\nBut what happens before someone even reaches those ideas?\n\nThey need to download, install trust and run it.\n\nThat path matters.\n\nAnd I think for a while I mentally separated that from the “real work.”\n\nI do not think that anymore.\n\nAll of these are part of the product:\n\n- The release path\n- The build artifacts\n- The zip structure\n- The hashes\n- The native apps\n\nThis week really reinforced that.\n\nThe macOS and Windows builds were a huge step.\n\nThe Docker path remains important.\n\nAnd now the local-host zip path makes it easier for people working in Linux or Mac terminal environments.\n\nThat is not glamorous work.\n\nBut it directly affects whether the ideas in *Building Continuum* can be experienced.\n\nThe book can explain the why all day long.\n\nBut if the install flow is too difficult, most people never make it to the first meaningful interaction.\n\nThat is where the software has to support the argument.\n\nToday it feels like the software is finally starting to do that better.\n\nThe build and distribution work is helping the software embody the same seriousness as the book.\n\nThat matters to me.\n\nBecause I never wanted the book to stand alone as theory.\n\nI wanted it to be grounded in something real.\n\nToday feels like progress in that direction.",
+  "created_at": 1775883323,
+  "id": "6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f54b556fcec6c5a5426393ab92f50cd1bc9fe2bc0a85014e2216a20c233d4b6608539d8b4edb46e421de483ebc8a466b2f07afb6f70970a054b0298e15975822",
+  "tags": [
+    [
+      "d",
+      "the-book-and-the-software-are-finally-starting-to-meet"
+    ],
+    [
+      "title",
+      "The software is beginning to catch up with the book"
+    ],
+    [
+      "published_at",
+      "1775883323"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "A reflection on how the recent build, packaging, and distribution work is helping Continuum better embody the principles laid out in *Building Continuum: Local Authority in a Networked World*."
+    ],
+    [
+      "display_date",
+      "2026-04-10"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "BuildingContinuum"
+    ],
+    [
+      "t",
+      "ReleaseEngineering"
+    ],
+    [
+      "t",
+      "SoftwareArchitecture"
+    ],
+    [
+      "t",
+      "BuilderJournal"
+    ],
+    [
+      "e",
+      "57034f9623b808dc812fcedeb57631e2d3ba511541f15abe01ee56d71bbd6101",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

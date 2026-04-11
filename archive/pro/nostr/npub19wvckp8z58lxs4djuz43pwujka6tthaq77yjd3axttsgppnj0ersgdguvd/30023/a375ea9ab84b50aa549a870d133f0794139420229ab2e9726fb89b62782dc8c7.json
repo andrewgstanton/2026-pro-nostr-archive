@@ -1,0 +1,27 @@
+{
+  "content": "Journal - Wednesday, April 8, 2026\n\nBusy day -- in the morning went through the full process of getting an apple Developer ID and signing and notarizing apple builds.  by about 11:00 AM or so I had a pipeline where I could build the dmg and zip file (for Mac apps) that were signed and notarized>\n\nrest of the day (until about 11 PM) working on getting Windows builds working and was close but not quite finished\n\nWhiskers new meds were supposed to come today _ we got them around 9:00 PM but I ddidn't start ont hem today.\n\nHe threw up some of his food later tonight, and continues to caugh (about once or twice a day).\n\nReally hope we can have him for a while but I think it's likely we will have to say goodbye sometime this year.",
+  "created_at": 1775774742,
+  "id": "a375ea9ab84b50aa549a870d133f0794139420229ab2e9726fb89b62782dc8c7",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "420947fadb650a56ba77da934f285dd9a16bd4065dd1d21208e11124860a0ee9fe853332821f585991aac6840791e9b6067080821b6ca47af4c187a8ae38f184",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-april-8-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, April 8, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

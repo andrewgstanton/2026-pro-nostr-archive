@@ -1,0 +1,84 @@
+{
+  "content": "Andrew G. Stanton - Thursday, April 9, 2026\n\nOver the past few weeks, much of my energy has gone into one goal: reducing friction.\n\nNot conceptual friction.\n\nNot philosophical friction.\n\nPractical, immediate, real-world friction.\n\nThe kind of friction that prevents someone from ever getting to the point where they can actually use what you built.\n\nFor a long time, Continuum primarily existed in development environments.\n\nDocker.\nTerminal windows.\nMapped ports.\nShell scripts.\nEnvironment setup.\n\nFor me, that was normal.\n\nI have spent decades building systems, working in terminals, managing local infrastructure, and troubleshooting edge cases.\n\nBut one of the hardest lessons for builders is this:\n\nwhat feels normal to us often feels overwhelming to everyone else.\n\nA product can be profoundly useful and still fail at the very first step.\n\nThe install.\n\nThat is why getting the native Mac application signed and notarized became so important.\n\nThis was not merely a technical milestone.\n\nIt was a philosophical one.\n\n## The friction problem\n\nFor all the work I have poured into Continuum, one of the biggest barriers has never been the product itself.\n\nIt has been onboarding.\n\nA user should not need to understand Docker to begin writing.\n\nThey should not need to run scripts.\n\nThey should not need to open Terminal just to launch a local-first authorship platform.\n\nEven when someone is interested, every additional step creates an opportunity for hesitation.\n\nInstall Docker.\n\nPull images.\n\nStart containers.\n\nCheck port conflicts.\n\nRefresh the browser.\n\nConfirm scheduler.\n\nFor a technical user, this may be acceptable.\n\nFor most people, it is enough to stop.\n\nThat is real friction.\n\nAnd friction compounds.\n\nEven worse, on macOS, unsigned applications create another layer of resistance.\n\nThe system immediately presents warnings.\n\nThe app is “from an unidentified developer.”\n\nThe operating system blocks execution.\n\nThe user must right-click.\nChoose open.\nConfirm intent.\nOverride system trust signals.\n\nAt that moment, the question is no longer:\n\n“What does this software do?”\n\nThe question becomes:\n\n“Can I trust this?”\n\nThat moment matters.\n\n## Trust begins before first use\n\nPeople often think trust is something the product earns after usage.\n\nI think trust begins much earlier.\n\nIt begins with the first interaction.\n\nThe download page.\n\nThe app icon.\n\nThe installation experience.\n\nThe absence of warnings.\n\nThe sense that the software belongs on the machine.\n\nSigning and notarizing the Mac app was about removing that moment of uncertainty.\n\nI wanted the experience to feel natural.\n\nDownload.\nOpen.\nRun.\n\nThat’s it.\n\nThe software should not fight the user before it even begins.\n\nThis is especially important because Continuum is built around local-first sovereignty.\n\nIronically, many sovereignty-aligned tools introduce enormous friction.\n\nThey require users to sacrifice ease for ownership.\n\nI understand why that happens.\n\nBut I do not believe it has to remain that way.\n\nLocal-first should not feel harder.\n\nIt should feel better.\n\n## The Apple process\n\nI will be honest.\n\nGetting through the signing and notarization flow was not trivial.\n\nApple has built a system that strongly prioritizes trusted distribution.\n\nFrom a security perspective, I understand this.\n\nBut from a builder’s perspective, it can be exhausting.\n\nCertificates.\nDeveloper identity.\nSigning steps.\nPackaging.\nVerification.\nSubmission.\nNotarization tickets.\nStapling.\nRetesting.\n\nEach stage introduces failure points.\n\nPaths.\nPermissions.\nBundle structure.\nFramework resolution.\nMetadata issues.\n\nThere were moments where it felt tedious.\n\nBut I kept returning to the reason.\n\nIf Continuum is about reducing friction for the user, then this work matters.\n\nInvisible infrastructure work matters.\n\nThe user may never know what it took.\n\nThat is fine.\n\nIn many ways, the best infrastructure is invisible.\n\n## Why this matters beyond Mac\n\nThis is not really only about macOS.\n\nIt is about a broader principle.\n\nThe best local-first software must compete with the simplicity of cloud-native products.\n\nPeople have become accustomed to low-friction experiences.\n\nClick a link.\nCreate an account.\nStart typing.\n\nThat convenience is part of why centralized platforms became dominant.\n\nBut convenience often came at the cost of sovereignty.\n\nYour drafts live in their cloud.\n\nYour identity lives behind their login flow.\n\nYour access depends on their servers.\n\nYour work exists at their discretion.\n\nContinuum is trying to reclaim ownership without sacrificing usability.\n\nThat means friction removal is not optional.\n\nIt is part of the mission.\n\n## Why I cared so much\n\nI care deeply about this because the philosophy of Continuum is not theoretical.\n\nIt is practical.\n\nOwnership should be lived.\n\nYour writing should remain yours.\n\nYour identity should remain yours.\n\nYour keys should remain yours.\n\nBut if sovereignty requires endless setup pain, most people will never choose it.\n\nThat is the reality.\n\nThis is why the signed and notarized Mac app matters.\n\nIt is not just a technical checkbox.\n\nIt is a statement that sovereignty can also be usable.\n\nAnd honestly, after the last few weeks of build work, getting this across the finish line feels like a major step forward.\n\nNot the end.\n\nBut a major step.",
+  "created_at": 1775777961,
+  "id": "7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9bd92f68c5223431bc8a986cd30b7f412b46db811d070596f1bdd9c3f831baef812d46d032f1959a531dc28b3670055fff1138d471ba9ee9ed9a5cfa61136ff3",
+  "tags": [
+    [
+      "d",
+      "why-i-certified-the-mac-app"
+    ],
+    [
+      "title",
+      "Why I Certified the Mac App"
+    ],
+    [
+      "published_at",
+      "1775777961"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "A reflection on why signing and notarizing the native Mac application was a critical milestone for Continuum. This piece explores friction, trust, user onboarding, and why local-first software must feel as smooth and trustworthy as cloud-native products."
+    ],
+    [
+      "display_date",
+      "2026-04-09"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "macapp"
+    ],
+    [
+      "t",
+      "notarization"
+    ],
+    [
+      "t",
+      "codesigning"
+    ],
+    [
+      "t",
+      "userexperience"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "softwareengineering"
+    ],
+    [
+      "e",
+      "cf960479967cd1ed2bcac229bb16f9574c86312680e12b7add414cf3532f4fff",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
