@@ -1,0 +1,35 @@
+{
+  "content": "Note 3 - 4/9/2026\n\n** Why the obsession with local-first? **\n\nBecause ownership matters.\n\nYour writing should not live only in someone else’s cloud.\n\nYour identity should not depend on a password reset flow.\n\nYour work should remain yours even when offline.\n\nLocal-first is not just a technical choice.\n\nIt is a statement about authority.\n\n#LocalFirst #DigitalSovereignty",
+  "created_at": 1775778291,
+  "id": "557e1359aed6f2b2157552f6d2da2ae813dfb1e300c37da6b960c150011e20c9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "83255a95697caa3628f850a39f0aed9a863d64ffa9a5c143d946246eed316833d0216a2588812ed8b8ac90bb9e67ff854656f3f9d77ee9594e93241029d97b12",
+  "tags": [
+    [
+      "d",
+      "note-1775778291"
+    ],
+    [
+      "published_at",
+      "1775778291"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Note - Saturday (early) April 11, 2026 --\n\n**AUTHOR**, **AUTHORITY**, and **AUTHORIZED** all come from **AUTHOR**.\n\nI just realized that **AUTHOR**, **AUTHORITY**, and **AUTHORIZED** are actually related in spirit, even though in modern English they have taken on distinct meanings.\n\nThat connection suddenly clarified something foundational in Continuum’s model:\n\nOnly an **AUTHORized NPUB** can **AUTHOR**.\n\nA public identity (**NPUB**) may be present locally in read-only form (**no NSEC**), but it cannot sign, or originate content unless it carries signing authority.\n\nTo authorize means, quite literally, to grant the right to perform a specific action.\n\nIn Continuum, that means the right to author specific content or perform specific actions on behalf of that identity.\n\nThis feels like more than wordplay.\n\nIt expresses the architecture itself:\n\n**authorship requires authority.**\n\n#Continuum #LocalFirst #Authorship #Authority #Nostr #DigitalSovereignty",
+  "created_at": 1775894542,
+  "id": "8b3a6e7d93a45dd351fa141f4296f2b68bf5bcb4833236f1119802f32e35bad0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4fbc2253ae2bb845ac51d50eee01b9748f75e2ac0e76120660f6c456165834031ecec23f7029c1ede19ddaa55dd417f2da2752c1ddcaca039e9767fcf5a830a7",
+  "tags": [
+    [
+      "d",
+      "note-1775894542"
+    ],
+    [
+      "published_at",
+      "1775894542"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "authority"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

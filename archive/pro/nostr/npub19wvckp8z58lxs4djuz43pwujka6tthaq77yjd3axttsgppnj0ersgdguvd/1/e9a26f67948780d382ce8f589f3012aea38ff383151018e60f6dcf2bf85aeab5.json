@@ -1,0 +1,47 @@
+{
+  "content": "To author is to create.\n\nTo authorize is to grant authorship rights.\n\nTo publish is to make the creation public.\n\n#Continuum #Authorship #Publishing #LocalFirst #DigitalSovereignty",
+  "created_at": 1775895267,
+  "id": "e9a26f67948780d382ce8f589f3012aea38ff383151018e60f6dcf2bf85aeab5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2e6eba3d4ded69ab53813aaa17fdd9531714618ae74237235735a2dab100eaf031d4ab867687d4fddd659f42c025a8083c988badd4b11bb055350af3f4442bc8",
+  "tags": [
+    [
+      "d",
+      "note-1775895267"
+    ],
+    [
+      "published_at",
+      "1775895267"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

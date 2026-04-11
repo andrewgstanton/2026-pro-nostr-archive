@@ -1,0 +1,43 @@
+{
+  "content": "4/10/2026 Noe 3\n\nGetting more than 1,000 sats for something I created felt really good.\n\nNot even about the amount as much as the signal.\n\nAfter all the hours in Continuum and writing the book, it felt good to know something I made connected enough for someone to support it directly.\n\n#Bitcoin #Sats #CreatorEconomy #Continuum",
+  "created_at": 1775884163,
+  "id": "c97ab0b9351af414c1ea61631fbb96c80b73745c06ad086c4189926471ff8781",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6d06b7b58cf4d70bea437ff0f87de435bdd60a15d731c9d9cb8effa42b714200a47eebb8179aea7fac87a3678e1a775974ccfee964bb07d8b6058ed98671c5bf",
+  "tags": [
+    [
+      "d",
+      "note-1775884163"
+    ],
+    [
+      "published_at",
+      "1775884163"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "creatoreconomy"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

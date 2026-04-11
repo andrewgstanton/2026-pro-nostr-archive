@@ -1,0 +1,39 @@
+{
+  "content": "Note 1 - 4/9/2026\n\n** v1.6.7 is now out. **\n\nNative Mac build.\nNative Windows build.\nDocker build.\n\nAll now running from a unified code base.\n\nThis has been a major milestone for Continuum.\n\nThe goal remains the same: make local-first authorship and identity easier to use across platforms.\n\nMore to come.\n\n#Continuum #LocalFirst #Release",
+  "created_at": 1775778183,
+  "id": "57586ea0443c9295d59acc9bbca9b1aa2f57740a59838cf9016291f03d928063",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a396abc9d4cc1f01b1aeabf33d2638e0276f1ac4d8a449c6ebd2a584a387655f3e3a4015d95cdc5263e19036331c64cdae3b5891256dffd55b35f9493163bf39",
+  "tags": [
+    [
+      "d",
+      "note-1775778183"
+    ],
+    [
+      "published_at",
+      "1775778183"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "release"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

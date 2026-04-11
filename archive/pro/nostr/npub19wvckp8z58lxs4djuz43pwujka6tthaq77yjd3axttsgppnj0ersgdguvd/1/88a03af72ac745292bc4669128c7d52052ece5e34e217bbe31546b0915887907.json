@@ -1,0 +1,43 @@
+{
+  "content": "4/10/2026 Note 2\n\nToday someone bought *Building Continuum: Local Authority in a Networked World* in sats.\n\nThat meant a lot to me.\n\nI was also introduced to the wormhole.app (secure encrypted file sharing app) in the process, which was a nice unexpected bonus.\n\nA good signal on a day that already felt meaningful.\n\n#Bitcoin #Sats #BuildingContinuum #BuilderJournal",
+  "created_at": 1775884072,
+  "id": "88a03af72ac745292bc4669128c7d52052ece5e34e217bbe31546b0915887907",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4dacc3ed37c89fde03f5d58aff8fae55384e74ba8d371a3b36b31c88b9991b611e94a02c3aad5c6e8be4e13230cc32e53e046f796a854f4eee8611d9ba9b42c4",
+  "tags": [
+    [
+      "d",
+      "note-1775884072"
+    ],
+    [
+      "published_at",
+      "1775884072"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "buildingcontinuum"
+    ],
+    [
+      "t",
+      "builderjournal"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

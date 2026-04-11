@@ -1,0 +1,43 @@
+{
+  "content": "4/10/2026 - Continuum now supports all 4 major ways I wanted people to run it:\n\n- local source (great for Linux / dev environments)\n- Docker\n- native Windows\n- native macOS\n\nThis feels like a real milestone because it removes a lot of install friction and makes the ideas in *Building Continuum* much more tangible.\n\n#Continuum #CrossPlatform #LocalFirst #BuildInPublic",
+  "created_at": 1775883971,
+  "id": "0b577fbfbbfa6732b31a85141a3256bb323d9e04d703b84f70b290740ab7060a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "74f66ebb744f01fb99af3e4d20b5755294c1c0db84889919a683f8210431152e3534db3ea89e182f446498567e664fec1403e13352d8d5c5ad2cbd7fbacfa7f4",
+  "tags": [
+    [
+      "d",
+      "note-1775883971"
+    ],
+    [
+      "published_at",
+      "1775883971"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "crossplatform"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Another note - 4/11/2026\n\n**PUBLIC** and **PUBLISH** are also closey related.\n\nThe act of **AUTHORING** is creation.\n\nThe act of **PUBLISHING** is to make that creation **PUBLIC**.\n\nThis is another distinction that many systems collapse into a single gesture.\n\nIn Continuum, the stages are explicit:\n\n- **author** → create\n- **authorize** → sign\n- **publish** → make public\n\nCreation, authority, and distribution are distinct acts.\n\nThat distinction is foundational.\n\n#Continuum #Authorship #Publishing #LocalFirst #DigitalSovereignty",
+  "created_at": 1775894808,
+  "id": "7297f3bac99b255af233978e86d6f926d02d67f747ad088f130e0c3ef78a8fca",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7b32f8f7cf9b61dbc0088124462969c44e3f2dcbb70935ba079217b0fc3cdf22cb4c4b79839db4167abf3aa89dac8ab02f1d8dfab696fbb50d8b000ae1cc154f",
+  "tags": [
+    [
+      "d",
+      "note-1775894808"
+    ],
+    [
+      "published_at",
+      "1775894808"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

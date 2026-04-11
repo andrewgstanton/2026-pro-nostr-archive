@@ -1,0 +1,28 @@
+{
+  "content": "Very well said!",
+  "created_at": 1775769076,
+  "id": "45a53b27d1d12d90bdfb0f5b497dd712a88e3646a3a2ad56fe31e37b92d3465f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6a35d8809b7c0d1bd728e6cbdc58a5d63b33066e8bcc7724aedc903838a843a172c4f49d63cf892fbc83914b8da6d5581af110a664e0cecf7ef0b450d6fefabc",
+  "tags": [
+    [
+      "a",
+      "30023:3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24:the-chameleon-method",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

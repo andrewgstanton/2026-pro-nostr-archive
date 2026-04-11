@@ -1,0 +1,35 @@
+{
+  "content": "Note 2 - 4/9/2026\n\n** Continuum is now easier than ever to get started with.  **\n\nFor many users, the biggest barrier was setup friction.\n\nThat is why the native Mac and Windows builds mattered so much.\n\nDownload.\nOpen.\nBegin writing.\n\nLocal-first should not mean difficult.\n\nIt should mean freedom without friction.\n\n#Continuum #Sovereignty",
+  "created_at": 1775778234,
+  "id": "f561ff1cd78e010ea434cc8e8a1f71d7d2605d40c8fbd52465f4e61511ce9c61",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "42cdc5409b4eb704d98a04414f3578d442ab592dca4cbba5bf51345fcf78f65bb8a017cfafc582983259b5c80ac5d8b5a6182cce76d54b5dbcbf62e44cfc423f",
+  "tags": [
+    [
+      "d",
+      "note-1775778234"
+    ],
+    [
+      "published_at",
+      "1775778234"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
