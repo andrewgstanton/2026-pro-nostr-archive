@@ -1,0 +1,27 @@
+{
+  "content": "Today was a day spent completing v1.6.7.3 and 1.6.7.4 (basically supporting all the features for editing an identity -- changing name, deleting, adding an nsec, changing the timezone\nThere is one more piece about editing relay list that can be handled on the Relay Status template I think\n\n# Here are the highlights from the release notes:\n\n**v1.6.7.4 - April 13, 2026**\n\n### Highlights\n- Add NSEC + validate to existing identities as part of edit flow.\n- timezone editing in idendity edit flow\n- on creating new identities select local timezone if available\n\n### Coming Next\n - Relay list editing for identities.\n\n**v1.6.7.3 - April 12, 2026**\n\n(note 1.6.7.3 was actually deployed Monday morning, though nearly all of it was done on Sunday)\n\n### Highlights\n- Adjusted UI language in dashboard slightly.\n- Fixed typos in last release docs.\n- Identiy edit flow supported -- you can now rename or delete an identity.",
+  "created_at": 1776138941,
+  "id": "6d0d0e6dd9bc02d748405aea6cbd2c4cc608c75898289c2145baa532e930cbce",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6ecbc202f3e413749ad296bd47add5f30fa4da8502977c7103e7a54130bc73b896e5b55cb64d2c33c2450a82a11c4db2a609a2e4840a81c04185d74bc5c84c20",
+  "tags": [
+    [
+      "d",
+      "builder-journal---monday-april-13-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Monday, April 13, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

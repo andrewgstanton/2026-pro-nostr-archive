@@ -1,0 +1,27 @@
+{
+  "content": "Whiskers peed early in the morning on the bed and I took him out around 6:00 AM\n(discovered after I got back from going outside to let him pee)\n\nI think the medication since Thursday (April 9) has been very strong and he has been peeing a lot more.\n\nI joined Hope for all fellowship at 11:40.  Short phone call around 7:00 w/ Gerry.\n\nWas feeling pretty anxious after the call but better later.\n\nMost of the day was spent washing the sheets and covers for the the bed \n\nHis pee soaked through to the mattress.  Put clorox on it to remove the stain\n\nand also used baking soda to remove most of the smell from the pee\n\nI finihsed version 1.6.7.3 in the evening but then discovered there was a bug in the mac deployment (and probably Windows as well) -- the app wouuld launch into the browser\n\n(in the morning it was because the dashboard template code had some null values for the idenetity fields",
+  "created_at": 1776138636,
+  "id": "1d201b413411f735f397efa9affd98f97cd6555f07f08e72e7567b713701ac6d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "94f53d6c5f320c3e540b6a69b70b1da18c1c87a0dd2415c27f6a30f8a9b2c1e3b7c6ee3f1880d23c69a3cc1c888dead030d467a694f6548e33e69cbc42808b67",
+  "tags": [
+    [
+      "d",
+      "builder-journal---sunday-april-12-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Sunday, April 12, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
