@@ -1,0 +1,28 @@
+{
+  "content": "First test sending a note from windows app continuum download (v1.6.7.4)",
+  "created_at": 1776128962,
+  "id": "e1a6581ff551e12bea3907e7b37b9116f298819a9edf25fd88ecb89293fdd6eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "add03a10feafcc91dff232ac20c01b931a98b623ad362670dd1630fc8c1b40b9d6006c1684aa32db20c2e3aea519979017b25c505c610ca04a4da29b52582c35",
+  "tags": [
+    [
+      "d",
+      "note-1776128962"
+    ],
+    [
+      "published_at",
+      "1776128962"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

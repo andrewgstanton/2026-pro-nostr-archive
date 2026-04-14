@@ -1,0 +1,28 @@
+{
+  "content": "This was a great article and I apply the very principles you bring out in my work with Continuum.\n\n",
+  "created_at": 1776062900,
+  "id": "8b856475d935d9bd403ebc8e962723a687e8517aa4b69927784652729bd3a1a1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b45ff1129b0ac1a29c4a59e52ade9cbbf8f20140a7f501f25131e5a135959d7a8b44e709d792075934b3a9f3681b734c261f47a7a459c53e2b78c42f1df707b6",
+  "tags": [
+    [
+      "a",
+      "30023:3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24:the-chameleon-method",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
