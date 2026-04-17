@@ -1,0 +1,29 @@
+{
+  "content": "Excellent !! Thanks for writing this!!\n\n",
+  "created_at": 1776442550,
+  "id": "3a8b14bb49da909f4efcbde7bd8800a9b9e16cf3371d69a2e8bdb86b2dbb7f64",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1289603bd80ebb7a3f3515b5baa9313e73f157e2ec1264ed8a19325aa9f12fd3402ece08d4d0728a591e702524b06c04da1dfad8fead4c74f5be65d4ab12bc80",
+  "tags": [
+    [
+      "a",
+      "30023:4d41a7cbc9b7f7e8484d15499aa9141c73f9a39c3765cc5d5631fa1e7d3633cc:the-systems-last-bullet-controlling-the-narrative",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4d41a7cbc9b7f7e8484d15499aa9141c73f9a39c3765cc5d5631fa1e7d3633cc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
