@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1776449102,
+  "tags": [
+    [
+      "d",
+      "builder-journal---tuesday-april-14-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Tuesday, April 14, 2026"
+    ],
+    [
+      "published_at",
+      "1776449102"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-04-14"
+    ],
+    [
+      "e",
+      "263dc1a41d02e6fe65cc0018273a85ab107f834f3d35de1578c3e59990037a57",
+      "edit"
+    ]
+  ],
+  "content": "Whiskers was having some issues with his penis staying erect this afternoon and I bought him to the SF Pet Hospital on Fillmore \n\nHis penis had stayed erect for about 3 or 4 hours\n\nBut when we got ther it had gone back into his shealth\n\nIt's a serious issue if not treated\n\nBut apparentlly it was just the cold or some other reason\n\nStill don't know exactly why.\n\nStarted working on exporting full workspace on Continuum and got that working (generates a zip)\n\nGerry had also shared my letter with 3 of his collegues and got some interesting feedback (not directly) which I responded to -- but it pulled me off course for most of the afternoon.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "7e4c474447025d8543828e292a80574928440934456d54b4e19bf320ace188db",
+  "sig": "b93fee8f99c9b78ac257978c29631d89dfcd2bc27179f9ca25d6074baaf0a618137a5464bbc9e7560cd62c2de697cfccf39ba9462c4e624bf6469705618f7ec4",
+  "published": 0
+}

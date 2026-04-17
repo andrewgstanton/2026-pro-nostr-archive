@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1776449076,
+  "tags": [
+    [
+      "d",
+      "builder-journal---thursday-april-16-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Thursday, April 16, 2026"
+    ],
+    [
+      "published_at",
+      "1776449076"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2025-04-16"
+    ],
+    [
+      "e",
+      "dfe68510d0f3a7027890adcca84175d6323404b84788e7c46eeb62c89591c6be",
+      "edit"
+    ]
+  ],
+  "content": "Highlights for today (April 16)\n\n- Finished up fixing the issue with the clear workspace route and got that ready \n\n- good talk w/ Jamie -- though I can see now where all the resistance is coming from\n(via Continuum) Jamie (and probably most of those involved with Hope For All have a few of\neschatalogy where there is no rapture or end times -- the \"historicst\" view of Revelation\n(which I'm sympathetic too also) and basically the \"babylonian\" system will be taken over by Christ\neventually, so basically nothing to worry about.\n\nI spent most of the afternoon after the talk (last almost 3 hours -- we started on zoom but ended up doing a voice call over facbook simplying the download flow even further and clafirying a couple of points on the home page and the downloads about \"who Continuum is for\"\n\nAlso improved the dmg artifact in the build process -- so now it shows a link to the Applications folder so someone can just drag the app into it -- hope that makes things a lot simpler.\n\nJamie is NOT interested in using Continuum for his workflow and I get that.\n\nBut it was interesting to get his feedback (and useful)\n\nAt night (around 9 or 10 PM) deployed v1.6.7.5 to google releases folder\n\nFelt pretty exhausted after today.  Kiyomi took the two dogs out today a few times in the afternoon (Baxter and Whiskers)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "0b5947fa6eafa6cb2d802fb6f582876138003e34125df001fe035111bf066a10",
+  "sig": "77d3729a3dedeb9f66355b547d8dd3a27af7235a39b04238b7ccc34aac29361d32b98be18bb141c26e1cffbfb4afc516627181c0ed2bb6ebc5dff15f09fd5356",
+  "published": 0
+}
