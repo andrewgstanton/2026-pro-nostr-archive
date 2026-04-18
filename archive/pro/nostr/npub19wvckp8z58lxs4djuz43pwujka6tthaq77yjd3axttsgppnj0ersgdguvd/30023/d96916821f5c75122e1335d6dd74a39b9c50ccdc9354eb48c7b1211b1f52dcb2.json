@@ -1,0 +1,80 @@
+{
+  "content": "Friday, April 17, 2026\n \n---\n\n## Introduction\n\nLast summer, I built something that quietly changed how I think about publishing.\n\nNot a new app.  \nNot a platform.  \nNot a SaaS dashboard.\n\nA pipeline.\n\nUsing Nostr as the content layer, GitHub Actions for automation, and GitHub Pages for hosting, I created a system where:\n\n- I write once  \n- publish as a Nostr event  \n- and a live site updates automatically  \n\nNo login.  \nNo CMS.  \nNo “publish” button on a website.\n\nJust content moving across open infrastructure.\n\nAs I wrote at the time:\n\n> “This post was published as a Nostr event — stored on dozens of relays, fetched with open-source scripts, rendered as static HTML, and served globally via GitHub Pages.”\n\nHere are the original articles (stored in my archive system):\n\nhttps://nostr.mycontinuum.xyz/e/?event_id=64022bc7694b63d9ccc2e6b335d285c974126a469bf79cd71f6a3c86848fc2aa\n\nand\n\nhttps://nostr.mycontinuum.xyz/e/?event_id=65e4991ab079fe3edce13389714d95ae971618b4fe2a4ac668a23f9e210b3808\n\n---\n\n## What I Built (Last Summer)\n\nThe core idea was simple:\n\n\n**Write → Publish to Nostr → Fetch → Render → Host**\n\n\nMore concretely:\n\n1. I write an article using a Nostr client (Primal, etc.)\n2. It’s published as a `kind:30023` event\n3. A script fetches my public events from multiple relays\n4. Filters by tags (`blog`, `article`)\n5. Converts Markdown → HTML\n6. Outputs static files\n7. GitHub Pages hosts the result\n\nAnd then I added automation:\n\n> “Just post on Nostr — the rest happens automatically.”\n\nThat was the real breakthrough.\n\n---\n\n## What Made It Different\n\nThere were a few key properties that mattered:\n\n- **No database I control (or lose)**\n- **No login system**\n- **No dependency on a platform**\n- **Content is signed and public**\n- **Hosting is static and free**\n\nAnd most importantly:\n\n> The publishing pipeline is **separate from the writing experience**\n\n---\n\n## Bringing This Into Continuum\n\nNow I’m taking that exact idea and applying it to Continuum.\n\nNot by rebuilding it.\n\nBy reusing it.\n\n---\n\n## The New Direction: Continuum Stories\n\nInstead of:\n\n> blog.stantonweb.com\n\nI’m creating:\n\n> **stories.mycontinuum.xyz**\n\nBut the model is the same.\n\n---\n\n## The Only Input That Matters: Tags\n\nHere’s the key shift:\n\n**Write in Continuum → Publish → Tag correctly → Done**\n\nThat’s it.\n\nNo:\n\n- export step  \n- repo commit  \n- manual push  \n- CMS dashboard  \n\n---\n\n## How It Works\n\n1. I write an article in Continuum  \n2. Publish it to my public npub  \n3. Add a tag like:\n\n\n**continuum-stories**\n\n4. The site tooling:\n\n- fetches my public events  \n- filters by those tags  \n- renders them into a static site  \n\n---\n\n## Same Pipeline, New Surface\n\nThis is the exact same architecture I described last summer:\n\n- Nostr = content layer  \n- GitHub Actions = automation  \n- GitHub Pages = hosting  \n\nBut now:\n\n> **Continuum is the authoring layer**\n\n---\n\n## Why This Matters\n\nThis is not about blogging.\n\nIt’s about control.\n\nMost publishing today looks like this:\n\n\n**Write → Save → Publish → Platform owns distribution**\n\nThis flips it:\n\n**Write locally → Publish to open network → Render anywhere**\n\n---\n\n## No “Export,” No “Push,” No “Sync”\n\nThis is the part that matters most to me:\n\n> The system reacts to the content — not the other way around.\n\nI don’t “deploy” anything.\n\nI don’t “upload” anything.\n\nI don’t “log in” anywhere.\n\nI just:\n\n> **publish an event with the right tags**\n\nAnd everything else happens automatically.\n\n---\n\n## The Tag Is the Interface\n\nThis is the simplest way to describe it:\n\n> **Tags control what becomes a site**\n\nNot a CMS.  \nNot a dashboard.  \nNot a config file.\n\nJust:\n\n**[\"t\", \"continuum-stories\"]**\n\n---\n\n## Why I’m Doing This\n\nOver the past few days, I tested whether Continuum could fit into other workflows.\n\nSome worked.  \nSome didn’t.\n\nThat’s fine.\n\nBut this one?\n\nThis one is real.\n\nBecause:\n\n- I already built it once  \n- I already use it  \n- I already understand it  \n\n---\n\n## What This Proves\n\nContinuum is not just:\n\n- a writing tool  \n- a dashboard  \n- a local app  \n\nIt can be:\n\n> **the front-end to a fully automated, decentralized publishing pipeline**\n\n---\n\n## What Comes Next\n\n- build `stories.mycontinuum.xyz`\n- define tag structure cleanly\n- connect it to my npub\n- start publishing Continuum-based workflows\n\nEach article becomes:\n\n- a story  \n- a demo  \n- a real use case  \n\n---\n\n## Final Thought\n\nLast summer, I proved this could work.\n\nNow I’m integrating it directly into how I build and publish with Continuum.\n\nNo new system.\n\nNo new platform.\n\nJust:\n\n> **the same idea — applied more intentionally**\n\nOne article at a time.",
+  "created_at": 1776470251,
+  "id": "d96916821f5c75122e1335d6dd74a39b9c50ccdc9354eb48c7b1211b1f52dcb2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "95e5d52e79fbee033a345ef2c4f4144fb9202670afc84e61e6231618dda45b6bdc425a06b389506fcaf41615fb1813fc2d3f542d8ce8e358a3417fbf950ad3e6",
+  "tags": [
+    [
+      "d",
+      "from-blogstantonweb-to-continuum-stories---reusing-a-decentralized-publishing-pipeline"
+    ],
+    [
+      "title",
+      "From Blog.StantonWeb to Continuum Stories  - Reusing a Decentralized Publishing Pipeline"
+    ],
+    [
+      "published_at",
+      "1776470251"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Last summer, I built a decentralized blog using Nostr, GitHub Actions, and GitHub Pages. I’m now taking that same idea and applying it directly to Continuum — turning tagged articles into a live, automatically updating site with zero manual publishing steps."
+    ],
+    [
+      "display_date",
+      "2026-04-17"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "github-actions"
+    ],
+    [
+      "t",
+      "local-first publishing workflow"
+    ],
+    [
+      "t",
+      "decentralized-cms"
+    ],
+    [
+      "t",
+      "continuum-stories"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "e",
+      "fe1ac7b7beb7a1ae88a86237c098b1dd0ffa5c9e743a08a6064406cd658ea19d",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

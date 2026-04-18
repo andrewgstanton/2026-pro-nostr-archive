@@ -1,0 +1,84 @@
+{
+  "content": "Friday, April 17, 2026\n\n---\n\n## Introduction\n\nIn Part 1, I described the idea:\n\n> Write locally → publish to Nostr → automatically render to a public site\n\nThat part is clean.\n\nWhat isn’t clean is getting the pipeline working again in a new repository.\n\nThis article is about that reality.\n\n---\n\n## The Goal\n\nRecreate the exact same system I built for:\n\n> blog.stantonweb.com\n\nBut now for:\n\n> stories.mycontinuum.xyz\n\nSame model:\n\n- Nostr as the content layer  \n- GitHub Actions as the automation  \n- GitHub Pages as the host  \n\nNo redesign. Just reuse.\n\n---\n\n## What Should Have Been Simple\n\nAt a high level, the steps were straightforward:\n\n1. Create a new GitHub repo  \n2. Copy over the workflow (`fetch_articles.yml`)  \n3. Set the correct repo target  \n4. Add secrets (`GH_PAT`, `PUBKEY`)  \n5. Push and let it run  \n\nIn theory, that’s it.\n\nIn practice, that’s not it.\n\n---\n\n## The First Problem: Workflow Permissions\n\nWhen I tried to push the workflow file, GitHub rejected it:\n\n**refusing to allow a Personal Access Token to create or update workflow .github/workflows/... without workflow scope**\n\n\nThis is one of those rules you only remember after you hit it again.\n\n### The fix\n\n- Create a new Personal Access Token (PAT)\n- Make sure it has:\n  - **Contents: Read and write**\n  - **Workflows: Read and write**\n\nAnd importantly:\n\n> Scope it to the correct repository\n\n---\n\n## The Second Problem: Wrong Repo Target\n\nThe workflow I copied was still pointing to the old repo:\n\n**github.com/andrewgstanton/blog-stantonweb-site.git**\n\n\nSo even with the correct token, it would have pushed to the wrong place.\n\n### The fix\n\nUpdate the remote inside the workflow:\n\n\n**git remote set-url origin https://is.gd/wKrNTQ\n\n\nSmall change. Critical.\n\n---\n\n## The Third Problem: SSH vs HTTPS\n\nEven though I normally use SSH locally, the push was going to:\n\n\n**https://is.gd/NkqXpr\n\n\nWhich means:\n\n> GitHub was using a PAT, not my SSH key\n\nThat’s why the `workflow` permission error appeared during a normal `git push`.\n\n### The fix\n\nSwitch the remote back to SSH:\n\n**git remote set-url origin git@github.com\n:andrewgstanton/stories-mycontinuum-xyz.git**\n\n\nThen push again.\n\n---\n\n## The Fourth Problem: Secrets\n\nTwo secrets are required:\n\n### 1. GH_PAT\n\nThis is the Personal Access Token used inside the workflow to push changes.\n\nImportant detail:\n\n> The same secret name can exist in multiple repos — with different values\n\nSo:\n\n- `blog-stantonweb-site` → old token  \n- `stories-mycontinuum-xyz` → new token  \n\n---\n\n### 2. PUBKEY\n\nThis is the Nostr public key used to fetch articles.\n\nIn my case:\n\n**npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd**\n\n\nThe script handles conversion internally:\n\n- accepts `npub`\n- converts to hex if needed\n\nSo no extra work required.\n\n---\n\n## The Fifth Problem: No Changes\n\nOnce everything was wired up, the workflow ran…\n\n…and did nothing.\n\nWhich is exactly what it should do.\n\nBecause:\n\n> The articles had already been generated locally earlier\n\nSo:\n\n- no diff  \n- no commit  \n- no push  \n\nThis is actually a good sign.\n\n---\n\n## Verifying the Pipeline\n\nThe correct way to test is simple:\n\n1. Publish a new tagged article  \n2. Wait for the workflow (or run manually)  \n3. Watch for:\n   - new files generated  \n   - commit created  \n   - site updated  \n\nIf that works:\n\n> The pipeline is live\n\n---\n\n## What Didn’t Matter\n\nInterestingly, one thing I didn’t need to worry about yet:\n\n> the domain (`stories.mycontinuum.xyz`)\n\nThe pipeline works independently of DNS.\n\nGitHub Actions:\n\n- fetches  \n- builds  \n- commits  \n\nWhether the domain is configured or not is irrelevant at this stage.\n\n---\n\n## What This Reinforced\n\nThis system is simple in concept:\n\n**publish → tag → automation → site**\n\n\nBut it depends on a few fragile pieces:\n\n- token permissions  \n- correct repo targeting  \n- environment variables  \n- workflow configuration  \n\nOnce those are correct:\n\n> it becomes completely automatic again\n\n---\n\n## Why This Matters\n\nMost publishing systems hide this complexity behind:\n\n- dashboards  \n- logins  \n- platforms  \n\nBut the tradeoff is:\n\n> you don’t control the system\n\nThis approach flips that:\n\n- you control the pipeline  \n- you control the data  \n- you control the output\n\n(but it still isn't trivial)\n\n---\n\n## Final Thought\n\nPart 1 was about the idea.\n\nPart 2 is about the reality.\n\nGetting this working again wasn’t hard — but it wasn’t trivial either.\n\nAnd that’s the point.\n\nOnce it’s set up:\n\n> it disappears\n\nYou go back to:\n\n> writing → publishing → tagging\n\nAnd everything else happens on its own.\n\nOne article at a time.\n\n---",
+  "created_at": 1776485929,
+  "id": "f803d4f3de07e6e68f9773af47bf1c9988c82dfa1e5ded3406cd73f74085dfb2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bdb9a4d237407ec978659033e72e6e6b1bd1dd26c773d7a0a0b62ab2196db37fd8c1661e0ca263c96bcc1831dced3397f589364e27f2fd67f47607a057253ad5",
+  "tags": [
+    [
+      "d",
+      "from-blogstantonweb-to-continuum-stories--getting-the-pipeline-working-in-a-new-repo---part-2"
+    ],
+    [
+      "title",
+      "From Blog.StantonWeb to Continuum Stories — Getting the Pipeline Working in a New Repo - Part 2"
+    ],
+    [
+      "published_at",
+      "1776485929"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "In Part 1, I described the architecture behind a decentralized publishing pipeline using Nostr, GitHub Actions, and GitHub Pages. In this follow-up, I walk through what it actually took to get that same pipeline working again in a new repository — including authentication issues, workflow permissions, and the small but critical details that make it all run automatically."
+    ],
+    [
+      "display_date",
+      "2026-04-17"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "github-actions"
+    ],
+    [
+      "t",
+      "workflow automation"
+    ],
+    [
+      "t",
+      "local-first publishing"
+    ],
+    [
+      "t",
+      "decentralized-cms"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "t",
+      "continuum-stories"
+    ],
+    [
+      "e",
+      "d5613e60e04a04aeff7eb24ae1f3391af8f8ebadd57e4c0b89553f783f80770c",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
