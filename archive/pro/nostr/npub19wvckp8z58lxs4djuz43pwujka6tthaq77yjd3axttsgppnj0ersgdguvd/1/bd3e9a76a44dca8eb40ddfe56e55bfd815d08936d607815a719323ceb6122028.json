@@ -1,0 +1,47 @@
+{
+  "content": "Note 3 — Not Writing for Platforms (4/18/2026)\n\nOne thing I’m becoming more convinced of:\n\nYou can’t let other people — or platforms — dictate what you produce.\n\nIf you’re watching engagement, waiting for feedback, or shaping your work around what “performs”… you’ve already given up control.\n\nThat’s not authorship. That’s reaction.\n\nPublishing should not depend on:\n\nan algorithm\na feed\nvalidation from others\n\nIt should come from clarity.\n\nWrite it. Sign it. Publish it.\n\nWhether it gets engagement or not is secondary.\n\nThat’s part of why I built Continuum in the first place.\n\nNot to chase attention — but to remove dependence on it.\n\n#writing #sovereignty #nostr #continuum #independentcreator",
+  "created_at": 1776548526,
+  "id": "bd3e9a76a44dca8eb40ddfe56e55bfd815d08936d607815a719323ceb6122028",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "abf0277c4e36eef061272b65ffba4a2d5c87b0e77ee6f7d7c65384372fbe1f5f1ab1e7ea429632e37c1d381d6b805c4d91645e911e583fc2f3d3dda6693c28e5",
+  "tags": [
+    [
+      "d",
+      "note-1776548526"
+    ],
+    [
+      "published_at",
+      "1776548526"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "independentcreator"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Note 2 — Focused Versions of Continuum (4/18/2026)\n\nI’ve been thinking about something interesting:\n\nWhat if Continuum wasn’t one thing… but a set of focused tools?\n\nInstead of a full system, imagine:\n\na version just for DMs\na version just for short notes\na version just for long-form writing\na version just for identity + signing\n\nEach one simple. Clear. Purpose-built.\n\nMost software tries to do everything.\n\nContinuum might actually get stronger by doing less — but doing it extremely well in specific contexts.\n\nNot sure where this goes yet, but it feels like the right direction to explore.\n\n#continuum #productthinking #minimalism #nostr #softwaredesign",
+  "created_at": 1776548093,
+  "id": "6a4a8fa206a63052c8caa06bc3b5d3376b7169395478e9863f06b0b59502af64",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f59026a970975402235c6d6e77ed66d9b16a6b5c9ff72240258cd45bffe70d78b46a5978f424113e9592d429f8a0d0b4f1834862ebbacbda368b182e8fbb589d",
+  "tags": [
+    [
+      "d",
+      "note-1776548093"
+    ],
+    [
+      "published_at",
+      "1776548093"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "productthinking"
+    ],
+    [
+      "t",
+      "minimalism"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "softwaredesign"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

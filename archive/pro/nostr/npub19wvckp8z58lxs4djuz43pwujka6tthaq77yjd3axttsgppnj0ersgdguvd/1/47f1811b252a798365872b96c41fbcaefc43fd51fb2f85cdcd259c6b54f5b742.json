@@ -1,0 +1,47 @@
+{
+  "content": "Note 1 — This Week’s Releases (4/18/2026)\n\nA solid week of progress on Continuum.\n\nv1.6.7.4 and v1.6.7.5 weren’t flashy, but they mattered.\n\nIdentity editing is now real:\n\nadd an nsec to an existing identity\nvalidate key pairs\nedit timezone\nauto-detect local timezone on creation\n\nThat alone removes a lot of friction.\n\nBut the bigger shift is workspace control:\n\nexport workspace (full backup zip)\nimport workspace (continuum-backup.zip)\nclear workspace (reset everything cleanly)\n\nYou can now move your entire environment between machines and actually trust that it will come back intact.\n\nAlso tightened up the Mac install flow:\n\nproper DMG with Applications shortcut\nsimpler downloads page (less confusion, fewer steps)\n\nNothing here is hype.\n\nJust making the system more complete and more usable.\n\nNext up: relay list editing per identity.\n\n#continuum #buildinpublic #nostr #sovereignty #localfirst",
+  "created_at": 1776547975,
+  "id": "47f1811b252a798365872b96c41fbcaefc43fd51fb2f85cdcd259c6b54f5b742",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "353ae3fd6e6ce1e611554e5277e6a559ea7f8e98ac5f2869bd9b39bfa0729138f99b170cc3eb8ae8d7964bf1935e97977a955f45801fac49988abcf4ff4b5417",
+  "tags": [
+    [
+      "d",
+      "note-1776547975"
+    ],
+    [
+      "published_at",
+      "1776547975"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
