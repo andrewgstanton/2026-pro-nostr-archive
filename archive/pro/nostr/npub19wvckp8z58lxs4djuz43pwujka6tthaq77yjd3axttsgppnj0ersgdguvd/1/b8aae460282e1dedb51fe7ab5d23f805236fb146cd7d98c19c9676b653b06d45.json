@@ -1,0 +1,40 @@
+{
+  "content": "Lots of Small Refinements Today (4/18/2026)\n\nNothing dramatic today.\n\nJust a series of small refinements across the product site.  \n\nTightened wording.\nAdjusted layout.\nRemoved a few points of confusion.\n\nIndividually, none of it feels significant.\n\nBut taken together, it changes how the whole thing reads.\n\nContinuum is becoming clearer — not because of one big idea, but because of many small corrections.\n\nLess friction.\nLess explanation needed.\nMore obvious what it is (and what it isn’t).\n\nThis kind of work is easy to dismiss.\n\nBut it’s also the work that makes everything else possible.\n\n#Continuum #BuildingInPublic #LocalFirst #SelfCustody #IndieDev #ProductDevelopment",
+  "created_at": 1776580872,
+  "id": "b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6133cbbca9150214873328ea1d217eb9576f427f03abd3fd2279de1e32c4758281908d1ad6597de96a7c55892dd80d97dc9768a696175d0cb4c07658ad0e0ad6",
+  "tags": [
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "BuildingInPublic"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "SelfCustody"
+    ],
+    [
+      "t",
+      "IndieDev"
+    ],
+    [
+      "t",
+      "ProductDevelopment"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

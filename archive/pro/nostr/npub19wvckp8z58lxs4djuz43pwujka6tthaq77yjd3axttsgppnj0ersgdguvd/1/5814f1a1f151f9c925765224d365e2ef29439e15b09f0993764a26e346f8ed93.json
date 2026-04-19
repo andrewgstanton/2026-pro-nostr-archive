@@ -1,0 +1,55 @@
+{
+  "content": "**Self-Custody Is Not Selfish**\n\nThere’s a quiet assumption that keeps coming up whenever I talk about self-custody, sovereignty, or owning your identity and your work.\n\nOr at least, I get the impression people are thinking something along these lines—even if they don’t say it directly.\n\nIt sounds something like this:\n\n> “Isn’t that… a bit selfish?”\n\nAs if choosing to hold your own keys, manage your own identity, and take responsibility for your digital life is somehow a withdrawal from others.\n\nBut it’s actually the opposite.\n\nSelf-custody is not about isolation.\nIt’s about responsibility.\n\nWhen you rely entirely on platforms to hold your identity, your work, and your relationships, you’re not becoming more connected—you’re becoming more dependent. And that dependency doesn’t just affect you. It affects everyone you interact with.\n\nIf your account disappears, your writing disappears.\nIf your access is revoked, your voice is gone.\nIf the platform changes, your relationships are reshaped without your consent.\n\nThat instability ripples outward.\n\nSelf-custody, on the other hand, creates something much more durable.\n\nWhen you own your identity:\n\n* your words persist\n* your relationships are portable\n* your presence is not subject to permission\n\nThat doesn’t isolate you—it makes you a more reliable participant in a shared network.\n\nSovereignty is not about cutting yourself off.\nIt’s about showing up with something real that cannot be taken away.\n\nIt means:\n\n* you can give without fear of losing everything\n* you can build without asking permission\n* you can connect without being mediated or reshaped\n\nThat’s not selfish. That’s foundational.\n\nIn fact, dependence on centralized systems often creates the opposite of generosity:\n\n* fear of loss\n* pressure to conform\n* incentives to perform instead of create\n\nSelf-custody removes those pressures.\n\nIt restores a kind of quiet confidence:\n\n> What I have is mine to steward—and therefore mine to share.\n\nThat’s the key distinction.\n\nSelfishness hoards.\nSovereignty **stewards**.\n\nOne is rooted in fear.\nThe other is rooted in responsibility.\n\nAnd in a world where so much is fragile, rented, and reversible…\n\nThere is something deeply *relational* about being someone who actually owns what they bring to the table.\n\n\n#selfcustody #sovereignty #continuum #nostr #ownership #digitalidentity #localfirst",
+  "created_at": 1776562472,
+  "id": "5814f1a1f151f9c925765224d365e2ef29439e15b09f0993764a26e346f8ed93",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ceaefed1ff9da5ce92d23917740b1a965a419c02fd2a1a828c5d1485cadd820a8a85c9f52d5f57899965a6afd61cee71b4d70cb236040a0313792d598598ecf1",
+  "tags": [
+    [
+      "d",
+      "note-1776562472"
+    ],
+    [
+      "published_at",
+      "1776562472"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "digitalidentity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
