@@ -1,0 +1,31 @@
+{
+  "content": "Mostly a series of small tweaks to the downloads page after some feedback from Mema\n\nWrote 3 articles and notes\n\nStill feeling crummy like where is Continuum going anyway.\n\nExplored some ideas of making an IOS app for Continuum\n\nI took Baxter first thing in the morning -- we went to La Boulangerie (about 8:00 AM)",
+  "created_at": 1776646198,
+  "id": "c7e980a6b0698b186ca395445ebad362a1284f4e233d205544535d561206e0d7",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a71f6de0fe7421281a8c5c5a4727c20ddcf211727dd256bde374492ff6a0b0a6642ce04ad5f1b46a3342bea43aabdfc9136848d3d8256476d2c9e693b3adbe29",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-april-18-2026"
+    ],
+    [
+      "title",
+      "Builders Journal - Saturday, April 18, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-04-18"
+    ]
+  ],
+  "published": 0
+}

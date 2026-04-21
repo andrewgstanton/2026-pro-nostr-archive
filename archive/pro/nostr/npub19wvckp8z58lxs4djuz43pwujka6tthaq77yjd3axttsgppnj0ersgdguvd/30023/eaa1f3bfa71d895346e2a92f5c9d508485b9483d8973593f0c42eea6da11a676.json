@@ -1,0 +1,72 @@
+{
+  "content": "Andrew G. Stanton - Monday, April 20, 2026\n\n---\n\nI’ve started setting up direct book purchases on mycontinuum.xyz.\n\nThe prices are the same as Amazon. That’s intentional.\n\nThis isn’t about undercutting a platform or trying to optimize for margin. It’s not about competing on price, gaming distribution channels, or attempting to “pull people away” from where they are already comfortable.\n\nIt’s about something much simpler.\n\nDirect relationships.\n\nWhen someone buys a book through Amazon, the process is seamless. It is optimized for speed and efficiency. The system works exactly as expected: search, click, purchase, deliver.\n\nThere is almost no friction.\n\nBut there is also almost no relationship.\n\nThe transaction is clean, but abstracted. The author does not know who the reader is. The reader does not interact with the author. The entire exchange is mediated through a system designed to remove all unnecessary interaction.\n\nFrom a scaling perspective, that makes sense.\n\nFrom a human perspective, something is missing.\n\nThat missing piece is not immediately obvious because the system works so well. It fulfills its purpose. It delivers the product. It completes the transaction.\n\nBut it reduces the interaction to a purely economic event.\n\nWith direct purchase, the shape of the interaction changes.\n\nSomeone reads the work.  \nThey decide it has value.  \nThey take a step that is not just a click, but a form of reaching out.  \nA response comes back.  \nThe book is delivered.\n\nThere is a thread that connects those steps.\n\nIt is not hidden behind a platform.  \nIt is not abstracted into a report.  \nIt is visible.\n\nThat visibility changes the nature of the exchange.\n\nIt is no longer just:\n\nproduct → payment → fulfillment\n\nIt becomes:\n\nwork → recognition → response → delivery\n\nThat may seem like a subtle shift, but it has real consequences.\n\nFor the reader, it introduces intentionality. They are not just clicking “Buy Now.” They are making a decision that involves a small amount of effort and attention.\n\nFor the author, it creates awareness. This is not a number in a dashboard. It is a person who chose to engage directly.\n\nThat does not scale in the same way.\n\nAnd that’s the point.\n\nNot everything needs to scale.\n\nThere is a difference between what is efficient and what is meaningful.\n\nModern systems are optimized for efficiency. They remove friction, compress time, and abstract relationships into processes that can be repeated at scale.\n\nThat has enormous advantages.\n\nBut it also changes how we experience interaction.\n\nWhen everything is mediated, the direct connection disappears.\n\nContinuum is built on a similar idea.\n\nOwn your identity, and writing \nOwn the act of publishing.\n\nNot because intermediaries are inherently bad, but because they reshape the relationship between creator and audience.\n\nWhen your identity is controlled by a platform, you are operating within its boundaries.  \nWhen your writing lives inside a platform, it exists under its rules.  \nWhen your publishing depends on a system you don’t control, your voice is subject to conditions you didn’t define.\n\nThat doesn’t make those systems evil.\n\nIt makes them central.\n\nAnd anything that is central becomes a dependency.\n\nDirect interaction reduces that dependency.\n\nIt doesn’t eliminate platforms entirely. You can still use them. You can still distribute through them. But they are no longer the only path.\n\nThey become one option among many.\n\nThat’s an important distinction.\n\nThe direct purchase flow is a small expression of that idea.\n\nIt says:\n\nYou can buy this book through Amazon.  \nOr you can buy it directly.\n\nBoth paths exist.\n\nNeither is forced.\n\nThat mirrors the broader philosophy behind Continuum.\n\nYou can publish through platforms.  \nOr you can publish directly.\n\nYou can rely on centralized identity systems.  \nOr you can manage your own.\n\nYou can accept the default model.  \nOr you can step outside it.\n\nThe direct path introduces a small amount of friction.\n\nYou have to fill out a form.  \nYou have to wait for a response.  \nYou have to complete the transaction manually.\n\nIn most systems, that friction would be considered a flaw.\n\nHere, it serves a purpose.\n\nIt slows the interaction down just enough to make it real.\n\nIt creates space for awareness.\n\nIt turns a transaction into an exchange.\n\nThere is also a trust component.\n\nWith a platform, trust is outsourced. You trust the system to handle the transaction, deliver the product, and manage the process.\n\nWith direct interaction, trust is between people.\n\nThe reader trusts that the author will deliver.  \nThe author trusts that the reader will follow through.\n\nThat trust is not guaranteed. It has to be earned. It has to be maintained.\n\nBut when it exists, it is stronger than trust in a system, because it is not abstract.\n\nIt is specific, personal and accountable.\n\nThe direct purchase flow is not meant to replace existing platforms.\n\nIt is meant to exist alongside them.\n\nTo provide an alternative path.\n\nTo demonstrate that not every interaction needs to be mediated.\n\nAnd to reinforce the idea that ownership and connection are linked.\n\nIf you own your work, you should be able to distribute it directly.\n\nIf someone values that work, they should be able to support it without going through a system that absorbs the relationship.\n\nThis is a small step in that direction.\n\nIt is not a complete solution.\n\nIt is not optimized.\n\nIt does not scale effortlessly.\n\nBut it is aligned.\n\nAnd for now, that matters more.",
+  "created_at": 1776744170,
+  "id": "eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8db08b3b85b7efa4ca17f3c61709ddc340b4c5fa71c065b4767277087d98cfcfc0b0081db11fc52d7dc819534cb32dab7a29a6da3c3f23da7ea32e13e49a4dc9",
+  "tags": [
+    [
+      "d",
+      "direct-not-intermediated"
+    ],
+    [
+      "title",
+      "Direct, Not Intermediated"
+    ],
+    [
+      "published_at",
+      "1776744170"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Summary: Setting up direct book purchases is not about replacing platforms like Amazon, but about restoring direct relationships between author and reader. Platforms optimize for efficiency but abstract the interaction. Direct purchase introduces a small amount of friction, but creates a more intentional and transparent exchange. It reflects a broader principle behind Continuum: ownership and connection should not be fully intermediated."
+    ],
+    [
+      "display_date",
+      "2026-04-20"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "directownership"
+    ],
+    [
+      "t",
+      "creatoreconomy"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "e",
+      "14395afeeb3e2f55dee23ca5ac19d4e3c4aecbbc7e67d34db6d7ecbeab6cbb31",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

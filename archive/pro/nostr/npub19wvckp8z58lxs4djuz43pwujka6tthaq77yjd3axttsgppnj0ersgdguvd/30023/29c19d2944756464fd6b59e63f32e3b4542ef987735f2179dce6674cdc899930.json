@@ -1,0 +1,72 @@
+{
+  "content": "Andrew G. Stanton - Monday, April 20, 2026\n\n---\n\nI’ve been thinking about adding an Open Source section to the Continuum site.\n\nNot everything is open yet. That’s intentional.\n\nBut the direction is clear.\n\nEventually, it will be.\n\nOpen source is often framed as a development model — a way to collaborate, share code, and build software together. It’s associated with contributions, pull requests, and distributed teams working across repositories.\n\nThat’s all true.\n\nBut it misses something more fundamental.\n\nAt its core, open source is about visibility.\n\nIt is about the ability to see how something works.\n\nTo inspect it, run it and verify it. \n\nNot in theory, but in practice.\n\nThat distinction matters more now than it did in the past.\n\nMost of the software people rely on today does not operate in a visible way.\n\nIt runs on infrastructure they do not control.  \nIt executes logic they cannot inspect.  \nIt stores data in systems they cannot access directly.\n\nWhat they interact with is an interface.\n\nClean, responsive, and often well-designed.\n\nBut the underlying system is hidden.\n\nThat creates a subtle but important shift in the relationship between the user and the system.\n\nYou are no longer interacting with something you can understand.\n\nYou are interacting with something you are expected to trust.\n\nThat trust may be justified. Many systems are well-built and responsibly maintained.\n\nBut it is still trust in something opaque.\n\nYou do not know what happens behind the interface.  \nYou cannot verify its behavior independently.  \nYou cannot reproduce its operation in your own environment.\n\nYou are dependent.\n\nOpen source changes that dynamic.\n\nIt does not eliminate trust entirely, but it transforms it.\n\nInstead of trusting blindly, you can:\n\nread the code  \nrun the system locally  \nobserve its behavior directly  \nverify that it does what it claims  \n\nMost people will not do all of those things.\n\nBut the fact that they *can* changes the nature of the system.\n\nIt creates a different kind of accountability.\n\nNot enforced by policy or branding, but by transparency.\n\nContinuum is built around similar principles.\n\nLocal-first.  \nUser-controlled.  \nTransparent.\n\nThe idea is not just that you can use the system, but that you can understand it.\n\nThat your data is not hidden behind an API.  \nThat your identity is not managed by a remote service.  \nThat your publishing process is not an opaque sequence of events happening somewhere else.\n\nEverything is local.\n\nEverything is inspectable.\n\nEverything is, at least in principle, understandable.\n\nOpen source fits naturally into that model.\n\nBut it also has to be approached carefully.\n\nReleasing something too early can create confusion.\n\nThe system may not yet be coherent.  \nThe structure may not be obvious.  \nThe documentation may not be sufficient.\n\nPeople try to use it, encounter friction, and leave with the impression that it doesn’t work.\n\nThat is not a failure of openness.\n\nIt is a failure of timing.\n\nOn the other hand, delaying too long creates a different problem.\n\nThe system becomes something that is used, but not understood.\n\nPeople interact with it, but they cannot see how it works.\n\nIt becomes, in effect, another opaque system — even if the intention was always to open it.\n\nSo there is a balance.\n\nThe goal is not to maximize openness as quickly as possible.\n\nThe goal is to reach a point where openness is meaningful.\n\nWhere the structure is clear enough to be followed.  \nWhere the behavior is stable enough to be trusted.  \nWhere the documentation is sufficient to guide someone through it.\n\nThen open it.\n\nNot as a marketing move, or a signal.\n\nBut as a natural extension of what the system already is.\n\nThe Open Source section, when it is added, will reflect that.\n\nIt will not simply be a list of repositories.\n\nIt will explain:\n\nwhat is open  \nwhat is not (yet)  \nwhy that distinction exists  \n\nBecause openness without clarity can be just as confusing as opacity.\n\nThe point is not just to expose the code, it is to make the system **understandable**\n\nTo make it possible for someone else to run it, inspect it, and verify it.\n\nThat is where trust comes from.\n\nNot from branding, claims or reputation alone. \n\nBut from the ability to see and understand.\n\nThat is increasingly rare.\n\nAnd that is why open source still matters.\n\nNot because it is trendy or attracts contributors, but because it preserves something essential.\n\nThe ability to know what the system is actually doing.\n\nAnd in a world where most systems are moving in the opposite direction, that is not a small thing.\n\nIt is foundational.",
+  "created_at": 1776744618,
+  "id": "29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1d079ce6749cbeb69994609215cf3a3af6dea0fc0a2a14505dfdc7cdfaf7c31a604ed05d851e6f722ee5fb9a7a6a31fea305f4f7e539f1d05a7d1884b6bc0ea6",
+  "tags": [
+    [
+      "d",
+      "why-open-source-still-matters"
+    ],
+    [
+      "title",
+      "Why Open Source Still Matters"
+    ],
+    [
+      "published_at",
+      "1776744618"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Summary: Open source is fundamentally about visibility—the ability to inspect, run, and verify how a system works. In an increasingly opaque software landscape, that transparency matters more than ever. Continuum aligns with these principles, but openness must be introduced at the right time, when the system is coherent and understandable. The goal is not just to expose code, but to make the system truly knowable and trustworthy."
+    ],
+    [
+      "display_date",
+      "2026-04-20"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "transparency"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "e",
+      "b35075e917b6ee6b80a033c793dc75339849e70121c969148fa095512ce6e486",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

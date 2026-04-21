@@ -1,0 +1,72 @@
+{
+  "content": "Andrew G. Stanton - Monday, April 20, 2026\n\n---\n\n# A Place for the Work to Live\n\nI added a Books section to mycontinuum.xyz today.\n\nOn the surface, it’s a small change. A new link in the navigation. A page with a few titles — some available now, some still in progress.\n\nBut it represents something more important than that.\n\nFor the past year, most of my effort has gone into building Continuum as software. A local-first system for writing, signing, and publishing without relying on platforms. A workspace where identity is not abstracted away, where authorship is explicit, and where publishing is a deliberate act rather than a side effect of engagement.\n\nThat work matters. It proves something. It demonstrates that it is possible to operate differently — to step outside the default patterns of platforms, accounts, feeds, and invisible dependencies.\n\nBut software alone isn’t enough.\n\nThe ideas behind Continuum — sovereignty, authorship, identity, ownership — don’t originate in code. They are not implementation details. They are prior to the implementation. They are the reason the system exists at all.\n\nAnd those ideas need a place to live.\n\nThey need to be explained.  \nThey need to be worked through.  \nThey need to be challenged and refined.\n\nThey need to exist in a form that is not dependent on the system itself.\n\nThat’s what the Books section is for.\n\nNot as a product catalog. Not as a list of things to buy. But as a place where the thinking can sit alongside the system that expresses it.\n\nBecause there is always a gap between:\n\nwhat a system does  \nand  \nwhy it exists\n\nIf you only see the system, you see behavior without context.  \nIf you only read the ideas, you see intent without embodiment.\n\nContinuum exists in the tension between those two.\n\nSoftware shows what is possible.  \nWriting explains why it matters.\n\nWithout the “why,” the software becomes just another tool — something that can be used, but not understood. Something that can be adopted, but not internalized.\n\nWithout the “how,” the writing becomes abstract — a set of ideas that may sound compelling, but remain disconnected from reality.\n\nBoth are necessary.\n\nAnd more than that, they need to be connected.\n\nThe Books section is a small step toward that connection.\n\nIt says:\n\nThis is not just code.  \nThis is not just writing.  \nThis is a body of work.\n\nThat matters, because most things today are fragmented.\n\nYou have platforms for writing.  \nPlatforms for code.  \nPlatforms for distribution.  \nPlatforms for identity.\n\nEach one abstracts something away. Each one owns a piece of the whole.\n\nContinuum is an attempt to bring those pieces back together.\n\nNot by building a bigger platform, but by shifting the center of gravity back to the individual — back to the local environment where identity, authorship, and publishing are all under the same control.\n\nThe Books section fits naturally into that.\n\nIt is local-first in a different sense.\n\nThe writing originates with you.  \nIt is owned by you.  \nIt is distributed by you.  \nIt is not dependent on a platform to exist.\n\nEven when it is sold through a platform, or mirrored somewhere else, the source remains intact.\n\nThat is the same principle that underlies the software.\n\nAdding that section also changes something internally.\n\nIt changes how I think about the work.\n\nIt moves it from:\n\na project I am building\n\nto:\n\na body of work I am responsible for\n\nThose are not the same thing.\n\nA project can be finished.  \nA body of work evolves.\n\nA project can be handed off.  \nA body of work stays connected to its source.\n\nThat shift matters.\n\nIt brings a different kind of clarity.\n\nIt also brings a different kind of responsibility.\n\nIf this is a body of work, then it needs to be coherent. The ideas need to be thought through. The connections need to be real, not forced.\n\nThe Books section makes that visible.\n\nIt shows that there is more coming. That the current work is not isolated, but part of something that is still unfolding.\n\nIt also creates a place where that unfolding can be tracked.\n\nTitles that are not yet written.  \nIdeas that are still forming.  \nConnections that are still being explored.\n\nThat’s not something most sites show.\n\nUsually, you only see what is finished. What is polished. What is ready to be consumed.\n\nBut there is value in seeing what is in progress.\n\nNot as a marketing tactic, but as a reflection of reality.\n\nBecause the work is not finished.\n\nIt’s being built.\n\nAnd now, at least, there is a place for it to live.",
+  "created_at": 1776743316,
+  "id": "ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f5d9cb1f69782e33da90e007a0bf016591a770850d8c18c5d7e3b9438e6f59f97a7a5d81cd422ce8719dc5ddfc1d3e350c2b00650a77fa8bf6777782d56bec48",
+  "tags": [
+    [
+      "d",
+      "a-place-for-the-work-to-live"
+    ],
+    [
+      "title",
+      "A Place for the Work to Live"
+    ],
+    [
+      "published_at",
+      "1776743316"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Summary: Adding a Books section to mycontinuum.xyz is a small structural change, but an important one. It creates a place for the ideas behind Continuum—sovereignty, authorship, and ownership—to live alongside the software itself. Code shows what is possible. Writing explains why it matters. Both are necessary, and bringing them together marks a shift from a project to a growing body of work."
+    ],
+    [
+      "display_date",
+      "2026-04-20"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "books"
+    ],
+    [
+      "t",
+      "sovereigncreator"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "e",
+      "437356c8c5b9b33b25a7a38856f5cb55c0e894259e4b3d09e1c069dd5a312fcc",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Rained most of the day\n\nTook Baxter and Whiskers out around 8:00 this morning (rain hadn't really started yet but I could feel a slight drizzle.\n\nTransferred 2000 to etrade to avoid a maintenance margin call\nWas really stressing about that because I thought one of my transactions (the 847 for the 1402 Bernice hadn't cleared, but when I checked more carefully it had (cleared on 4/9 the same day I paid).  It was a huge relief.\n\nI also started getting more sats from a Humai npub (he built a very nice nostr powered blog called nostr.blog -- very slick.\n\nreally liked my notes and mindset -- and I think I can mimic some of his approach for the UI\n(while keeping continuum local)\n\nI checked he sent me about 1250 sats over the last few days.  Very encouragin\n\nI signed Liz's paperback (received 4 I think over the weekend).  And around 1:00 went to post office to send priority mail -- Liz promptly paid for the book + shipping via venmo\n\nBoth of these are very encouraging and I felt like writing more and also added a \"Books\" section to the site in the afternoon.\n\nI also got some food at Nijiya for Kiyomi \n\n\nI received 4 more paperbacks this afternoon (maybe around 4)\n\n(bringing total to 8) two more expected Thursday.  I don't know if I will get the hardcover in time before Friday -- would be nice so I can give one to Ted (he paid for his already)>\n\n\nFeels like this was a really good day.",
+  "created_at": 1776746201,
+  "id": "84614b187febea639a668dd0f579abca9a3ba86d59ef028120a8634616ac7cc9",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fdd54a61bb5b09be87ae524c2192958debdc976a8943d3be3c9d78fc124090a2190beb42cc40f927c0e00a2f9fa83c3d4d6865c4607ad94494ff0bd58bb5fd7f",
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-april-20-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday April 20, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
