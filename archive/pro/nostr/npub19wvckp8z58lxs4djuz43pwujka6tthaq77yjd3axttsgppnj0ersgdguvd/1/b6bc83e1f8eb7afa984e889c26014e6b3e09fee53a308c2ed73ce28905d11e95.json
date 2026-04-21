@@ -1,0 +1,51 @@
+{
+  "content": "4/20/2026\n\nWorking on direct book purchases (outside of Amazon).\n\nNot because Amazon is bad — but because direct relationships matter.\n\nSame idea as Continuum:\n\nOwn your identity.\nOwn your work.\nOwn the connection to the people who value it.\n\nEven small steps in that direction are worth it.\n\n#Continuum #Bitcoin #Sovereignty #DirectOwnership #CreatorEconomy #SelfCustody",
+  "created_at": 1776740388,
+  "id": "b6bc83e1f8eb7afa984e889c26014e6b3e09fee53a308c2ed73ce28905d11e95",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1360ac0ff12f9c571bb2724ec4d48b8d982a2a5a5f8f17e34e9555ce172329ac41b0609b072b1eb05cf9ef66ff1e71ff8ddba1f5377133ab050546b84266a8e8",
+  "tags": [
+    [
+      "d",
+      "note-1776740388"
+    ],
+    [
+      "published_at",
+      "1776740388"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "directownership"
+    ],
+    [
+      "t",
+      "creatoreconomy"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

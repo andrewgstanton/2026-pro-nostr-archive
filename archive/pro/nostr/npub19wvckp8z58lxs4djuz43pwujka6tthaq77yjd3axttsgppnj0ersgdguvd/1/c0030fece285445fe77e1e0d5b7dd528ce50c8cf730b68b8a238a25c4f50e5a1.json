@@ -1,0 +1,39 @@
+{
+  "content": "4/21/2026\n\nA circular economy built on sats doesn’t start with infrastructure.\n\nIt starts with people choosing to transact directly:\n\nEarn in sats.\nSpend in sats.\nSupport others doing the same.\n\nNo tokens. No abstractions. No layers on top.\n\nJust value moving between real people.\n\n#Bitcoin #Lightning #CircularEconomy #Sats",
+  "created_at": 1776799973,
+  "id": "c0030fece285445fe77e1e0d5b7dd528ce50c8cf730b68b8a238a25c4f50e5a1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8a7eb7902248e9ba4743543287abe14eb1f3e725f9054be43af9f013c6c99e6f1302b68faa81a56f64082c329bd20e421fd5b267231a7380bb4be116b5ac18f7",
+  "tags": [
+    [
+      "d",
+      "note-1776799973"
+    ],
+    [
+      "published_at",
+      "1776799973"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "circulareconomy"
+    ],
+    [
+      "t",
+      "sats"
+    ]
+  ],
+  "published": 1
+}

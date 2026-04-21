@@ -1,0 +1,35 @@
+{
+  "content": "4/21/2026\n\nA circular economy is not built by apps.\n\nIt’s built when:\n\nyou pay someone in sats  \nthey pay someone else in sats  \nand it doesn’t go back to fiat in between  \n\nThat’s when something new starts to form.\n\n#Bitcoin #Lightning #CircularEconomy",
+  "created_at": 1776800082,
+  "id": "f6010929cac3910e1810d03d7af80c4b8e36ce17254629061bd667a30f0b025d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b869412e3ce2ca74020fe8067f6ab556203f5b521c499773cae92d52a5f3132c37aa49b73404fd27a69a01515b0af80ddacff06ccd0a6f32fb7bbf5ddc5d37d2",
+  "tags": [
+    [
+      "d",
+      "note-1776800082"
+    ],
+    [
+      "published_at",
+      "1776800082"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "circulareconomy"
+    ]
+  ],
+  "published": 1
+}

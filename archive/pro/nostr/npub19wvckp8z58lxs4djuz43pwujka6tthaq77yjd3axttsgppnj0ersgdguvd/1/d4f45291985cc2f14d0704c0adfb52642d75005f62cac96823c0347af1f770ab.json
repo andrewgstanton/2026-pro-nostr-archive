@@ -1,0 +1,51 @@
+{
+  "content": "4/20/2026\n\nThinking about adding an Open Source section to the site.\n\nNot everything will be open immediately — but eventually it will be.\n\nOpen source is not just about code.\n\nIt’s about transparency, reproducibility, and trust.\n\nYou should be able to see how something works — not just use it.\n\n#Continuum #OpenSource #Transparency #LocalFirst #BuildInPublic #DigitalSovereignty",
+  "created_at": 1776740464,
+  "id": "d4f45291985cc2f14d0704c0adfb52642d75005f62cac96823c0347af1f770ab",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a26a4e5faa0691c8789c3859b2abde34a6ce7622b8cbfebac81f61c7d09308f5e76719dd234ff61adc53c35ef2220323ae2cc7681338e89293fad2ee82600b3d",
+  "tags": [
+    [
+      "d",
+      "note-1776740464"
+    ],
+    [
+      "published_at",
+      "1776740464"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "transparency"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

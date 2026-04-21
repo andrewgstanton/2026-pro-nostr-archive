@@ -1,0 +1,39 @@
+{
+  "content": "4/21/2026\n\nMost “crypto economies” try to bootstrap value with tokens.\n\nA Bitcoin circular economy works the opposite way.\n\nThe value already exists.\n\nThe challenge is not creating money — it’s keeping it moving.\n\n#Bitcoin #Lightning #Sats #CircularEconomy",
+  "created_at": 1776800013,
+  "id": "24225790173f657dc3d25b1c175a0267036961aacada12c64d38b275e9e92eb6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "62da8337f19e5c4476e4dc094db1d60f5b594145262bfd366c4e41e29dab70155173ad3d9282deeeee02e2d8609dfd37f76a5e7535845cbed17bfe2e7fdd00f0",
+  "tags": [
+    [
+      "d",
+      "note-1776800013"
+    ],
+    [
+      "published_at",
+      "1776800013"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "circulareconomy"
+    ]
+  ],
+  "published": 1
+}

@@ -1,0 +1,51 @@
+{
+  "content": "4/20/2026\n\nAdded a Books section to mycontinuum.xyz.\n\nFeels like a small change, but it matters.\n\nThe ideas behind Continuum don’t live only in code — they’re being worked out in writing as well.\n\nSoftware shows what’s possible.\nBooks explain why it matters.\n\nBoth are necessary.\n\n#Continuum #Writing #Books #SovereignCreator #LocalFirst #DigitalOwnership",
+  "created_at": 1776740336,
+  "id": "adbd5c64a762c84ab29755944eeae4fdddbbfa14d3259dc518b471718184e677",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a73c4aec36d8c04fce82b12b2b27b6e43de6c53c8d1b0beb953b3a04ab617ecbfcda4262ed9a02cd95fbc1c13419d80810a7bd03ed98f4072b0f3be3f7c0b51b",
+  "tags": [
+    [
+      "d",
+      "note-1776740336"
+    ],
+    [
+      "published_at",
+      "1776740336"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "books"
+    ],
+    [
+      "t",
+      "sovereigncreator"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
