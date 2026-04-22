@@ -1,0 +1,76 @@
+{
+  "content": "Andrew G. Stanton - Tuesday, April 21, 2026\n\n---\n\nMost people think a circular economy is a scale problem.\n\nMore users, merchants and transactions. \n\nIf enough people adopt it, the system will “become circular.”\n\nThat sounds reasonable.\n\nBut it’s not how it actually works.\n\n---\n\nA circular economy is not defined by how many people are using a system.\n\nIt is defined by what happens after the first transaction.\n\n---\n\nIn most systems today, the flow is linear:\n\nearn → spend → reset\n\nYou get paid.  \nYou spend.  \nThe cycle ends.\n\nValue enters, is used, and exits the system.\n\nEach transaction stands alone.\n\nNothing carries forward.\n\n---\n\nThis is so normal that it doesn’t even feel like a limitation.\n\nIt just feels like how money works.\n\n---\n\nBitcoin introduces the possibility of something different.\n\nNot a faster version of the same flow.\n\nA different structure entirely.\n\n---\n\nInstead of a line:\n\nearn → spend → reset\n\nYou get a loop:\n\nearn → spend → receive → spend again\n\nThe same value continues moving between participants.\n\nNot once.\n\nBut repeatedly.\n\n---\n\nThis difference between a line and a loop is easy to miss.\n\nBut it matters more than almost anything else.\n\n---\n\nIn a linear system, every transaction is independent.\n\nThere is no expectation that value will return or continue.\n\nEach exchange starts from zero.\n\nThere is no continuity.\n\n---\n\nIn a loop, the system begins to reinforce itself.\n\nParticipants recognize that they can both earn and spend within the same network.\n\nThat changes behavior.\n\nBecause now, holding value inside the system is not a risk.\n\nIt is useful.\n\n---\n\nBut this only happens under one condition:\n\nthe value cannot be constantly extracted.\n\n---\n\nEvery time sats are converted back to fiat, the loop breaks.\n\nThe system resets.\n\nIt doesn’t undo the transaction.\n\nBut it prevents the next one from continuing in the same system.\n\n---\n\nSo the goal is not just adoption.\n\nIt is continuity.\n\nMore specifically:\n\nretention of value within the network long enough for multiple exchanges to occur.\n\n---\n\nThis is where most discussions about circular economies go wrong.\n\nThey focus on:\n\n- onboarding  \n- merchant count  \n- transaction volume  \n\nBut those are surface-level indicators.\n\nThey do not tell you whether a loop exists.\n\n---\n\nYou can have high transaction volume and still have a completely linear system.\n\nIf every transaction ends in conversion, nothing is actually circulating.\n\n---\n\nSo what creates a loop?\n\nNot infrastructure.\n\nNot incentives.\n\nNot scale.\n\n---\n\nIt starts when a small group of participants is willing to:\n\naccept sats  \nhold sats  \nspend sats again  \n\nNot perfectly.\n\nNot indefinitely.\n\nBut consistently enough that value continues moving between them.\n\n---\n\nConsider a simple scenario.\n\nYou get paid in sats.\n\nInstead of converting, you use those sats to pay someone else.\n\nThat person now has sats.\n\nThey have a choice:\n\nconvert and exit  \nor spend again  \n\nIf they spend again, the loop continues.\n\nIf they convert, the loop breaks.\n\n---\n\nNothing about this is theoretical.\n\nIt’s just a pattern.\n\nAnd that pattern either continues or it doesn’t.\n\n---\n\nAt first, these loops are small.\n\nAlmost invisible.\n\nA few participants.\n\nA handful of transactions.\n\nNothing that looks like “an economy” from the outside.\n\n---\n\nBut something important is happening internally.\n\nParticipants begin to notice:\n\nthey can both earn and spend within the same system.\n\nThat realization is the turning point.\n\n---\n\nBecause once that happens, behavior shifts.\n\nHolding sats is no longer just speculation.\n\nIt becomes functional.\n\nIt becomes part of everyday exchange.\n\n---\n\nThis is how a circular economy forms.\n\nNot through a launch.\n\nNot through coordination at scale.\n\nBut through repeated continuity.\n\n---\n\nThis also explains why many attempts to “build” circular economies struggle.\n\nThey try to force the outcome without establishing the pattern.\n\nThey focus on growth before continuity exists.\n\n---\n\nWithout continuity, growth only amplifies a broken structure.\n\nMore users just means more:\n\nearn → convert → spend\n\nWhich is still linear.\n\n---\n\nA circular economy cannot be imposed from the top down.\n\nIt has to emerge from the bottom up.\n\nFrom behavior.\n\nFrom repeated exchange.\n\nFrom value staying in motion.\n\n---\n\nBitcoin makes this possible.\n\nBut it does not make it automatic.\n\n---\n\nThe tools exist.\n\nThe infrastructure exists.\n\nThe ability to transact globally, instantly, and directly already exists.\n\n---\n\nWhat does not exist at scale yet is the pattern.\n\n---\n\nThat is what is forming now.\n\nIn small groups.\n\nIn isolated pockets.\n\nIn places where participants choose not to break the loop.\n\n---\n\nOver time, those pockets connect.\n\nNot because they are coordinated.\n\nBut because the same pattern is repeating.\n\n---\n\nAnd once a loop exists, it tends to reinforce itself.\n\nBecause it is useful.\n\nBecause it works.\n\nBecause participants no longer need to exit immediately.\n\n---\n\nAt that point, Bitcoin stops being theoretical.\n\nIt becomes something you can actually use.\n\nNot everywhere.\n\nBut somewhere.\n\n---\n\nAnd once that happens,\n\nit tends to continue.\n\n---\n\n## Work With Me\n\nIf these ideas resonate, and you're building toward a circular economy or exploring local-first systems, I’m working directly with a small number of builders and teams in this space.\n\nI’m also looking for early adopters interested in running Continuum — a local-first publishing and identity system built on Nostr.\n\nYou can explore more at:\nhttps://mycontinuum.xyz\n\nIf you want to go deeper, feel free to reach out.\n\nDM on Nostr or email: **andrewgstanton@gmail.com**",
+  "created_at": 1776811997,
+  "id": "ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ec5dc9c276c87c5a95a0102557b61271b24cf98327162e641993b16a191e5dae5a88383847af9ad1dc53602d461e0634b38258b67357c856496564c7931656af",
+  "tags": [
+    [
+      "d",
+      "how-a-circular-economy-actually-forms---bitcoin-circular-economy-part-3"
+    ],
+    [
+      "title",
+      "How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3"
+    ],
+    [
+      "published_at",
+      "1776811997"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "A circular economy forms when value continues moving between participants instead of exiting the system. The key is not adoption alone, but the persistence of exchange within the network."
+    ],
+    [
+      "display_date",
+      "2026-04-21"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Lightning"
+    ],
+    [
+      "t",
+      "Sats"
+    ],
+    [
+      "t",
+      "CircularEconomy"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "SelfCustody"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "e",
+      "de768e4bb7ef65e2ac28e7b7dc5a494937a79d2ff32f25436c5471ae58ca1eb3",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

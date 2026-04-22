@@ -1,0 +1,27 @@
+{
+  "content": "Slower day than yesterday.\n\nRaining for most of the day though not as much as yesterday.\n\nTook Baxter and Whiskers out in the morning about 8:00 AM\n\nKiyomi took them out later in the afternoon\n\nAdded a section for \"Open Source\" to the myconcintuum.zyx\n\nSigned up for a blog (at nostr.blog. -- apparently I'm the very first customer\n\nHumai (founder I guess ?) sent me a lot of questions via DM this afternoon about Continuum\n\nIt was good though.  Good to get that kind of interaction\n\nI know I will probably get more at Bitcoin 2026",
+  "created_at": 1776835085,
+  "id": "0af6d9faac75f8046e2519c6130942907fc450c34603f7777f0e5def97d6265a",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a8b61d632e74ef4c570d7f6ed91f174185b9cfce08e8d67408981ef89f7b541e1f1951f8d5b0b538236268861aa7b13d8b56e6a8b1940606cf377fa9db7ee540",
+  "tags": [
+    [
+      "d",
+      "builder-journal---tuesday-april-21-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Tuesday, April 21, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
