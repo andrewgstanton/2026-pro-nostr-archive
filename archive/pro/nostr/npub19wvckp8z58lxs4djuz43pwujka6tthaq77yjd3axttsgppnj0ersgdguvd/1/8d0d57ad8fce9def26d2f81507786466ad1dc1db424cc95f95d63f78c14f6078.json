@@ -1,0 +1,43 @@
+{
+  "content": "4/24/2026 - I Object\n\nI object—not loudly, not emotionally, but clearly.\n\nI object to systems that assume control over what I create, where I publish, and how I’m allowed to exist online.\n\nAuthorship is not a feature.\nIt’s a right.\n\nIf I can’t sign it, I don’t own it.\nIf I can’t move it, it’s not mine.\n\n#IObject #DigitalSovereignty #Nostr #Continuum",
+  "created_at": 1777076832,
+  "id": "8d0d57ad8fce9def26d2f81507786466ad1dc1db424cc95f95d63f78c14f6078",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4c00cb1600431805870bd8d653896f439e6276ff674aea0b71297dc963ccd05bb5e6eb66d5d05caf0f5761391416e365a323c8950060dd350eb5821d93e4e080",
+  "tags": [
+    [
+      "d",
+      "note-1777076832"
+    ],
+    [
+      "published_at",
+      "1777076832"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "iobject"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,43 @@
+{
+  "content": "4/23/2026 - Why This Bothers Me\n\nIt’s not personal.\n\nIt’s not even political.\n\nIt’s the quiet assumption that money must be managed, controlled, and expanded.\n\nBut what if money isn’t supposed to be engineered at all?\n\nWhat if it’s supposed to be discovered?\n\n#Bitcoin #SoundMoney #Sovereignty #Continuum",
+  "created_at": 1777078750,
+  "id": "2a87efc86f464f7dadb8836ca9f0deb630facd355f9bec4e8682089750c4d762",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "27b431c18294c0b6f8d7d2722bc58dfe53ce5672b2140f1cfdb5ac2b55420056d19eadeb1c008c899f28efbb2bdd4aba6f00f72457d4d6c79fb368fd6693dc79",
+  "tags": [
+    [
+      "d",
+      "note-1777078750"
+    ],
+    [
+      "published_at",
+      "1777078750"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

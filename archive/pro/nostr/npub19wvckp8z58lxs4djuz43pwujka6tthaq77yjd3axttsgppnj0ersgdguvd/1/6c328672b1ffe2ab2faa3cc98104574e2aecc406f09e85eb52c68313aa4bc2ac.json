@@ -1,0 +1,43 @@
+{
+  "content": "4/24/2026 - Who Owns Your Identity?\n\nMost people don’t own their identity.\n\nThey lease it.\n\nEmail. Username. Profile. Audience.\nAll issued—none truly held.\n\nA real identity isn’t granted.\nIt’s derived, signed, and kept.\n\nIf you can’t take it with you,\nit was never yours.\n\n#Identity #SelfSovereign #Nostr #Continuum",
+  "created_at": 1777076952,
+  "id": "6c328672b1ffe2ab2faa3cc98104574e2aecc406f09e85eb52c68313aa4bc2ac",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6df39012d52310799eff0baf0f952a67463eeeb43cca37ee31f24595fdcc182156294e8c04d9d162208661c6a3ff86cda7d6b97eeb3a354007de27595817c97b",
+  "tags": [
+    [
+      "d",
+      "note-1777076952"
+    ],
+    [
+      "published_at",
+      "1777076952"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

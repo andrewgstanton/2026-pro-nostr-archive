@@ -1,0 +1,51 @@
+{
+  "content": "4/22/2026 - Most people won’t choose freedom if it feels like extra work.\n\nThat’s just reality.\n\nSo the challenge isn’t to convince them.\n\nIt’s to design something where:\n\nthey can create immediately\nnothing gets taken away\nand they own it without thinking about it\n\nMake it simple, obvious and THEIRS\n\n#sovereignty #freedom #ownership #ux #localfirst #continuum",
+  "created_at": 1776889605,
+  "id": "7f615d5be9076fb3ff94b8a82ef61fb00e279243ce47be1ecf045e68e53d4203",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "09e7b40fdb0e31363a7e189d17ba2cc2309e433dd52b5993ea9ae42bd61dbda818585126886be788bcfaf2bb1ab48d064e5f85e85fcf2229f10aae1e21232f25",
+  "tags": [
+    [
+      "d",
+      "note-1776889605"
+    ],
+    [
+      "published_at",
+      "1776889605"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "ux"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

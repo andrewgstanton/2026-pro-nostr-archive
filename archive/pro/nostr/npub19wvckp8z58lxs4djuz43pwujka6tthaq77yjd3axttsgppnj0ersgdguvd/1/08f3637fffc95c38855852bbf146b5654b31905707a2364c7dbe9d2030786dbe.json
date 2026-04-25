@@ -1,0 +1,43 @@
+{
+  "content": "4/23/2026 - After the Fed Conversation\n\nSpoke with someone from the Federal Reserve tonight.\n\nSmart. Thoughtful. Sincere.\n\nBut the framework never gets questioned.\n\n“What if the system itself is the problem?”\nThat question rarely gets asked—let alone answered.\n\n#Bitcoin #Money #FirstPrinciples #Continuum",
+  "created_at": 1777078613,
+  "id": "08f3637fffc95c38855852bbf146b5654b31905707a2364c7dbe9d2030786dbe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fcc6efce671efe4c8d531bc12855ecc4cb53b04f4e0198ceacea1321d48b38a0700c8f62e2114c3de4d7aec4c2a5cf1981a5a60315fdadc52c3e4e50ce78b217",
+  "tags": [
+    [
+      "d",
+      "note-1777078613"
+    ],
+    [
+      "published_at",
+      "1777078613"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "money"
+    ],
+    [
+      "t",
+      "firstprinciples"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

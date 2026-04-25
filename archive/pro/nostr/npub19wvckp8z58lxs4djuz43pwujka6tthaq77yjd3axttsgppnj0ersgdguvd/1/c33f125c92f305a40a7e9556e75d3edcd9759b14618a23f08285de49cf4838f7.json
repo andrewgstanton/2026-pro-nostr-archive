@@ -1,0 +1,55 @@
+{
+  "content": "4/25/2026 - Week of April 19–25\n\n- Added Books page (4/20)\n- Added Open Source page (4/21)\n- Updated direct order links on Books page (4/23)\n- Added Why Continuum page (4/24)\n- Improved site clarity and messaging across mycontinuum.xyz\n- Fixed buttons and links across Chrome, Safari, and Brave\n- Updated styling on stories.mycontinuum.xyz\n- Verified all links working on stories site\n- Resumed writing cadence (3 articles / 3 notes per day)\n\nQuiet week, but important.\n\nLess about building new things, more about making Continuum clearer and easier to use.\n\nThat work compounds.\n\n#continuum #buildinpublic #weekly #progress #localfirst #nostr #writing #sovereignty",
+  "created_at": 1777142527,
+  "id": "c33f125c92f305a40a7e9556e75d3edcd9759b14618a23f08285de49cf4838f7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f4da93b93ee06975fbbac5cda50f849221883f315d216a014270ce45a4f7faadc8721a41ad19612cfb77cb1cfd393e6451c031d714b4ca889fbb06a4ecfee53e",
+  "tags": [
+    [
+      "d",
+      "note-1777142527"
+    ],
+    [
+      "published_at",
+      "1777142527"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "weekly"
+    ],
+    [
+      "t",
+      "progress"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "published": 1
+}

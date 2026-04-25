@@ -1,0 +1,51 @@
+{
+  "content": "4/22/2026 - Make the easy path the sovereign path.\n\nIf the only way to keep control of your work is to jump through hoops, most people won’t do it.\n\nNot because they don’t care.\nBecause they’re busy.\n\nConvenience isn’t the enemy.\nIt’s the delivery mechanism.\n\nThe goal isn’t to force people to choose sovereignty.\nIt’s to make sovereignty the default.\n\n#sovereignty #freedom #ownership #ux #localfirst #continuum",
+  "created_at": 1776889398,
+  "id": "475d31735ee3b71608edc6efd7d0aff354e632a0f17fcd970554e6e016adb094",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9b6e64ed4ba9c8887b6f03d49159a3f5fa7e30ced9f7cae14b95e88b257d909ab18b28f74940b18d5d3bf55ed7be607d7ad99c3d5a6282c8d84b874042b48fe5",
+  "tags": [
+    [
+      "d",
+      "note-1776889398"
+    ],
+    [
+      "published_at",
+      "1776889398"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "ux"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

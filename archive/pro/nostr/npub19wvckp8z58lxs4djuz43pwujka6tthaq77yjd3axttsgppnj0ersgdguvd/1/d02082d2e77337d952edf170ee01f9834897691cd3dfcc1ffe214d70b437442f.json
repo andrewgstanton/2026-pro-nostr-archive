@@ -1,0 +1,43 @@
+{
+  "content": "4/24/2026 - Write Once, Render Everywhere?\n\n“Write once, render everywhere” sounds solved.\n\nIt’s not.\n\nDifferent clients. Different rules.\nMarkdown here. HTML there. Broken in between.\n\nThe protocol is shared.\nThe experience is fragmented.\n\nPortability of content isn’t just about data—\nit’s about presentation too.\n\nWe’re closer than before.\nBut not done.\n\n#Nostr #Publishing #Continuum #OpenProtocols",
+  "created_at": 1777077028,
+  "id": "d02082d2e77337d952edf170ee01f9834897691cd3dfcc1ffe214d70b437442f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dcdb56eb0d84566b409530a5325e23a3af0cea9d83c14ee14200bc8039560c788e5dad8e97681d1e72daf356cac0d001613398fc414b69955f49dfd721a544e8",
+  "tags": [
+    [
+      "d",
+      "note-1777077028"
+    ],
+    [
+      "published_at",
+      "1777077028"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

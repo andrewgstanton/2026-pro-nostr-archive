@@ -1,0 +1,51 @@
+{
+  "content": "4/22/2026 - Convenience matters.\n\nIt always has.\n\nThat’s why people use platforms that don’t give them control — because they’re easy.\n\nSo the answer isn’t to reject convenience.\n\nIt’s to build systems where:\n\nthe easiest thing to do is also the right thing to do.\n\n#sovereignty #freedom #ownership #ux #localfirst #continuum",
+  "created_at": 1776889508,
+  "id": "1b2cb2f886480cceb285dae20dbe0d586800870ea5e83763980180e0d418488c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f1480121f6030f08fc9bb3ecf8f0fa96d3be5a76147d019785ec3478324520b566a8d6c9546ce17f1a502f7ca86188e6191acdb3fb8762faf37e4520c91ff737",
+  "tags": [
+    [
+      "d",
+      "note-1776889508"
+    ],
+    [
+      "published_at",
+      "1776889508"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "ux"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

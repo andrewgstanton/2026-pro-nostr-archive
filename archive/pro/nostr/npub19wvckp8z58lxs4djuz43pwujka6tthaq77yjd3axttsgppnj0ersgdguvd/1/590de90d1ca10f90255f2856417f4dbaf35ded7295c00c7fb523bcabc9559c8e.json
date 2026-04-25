@@ -1,0 +1,43 @@
+{
+  "content": "4/23/2026 - The “Necessary System” Narrative\n\n“The Fed was necessary because of chaos before it.”\n\nThat’s the story.\n\nBut every system justifies itself that way.\n\nControl is always introduced as the solution—\neven when it becomes the source of the problem.\n\n#Economics #History #Bitcoin #Truth",
+  "created_at": 1777078678,
+  "id": "590de90d1ca10f90255f2856417f4dbaf35ded7295c00c7fb523bcabc9559c8e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b9ce1baee4b9354b7cbf3b8936f1137494e648574ee7cdf3945805c483fafb7300fcde7285ae71247248be59c11d163dfc3958579766ca00132d5939a88dfa92",
+  "tags": [
+    [
+      "d",
+      "note-1777078678"
+    ],
+    [
+      "published_at",
+      "1777078678"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "economics"
+    ],
+    [
+      "t",
+      "history"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "truth"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
