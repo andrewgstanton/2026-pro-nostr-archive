@@ -1,0 +1,81 @@
+{
+  "content": "Andrew G. Stanton - Friday, April 24, 2026\n\n---\n\n## The Promise of Digital ID\n\nImage : https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-04-23-cal-digital-id-pilot.png\n\n\n“ID in Wallet. Let’s go.”\n\nIt’s clean. It’s simple. It feels inevitable.\n\nCalifornia’s digital driver’s license, now available in Apple Wallet, represents what many see as the future:\n- No more fumbling for your wallet  \n- Faster TSA lines  \n- Seamless verification at venues and checkpoints  \n\nFrom a user experience perspective, it’s hard to argue against it.\n\nWhen it works, it works beautifully.\n\nBut beneath that convenience is a deeper shift—one that most people won’t notice until it matters.\n\n---\n\n## From Possession to Permission\n\nA physical ID is something you *have*.\n\nYou take it out.  \nYou show it.  \nA human being looks at it.\n\nEven if the system around it fails, the card still exists. It still says what it says.\n\nA digital ID changes that dynamic.\n\nNow:\n- Your identity is **presented through a device**  \n- Verified by a **system**  \n- Interpreted by a **policy**  \n\nIf the system can’t verify it, your identity doesn’t just degrade—it can disappear.\n\n> A physical ID can fail *gracefully*.  \n> A digital ID can fail *absolutely*.\n\n---\n\n## The 1 AM Problem\n\nImagine this:\n\nYou’re at the airport at 1:00 AM.  \nYour boarding pass is ready.  \nYour ID is in your phone.\n\nThe agent scans it.\n\n“Invalid.”\n\nNow what?\n\n- The system is down  \n- The reader fails  \n- The credential didn’t sync  \n- Your phone glitches  \n\nWith a physical ID, there’s still something to look at.\n\nWith a digital ID, the system becomes the authority.\n\nAnd if the system says no, there’s often no fallback.\n\n---\n\n## Who Actually Controls Your Identity?\n\nThe current model looks like this:\n\n- The **state** issues your identity  \n- The **platform** (Apple) contains it  \n- The **system** verifies it  \n\nYou’re holding the device—but you’re not holding the authority.\n\nThat matters more than it seems.\n\nBecause it means:\n- Your identity can be **revoked**\n- Your access can be **conditioned**\n- Your verification can be **denied**\n\nNot because you changed—but because the system did.\n\n---\n\n## Why Promote It At All?\n\nTo be fair, digital ID solves real problems:\n\n- Faster processing  \n- Reduced fraud  \n- Potentially better privacy (selective disclosure)  \n\nAnd it creates something institutions value deeply:\n\n> standardized, programmable identity\n\nThat’s powerful.\n\nBut it optimizes for:\n- speed  \n- scale  \n- coordination  \n\nNot:\n- independence  \n- resilience  \n- edge cases  \n\n---\n\n## The Direction of Travel\n\nThis won’t flip to “digital-only” overnight.\n\nInstead, it will move gradually:\n\n1. Optional  \n2. Preferred  \n3. Expected  \n4. De facto required  \n\nNot because physical IDs are banned—but because they become inconvenient, slower, or second-class.\n\nThat’s how systems evolve.\n\n---\n\n## A Better Model: Identity You Control\n\nThere’s another way to think about this.\n\nNot:\n> “a digital version of my driver’s license”\n\nBut:\n> “an identity I control, with credentials I can prove”\n\nIn this model:\n\n### 1. You own your identity\n- Not issued by a state  \n- Not stored in a platform  \n- Not dependent on a system  \n\nIt’s a keypair. A root of identity you control.\n\n### 2. Authorities issue verifiable claims\n- The DMV can attest: “This person is licensed to drive”  \n- A service can attest: “Over 21”  \n- A jurisdiction can attest: “Resident”  \n\nThese are **signed credentials**, not centralized records.\n\n### 3. You present only what’s needed\n- Not your full identity  \n- Not your address  \n- Not your ID number  \n\nJust:\n> proof\n\n---\n\n## Why This Matters\n\nThis model changes everything.\n\n| Model | Identity Control | Verification |\n|------|----------------|--------------|\n| Physical ID | State | Human judgment |\n| Digital ID (Apple/CA) | State + Platform | System validation |\n| Self-sovereign | **You** | Cryptographic proof |\n\nIn the first two, identity is something you are *given*.\n\nIn the third, identity is something you *hold*.\n\n---\n\n## The Deeper Distinction\n\nA digital ID proves:\n> who you are to a system\n\nA self-sovereign identity proves:\n> what you can demonstrate, independent of any system\n\nThat’s not a small difference.\n\nIt’s the difference between:\n- being identified  \n- and being the author  \n\n---\n\n## This Is Not Anti-Technology\n\nDigital ID is not the enemy.\n\nIt’s an evolution—but an incomplete one.\n\nIt takes a physical system and makes it more efficient.\n\nBut it doesn’t fundamentally change the relationship between:\n- the individual  \n- the issuer  \n- and the verifier  \n\n---\n\n## What We’re Building Instead\n\nIn Continuum (and similar approaches), the goal isn’t to digitize identity.\n\nIt’s to **separate identity from the system entirely**.\n\n- Identity lives with you  \n- Signing happens locally  \n- Proofs can be shared selectively  \n- No central authority is required to validate authorship  \n\nThis is already true in publishing:\n- You sign content  \n- You publish it anywhere  \n- The signature proves authorship  \n\nThe same principle can apply to identity.\n\n---\n\n## The Real Question\n\nThis isn’t about Apple.  \nOr California.  \nOr even digital ID.\n\nIt’s about this:\n\n> Do you *have* an identity…  \n> or do you *ask for permission to prove it*?\n\n---\n\n## Closing Thought\n\nDigital ID in your phone feels like progress.\n\nAnd in many ways, it is.\n\nBut it also quietly redefines identity as something that must be:\n- verified  \n- approved  \n- and accepted by a system  \n\nThere is another path.\n\nOne where identity is:\n- owned  \n- signed  \n- and proven  \n\nNot granted.\n\n---\n\n> “A better model isn’t a digital ID in your phone.  \n> It’s an identity you control—with credentials you can prove.”",
+  "created_at": 1777073453,
+  "id": "dece231fdd07c93113c44cf725ceeee5420717c2fcb9010c7ad2748c2f79e33c",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f543ce04ac4afdd32d50c5c22620ab30df82ead56acb40eda854aae66c11272ddbba61b3a317d4479199be3908bccc01d62d08204cfb462570845c5689f1a406",
+  "tags": [
+    [
+      "d",
+      "who-owns-your-identity"
+    ],
+    [
+      "title",
+      "Who Owns Your Identity?"
+    ],
+    [
+      "published_at",
+      "1777073453"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "California’s digital ID in Apple Wallet is sleek, fast, and convenient—but it reveals a deeper shift: identity is moving from something you *possess* to something a system must *verify*. This article contrasts that model with a self-sovereign approach—where you control your identity and present verifiable proofs when needed. The difference isn’t just technical. It’s foundational."
+    ],
+    [
+      "display_date",
+      "2026-04-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ],
+    [
+      "t",
+      "digitalid"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "e",
+      "eb00512649663a9b9436965c3243ea450021fa125b1b941fc930d94af093ec69",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

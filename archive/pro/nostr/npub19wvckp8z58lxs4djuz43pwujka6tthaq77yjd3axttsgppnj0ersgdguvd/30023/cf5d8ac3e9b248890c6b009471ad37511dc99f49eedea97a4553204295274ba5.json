@@ -1,0 +1,79 @@
+{
+  "content": "Andrew G. Stanton - Friday, April 24, 2026\n\n---\n\n## The Promise\n\nOne of the most compelling ideas in Nostr is simple:\n\n> Write once. Publish everywhere.\n\nNo platform lock-in.  \nNo walled gardens.  \nYour content, your identity, your distribution.\n\nAt the protocol level, this works.\n\nYou can publish a long-form article (kind:30023), and it shows up across multiple clients.\n\nBut then you start noticing something subtle.\n\n---\n\n## The Reality\n\nThe *content* shows up.\n\nThe *rendering* does not.\n\nThe same article can look:\n- correct in one client  \n- broken in another  \n- partially rendered somewhere else  \n\nAnd it often comes down to something as simple as an image.\n\n---\n\n## A Simple Example\n\nLet’s say you embed an image like this:\n\n```\n![California Digital ID](https://is.gd/wNdvuS)\n```\n\nOn Primal:\n✅ Renders correctly\n❌ HTML is ignored\n\nOn Coracle:\n❌ Markdown image may not render\n✅ HTML <img> works\n\n\nSo you try this instead:\n\n```\n<p align=\"center\">\n  <img src=\"https://is.gd/kZZOtf width=\"500\">\n</p>\n```\n\nNow:\n\nOn Coracle:\n✅ Looks great\nOn Primal:\n❌ Raw HTML shows up as text\n\n\n## The Result\n\nYou end up choosing:\n\n- Write for Primal\n- or write for Coracle\n- or write for neither and accept degradation\n\nWhich raises an uncomfortable question:\n\n*Is this really “write once, publish everywhere”?*\n\n---\n\n## To Be Fair…\n\nNostr itself isn’t the problem.\n\nThe protocol:\n\n- stores your content\n- distributes your content\n- preserves your authorship\n\nIt does not define:\n\n*how that content should be rendered*\n\nThat responsibility is left to clients.\n\n--\n\n## And That’s the Gap\n\nEach client makes its own choices:\n\n- Markdown support (partial or full)\n- HTML support (allowed or sanitized)\n- Media handling (images, embeds, previews)\n- Styling and layout decisions\n\nSo while the data is portable…\n\n*The experience is not.*\n\n---\n\n## Why This Matters\n\nThis isn’t just about images.\n\nIt affects:\n\n- formatting\n- readability\n- structure\n- presentation\n- perception of quality\n\nAn article that looks polished in one client can feel broken in another.\n\nFor writers, that matters.\n\n---\n\n## The Workarounds (Today)\n\nRight now, you have a few options:\n\n**1. Target a specific client**\n\nWrite for Primal or Coracle and accept tradeoffs elsewhere.\n\n**2. Use the lowest common denominator**\n\nPlain text + links.\n\nReliable—but limiting.\n\n**3. Duplicate formats**\n\nInclude both Markdown and HTML.\n\nMessy and not always worth it.\n\n---\n\n## Continuum’s Approach\n\nContinuum takes a different path.\n\nIt doesn’t force a choice between Markdown or HTML.\n\nIt supports both.\n\nYou can:\n\n- use Markdown-style embeds (Primal-friendly)\n- use HTML when needed (Coracle-friendly)\n- or mix approaches as needed during authoring\n\nBut more importantly, it points toward something deeper.\n\n---\n\n## Author Once, Render Intentionally\n\nInstead of:\n\n*write once → render everywhere (uncontrolled)*\n\nContinuum opens the door to:\n\nwrite once → render intentionally per context\n\nFor example:\n\n```\n{{image: digital-id}}\n```\n\ncould become:\n\n**For Primal**\n\n```\n![California Digital ID](https://is.gd/W217cP)\n```\n\n**For Coracle**\n\n```\n<p align=\"center\">\n  <img src=\"https://is.gd/67mq3j width=\"500\">\n</p>\n```\n\n**For fallback**\n\n```\nImage: https://is.gd/W217cP\n```\n\nsame content.\n\nDifferent render strategies.\n\n---\n\n## This Extends an Existing Idea\n\n\nContinuum already separates:\n\n\n- signing vs publishing\n- offline creation vs online distribution\n\n\nThis is the next logical step:\n\n*authorship vs rendering*\n\n---\n\n## Why This Matters Long-Term\n\nIf Nostr is going to support serious publishing:\n\n\n- writers need predictable output\n- readers need consistent experiences\n- tools need to bridge client differences\n\n\nOtherwise:\n\n*“write once, publish everywhere” becomes*\n*“write once, debug everywhere”*\n\n---\n\n## The Real Takeaway\n\nNostr got the hard part right:\n\n\n- identity\n- authorship\n- distribution\n\n\nNow we’re discovering the next challenge:\n\n*rendering consistency*\n\n---\n\n## Closing Thought\n\n“Write once, publish everywhere” is still mostly true.\nBut what we’re learning is:\n\n*Publishing is portable.*\n*Rendering is not.*\n\nContinuum doesn’t fight that reality—it embraces it.\n\n\n*“Author once. Render intentionally.”*",
+  "created_at": 1777075758,
+  "id": "cf5d8ac3e9b248890c6b009471ad37511dc99f49eedea97a4553204295274ba5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "78c07407510421b79f57bfea41bc8de7760bbb434e04093513bc5d3a51a323e8c2738d8f3f85de5fb9d215d11dbb7b24f991ac1fab37b423028c9292b7c4807b",
+  "tags": [
+    [
+      "d",
+      "write-once-render-everywhere"
+    ],
+    [
+      "title",
+      "Write Once… Render Everywhere?"
+    ],
+    [
+      "summary",
+      "Nostr promises “write once, publish everywhere.” And at the protocol level, that’s mostly true. But in practice, how your content *renders* depends heavily on the client. Primal favors Markdown images but ignores HTML. Coracle supports HTML but doesn’t fully render Markdown image syntax. The result: the same post can look completely different depending on where it’s viewed. Continuum takes a different approach—supporting both formats and separating authorship from rendering."
+    ],
+    [
+      "published_at",
+      "1777075758"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "primal"
+    ],
+    [
+      "t",
+      "coracle"
+    ],
+    [
+      "t",
+      "markdown"
+    ],
+    [
+      "t",
+      "html"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "ux"
+    ],
+    [
+      "display_date",
+      "2026-04-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

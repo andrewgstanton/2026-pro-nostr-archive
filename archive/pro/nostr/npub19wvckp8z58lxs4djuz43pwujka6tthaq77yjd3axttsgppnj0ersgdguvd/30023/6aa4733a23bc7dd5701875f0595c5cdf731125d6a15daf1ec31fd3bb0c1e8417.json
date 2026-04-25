@@ -1,0 +1,60 @@
+{
+  "content": "Andrew G. Stanton - Wednesday, April 22, 2026\n\n---\n\nConvenience matters.\n\nThat’s not something I’m interested in arguing against.\n\nIt’s the reason most tools get used in the first place.\n\nPeople don’t adopt software because they’ve carefully evaluated long-term tradeoffs around control, ownership, or durability. They adopt it because it works quickly. Because it’s intuitive. Because it solves a problem right now without asking too much in return.\n\nOpen the app -> Start Writing -> Click publish.\n\nDone.\n\nThat simplicity is powerful. It removes hesitation, lowers friction and allows people to focus on what they actually want to do—write, share, create, communicate—without getting bogged down in setup or complexity.\n\nAnd honestly, that’s a good thing.\n\nThere’s nothing inherently wrong with convenience.\n\nBut over time, I’ve become more aware of what that convenience is built on.\n\nNot in a dramatic or reactionary way. Just by paying attention.\n\nI've started to ask very carefully:\n\nWhere things are stored.  \nWho controls access.  \nWhat happens if something changes.\n\nMost of the time, everything works exactly as expected. You log in. Your content is there. Your account behaves normally. You publish something, and it shows up where you expect it to.\n\nThere’s no obvious problem.\n\nThat’s the part that’s easy to miss.\n\nAnd to be clear, this isn’t about blaming platforms.\n\nThey’re designed this way for a reason.\n\nCentralization makes it easier to:\n- manage infrastructure  \n- deliver consistent experiences  \n- iterate quickly  \n- and monetize effectively  \n\nIt allows companies to build systems that feel seamless from the user’s perspective.\n\nBut that seamlessness comes with an implicit structure:\n\n- identity is tied to an account  \n- content lives on someone else’s system  \n- access is conditional, not guaranteed  \n\nMost users don’t think about this structure and they shouldn’t have to.\n\nThe problem isn’t that users aren’t thinking deeply enough about these things.\n\nThe problem is that the only tools that feel simple to use are often built in a way that removes control by default.\n\nSo the choice becomes:\n\n- use something easy and give up control  \n- or use something more complex and retain it  \n\nThat’s the tradeoff most people encounter, even if it’s not explicitly stated.\n\nAnd in that situation, convenience wins.\n\nEvery time.\n\nNot because people don’t value freedom.\n\nBut because the cost of choosing it feels too high upfront.\n\nThat’s the part that I think is worth rethinking.\n\nNot rejecting convenience or trying to convince people to care more about ownership.\n\nBut asking a different question entirely:\n\n> Can something be simple to use without requiring users to give up control?\n\nThat question changes the framing.\n\nInstead of assuming the tradeoff is inevitable, it treats it as a design problem.\n\nBecause the current situation isn’t the result of some fundamental law of technology.\n\nIt’s the result of how systems have been designed.\n\nConvenience has been layered on top of centralization.\n\nControl has been treated as something separate—something advanced, something technical, something optional.\n\nBut there’s no inherent reason those things have to be separated.\n\nIt’s possible to imagine systems where:\n\n- writing is immediate  \n- saving is automatic  \n- publishing is simple  \n\nAnd yet:\n\n- the work is stored in a way the user controls  \n- the identity is not dependent on a single platform  \n- the content can exist and be shared beyond one system  \n\nIn other words, where convenience and ownership are not in conflict.\n\nThat kind of system doesn’t ask users to make a philosophical decision.\n\nIt doesn’t require them to understand every underlying detail.\n\nIt simply works—while quietly preserving their control.\n\nI’m not claiming this is easy to build.\n\nIn fact, it’s significantly harder than the alternative.\n\nBecause it requires solving for both:\n- user experience  \n- and user authority  \n\nat the same time.\n\nIt means not relying on lock-in as a strategy.\n\nIt means designing flows that feel simple without hiding the underlying reality.\n\nIt means being intentional about where data lives, how identity works, and what “ownership” actually means in practice.\n\nThat’s a different set of constraints than most modern platforms operate under.\n\nAnd I’m still working through what that looks like in practice.\n\nContinuum isn’t there yet.\n\nThere’s still friction. There are still areas where the experience can be simpler, faster, more intuitive.\n\nBut the direction is clear.\n\nNot toward rejecting convenience but toward reclaiming it.\n\nToward building something where:\n\n- the easiest thing to do is also the safest thing to do  \n- the fastest path doesn’t create hidden dependency  \n- and the user doesn’t have to trade away control just to get started  \n\nBecause convenience matters.\n\nBut not if it quietly takes everything with it.",
+  "created_at": 1776904898,
+  "id": "6aa4733a23bc7dd5701875f0595c5cdf731125d6a15daf1ec31fd3bb0c1e8417",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fd997f32e072e1e18987c06ea33c62f66ec3f3209f99571cc7fd1506861ed91e4bec0bafc4e84e37989d02ab447e13e468d832bf7f1bde0774e2e5211f0fc1cd",
+  "tags": [
+    [
+      "d",
+      "convenience-matters--but-not-at-the-cost-of-freedom"
+    ],
+    [
+      "title",
+      "Convenience Matters — But Not at the Cost of Freedom"
+    ],
+    [
+      "published_at",
+      "1776904898"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Convenience is not the problem. It’s the reason most tools get adopted. But when convenience is built on top of systems that remove control from the user, the tradeoff becomes invisible—until it isn’t. This piece explores that tension and why it’s worth solving, not rejecting."
+    ],
+    [
+      "display_date",
+      "2026-04-22"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4_wednesday.jpg"
+    ],
+    [
+      "t",
+      "sovereignty. freedom"
+    ],
+    [
+      "t",
+      "ownership. ux"
+    ],
+    [
+      "t",
+      "localfirst. continuum"
+    ],
+    [
+      "e",
+      "b27494539cb394e193fefc2974b1e82b9819feb6311cd1a2a91d5a453c54c092",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

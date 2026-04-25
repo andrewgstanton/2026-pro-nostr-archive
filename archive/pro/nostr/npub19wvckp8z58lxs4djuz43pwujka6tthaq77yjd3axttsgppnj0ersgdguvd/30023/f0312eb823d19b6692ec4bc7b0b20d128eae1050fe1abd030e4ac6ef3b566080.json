@@ -1,0 +1,68 @@
+{
+  "content": "Andrew G. Stanton - Thursday, April 23, 2026\n\n---\n\nAt a certain point, every conversation about money reduces to a simpler question.\n\nNot about interest rates, inflation targets or policy decisions. \n\n---\n\nBut about control.\n\n---\n\nWho controls the money supply?\n\nAnd how?\n\n---\n\nThere are two fundamentally different answers to that question.\n\n---\n\nThe first is deterministic.\n\nThe second is governed.\n\n---\n\nBitcoin represents the deterministic model.\n\nThe Federal Reserve represents the governed model.\n\n---\n\nThis is not just a technical distinction.\n\nIt’s a philosophical one.\n\n---\n\nIn a deterministic system, the rules are set in advance.\n\nThey are transparent, predictable and enforced without discretion.\n\n---\n\nBitcoin’s supply follows a known schedule.\n\nIt cannot be changed in response to economic conditions.\n\nIt does not adapt based on external events.\n\n---\n\nThis is often seen as a limitation.\n\nBut it is also the point.\n\n---\n\nBecause determinism removes a specific kind of uncertainty:\n\nThe uncertainty introduced by human decision-making.\n\n---\n\nIn a governed system, the opposite is true.\n\nThe system is designed to adapt.\n\nTo respond.\n\nTo intervene when necessary.\n\n---\n\nThe Federal Reserve operates this way.\n\nIt manages the money supply through policy.\n\nIt adjusts based on economic data.\n\nIt responds to crises, instability, and changing conditions.\n\n---\n\nThis is often seen as a strength.\n\nAnd in some contexts, it is.\n\n---\n\nBut it introduces a different kind of uncertainty.\n\n---\n\nNot whether the rules will be followed.\n\nBut what the rules will be tomorrow.\n\n---\n\nBecause in a governed system, the rules are not fixed.\n\nThey are interpreted and adjusted\n\nSometimes redefined entirely.\n\n---\n\nThis creates a different relationship between individuals and money.\n\n---\n\nIn a deterministic system, trust is placed in the rules.\n\nIn a governed system, trust is placed in the decision-makers.\n\n---\n\nThat distinction matters more than it might appear.\n\n---\n\nBecause trust is not neutral.\n\nIt shapes incentives, behavior and expectations over time.\n\n---\n\nIn a deterministic system, long-term predictability is high.\n\nYou know the supply curve, the constraints - \nAnd you know that no one can intervene to change it.\n\n---\n\nThis encourages a certain kind of thinking.\n\n- Long-term planning.  \n- Low time preference.  \n- A focus on preservation rather than manipulation.\n\n---\n\nIn a governed system, flexibility is higher.\n\nThe system can respond to shocks.\n\nIt can attempt to stabilize markets.\n\nIt can adjust course when conditions change.\n\n---\n\nBut that flexibility comes with trade-offs.\n\n---\n\nShort-term decisions can override long-term consistency.\n\nPolicies can shift based on changing priorities.\n\nAnd individuals must constantly interpret not just the system—but the intentions behind it.\n\n---\n\nThis leads to a different kind of behavior.\n\n- More sensitivity to policy changes.  \n- More focus on timing. \n- More dependence on interpreting signals from those in control.\n\n---\n\nNeither system is “perfect.”\n\nThat’s not the point.\n\n---\n\nThe point is that they solve different problems.\n\n---\n\nA deterministic system prioritizes predictability.\n\nA governed system prioritizes adaptability.\n\n---\n\nAnd those priorities are not easily reconciled.\n\n---\n\nBecause increasing one often reduces the other.\n\n---\n\nMore flexibility means less predictability.\n\nMore predictability means less flexibility.\n\n---\n\nThis is the trade-off at the heart of modern money.\n\n---\n\nBitcoin chooses one side.\n\nThe Federal Reserve chooses the other.\n\n---\n\nAnd once you understand that, many other debates become clearer.\n\n---\n\nQuestions about inflation, stability and intervention.\n\n\nThey all flow from this deeper divide.\n\n---\n\nNot just how money is managed.\n\nBut whether it should be managed at all.\n\n---\n\nThat is the question underneath everything else.\n\n---\n\nAnd it’s not a new question.\n\n---\n\nBut it is being asked again—more clearly than it has been in a long time.\n\n---\n\nBecause for the first time in the digital age, there is a real alternative.\n\n---\n\nNot theoretical or hypothetical.\n\nOperational.\n\n---\n\nAnd that changes the conversation.\n\n---\n\nNot by forcing an answer.\n\nBut by making the question unavoidable.",
+  "created_at": 1777085512,
+  "id": "f0312eb823d19b6692ec4bc7b0b20d128eae1050fe1abd030e4ac6ef3b566080",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d209c87b3cdd059a7125a9410952ebceabf028af7b50adcc92404cdaa9cdac85c655410b1f5549ee4e7581c50f5ad3b67177c80c70095ab3b594fc95e495d0b7",
+  "tags": [
+    [
+      "d",
+      "two-models-of-money"
+    ],
+    [
+      "title",
+      "Two Models of Money"
+    ],
+    [
+      "published_at",
+      "1777085512"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "An exploration of two fundamentally different approaches to money: deterministic systems governed by fixed rules, and managed systems governed by human decision-making."
+    ],
+    [
+      "display_date",
+      "2026-04-23"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "economics"
+    ],
+    [
+      "t",
+      "money"
+    ],
+    [
+      "t",
+      "FirstPrinciples"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "e",
+      "a7a253f2b117b74145f766c3b2704bb17597778c24128ac1abcbbd23ea64580b",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

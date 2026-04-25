@@ -1,0 +1,63 @@
+{
+  "content": "Andrew G. Stanton - Saturday, April 25, 2026\n\n---\n\nThis past week was not dramatic.\n\nNo major feature launches.  \nNo big announcements.  \n\nBut it was important.\n\nI spent most of the week improving how Continuum is presented — especially on mycontinuum.xyz — and getting back into a consistent writing rhythm.\n\nThat matters more than it sounds.\n\n---\n\nOn the site side, I added a few key pages:\n\n- Books page (4/20)  \n- Open Source page (4/21)  \n- Why Continuum page (4/24)\n\nEach one fills a gap that was there before.\n\nThe Books page makes it obvious how to actually get what I’ve written — including ordering direct.  \nThe Open Source page clarifies where things stand today (and where they’re going).  \nAnd the Why Continuum page addresses the real question people have, whether they say it or not:\n\nWhy does this matter?\n\nThat page is probably the most important addition this week.\n\n---\n\nI also updated the Books page again on 4/23 to make direct ordering clearer.\n\nThat might sound small, but it’s not.\n\nIf someone wants to support the work, it should be obvious how to do it — without friction, without confusion.\n\n---\n\nThen there were a lot of smaller changes that don’t show up as headlines:\n\n- Fixing buttons  \n- Adjusting links  \n- Making sure everything renders correctly across Chrome, Safari, and Brave  \n\nThis is the kind of work that’s easy to overlook, but it’s what determines whether someone sticks around or leaves.\n\nIf something doesn’t load right, or a button doesn’t behave the way it should, people don’t debug it — they just move on.\n\n---\n\nI also spent time updating the styling on stories.mycontinuum.xyz and verifying that all links there work correctly.\n\nThat site is simple by design, but it still has to feel coherent and reliable.\n\nIf the experience is broken or inconsistent, it undermines the whole idea — even if the content itself is solid.\n\n---\n\nAt the same time, I started writing again at a steady pace:\n\n3 articles per day  \n3 notes per day  \n\nThat’s probably the most meaningful shift this week.\n\nBecause Continuum isn’t just software.\n\nIt’s ideas, authorship and a body of work that compounds over time.\n\nAnd that only happens if I actually publish consistently.\n\n---\n\nIf I step back, this week was really about one thing:\n\nMaking Continuum easier to understand.\n\nNot easier in the sense of dumbing it down.  \nBut just clearer, more direct and accessible. \n\nSomething someone can land on and start to grasp without needing a long explanation.\n\n---\n\nIt’s tempting to chase big visible progress.\n\nNew features. New systems. Something you can point to.\n\nBut this week was a reminder that a lot of the real work looks like this instead:\n\n- Tightening language\n- Fixing edges.  \n- Removing friction.  \n- Showing up and writing every day.\n\n---\n\nNothing here changes everything overnight.\n\nBut this is the kind of work that compounds.\n\nAnd right now, that’s exactly what matters.",
+  "created_at": 1777142649,
+  "id": "e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4e97a178df29d5224878c5c2e3fac30579a7a18ce1ae6ab579d849dacc80023fa99cd31d60eea0b040fa02459c9ef0a545f9a1c07eae73b5e1b7f6ab76bbd465",
+  "tags": [
+    [
+      "d",
+      "week-of-april-1925--quiet-progress-that-actually-matters"
+    ],
+    [
+      "title",
+      "Week of April 19–25 — Quiet Progress That Actually Matters"
+    ],
+    [
+      "summary",
+      "This week wasn’t about big new features. It was about clarity — tightening the message, improving the sites, and getting back into a real writing rhythm. Not flashy, but necessary."
+    ],
+    [
+      "published_at",
+      "1777142649"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "weekly"
+    ],
+    [
+      "t",
+      "progress"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "display_date",
+      "2026-04-25"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7_saturday.jpg"
+    ]
+  ],
+  "published": 1
+}

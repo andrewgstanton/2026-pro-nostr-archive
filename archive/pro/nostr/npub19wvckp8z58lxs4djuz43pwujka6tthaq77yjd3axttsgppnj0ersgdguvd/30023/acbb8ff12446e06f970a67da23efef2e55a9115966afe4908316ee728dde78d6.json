@@ -1,0 +1,68 @@
+{
+  "content": "Andrew G. Stanton - Wednesday, April 22, 2026\n\n---\n\nLocal-first isn’t the hard part, at least not in the way most people assume.\n\nI built Continuum with ownership and control at the center.\n\nThat was the priority.\n\nNot ease of use, onboarding, or polish.\n\nThose things mattered, but they came second.\n\nThe goal was to make sure that what you create is actually yours.\n\nThat your identity isn’t tied to an account, and that your work doesn’t live inside a system you don’t control.\n\nAnd that part is working (actually really well now).\n\nBut over the last month, something has become clearer.\n\nSome of the friction in Continuum is just product work that needs to be improved.\n\nThe onboarding can be simpler.  \nThe flow can be clearer.  \nThe language can be more direct.  \n\nThat part is on me.\n\nBut there’s another part that’s different.\n\nContinuum runs locally.\n\nThere’s no default account.  \nNo central system holding everything together.  \n\nThat changes the experience from the very beginning.\n\nYou don’t just open a website and start typing.\n\nThere’s a step before that.\n\nAnd that step matters.\n\nIt’s part of what makes ownership real.\n\nBut it also introduces friction that most people aren’t used to.\n\nThat’s not something I can completely remove.\n\nBut I can make it feel more natural.\n\nRight now, the friction shows up in smaller ways:\n\n- needing to understand what an “identity” is  \n- switching between identities  \n- knowing when something is saved vs published  \n- understanding what actually happens when you click “publish”  \n\nNone of these things are inherently difficult.\n\nBut together, they create just enough resistance that a new user has to slow down and think.\n\nAnd that’s the problem.\n\nMost people don’t want to slow down and think just to get started.\n\nThey want to open something and use it immediately.\n\nIf local-first isn’t the hard part, then why isn’t everyone doing it?\n\nBecause most of what makes modern tools feel simple depends on central control.\n\nA single account.  \nA single source of truth.  \nA system that quietly manages everything for you.  \n\nThat makes onboarding easy.  \nIt makes the experience consistent.  \nAnd it removes a lot of decisions from the user.  \n\nBut it also creates dependency.\n\nWhen you don’t have that central layer, you have to solve those problems differently.\n\nYou still need things to feel simple.\n\nBut you can’t rely on:\n\n- a single account to anchor everything  \n- a backend to resolve conflicts  \n- a system that hides complexity by taking control  \n\nThat’s where the real difficulty shows up.\n\nNot in running something locally.\n\nBut in designing an experience that feels just as natural without relying on those shortcuts.\n\nThat’s a much harder problem.\n\nAnd it’s the one I’m working through now.\n\nBecause if it isn’t simple, most people won’t use it.\n\nAnd if people don’t use it, it doesn’t matter how important the underlying ideas are.\n\nThat’s the reality.\n\nSo the goal isn’t just to be different.\n\nIt’s to make something that people can actually use without having to think about it first.\n\nAnd that’s what I’m working toward.",
+  "created_at": 1776907558,
+  "id": "acbb8ff12446e06f970a67da23efef2e55a9115966afe4908316ee728dde78d6",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "31b0868451e217137fb482ea24f6bfc0cf763c62e9ede0a50e21d47eff8c72e63e10e25c01876a28179a1a162d41e3274cdab82e6dbbc1ef53a1010893345cc2",
+  "tags": [
+    [
+      "d",
+      "make-the-easy-path-the-sovereign-path"
+    ],
+    [
+      "title",
+      "Local-First Isn’t the Hard Part"
+    ],
+    [
+      "published_at",
+      "1776907558"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "I built Continuum with ownership and control at the center. Over time, I’ve realized that the real challenge isn’t the local-first model itself—it’s designing something that is just as simple and intuitive as the alternatives without giving up those principles."
+    ],
+    [
+      "display_date",
+      "2026-04-22"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4_wednesday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "ux"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "design"
+    ],
+    [
+      "e",
+      "e251f98b698885aac773b30ca42a9e5e832ffe0c82668c88b66077f465fade1c",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
