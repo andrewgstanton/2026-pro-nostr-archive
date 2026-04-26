@@ -1,0 +1,27 @@
+{
+  "content": "Not much development today -\n\nmore tweaks on the site and and more brainstorming w/ ChatGPT.\n\nWrote more articles and notes about \"Who owns your identity?\" and a few others.",
+  "created_at": 1777233014,
+  "id": "4460bd77fff82987f728c06feaab0a4b373bd9905dd3d62391d041b049b63e37",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c2305fe00ab909722b6696fada9345f5b8a516458135cdbb5f3f6c6b0c70c474e7a370299111506ee957265d79ea189b2ad71a1a0c27590501c994b5d8ca74da",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-april-24-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, April 24, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

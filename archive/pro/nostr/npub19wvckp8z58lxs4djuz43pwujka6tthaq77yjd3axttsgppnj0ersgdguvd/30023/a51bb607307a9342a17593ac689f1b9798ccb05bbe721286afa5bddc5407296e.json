@@ -1,0 +1,31 @@
+{
+  "content": "Tried to reflect today for the Sabbath.\n\nWrote a few pieces on the Sabbath (articles) and also summarized the week (which I think I will do now every Saturday.\n\nSome brainstorming w/ ChatGPT about designing a simple iOS App (no dev just some design ideas)",
+  "created_at": 1777232167,
+  "id": "a51bb607307a9342a17593ac689f1b9798ccb05bbe721286afa5bddc5407296e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "939c5b28c1fc150fbef37633675ab4da303344110e3c4c9f52b9ada8274ebf41f416d2c72347af2308f8495f3c6c7aeb87f92f33507d61caa3338292b1807432",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-april-25-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, April 25, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-04-25"
+    ]
+  ],
+  "published": 0
+}
