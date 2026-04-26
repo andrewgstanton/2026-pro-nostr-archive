@@ -1,0 +1,43 @@
+{
+  "content": "4/25/2026 - Creation Happens Before Publishing\n\nWhat Git gets right about code, Continuum applies to writing.\n\n---\n\nIn most writing tools:\n\nYou write something.  \nYou post it.  \nThat’s when it becomes real.\n\n---\n\nGit works differently.\n\nYou make a commit.  \nNow it exists.  \nPushing is optional.\n\n---\n\nContinuum follows the same idea.\n\nYou write something.  \nYou sign it.  \nNow it exists.\n\nPublishing is separate.\n\n---\n\nThat’s the shift.\n\nCreation does not depend on the network.  \nPublishing is just distribution.\n\n---\n\nLike Git, the work exists before it’s pushed.\n\nContinuum just applies that idea to writing.\n\n#continuum #git #localfirst #authorship",
+  "created_at": 1777165312,
+  "id": "48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bf73fc7183778d1eca7fa871fb249dd2ebf495c652e643f286d19e27c337b92121de088f1f33120658bd9de53e0e31cb5ee45f1deb4ce11704e74d9e4b9b2602",
+  "tags": [
+    [
+      "d",
+      "note-1777165312"
+    ],
+    [
+      "published_at",
+      "1777165312"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "git"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "authorship"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

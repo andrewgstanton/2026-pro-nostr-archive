@@ -1,0 +1,39 @@
+{
+  "content": "4/25/2026 - There’s always something unfinished.\n\nSomething I could keep pushing on, refining, or trying to complete.\n\nIf I wait for everything to feel “done” before I step away, it never really happens.\n\nSo I’m learning (slowly) to leave things where they are.\n\nNot because they’re finished, but because they don’t have to be right now.\n\n#Sabbath #Rest #Process",
+  "created_at": 1777150638,
+  "id": "6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "83d47fd3253f0a6f865e457ebca5ac587c43098f036dd064fe852136d4e688e3481aa5bb21c3083be4d6b70f48dbd15060a7b2c4fb3119b3b1ce88bc7acf7ead",
+  "tags": [
+    [
+      "d",
+      "note-1777150638"
+    ],
+    [
+      "published_at",
+      "1777150638"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "process"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

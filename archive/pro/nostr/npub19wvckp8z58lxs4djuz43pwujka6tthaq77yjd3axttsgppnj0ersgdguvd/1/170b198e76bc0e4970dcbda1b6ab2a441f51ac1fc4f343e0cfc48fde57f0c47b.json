@@ -1,0 +1,43 @@
+{
+  "content": "4/25/2026: When Does the Work Actually Exist?\n\nMost tools tie creation to publishing. Continuum separates them. That changes everything.\n\nThese tools work like this:\n\nYou write something.  \nYou post it.  \nThat’s when it becomes real.\n\nEven if the key is local.  \nEven if the app runs on your machine.\n\nThe act of publishing is still what creates the thing.\n\n---\n\nContinuum is different.\n\nYou write something.  \nYou sign it.  \nNow it exists.\n\nCompletely. Locally. Independently.\n\nPublishing is optional.\n\n---\n\nThat’s the difference.\n\nMost systems are built around posting.  \nContinuum is built around authorship.\n\n---\n\nA draft is not the same as finished work.\n\nA draft can change.  \nA signed event is complete.\n\n---\n\nIn most apps, nothing is final until you post it.\n\nIn Continuum, it’s final when you sign it.\n\n---\n\nThis changes how you can work:\n\n- you can write and sign completely offline  \n- you can sign on one machine and publish from another  \n- you can maintain a complete archive of your work locally  \n\n---\n\nPublishing doesn’t create the work.\n\nIt just shares it.\n\n\n#continuum #nostr #localfirst #authorship",
+  "created_at": 1777164024,
+  "id": "170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b2420ab064826c25edd0182a9c85306df06647fd44a7ff838179e65e73ef37aa6c54425a685024b4b54a50203f94a7469bd68cf25c899736266e30005745481f",
+  "tags": [
+    [
+      "d",
+      "note-1777164024"
+    ],
+    [
+      "published_at",
+      "1777164024"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "authorship"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

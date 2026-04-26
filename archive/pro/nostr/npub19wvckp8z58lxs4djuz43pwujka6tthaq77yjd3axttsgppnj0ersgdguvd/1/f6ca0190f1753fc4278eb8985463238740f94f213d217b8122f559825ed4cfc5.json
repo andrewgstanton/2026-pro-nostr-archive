@@ -1,0 +1,43 @@
+{
+  "content": "4/25/2026 - I’m starting to see that stopping work doesn’t automatically lead to rest.\n\nI can step away from everything and still feel like I’m carrying it.\n\nSo maybe the real question isn’t whether I’m working or not.\n\nIt’s whether I’ve actually let go of it, even for a little while.\n\n#Sabbath #Rest #Work #Faith",
+  "created_at": 1777150045,
+  "id": "f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b3bc042f026b70a7e42d54ca881fa1060b794a64863cd56f0b4c78c64b613b9ca7cbcc132373c933692623c560f9431bbe3f7746751797416cc41a1f883fb9dd",
+  "tags": [
+    [
+      "d",
+      "note-1777150045"
+    ],
+    [
+      "published_at",
+      "1777150045"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "work"
+    ],
+    [
+      "t",
+      "faith"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
