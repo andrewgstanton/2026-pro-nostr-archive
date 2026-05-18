@@ -1,0 +1,63 @@
+{
+  "content": "5/8/2025 - Another interesting direction is the idea of a “composite signer.”\n\nRight now, identities are mostly treated independently:\n- one Nostr identity\n- one PGP identity\n- one Bitcoin identity\n- one SSH identity\n\nBut increasingly I’m thinking about a higher-level abstraction:\n\na composite signing authority composed of multiple underlying identities.\n\nFor example:\n\n“Andrew Stanton”\ncould internally contain:\n- several Nostr identities\n- multiple PGP fingerprints\n- Bitcoin signing identities\n- SSH identities\n\nall grouped into a single composite signer profile.\n\nThen when signing an artifact, Continuum could:\n- apply all configured proofs automatically\n- generate a unified manifest\n- preserve identity relationships\n- support optional proof policies\n\nThis becomes especially interesting because different ecosystems trust different proof systems.\n\nSome people may only care about:\n- PGP\n- Bitcoin\n- SSH\n- Nostr\n\nThe composite signer allows all of those identities to travel together coherently.\n\nAnd importantly:\nthe abstraction shifts away from “accounts”\ntoward “cryptographic authority groups.”\n\nThat feels much closer to how identity actually works in the real world.\n\nA person, organization, or project rarely has:\n- one key\n- one identity\n- one trust system\n\nInstead they operate through overlapping cryptographic authorities.\n\nThe composite signer starts modeling that reality much more directly.\n\n#Continuum #Nostr #Bitcoin #OpenSource #LocalFirst #PGP #SSH #Cryptography #Sovereignty",
+  "created_at": 1778300651,
+  "id": "dce7ffcf61be6a902f209bfaf54884d6cbf73e44294b909457187442d3482452",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bf713005d6815f9b050a8786682e7cff810d0838d6cb5dcbd014f9ef0e985b2aefbc6b4216821ca83223e868a5d728238a840133ec2a4da1dd2dbdf31fc17cf4",
+  "tags": [
+    [
+      "d",
+      "note-1778300651"
+    ],
+    [
+      "published_at",
+      "1778300651"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

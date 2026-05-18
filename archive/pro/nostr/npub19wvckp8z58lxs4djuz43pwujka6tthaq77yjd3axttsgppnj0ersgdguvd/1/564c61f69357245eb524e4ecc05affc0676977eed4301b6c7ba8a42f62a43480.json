@@ -1,0 +1,27 @@
+{
+  "content": "5/11/2026 The Vault\n\nBuilt the first fully functional Vault v1 for Continuum in under 8 hours yesterday.\n\nWhat surprised me most was not the speed itself.\n\nIt was realizing how naturally the Vault fit into the existing architecture.\n\nBecause Continuum already had:\n\n* local workspace management\n* encrypted workflows\n* signing identities\n* proof systems\n* backup/export flows\n* artifact verification\n\nThe Vault was not really a separate system.\n\nIt was another expression of the same philosophy:\nlocal-first ownership and authority.",
+  "created_at": 1778524293,
+  "id": "564c61f69357245eb524e4ecc05affc0676977eed4301b6c7ba8a42f62a43480",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5c5173903be2065e50b0251510cac521149b9675b2ab2efbbaefa2be052793331be4679c839ca3ec2550e520ab527fef1140ca270a8f891a6fc40d65079bc419",
+  "tags": [
+    [
+      "d",
+      "note-1778524293"
+    ],
+    [
+      "published_at",
+      "1778524293"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

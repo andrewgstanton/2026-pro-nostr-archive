@@ -1,0 +1,51 @@
+{
+  "content": "5/7/2026 -Continuum is becoming something much broader than “a Nostr client.”\n\nThat became very clear today.\n\nThe core abstraction is starting to look more like:\n\nlocal-first sovereign signing identities\n\nWhere:\n\n* signing\n* publishing\n* attestation\n* authentication\n* verification\n* distribution\n\nare all separate concepts.\n\nMost systems collapse all of those together.\n\nOnce you separate them, very different possibilities emerge.\n\nTomorrow I want to:\n\n* add SSH signing identities\n* build the complementary “Verify Artifact” flow\n\nwhich will locally verify:\n\n* PGP signatures\n* Bitcoin attestations\n* Nostr Schnorr attestations\n* later SSH proofs as well\n\n#Continuum #Nostr #Bitcoin #OpenSource #Identity #LocalFirst",
+  "created_at": 1778215670,
+  "id": "36f1592b693f450e7b95b5bf3512e61dcbbdde23822a4e1bd4c34078c61fe45a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e59727a438a8de5fc5cd90e009964e3a50a564948e218ad15bfe356ffcd7501c1bfbd902e4809863a47993ac3fdbbe221adc3562ea24bbd7cea7698e1d3f3d9d",
+  "tags": [
+    [
+      "d",
+      "note-1778215670"
+    ],
+    [
+      "published_at",
+      "1778215670"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

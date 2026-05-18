@@ -1,0 +1,27 @@
+{
+  "content": "5/11/2026 Interesting realization\n\nContinuum is slowly becoming a unified local authority workspace.\n\nNot just a Nostr client.\n\nNot just publishing.\n\nThe same environment now manages:\n\n* Nostr identities\n* PGP keys\n* SSH identities\n* Bitcoin signing identities\n* encrypted artifacts\n* secure vault entries\n* drafts and archives\n\nWhat ties these together is not “crypto.”\n\nIt is authority.\n\nWho controls the keys.\nWho controls the workspace.\nWho controls the secrets.\nWho controls the publishing authority.\n\nThat feels increasingly important in an AI-driven world built around centralized platforms and hosted dependency.",
+  "created_at": 1778524169,
+  "id": "503182a11b66a41663bdd113df9a3847639774af245589e40eda5edb9b4db604",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "87a30747525e32f0e6aba95c6eeea553121b9864393ead7f828053dbd4073ffc4bb6cd057de7a119a34477f6c157446b352f701ffd1101b3dbc6ebfc2f0c0b88",
+  "tags": [
+    [
+      "d",
+      "note-1778524169"
+    ],
+    [
+      "published_at",
+      "1778524169"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

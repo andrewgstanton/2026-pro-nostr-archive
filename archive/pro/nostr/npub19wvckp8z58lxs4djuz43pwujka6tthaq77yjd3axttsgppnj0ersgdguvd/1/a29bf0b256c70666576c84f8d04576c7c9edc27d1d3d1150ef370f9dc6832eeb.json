@@ -1,0 +1,63 @@
+{
+  "content": "5/8/2026 -- SSH + Verify Bundle\n\nYesterday Continuum already supported:\n\n- Nostr signing + proofs\n- PGP signing + proofs\n- Bitcoin signing + attestations\n\nIt could already generate signed artifact bundles containing:\n- the artifact itself\n- manifests\n- detached proofs\n- signer metadata\n- multiple cryptographic attestations\n\nToday completed the loop.\n\nTwo major missing pieces were added:\n\n- SSH signing identities + SSH proofs\n- the “Verify Signed Artifact Bundle” flow\n\nThat changes the system substantially.\n\nBecause now Continuum is not merely generating sovereign proof bundles.\n\nIt can also independently verify them locally.\n\nA signed package can now contain:\n- Nostr proofs\n- PGP signatures\n- Bitcoin attestations\n- SSH proofs\n\nalongside manifests, signer metadata, fingerprints, and verification data —\nall bundled together into a portable artifact package.\n\nAnd Continuum can verify the entire bundle locally.\n\nNo relay required.\nNo hosted service required.\nNo external verification platform required.\n\nJust the artifact and the proofs traveling together.\n\nThat feels like an important architectural milestone.\n\nEspecially because these proof systems originated from completely different worlds:\n\n- PGP → email + software verification\n- SSH → infrastructure authorization\n- Bitcoin → sovereign monetary identity\n- Nostr → decentralized publishing\n\nYet all of them reduce down to the same primitive:\n\ncryptographic authority attached to an artifact.\n\nThe interesting realization is that the bundle itself is becoming the durable object.\n\nNot the platform.\nNot the account.\nNot the relay.\n\nThe signed artifact bundle.\n\n#Continuum #Nostr #Bitcoin #OpenSource #LocalFirst #PGP #SSH #Cryptography #Sovereignty",
+  "created_at": 1778291945,
+  "id": "a29bf0b256c70666576c84f8d04576c7c9edc27d1d3d1150ef370f9dc6832eeb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "56b8a8937bda761364309580a1347c0d7e27d32f4ba47b9f23267ebb7eefd8098756b1fb6cb91a0cb5c5bfb772daec1cec60fdd0b628d2db6ceceb8f32d317bc",
+  "tags": [
+    [
+      "d",
+      "note-1778291945"
+    ],
+    [
+      "published_at",
+      "1778291945"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

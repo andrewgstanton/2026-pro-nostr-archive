@@ -1,0 +1,27 @@
+{
+  "content": "This is a very interesting article \n\nGot me thinking..",
+  "created_at": 1778602026,
+  "id": "e555deb758bb8c9b027b6f1d7a81f05aab6c514cd7d9c97d5f8a979916461d7f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "036474deddf2fc0b7e1a3de0f86a511dc10b1e43c066c1dc93cc324dd98dbeaf481487de73668200fbc18e6ca82781190b051e75002c6e309b10d53b4298031c",
+  "tags": [
+    [
+      "a",
+      "30023:fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5:the-pricing-wall-just-came-down--and-most-local-business-owners-havent-noticed",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

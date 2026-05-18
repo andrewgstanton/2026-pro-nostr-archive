@@ -1,0 +1,27 @@
+{
+  "content": "5/11/2026 AI and automation are pushing the cost of digital production toward zero.\n\n- Infinite content.\n- Infinite code.\n- Infinite media.\n- Infinite synthetic noise.\n\nIronically, that makes a few things more valuable:\n\n* trust\n* authorship\n* signatures\n* provenance\n* identity\n* local ownership\n\nThat is increasingly where Continuum is focused.\n\nNot just publishing content.\n\nBut managing authority itself.",
+  "created_at": 1778524386,
+  "id": "f548b5f1d3fa4dc79ae1390c530915cfa9e5f217d78f1c7445cb1dbbdaed98e4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ba529918d4460b20002eed322278dee0e55a83bd5d42789ba23b114bf32d64860681a4c59a9d4d932036fb8163a45fdc58b9b4ab279975d9a66f740bdcfc6550",
+  "tags": [
+    [
+      "d",
+      "note-1778524386"
+    ],
+    [
+      "published_at",
+      "1778524386"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

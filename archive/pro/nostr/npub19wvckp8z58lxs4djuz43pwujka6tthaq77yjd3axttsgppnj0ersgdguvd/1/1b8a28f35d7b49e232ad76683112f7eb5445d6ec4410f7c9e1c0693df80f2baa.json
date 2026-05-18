@@ -1,0 +1,63 @@
+{
+  "content": "5/8/2026 - One interesting possibility now that the “Verify Signed Artifact Bundle” flow is working:\n\nthe bundle itself can continue evolving as it moves between people.\n\nFor example:\n\nI could generate a signed artifact bundle containing:\n- the artifact\n- manifests\n- Nostr proofs\n- PGP proofs\n- Bitcoin attestations\n- SSH proofs\n\nThen send that zip bundle to another Continuum user.\n\nThat user could:\n- verify all existing proofs locally\n- inspect the manifests/signers\n- add their own attestations\n- generate an updated bundle\n- pass it forward again\n\nAt that point, the bundle starts becoming something more collaborative.\n\nNot merely:\n“who originally authored this?”\n\nBut also:\n“who independently verified or endorsed this artifact?”\n\nThat becomes especially powerful for same-domain attestations.\n\nFor example:\n- 3 or 4 independent Nostr users attesting\n- multiple Bitcoin identities signing the same artifact\n- several PGP identities verifying the same release\n- multiple SSH authorities approving the same package\n\nThe important part is that these attestations remain:\n- portable\n- local-first\n- independently verifiable\n- append-only\n\nwithout requiring:\n- a blockchain consensus layer\n- a hosted verification service\n- a centralized signing authority\n\nThe artifact bundle itself becomes the evolving container of trust relationships.\n\nThat feels like a very different model from most modern platforms.\n\n#Continuum #Nostr #Bitcoin #OpenSource #LocalFirst #PGP #SSH #Cryptography #Sovereignty",
+  "created_at": 1778300563,
+  "id": "1b8a28f35d7b49e232ad76683112f7eb5445d6ec4410f7c9e1c0693df80f2baa",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9267494a20114c7533b2920f09f3f57c9e9561fb4456a906fd84f8151760126e2fc8fac1263612e85cb2b9fb2fd2828c1d792d2374d1c6a16d53da8e95cc1697",
+  "tags": [
+    [
+      "d",
+      "note-1778300563"
+    ],
+    [
+      "published_at",
+      "1778300563"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,59 @@
+{
+  "content": "# Weekly Update: May 3 – May 9, 2026\n\n- Back to full health after stomach issues. \n- Focused on enhancing Continuum’s identity and artifact ecosystem: added Nostr proof attestations, imported/listed PGP & Bitcoin identities, SSH support, and “Verify Signed Artifact Bundle.” \n- Polished UI workflows and had a productive Zoom call with another developer to refine priorities and identity flows. \n- Continued planning workspace encryption and secure credential storage.\n\n#Continuum #Nostr #Bitcoin #PGP #SSH #WorkspaceSecurity #IdentityManagement #ProofAttestations",
+  "created_at": 1778352478,
+  "id": "14c81d5e6d0088823849b34992857badffc88608b78c49476de1b43a809e7a08",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c5970adcb1fbb4c8d9e0802119a3aa52e2081ba75a2426257e4bf8fce4d690b4da0e1ff165463c940cf576dba99e1088cf544a3490bb0203889e8bd9e793b23a",
+  "tags": [
+    [
+      "d",
+      "note-1778352478"
+    ],
+    [
+      "published_at",
+      "1778352478"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "workspacesecurity"
+    ],
+    [
+      "t",
+      "identitymanagement"
+    ],
+    [
+      "t",
+      "proofattestations"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

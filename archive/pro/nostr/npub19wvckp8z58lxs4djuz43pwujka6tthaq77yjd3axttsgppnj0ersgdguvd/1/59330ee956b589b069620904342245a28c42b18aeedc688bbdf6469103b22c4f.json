@@ -1,0 +1,51 @@
+{
+  "content": "5/7/2026 - One of the most interesting parts of today:\n\nI’m not creating “special Nostr events” for artifact attestations.\n\nI’m simply using the Nostr private key to sign a canonical message about an external artifact.\n\nThat distinction matters.\n\nThe proof file is completely separate from the artifact itself:\n\n* tax_return.pdf\n* tax_return.pdf.nostr-proof.json\n\nThe JSON contains:\n\n* artifact SHA256\n* npub\n* pubkey\n* signed message\n* Schnorr signature\n* timestamp\n\nVery similar conceptually to:\n\n* PGP detached signatures\n* Bitcoin message attestations\n\nAt some point you realize:\nPGP, Bitcoin, Nostr, SSH…\n\nthey are all variations of:\nchallenge → sign → verify\n\n#Continuum #Nostr #Bitcoin #SSH #PGP #DigitalSovereignty",
+  "created_at": 1778215544,
+  "id": "59330ee956b589b069620904342245a28c42b18aeedc688bbdf6469103b22c4f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "226369f2bb0dc7dc05e55aa2a304652ad608c9f1148ea4fcb387365d4c7b67553df651b79214ec9dc435a547577fb9b92469afe2a4bd13244b20b7b94ee62101",
+  "tags": [
+    [
+      "d",
+      "note-1778215544"
+    ],
+    [
+      "published_at",
+      "1778215544"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

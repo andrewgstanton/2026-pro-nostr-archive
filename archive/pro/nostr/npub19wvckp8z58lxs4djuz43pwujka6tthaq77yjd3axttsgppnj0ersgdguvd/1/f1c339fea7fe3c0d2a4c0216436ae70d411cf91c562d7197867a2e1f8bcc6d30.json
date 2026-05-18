@@ -1,0 +1,16 @@
+{
+  "content": "Today was significant because the authentication flow finally worked end-to-end without usernames or passwords.\n\nInstead of creating an account and storing credentials in a centralized database, the service verified a signed proof generated locally from the user’s identity.\n\nIn practice, this means your public key can become your login.\n\nAs long as your signer is available locally, you can theoretically authenticate to any compatible service without creating separate accounts everywhere.\n\nThe platform does not own your identity anymore. It only verifies your proof.",
+  "created_at": 1778823979,
+  "id": "f1c339fea7fe3c0d2a4c0216436ae70d411cf91c562d7197867a2e1f8bcc6d30",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3b557d0f1867403c22eeb0a72b839a371c5caae6f3de169f5ada7af04c027e9a46727f0de264f724665b091f47de336c13719f917e9a29a1aa67db6837fa3cc8",
+  "tags": [],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

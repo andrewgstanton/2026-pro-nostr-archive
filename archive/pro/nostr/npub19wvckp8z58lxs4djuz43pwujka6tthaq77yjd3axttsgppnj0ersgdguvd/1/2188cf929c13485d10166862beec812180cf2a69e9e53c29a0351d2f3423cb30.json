@@ -1,0 +1,51 @@
+{
+  "content": "5/7/2026 - Spent most of the last week pretty out of it physically (since around Thursday 4/30), so today honestly surprised me.\n\nWhat started as “let’s add PGP import support” somehow turned into a full local artifact attestation system inside Continuum.\n\nRight now I can sign a PDF, ZIP, markdown file, etc. locally using:\n\n* PGP identities\n* Bitcoin signing identities\n* Nostr identities\n\n…and export a portable verification bundle containing:\n\n* detached signatures\n* Bitcoin proof JSON\n* Nostr proof JSON\n* manifest\n* signers metadata\n* bundled PGP public key\n\nNo relay required.\nNo cloud dependency.\nNo platform needed.\n\nThe deeper realization though is this:\n\na Nostr private key is just a secp256k1 signing authority.\n\nIt does NOT only have to sign relay events.\n\nThat sounds obvious in hindsight but I honestly don’t think most people in Nostr-land think this way because publishing and signing are usually tightly coupled together.\n\n#Continuum #Nostr #Bitcoin #PGP #CyberSecurity #SelfSovereignIdentity",
+  "created_at": 1778215389,
+  "id": "2188cf929c13485d10166862beec812180cf2a69e9e53c29a0351d2f3423cb30",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "27a4536f6cd61d52b601c9e9577719f5866e65377a3c01527bcaf7126c47b3330eaeaffacac3eb425767e1654d21ebab0cd77a2ab1161e197d2d899e302de9eb",
+  "tags": [
+    [
+      "d",
+      "note-1778215389"
+    ],
+    [
+      "published_at",
+      "1778215389"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "cybersecurity"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
