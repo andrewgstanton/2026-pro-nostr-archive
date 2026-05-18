@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Thursday, May 7, 2026\n\n---\n\nThe deeper I go into Continuum, the more convinced I become that the real idea underneath all of this is not actually “social publishing.”\n\nIt is sovereignty.\n\nNot sovereignty in the vague political sense.\n\nNot branding.\nNot slogans.\nNot performance.\n\nBut actual cryptographic authority that remains under local control.\n\nTonight’s work on:\n- PGP identities\n- Bitcoin signing identities\n- Nostr signing identities\n\nmade that increasingly obvious.\n\nWhat Continuum is slowly becoming is not merely:\n- a Nostr client\n- a publishing tool\n- a signing utility\n- a cryptography experiment\n\nIt is increasingly becoming:\n\nA workspace for sovereign signing identities.\n\nThat phrase matters.\n\nBecause identity on the modern web is mostly fake sovereignty.\n\nPeople think they “have accounts.”\n\nBut in reality:\n- platforms own the infrastructure\n- platforms control verification\n- platforms control access\n- platforms can revoke identity\n- platforms mediate trust\n\nOAuth logins feel decentralized.\n\nThey are not.\n\nMost identity today is still fundamentally:\n\n**permissioned** identity.\n\nCryptographic identity changes that relationship.\n\nA private key represents authority that exists independently of the platform.\n\nAnd what became fascinating tonight is that multiple ecosystems all suddenly started converging into the same conceptual framework.\n\nPGP.\nBitcoin.\nNostr.\nSoon SSH.\n\nAt first glance these appear to be completely separate worlds.\n\nDifferent communities.\nDifferent tooling.\nDifferent purposes.\nDifferent cultures.\n\nBut underneath the surface, they all revolve around the same primitive:\n\nprivate key → sign → public verification\n\nThat is the deeper pattern.\n\nAnd once Continuum began supporting:\n- detached signatures\n- external artifact attestations\n- local proof bundles\n\nthe similarities became impossible to ignore.\n\nA detached PGP signature proves:\n\nThe holder of this private key attested to these exact bytes.\n\nA Bitcoin artifact proof says:\n\nThe holder of this secp256k1 private key attested to this exact artifact hash.\n\nA Nostr artifact proof says:\n\nThe holder of this Schnorr signing authority attested to this exact external artifact.\n\nThese are not fundamentally different concepts.\n\nThey are variations of the same deeper idea.\n\nThat realization has philosophical implications far beyond software tooling.\n\nBecause identity itself begins shifting away from:\n\nplatform-mediated identity\n\nand toward:\n\nself-controlled cryptographic authority.\n\nThat does not automatically solve trust.\n\nTrust is still human.\n\nReputation is still human.\n\nBut verification changes dramatically.\n\nYou no longer need:\n- centralized authentication providers\n- centralized trust brokers\n- platform-controlled publishing\n- hosted verification services\n\nYou only need:\n- public verification material\n- the proof\n- the artifact\n\nThat is an entirely different trust architecture.\n\nAnd perhaps the most interesting part is that the proofs themselves are public.\n\nTonight’s generated proof bundle included:\n- detached PGP signature\n- Bitcoin proof JSON\n- Nostr proof JSON\n- signers.json\n- manifest.json\n- bundled PGP public key\n\nAll public.\n\nNo private signing authority exposed.\n\nThat inversion is profound.\n\nPublic proof.\nPrivate authority.\n\nThat may actually be the best short summary of the entire architecture.\n\nThe signer retains control.\nThe verifier gains confidence.\nThe platform becomes optional.\n\nThat is why I increasingly think the core abstraction inside Continuum is not:\n\nsocial publishing\n\nbut rather:\n\nlocal-first cryptographic authority.\n\nAnd once you begin thinking this way, many other possibilities emerge naturally.\n\nChallenge-response authentication.\nPortable attestations.\nOffline verification.\nSelf-sovereign login flows.\nPublic proof bundles.\nCross-protocol identity systems.\n\nEven SSH suddenly fits naturally into the same framework.\n\nAn SSH key is also:\n- challenge-response\n- signing authority\n- public verification\n- local identity\n\nAgain:\n\nDifferent protocol.\nSame primitive.\n\nI do not know how broadly useful this will ultimately become.\n\nMost people may never care.\n\nBut I increasingly suspect that a smaller group of people:\n- developers\n- researchers\n- open-source maintainers\n- Bitcoin builders\n- sovereign computing advocates\n- security-conscious users\n\nwill immediately understand why this matters.\n\nBecause at some point you realize:\n\nidentity does not actually require a platform.\n\nIt only requires:\n- authority\n- proof\n- verification\n\nAnd that changes how you think about the internet itself.",
+  "created_at": 1778218277,
+  "id": "7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e9054eb98febbf9ffc13c1816e26538da5dd85fd7765ac523c695640e3109806253b29d9079e4def2572e1870de2b8e793ea413f1e71df4c648a83a8dff42c66",
+  "tags": [
+    [
+      "d",
+      "sovereign-signing-identities--detached-signatures-sovereign-identity-and-continuum"
+    ],
+    [
+      "title",
+      "Sovereign Signing Identities — Detached Signatures, Sovereign Identity, and Continuum"
+    ],
+    [
+      "summary",
+      "Continuum is increasingly evolving into a local-first workspace for sovereign signing identities. This article explores the philosophical and architectural implications of unifying PGP, Bitcoin, Nostr, and eventually SSH identities under a shared challenge → sign → verify model."
+    ],
+    [
+      "published_at",
+      "1778218277"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "display_date",
+      "2026-05-07"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Up about 9:00\n\nGave Whiskers medication then took him to the park for about 1/2 hour.\n\nVenmo transfer of $2000 to Chase cleared this morning.\n\nIt's interesting.  Sometimes it takes less than a day, sometimes 3-4 days\n\nAnd it depends when it shows up in my Venmo account\n\nIf it shows up in the mornings, transfers usually take less than a day\n\n(the deposit showed up in Venmo in the morning)\n\nI plan on organizing the identity structure (put all the Nostr identities in a \"nostr\" dir",
+  "created_at": 1778953604,
+  "id": "738df596c233293707da6971f1e6b5d73aa2695d1369e66d7603592d7c5a58be",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3ef11f37dba64334df7253e229b7616e36272fa7e9563181c760f271086f22d75c894c4329b7ed3d4e4aa151e3134831df763061d13df156a0be16138cb089bb",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-may-16-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, May 16, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

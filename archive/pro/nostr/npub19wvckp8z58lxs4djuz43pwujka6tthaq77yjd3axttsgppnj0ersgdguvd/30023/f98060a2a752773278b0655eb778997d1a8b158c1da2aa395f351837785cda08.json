@@ -1,0 +1,107 @@
+{
+  "content": "### Continuum Vault v1: From Zero to Functional in Under 8 Hours\n\nYesterday became one of the most productive development days I have had in quite a while.\n\nAround noon, I started building what would become Vault v1 inside Continuum.\n\nBy roughly 7 PM, the full workflow was operational. \n\nNot a mockup.\nNot a prototype screen.\nA real integrated encrypted vault system running directly inside the Continuum workspace.\n\nVault v1 now supports:\n- vault creation and deletion\n- encrypted lock/unlock workflow\n- master password protection\n- local encrypted database storage\n- inline CRUD editing\n- secure backup integration\n- dashboard integration with dynamic controls\n\nThe workflow is simple but powerful:\n\nWhen locked:\n- `vault.db` is encrypted into `vault.db.enc`\n- the plaintext database is deleted\n\nWhen unlocked:\n- `vault.db.enc` is decrypted locally\n- the encrypted version is removed\n- editing becomes available again\n\nAll handled locally inside the Continuum workspace.\n\nNo cloud infrastructure.\nNo hosted vault service.\nNo external dependency.\n\nThe Vault can already securely manage:\n- passwords\n- secure notes\n- API credentials\n- infrastructure metadata\n- recovery phrases\n- operational secrets\n\nWhat is increasingly interesting to me is not merely “building a password manager.”\n\nIt is the realization that Continuum has been converging toward something much broader for a long time.\n\nAt first glance, people often think Continuum is:\n- a Nostr client\n- a publishing tool\n- a local notes system\n\nBut underneath, the architecture has steadily evolved around a deeper concept:\n\nlocal authority.\n\nOver time Continuum has accumulated support for:\n- Nostr identities\n- PGP keys\n- SSH identities\n- Bitcoin signing identities\n- signed artifacts\n- encrypted workflows\n- local archives\n- proof bundles\n- publishing controls\n\nThe Vault is not separate from that philosophy.\n\nIt extends it.\n\nBecause all of these systems ultimately revolve around the same questions:\n- who controls the keys?\n- who controls the workspace?\n- who controls the archive?\n- who controls the authority?\n- who controls the secrets?\n\nMost modern software answers:\n“the platform.”\n\nContinuum increasingly answers:\n“the local workspace.”\n\nThat distinction matters more to me every month.\n\nEspecially as AI, cloud infrastructure, and centralized platforms continue pushing toward:\n- hosted everything\n- subscription everything\n- always-online dependency\n- browser-controlled workflows\n\nThe Vault moves Continuum further in the opposite direction:\n- local-first\n- encrypted-at-rest\n- user-controlled\n- authority-centered\n\nAnd honestly, the speed of implementation surprised even me.\n\nFrom zero to fully operational in under 8 hours is probably one of the clearest demonstrations yet of how much momentum Continuum’s architecture now has internally.\n\nThe foundations are becoming strong enough that entirely new systems can now emerge quickly on top of the workspace model.\n\nStill very early.\n\nBut Vault v1 feels like a genuine turning point.",
+  "created_at": 1778523660,
+  "id": "f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b27fb971a48fb2e34d2e93f9ae14d4254d9b55c1a4ff36e4125dec92d99c4b156ef245cb7f08c8a0a60cd388d110e9eb42267a833fe53eeb08c2edcd55f33c27",
+  "tags": [
+    [
+      "d",
+      "continuum-vault---v1---monday-may-11-2026"
+    ],
+    [
+      "title",
+      "Continuum Vault - v1 - Monday, May 11, 2026"
+    ],
+    [
+      "summary",
+      "Vault v1 became fully operational inside Continuum in under 8 hours. The new system introduces encrypted local vault storage integrated directly into the Continuum workspace, including lock/unlock workflows, CRUD editing, backup support, and master-password-based encryption. More importantly, the milestone reinforces Continuum’s evolution from a publishing platform into a broader local-first authority workspace managing identities, signing systems, encrypted artifacts, and sensitive data under user control."
+    ],
+    [
+      "published_at",
+      "1778523660"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "vault"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "cybersecurity"
+    ],
+    [
+      "t",
+      "selfsovereignty"
+    ],
+    [
+      "t",
+      "encryption"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "builderjournal"
+    ],
+    [
+      "t",
+      "sqlite"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "softwaredevelopment"
+    ],
+    [
+      "display_date",
+      "2026-05-11"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

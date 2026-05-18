@@ -1,0 +1,27 @@
+{
+  "content": "For the first time since maybe during the conference I feel like things are returning to normal.\n\nI had a real bowel moveement today and started eating normally again (last night at fellowship also).\n\nIn the afternoon, with ChatGPT's help I start implementing storing signing identities from PGP \n\n(these could be used to sign for artifacts, lilke pdfs, zips, etc.. with signatures other than Nostr)\n\nIt felt really good to star working again!",
+  "created_at": 1778466941,
+  "id": "f748f75448a7031b3a96698e42b193ad024a424fd7a6e8f1fd104749344ea550",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "50b89e8f0ab0e44db495886eba87f0c666d207071fdc7c85348ed5adf16d75acf622db9ceff689b0aa4aaafc3279c7157a94ea4be1dff851b881bcfa1cae31c0",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-may-6-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, May 6, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

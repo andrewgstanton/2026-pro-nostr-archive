@@ -1,0 +1,27 @@
+{
+  "content": "relaxing and sunny day for the most part\n\nBay To Breakers running through my neighborhood (on Hayes intersecting  steiner and Fillmore ...\n\nI don't remember last time I ran this maybe 2016 or 2018.  Dad was still alive\n\nI don't think we ran since the pandemic (2020s)\n\nThis afternoon I got the encryption/decryption working for the workspace as a whole\n\nmajor milestone\n\nAlso cleaned up a lot of the legacy code (removed references to \"default identity\" directories and folders",
+  "created_at": 1779076595,
+  "id": "c9b940db2e1815ddb47fc286f0cfbf85a829f767a055d5f43a2d354d5d933abc",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "59b5e62d60cc9f1df2efbc0e438305664ba570585677aff9cbc10098871d2f5129737cec63756d1c73e8df03ffcb223e1c13d81952940ae9da1ea0d2effdfc73",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-may-17-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, May 17, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

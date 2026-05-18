@@ -1,0 +1,91 @@
+{
+  "content": "Andrew G Stanton - Monday, May 11, 2026\n\n---\n\n\nArtificial intelligence is accelerating digital abundance.\n\nWe are entering a world where:\n- code can be generated instantly\n- articles can be synthesized endlessly\n- media can be fabricated convincingly\n- analysis can be automated cheaply\n\nThe cost of producing digital artifacts is collapsing.\n\nThat changes the economics of the internet.\n\nFor years, value online often came from:\n- producing information\n- publishing content\n- technical implementation\n- distribution advantage\n\nBut AI increasingly compresses those advantages.\n\nInfinite content becomes possible.\n\nInfinite synthetic media becomes possible.\n\nInfinite generated noise becomes possible.\n\nIronically, this makes a different set of things more valuable.\n\nNot abundance.\n\nScarcity.\n\nSpecifically:\n- authentic identity\n- verifiable authorship\n- trusted signatures\n- durable provenance\n- local ownership\n- controlled authority\n\nThis is one reason I increasingly care about local-first systems.\n\nNot because local software is nostalgic.\n\nAnd not because cloud infrastructure is inherently evil.\n\nBut because authority matters.\n\nEspecially in an AI-heavy world.\n\nIf generated content becomes effectively infinite, then the important question increasingly becomes:\nWho actually authored this?\nWho controls the signing authority?\nWho controls the archive?\nWho controls the identity behind it?\n\nThat is part of what Continuum has been exploring from the beginning.\n\nAt first through publishing.\n\nThen through signing identities.\n\nThen through encrypted workflows and proof systems.\n\nAnd now through Vault v1.\n\nThe Vault may appear at first glance to be “just a password manager.”\n\nBut philosophically it represents something deeper.\n\nIt represents the idea that:\nsensitive authority should remain under local user control whenever possible.\n\nNot because convenience is bad.\n\nBut because dependency has costs.\n\nModern software increasingly encourages users to place:\n- identities\n- credentials\n- archives\n- communication\n- publishing authority\n- operational secrets\n\ninside centralized hosted systems.\n\nThat model works well for scale.\n\nBut it also creates fragility.\n\nA local-first workspace changes the assumptions.\n\nYour workspace becomes:\n- the authority center\n- the archive\n- the signing environment\n- the trusted state\n\nCloud systems can still assist with:\n- synchronization\n- relay distribution\n- backups\n- collaboration\n\nBut they no longer need to fully own the relationship.\n\nThat distinction may become increasingly important as AI-generated environments become harder and harder to distinguish from authentic human authority.\n\nIn some ways, the future internet may depend less on infinite generation…\n\nand more on verifiable trust.",
+  "created_at": 1778524876,
+  "id": "5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "864ad6cdc1b724080d7206fb4236e1fd409edf2db65a263006f7f3a185ef28354a81356f6a8ab91df860dc87181db4afafb86d8aa6f611112207ec7a603fa32c",
+  "tags": [
+    [
+      "d",
+      "why-local-first-software-may-matter-more-in-the-ai-era"
+    ],
+    [
+      "title",
+      "Why Local-First Software May Matter More in the AI Era"
+    ],
+    [
+      "summary",
+      "As AI dramatically lowers the cost of generating content, code, and digital artifacts, the value of trust, authorship, provenance, and local ownership increases. This article explores why local-first systems like Continuum may become more important — not less — in a world dominated by automation and centralized AI infrastructure."
+    ],
+    [
+      "published_at",
+      "1778524876"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "selfsovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "encryption"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "authority"
+    ],
+    [
+      "t",
+      "software"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digitalownership"
+    ],
+    [
+      "display_date",
+      "2026-05-11"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

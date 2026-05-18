@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1778467854,
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-7-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, May 7, 2026"
+    ],
+    [
+      "published_at",
+      "1778467854"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-05-07"
+    ],
+    [
+      "e",
+      "749623e072cb7d5ec3affac25c6cf6f2bbdea6e2990997faa36330561a6b95aa",
+      "edit"
+    ]
+  ],
+  "content": "Continued working on loading other types of (asymetric) identities --\n\ntoday I got bitcoin and ssh keys included and worked out a complete signating package (outputs a zip) that can later be verified (including nostr identities not to \"sign\" events' but artificats just like ssh and pgp and bitcoin private keys\n\nWrote some articles and notes about this milestone\n\n\"portable  Artifacdt Attestations with PGP, Bitcoin and .. Nostr?\" among others.\n\nWe also went to Costco in the early afternoon (between noon and 2:30 PM)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "77764c75e85dfaac07d3d677091c05e596fc4c9016146ad502784e0102c0c31c",
+  "sig": "4d5fc89448434026219f95b5c168be115cbbb8177fa0b5263a2dca6c82a92b49743a67688102de75409f721ad6bde0df3866b8e1904d06c6f6ce78afb985777f",
+  "published": 0
+}

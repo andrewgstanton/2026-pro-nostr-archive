@@ -1,0 +1,27 @@
+{
+  "content": "Spent most of the day building the full set of apis running in a cloudflare worker\nand built a full demo inside continuum (about 8 hours of work.\n\nWe say the movie \"The Proposal\" (w/ Sandra Bullock)",
+  "created_at": 1778904420,
+  "id": "c4b3cf14e6340ecb45be7d3c7509e96ad7d2106ad42e2a7a7363b8331fcb7ecc",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a9bac447782ffe97aab84a011abdd37986d913e18f3ea52cfe9e1cc0df9a57133f19819f5b8ae53e5f9c514237705ffc9c7d01284b481a4afc9fda91be75eabd",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-14-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday May 14, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

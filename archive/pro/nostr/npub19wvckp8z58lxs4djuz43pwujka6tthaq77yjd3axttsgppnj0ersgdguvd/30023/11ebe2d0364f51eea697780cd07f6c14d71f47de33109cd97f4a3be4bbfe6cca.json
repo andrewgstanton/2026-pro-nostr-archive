@@ -1,0 +1,76 @@
+{
+  "content": "Andrew G. Stanton - Saturday, May 2, 2026\n\n---\n\n\nThis past week was different.\n\nLess controlled.  \nMore real.\n\n---\n\nThe center of the week was Bitcoin 2026 in Las Vegas.\n\nI went in not really knowing what to expect.\n\nI brought a few copies of the book — just to see what would happen.\n\nNot trying to push anything.\n\nJust having them there.\n\n---\n\n## Day 1 — Getting a Feel for It\n\nUp early — around 6:15.\n\nBreakfast at the Pyramid Cafe at the Luxor — big burrito, two coffees.  \nHonestly really good, and it lasted most of the day. \n\nUber over to the Venetian.\n\nStayed until around 5:30.\n\n---\n\nA few things stood out right away.\n\nThe schedule felt looser this year.\n\nSpeakers running late — sometimes 15, even 30 minutes.\n\n---\n\nThe overall tone also felt different.\n\nStill a lot of energy.\n\nBut slightly more structured.  \nSlightly more commercial.\n\n---\n\nI spent time in the open source area.\n\nThat felt like the right place.\n\nMore grounded.\n\nMore real conversations.\n\n---\n\nHad a few early conversations.\n\nExplained Continuum.\n\nMentioned SQLite.\n\nGot a simple response back:\n\n“That’s cool — some wallets use that too.”\n\nNot hype.\n\nJust recognition.\n\n---\n\nDidn’t sell any books that day.\n\nJust had them with me.\n\n---\n\n## Day 2 — Where It Actually Happened\n\nSecond day felt different.\n\nMore focused.\n\nUp around 6:30.\n\nQuick breakfast at Starbucks — mocha + sandwich. Just enough. \n\nGot to the conference before 8:30.\n\n---\n\n### The Morning (Open Source Area)\n\nThis was the most important part of the entire week.\n\nOne conversation after another.\n\n---\n\n- **Joshua** — first conversation of the day  \n  Really intrigued by Continuum.  My first book purchase here at the conference.\n  Especially the idea of using Nostr for authentication / sign-up \n \n\n- **Andrew (Stacks)**  \n  Ended up buying a copy later  \n\n- **Evan Kaloudis (Zeus)**  \n  Talked both Tuesday and Wednesday  \n  Real builder conversation — grounded, direct  \n  Founder of Zeus wallet -- gave a talk on onboarding Zeus later that morning.\n\n- **Jimmy Song**  \n  Raising support for a new Bitcoin node project  \n  Selling *Fiat Ruins Everything* for $100 to fund the work  \n\n- **Anthony**  \n  Working on a quantum-resistant Bitcoin concept  \n\n- **Zoe and her team**  \n  Selling goods from Mexico — small operation, but real  \n\n---\n\nThat stretch of time mattered.\n\nNot because of volume.\n\nBecause the conversations were real.\n\nPeople understood what I was building.\n\nAsked good questions.\n\nEngaged with it.\n\n---\n\n### Books\n\nBrought two paperback copies again.\n\nSold both.\n\n- Joshua  \n- Andrew  \n\nThat part still feels a bit surreal.\n\n---\n\n### Watching Jimmy\n\nSpent time watching how Jimmy Song was operating.\n\nVery direct.\n\nClear about what he was doing.\n\nClear about what he needed.\n\n---\n\nSelling books to fund development.\n\nPointing people to a GitHub repo.\n\nTalking to developers.\n\n---\n\nNo hesitation.\n\nThat stood out.\n\n---\n\nI sent him the PDF of my book via Wormhole.\n\nDifferent approach.\n\nBut it made something obvious:\n\nI can do the same thing.\n\n---\n\n## Small but Important Moment\n\nLater that day, I was at the Bitcoin Store (BTC Media) picking up some merch.\n\nWhile I was there, I asked about getting a booth next year.\n\n---\n\nTalked with Jake Fenton.\n\nNothing formal.\n\nBut enough to understand how it works.\n\n---\n\nThat shifted something.\n\nNot just attending.\n\nThinking about showing up differently next time.\n\n---\n\n## Demoing Continuum\n\nI briefly met Paul Keating.\n\nOn Wednesday — after fixing a network issue the night before — I showed him Continuum.\n\n---\n\nSpecifically, scheduling a post for later publishing.\n\nHis reaction:\n\n“badass”\n\n---\n\nThat was enough.\n\n---\n\n## Travel Back\n\nLeaving was… typical.\n\nUber back.\n\nTSA issues.\n\nHad to check a bag because of a glass jar.\n\nThought I lost my passport card.\n\nPaid $45 to proceed.\n\nThen found it 20 minutes later.\n\n---\n\nBoarded the plane.\n\nSat for about 1.5 hours before takeoff. \n\nFinally left around 9:30 PM\n\nGot home around midnight.\n\n---\n\n## The Next Day\n\nApril 30.\n\nGot sick in the early afternoon.\n\nHad eaten some cake earlier — didn’t sit well.\n\n---\n\nAnd honestly, everything leading up to it probably contributed:\n\nLong days  \nTravel  \nDelayed flight  \n\n---\n\nIt felt like everything just caught up.\n\n---\n\nThe rest of the day was slow.\n\nAnd the day after that as well.\n\nWater. Light food. Rest.\n\n---\n\n## Stepping Back\n\nStill thinking about how this is landing with people.\n\n---\n\nSame conclusion keeps coming up:\n\nPeople don’t need more features.\n\nThey need clarity.\n\n---\n\nI also stepped back and looked at Continuum more objectively.\n\nOpened it in a private browser.\n\nWalked through it like someone else would.\n\n---\n\nAnd it’s solid.\n\n- Release notes  \n- Concepts & FAQs  \n- Identity management  \n- Signing offline  \n- Local archive  \n- Export/import  \n\nAll working. All local.\n\n---\n\n## Closing\n\nThis is what the work looks like right now.\n\nAnd I’m going to keep showing up.\n\nThis will grow.\n\nMore people will see why this matters.",
+  "created_at": 1777687660,
+  "id": "11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0e7015c57dafa2fa7dbed0382dc75ab12b5ef275eedf03e5cbe932969fcef8a811452c486a278422327d156072f5fdd1f62b36536ad58645daa74923f4118977",
+  "tags": [
+    [
+      "d",
+      "week-of-april-26may-2--showing-up-even-when-its-not-clean"
+    ],
+    [
+      "title",
+      "Week of April 26–May 2 — Bitcoin 2026"
+    ],
+    [
+      "published_at",
+      "1777687660"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "This week included Bitcoin 2026, real conversations, a few book sales, and a physical reset I didn’t expect. Not everything went smoothly — but I showed up, and that matters."
+    ],
+    [
+      "display_date",
+      "2026-05-02"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7_saturday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "weekly"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "54ee41056cd47ad17868827f5152eac5a63fb4ef7bb5d31086dae2741d702031",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

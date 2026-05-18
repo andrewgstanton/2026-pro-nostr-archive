@@ -1,0 +1,91 @@
+{
+  "content": "# Highlights & Key Activities\n\n## Vault v1 → Vault v2\n\nOne of the biggest milestones this week was building the first fully functional version of the Continuum Vault system.\n\nThe vault is designed as a local encrypted storage system integrated directly into the Continuum workspace model.\n\nInitial functionality included:\n\n- Creating encrypted vault databases\n- Password-protected unlock flows\n- Lock/unlock handling\n- Full CRUD support for vault entries\n- Workspace-aware backup and restore support\n- Vault-aware workspace clearing/reset behavior\n\nThe vault is intended for storing sensitive local information such as:\n\n- passwords\n- recovery phrases\n- secure notes\n- credentials\n- sensitive workspace metadata\n\nLater in the week, the vault system received additional refinement and cleanup with improved controls and UX handling.\n\nThis is an important architectural direction for Continuum because it extends the idea of “local-first authorship” into broader local sovereignty and identity management.\n\nRather than treating credentials and signing authority as cloud-managed SaaS resources, Continuum increasingly treats them as local user-controlled assets inside a sovereign workspace.\n\n---\n\n# Continuum v1.6.7.6 Released\n\nReleased Continuum v1.6.7.6 on May 11, 2026.\n\nThis release significantly expanded Continuum’s signing and identity capabilities.\n\n## Added Multi-Protocol Signing Identity Controls\n\nContinuum can now manage multiple signing identity types directly from within the local workspace:\n\n- PGP signing identities\n- Bitcoin signing identities\n- SSH signing identities\n- Nostr signing identities\n\nThis work continues pushing Continuum toward a broader cryptographic authorship and signing environment rather than a protocol-specific social client.\n\nThese signing controls support workflows that are:\n\n- offline-capable\n- platform-independent\n- protocol-independent\n- locally controlled\n- exportable and portable\n\nThe broader direction is becoming clearer:\n\nauthorship and signing authority exist locally first, while publication and distribution remain separate operations.\n\n---\n\n# Passwordless Authentication & Nostr Challenge Flow\n\nA major portion of Thursday and Friday focused on implementing a fully functional challenge-response authentication system using Nostr signing.\n\nThis included building and integrating:\n\n- `/api/challenge`\n- `/api/verify`\n- `/api/me`\n\nalong with the internal signing and verification flows required for authentication.\n\nA separate manual authentication demo page was also built and deployed to demonstrate the challenge-response process transparently.\n\nThe broader goal is to demonstrate that:\n\nusers can authenticate using signing authority tied to their public identity rather than traditional username/password systems.\n\nThis remains more technically complex than simply typing a password into a login form, but it represents a fundamentally different trust and identity model.\n\n---\n\n# Offline Reliability Improvements\n\nAdditional work was completed on improving Continuum’s handling of offline detection and unstable network environments.\n\nSome of this work originated from issues encountered during the Bitcoin conference environment in late April, where network conditions were inconsistent.\n\nThe updated handling improves reliability for offline-first workflows and prevents false offline detection behavior.\n\n---\n\n# Broader Reflections\n\nThis week increasingly reinforced that Continuum is evolving into something larger than a local publishing application.\n\nThe system now contains:\n\n- multi-protocol signing identities\n- portable signed artifact verification\n- local encrypted vault storage\n- browser-side cryptographic verification\n- challenge-response authentication\n- offline-first workflows\n- locally controlled signing authority\n\nThese pieces are beginning to form a coherent sovereign workspace architecture centered around local authorship, portable verification, and user-controlled identity.\n\nA recurring realization this week was that much of this work is infrastructure-level rather than socially visible.\n\nFeatures like:\n- signing semantics,\n- verification flows,\n- vault systems,\n- offline reliability,\n- portable proofs,\n- local authority,\n\noften receive less immediate attention than highly visible social or UI-driven projects.\n\nHowever, these lower-level systems increasingly feel foundational to the broader long-term direction of Continuum.\n\n---\n\n# Next Steps\n\n- Continue refining the Vault UX and encryption model\n- Improve browser-side verification tooling\n- Expand manual authentication demos and flows\n- Continue simplifying multi-identity management\n- Explore publish-only and pre-signed workflows\n- Continue refining Continuum as a sovereign local-first workspace\n\n---\n\n> “The integrity of the upright guides them.” — Proverbs 11:3",
+  "created_at": 1778904044,
+  "id": "9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "917691dc4260bda0ff459f0ecbdbd63b3e8625569ba0564cb28b15900e861d2f68d428bc76f9c35abed4539ae4fb5c10a35c89b844ef2ecc6325699983bfb917",
+  "tags": [
+    [
+      "d",
+      "weekly-recap-sunday-may-10--saturday-may-16-2026"
+    ],
+    [
+      "title",
+      "Weekly Recap: Sunday, May 10 – Saturday, May 16, 2026"
+    ],
+    [
+      "summary",
+      "This week focused on turning Continuum into a more complete sovereign workspace rather than just a local Nostr publishing application. Major work included building the first fully functional encrypted vault system, expanding multi-protocol signing identity support (PGP, SSH, Bitcoin, and Nostr), refining browser-side verification tools, and implementing a working passwordless authentication flow using signed Nostr challenges. The week also included continued refinement of offline-first workflows, local signing semantics, and identity management UX."
+    ],
+    [
+      "published_at",
+      "1778904044"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "authentication"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "vault"
+    ],
+    [
+      "t",
+      "signing"
+    ],
+    [
+      "t",
+      "verification"
+    ],
+    [
+      "display_date",
+      "2026-05-16"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7_saturday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

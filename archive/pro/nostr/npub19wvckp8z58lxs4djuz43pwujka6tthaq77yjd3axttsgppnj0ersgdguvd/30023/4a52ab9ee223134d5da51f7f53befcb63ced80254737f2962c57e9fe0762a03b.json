@@ -1,0 +1,71 @@
+{
+  "content": "Andrew G. Stanton - Thursday, May 7, 2026\n\n---\n\nToday something happened in Continuum that I genuinely do not think most people in Nostr-land have fully realized yet.\n\nAnd the strange thing is:\n\nI probably would not have realized it either if I had not first implemented:\n- PGP identities\n- then Bitcoin signing identities\n- before finally arriving at Nostr artifact attestations.\n\nThe order mattered.\n\nThat is important.\n\nIf I had started directly with “Nostr artifact attestations,” I probably would have unconsciously kept trying to force the concept back into the shape of a Nostr event.\n\nBecause that is how almost everyone thinks about Nostr keys.\n\nNostr private key:\n→ signs Nostr events\n→ publishes to relays\n→ social protocol identity\n\nBut once I had already implemented:\n- detached PGP signatures\n- detached Bitcoin artifact proofs\n\nmy brain was already operating in a different conceptual framework.\n\nThe key realization became:\n\nA private key is fundamentally a signing authority.\n\nEverything else is protocol semantics layered on top.\n\nThat sounds obvious in hindsight.\n\nBut I honestly do not think many people are thinking this way.\n\nMost systems tightly couple:\n- signing\n- transport\n- publishing\n- protocol structure\n\ninto one conceptual object.\n\nContinuum has been intentionally separating those concepts for a long time.\n\nThat separation is what made this realization possible.\n\nContinuum’s architecture already assumes:\n- signing is local\n- publishing is separate\n- authorship exists before distribution\n- drafts can exist offline\n- signed artifacts can exist without publication\n\nOnce you accept that model, a Nostr private key suddenly stops looking like merely:\n\n“the thing that signs kind events.”\n\nInstead it becomes:\n\nA generalized Schnorr signing authority.\n\nAnd once that clicked, the implementation became straightforward.\n\nI added support for:\n\nartifact.pdf.nostr-proof.json\n\nThe proof contains:\n- artifact SHA256\n- npub\n- pubkey\n- canonical message\n- message hash\n- Schnorr signature\n- timestamp\n\nImportantly:\n\nThis is NOT a Nostr event.\n\nNo kind.\nNo relay.\nNo publication.\nNo event ID.\n\nThe Nostr private key is simply being used to sign a canonical message describing an external artifact.\n\nThat distinction is absolutely critical.\n\nBecause it expands the conceptual role of a Nostr identity dramatically.\n\nA Nostr key can now:\n- sign relay events\n- authenticate challenge-response flows\n- attest to external artifacts\n- verify authorship\n- prove authority offline\n\nwithout being restricted to relay publishing.\n\nAnd I think this is precisely the kind of idea that becomes difficult to see if signing and publishing remain tightly coupled together.\n\nMost Nostr clients are fundamentally publishing tools.\n\nContinuum has increasingly become:\n\nA local-first signing workspace.\n\nThat difference sounds subtle.\n\nIt is not.\n\nIt changes the entire architecture.\n\nThe artifact signing flow tonight made that very clear.\n\nA PDF can now be accompanied by:\n\n- detached PGP signature\n- Bitcoin proof JSON\n- Nostr proof JSON\n\nall generated locally.\n\nThe proofs themselves are public.\n\nThat is another fascinating aspect.\n\nThe JSON proof files can be shared publicly without exposing any private signing authority.\n\nThat means:\n- verification becomes portable\n- proof becomes distributable\n- authority remains local\n\nThat is a radically different trust model from most web infrastructure.\n\nMost modern systems assume:\n- hosted identity\n- OAuth providers\n- platform mediation\n- centralized verification\n\nBut cryptographic signatures invert the trust relationship.\n\nThe verifier no longer needs to trust the platform.\n\nThey only need:\n- the proof\n- the public verification material\n- the artifact\n\nThat is all.\n\nAnd once I realized the Nostr private key could participate in that same generalized signing model, another realization followed almost immediately:\n\nThe exact same abstraction applies to authentication.\n\nA challenge-response flow becomes:\n\nchallenge → sign → verify\n\nThe signing backend becomes interchangeable:\n\n- PGP\n- Bitcoin\n- Nostr\n- SSH\n\nThe protocol changes.\nThe cryptography changes.\nThe UX changes.\n\nBut the underlying primitive remains the same.\n\nThat is where Continuum is becoming very interesting to me.\n\nIt is not merely adding “support for more identities.”\n\nIt is beginning to unify multiple cryptographic ecosystems under one coherent local-first signing model.\n\nAnd the irony is:\n\nThe breakthrough with Nostr only became visible after implementing the other identity systems first.\n\nBecause the moment I stopped thinking:\n\n“Nostr keys sign Nostr events”\n\nand started thinking:\n\n“Nostr keys are generalized Schnorr signing authorities”\n\nan entirely new design space opened up.\n\nI honestly do not think we have explored even 10% of the implications yet.",
+  "created_at": 1778218395,
+  "id": "4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "20d98832b434df97c4d17ca7d7dd6a626a2e0bd542872f0f8c927a400454e338a889bacdca5f16b8f29b8fc52099605cbefaeb7e619bb2792d26ad5e69cb1531",
+  "tags": [
+    [
+      "d",
+      "beyond-events-using-nostr-keys-as-general-signing-identities"
+    ],
+    [
+      "title",
+      "Beyond Events: Using Nostr Keys as General Signing Identities"
+    ],
+    [
+      "summary",
+      "After adding support for PGP and Bitcoin signing identities inside Continuum, a larger realization emerged: Nostr private keys are not limited to signing relay events. They can function as generalized Schnorr signing authorities capable of attesting to external artifacts, authentication challenges, and far more."
+    ],
+    [
+      "published_at",
+      "1778218395"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "schnorr"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "display_date",
+      "2026-05-07"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

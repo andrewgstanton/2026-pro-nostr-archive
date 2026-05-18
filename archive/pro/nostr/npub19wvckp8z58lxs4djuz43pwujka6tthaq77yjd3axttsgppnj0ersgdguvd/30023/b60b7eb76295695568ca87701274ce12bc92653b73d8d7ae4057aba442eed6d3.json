@@ -1,0 +1,27 @@
+{
+  "content": "Today another very productive day\n\nzoom call w/ Andrew Lunde that was supposed to be only 1/2 hour but I think it stretched to 10:30 AM or 11:00.  \n\nHe was very interested in what I'm doing w/ Continuum and also shared a number of resources about bitcoin and spaces and some of his backgraound\n\nIt was extremely encouraging to me.\n\nI also got the kernel of the \"verify Signed artifact bundle working (in python)\"\n\n(it's the reverse of signing an artifact)\n\nI also cleaned up the UI somewhat for the additional signing identities (PGP, bitcoin, ssh)\n\nTalked to Kevin around 3:30 PM today to review the progress in indiehacker (not much)",
+  "created_at": 1778467745,
+  "id": "b60b7eb76295695568ca87701274ce12bc92653b73d8d7ae4057aba442eed6d3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9d4df76151b29ed8bfc0a90043341ff5d35298841282a496b0dbaa815b91afc9fd4166eee36db78166541502a74073e3dd30557e39175947074e0f9e463416e7",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-may-8-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, May 8, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

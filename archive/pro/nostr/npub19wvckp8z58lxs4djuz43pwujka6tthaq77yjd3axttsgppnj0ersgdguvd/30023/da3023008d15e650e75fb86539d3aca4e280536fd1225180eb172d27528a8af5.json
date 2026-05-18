@@ -1,0 +1,71 @@
+{
+  "content": "Andrew G. Stanton - Thursday, May 7, 2026\n\n---\n\n\nFor most of the last week I was pretty out of it physically.\n\nSince around Thursday (4/30), I had been recovering from a rough stretch of stomach issues and low energy. I was not doing deep technical work. I was barely writing publicly at all.\n\nThen sometime yesterday afternoon, what started as a relatively small Continuum feature unexpectedly turned into something much bigger.\n\nThe original goal was simple enough:\n\nAdd support for importing PGP identities into Continuum.\n\nThat was it.\n\nThe idea seemed straightforward:\n- import a public or private PGP key\n- store it locally in the Continuum workspace\n- eventually support detached signatures for artifacts\n\nReasonable.\n\nBut once the PGP identities were working, another thought emerged naturally:\n\nWhy not support Bitcoin signing identities as well?\n\nNot wallets.\nNot balances.\nNot transactions.\n\nJust signing authority.\n\nThat distinction matters.\n\nSo I added support for importing Bitcoin signing identities derived from:\n- WIF private keys\n- xprv extended private keys\n- descriptor-based derivation paths\n\nAgain, still relatively contained.\n\nBut then something clicked.\n\nA Bitcoin private key is not only useful for transactions.\n\nIt can also be used as a general-purpose signing authority.\n\nSo I built detached Bitcoin artifact attestations.\n\nAt that point Continuum could:\n- sign PDFs\n- sign markdown files\n- sign ZIP archives\n- sign DOCX files\n- generate detached proof bundles\n\nThe resulting ZIP export contained:\n\n- artifact.pdf\n- artifact.pdf.asc\n- artifact.pdf.bitcoin-proof.json\n- manifest.json\n- signers.json\n- pgp-public-key.asc\n\nAlready interesting.\n\nBut then came the real breakthrough.\n\nI realized there was absolutely no reason the same model could not apply to Nostr identities.\n\nAnd that is where things got unexpectedly fascinating.\n\nBecause in most of the Nostr ecosystem, people think of a Nostr private key in one very specific way:\n\nIt signs Nostr events.\n\nThat is true.\n\nBut it is not the whole story.\n\nUnderneath the protocol semantics, a Nostr private key is simply a secp256k1 Schnorr signing authority.\n\nThat means it can sign anything.\n\nNot only relay events.\n\nNot only kind-based objects.\n\nAnything.\n\nOnce I realized that, the implementation happened very quickly.\n\nContinuum now supports:\n\n- PGP detached signatures\n- Bitcoin secp256k1 artifact attestations\n- Nostr Schnorr artifact attestations\n\nAnd all three can be exported together inside a single portable verification bundle.\n\nThat means a PDF can now be accompanied by:\n\n- artifact.pdf.asc\n- artifact.pdf.bitcoin-proof.json\n- artifact.pdf.nostr-proof.json\n\nEach proof is completely public.\n\nThat is one of the most interesting parts.\n\nThe proof JSON files can be freely shared publicly:\n- no private key information is exposed\n- no signing authority is leaked\n- no sensitive secrets are revealed\n\nYet the signatures remain verifiable.\n\nThat is a profound concept once you really stop and think about it.\n\nThe authority remains entirely local.\n\nThe proofs are public.\n\nVerification can happen offline.\n\nAnd the underlying artifact itself can even remain private.\n\nThat is radically different from how most modern systems work.\n\nMost systems assume:\n- platform identity\n- centralized verification\n- OAuth login flows\n- hosted trust infrastructure\n- server-side authority\n\nBut detached cryptographic attestations invert the model.\n\nThe authority lives with the signer.\n\nThe verifier does not need to trust a platform.\n\nThey only need:\n- the artifact\n- the proof bundle\n- the public verification material\n\nThat is it.\n\nThe final proof bundle generated tonight included:\n\n- a detached PGP signature\n- a bundled PGP public key\n- a Bitcoin proof JSON\n- a Nostr proof JSON\n- manifest.json\n- signers.json\n\nAll fully public.\n\nThe signers.json file indexes all signers and references the proof files:\n\n- Bitcoin address\n- public keys\n- npub\n- PGP fingerprint\n- signature schemes\n- proof file locations\n\nThe manifest tracks:\n- artifact SHA256\n- included proof types\n- bundle version\n- timestamps\n\nWhat is especially interesting is that none of this required:\n- relay publishing\n- cloud infrastructure\n- external APIs\n- centralized verification services\n\nEverything happened locally.\n\nThat is the part I continue coming back to.\n\nContinuum is slowly becoming something much broader than “a Nostr client.”\n\nIt is increasingly looking more like a local-first cryptographic workspace.\n\nA place where:\n- identities\n- signing authority\n- artifacts\n- attestations\n- archives\n- verification\n\nall coexist locally under user control.\n\nThe more I think about it, the more I believe the foundational insight is actually this:\n\nSigning is not publishing.\n\nMost systems collapse:\n- authorship\n- signing\n- publishing\n- distribution\n- verification\n\ninto one step.\n\nContinuum intentionally separates them.\n\nAnd once those concepts are separated, very different possibilities emerge.\n\nDetached artifact attestations were one of those possibilities.\n\nGeneralized Nostr signing was another.\n\nChallenge-response authentication flows are likely another.\n\nSSH signing identities will probably be next.\n\nAt some point you begin realizing:\n\nPGP.\nBitcoin.\nNostr.\nSSH.\n\nThese are not really separate worlds.\n\nThey are all variations of the same deeper primitive:\n\nchallenge → sign → verify\n\nThat realization changes how you think about identity itself.",
+  "created_at": 1778218057,
+  "id": "da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "359e6da403e8a602491d9a8b0e8a06f7f4a5d80808564f6c1e8918c474934361c9171feb0603246afaf4cf0ce197bc89d442aa3c827a4df006d15f428d14cd6d",
+  "tags": [
+    [
+      "d",
+      "portable-artifact-attestations-with-pgp-bitcoin-and--nostr"
+    ],
+    [
+      "title",
+      "Portable Artifact Attestations with PGP, Bitcoin, and ... Nostr?"
+    ],
+    [
+      "summary",
+      "What started as a simple PGP import feature inside Continuum unexpectedly evolved into a full local-first artifact attestation system supporting PGP, Bitcoin, and Nostr signing identities. This article explores detached signatures, portable proof bundles, and the realization that Nostr private keys can sign far more than relay events."
+    ],
+    [
+      "published_at",
+      "1778218057"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "cybersecurity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "display_date",
+      "2026-05-07"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

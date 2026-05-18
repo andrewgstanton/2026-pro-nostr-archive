@@ -1,0 +1,27 @@
+{
+  "content": "Took whiskers to the park in the morning (8:15-9:15)\n\nAnother walk to Paris in SF baker (on Fillmore) to get some pastries to share w/ our coffee this morning.\n\nKiyomi took Whiskers out to the park (again) in the afternoon and short walk around 6:00\n\nSpent about 3 hours in the afternoon building the Manual Auth Demo page in (mycontinuum.xyz) (that was building on top of what I did yesterday. \n\nAlso improved vault - better editing (separate edit page per record instead of inline)",
+  "created_at": 1778905054,
+  "id": "9ad580329fcf97cb51c0ac5179d8cae412792535f648545080f8702442f67ba6",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "362c825dc22f0742d91647394b6b0ffcf9b03d0af804bb7f9b953b1ce21653d72fcd64a0b24afebfd308b932963948d72dcb95f98941097c182422c30648e30b",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-may-15-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, May 15, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

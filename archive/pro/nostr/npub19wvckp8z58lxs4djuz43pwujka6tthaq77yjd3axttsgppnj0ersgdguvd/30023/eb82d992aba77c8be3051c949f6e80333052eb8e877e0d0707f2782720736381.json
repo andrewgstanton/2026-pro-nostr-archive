@@ -1,0 +1,99 @@
+{
+  "content": "Andrew G. Stanton - Monday, May 11, 2026\n\n---\n\n\nFor a long time I described Continuum primarily as:\n- a local-first publishing platform\n- a Nostr workspace\n- a sovereign writing environment\n\nAll of those descriptions are still true.\n\nBut over the past few months, another pattern has become increasingly obvious.\n\nContinuum is quietly becoming a system for managing digital authority itself.\n\nThe addition of Vault v1 made that impossible for me to ignore.\n\nAt first glance, a Vault might seem unrelated to publishing.\n\nBut the more I worked on it, the more I realized it fit naturally into the architecture that already existed.\n\nBecause Continuum was already managing:\n- Nostr signing identities\n- PGP keys\n- SSH identities\n- Bitcoin signing identities\n- encrypted direct messages\n- proof bundles\n- signed artifacts\n- drafts\n- local archives\n\nThe Vault simply extended the same philosophy into sensitive information management.\n\nAnd the underlying thread connecting all of these systems is authority.\n\nNot “content.”\n\nAuthority.\n\nWho controls the keys?\nWho controls the signatures?\nWho controls the workspace?\nWho controls the archive?\nWho controls the secrets?\n\nModern software increasingly answers these questions with:\n“the platform.”\n\nCloud-first systems normalize the assumption that:\n- your credentials live on remote infrastructure\n- your identity depends on hosted services\n- your archives are subscription-dependent\n- your publishing authority flows through centralized APIs\n\nConvenient?\nAbsolutely.\n\nBut it also creates deep dependency.\n\nContinuum increasingly moves in the opposite direction.\n\nThe workspace itself becomes the center of authority.\n\nNot the server.\nNot the platform.\nNot the cloud dashboard.\n\nThe local workspace.\n\nThat distinction matters more now than it did even a few years ago.\n\nBecause AI and automation are rapidly compressing the value of raw digital production.\n\nCode generation becomes cheaper.\nContent generation becomes cheaper.\nSynthetic media becomes cheaper.\nAnalysis becomes cheaper.\n\nAs abundance increases, scarcity shifts elsewhere.\n\nToward:\n- trust\n- provenance\n- signatures\n- authenticity\n- durable archives\n- verifiable authorship\n- local ownership\n\nThat is the layer Continuum increasingly operates within.\n\nAnd interestingly, this is not really “anti-cloud.”\n\nIt is anti-dependency.\n\nThere is a difference.\n\nCloud infrastructure can still be useful:\n- synchronization\n- distribution\n- collaboration\n- redundancy\n\nBut the center of authority does not necessarily need to live there.\n\nThat is the architectural shift I increasingly care about.\n\nThe Vault was a major milestone not merely because “password storage now exists.”\n\nBut because it demonstrated that Continuum’s underlying workspace model has become strong enough to unify multiple forms of digital authority under one coherent local-first system.\n\nStill early.\n\nBut the direction is becoming much clearer.",
+  "created_at": 1778525792,
+  "id": "eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "97e4022bd3178a4202823a5aa59fb87a4492fce80bf0a2387291353f5323f9efec2c8a16356fb1e085ca065824575e8f008e08b8a3d60160779e0cc55d960c1e",
+  "tags": [
+    [
+      "d",
+      "continuum-is-quietly-becoming-something-larger"
+    ],
+    [
+      "title",
+      "Continuum Is Quietly Becoming Something Larger"
+    ],
+    [
+      "summary",
+      "The addition of Vault v1 reveals a broader pattern inside Continuum’s architecture: the platform is evolving beyond publishing into a unified local-first authority workspace. This article explores how identities, encrypted storage, signing systems, archives, and proofs all converge around the deeper concept of user-controlled authority rather than cloud-managed convenience."
+    ],
+    [
+      "published_at",
+      "1778525792"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "authority"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "encryption"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "selfsovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "softwarearchitecture"
+    ],
+    [
+      "t",
+      "builderjournal"
+    ],
+    [
+      "display_date",
+      "2026-05-11"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,75 @@
+{
+  "content": "## Highlights & Key Activities\n\n- **Health & Recovery**\n  - 4/30 – 5/5: Stomach issues (likely norovirus); vomiting on 4/30, weak appetite, very light eating, slow recovery.\n  - 5/5 (Tuesday night): Able to eat more substantial meals.\n  - 5/6 (Wednesday afternoon): Fully back to normal energy and appetite; resumed work in the afternoon.\n\n- **Continuum Development**\n  - **Identity & Artifact Work**\n    - 5/6 onward: Worked on importing and listing **PGP and Bitcoin identities**.\n    - Built a **full ZIP-packaged output** for all attestations using **“Sign Existing Artifact”** workflow (Bitcoin + PGP).\n    - Added **support for Nostr signing and proof attestations** (separate from standard event signing).\n    - 5/8: Added **SSH identities** and **“Verify Signed Artifact Bundle”** functionality.\n  - **UI Improvements**\n    - Cleaned up identity and artifact workflow interfaces for clarity and consistency.\n    - Improved workflow visibility for signing, verification, and multi-identity management.\n\n- **Calls & Collaboration**\n  - 5/8 (Friday morning, 9–11 AM): Very productive Zoom call with **Andrew Lunde**; discussed identity flows, artifact verification, and overall Continuum development priorities.\n\n- **Ideas & Security**\n  - Continued discussions on **workspace encryption at rest**.\n  - Considered secure storage for **SaaS credentials** while respecting signing identities.\n\n## Notes & Reflections\n\n- After recovery, work focused on **solidifying the artifact signing, verification, and proof attestation ecosystem**.\n- Multi-identity support (Bitcoin, PGP, SSH, Nostr proofs) is now robust and packaged for easy export.\n- UI polish ensures workflows are clear, reducing friction for signing, verification, and proof workflows.\n- Collaboration with another developer provided clarity and actionable next steps.\n\n## Next Steps\n\n- Finalize workspace encryption / vault concept.\n- Continue refining verification tools (`verify_event` and `verify_bundle`) for browser-based use.\n- Plan for Lightning/sats integration and multi-identity publishing flows.\n- Maintain steady health while progressing on security and UI polish.\n\n\"But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles.\"* – Isaiah 40:31",
+  "created_at": 1778352907,
+  "id": "16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9d5c4bde50922a5c7a39f66df12308239b70a7b6368863f73fb95d1e521571d35a657edaef8a87c1283ffac3693bb7b90e08a8821a4b16090e267ce1f8516668",
+  "tags": [
+    [
+      "d",
+      "weekly-recap-sunday-may-3--saturday-may-9-2026"
+    ],
+    [
+      "title",
+      "Weekly Recap: Sunday, May 3 – Saturday, May 9, 2026"
+    ],
+    [
+      "summary",
+      "Back to full health after stomach issues. Focused on enhancing Continuum’s identity and artifact ecosystem: added Nostr proof attestations, imported/listed PGP & Bitcoin identities, SSH support, and “Verify Signed Artifact Bundle.” Polished UI workflows and had a productive Zoom call with another developer to refine priorities and identity flows. Continued planning workspace encryption and secure credential storage."
+    ],
+    [
+      "published_at",
+      "1778352907"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "workspacesecurity"
+    ],
+    [
+      "t",
+      "identitymanagement"
+    ],
+    [
+      "t",
+      "proofattestations"
+    ],
+    [
+      "display_date",
+      "2026-05-09"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7_saturday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

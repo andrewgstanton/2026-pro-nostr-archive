@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1777435837,
+  "tags": [
+    [
+      "d",
+      "bitcoin-2026---day-1-april-28-2026"
+    ],
+    [
+      "title",
+      "Bitcoin 2026 - Day 1 (April 28, 2026)"
+    ],
+    [
+      "published_at",
+      "1777435837"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "0f6c7d061a797bfa0ef8df858257e89b732142435c187e479d29049c6713c2bf",
+      "edit"
+    ]
+  ],
+  "content": "# Day 1 — Bitcoin 2026 (Las Vegas)\n\n**Summary:**  \nA full first day at Bitcoin 2026 — conversations, observations, and a noticeable shift in tone from last year. Still a lot of energy, but something about it felt different.\n\n**Tags:**  \n#bitcoin #nostr #buildinpublic #lasvegas #conference #sovereignty\n\n---\n\nFull day at the Bitcoin Conference.\n\nUp at 6:15 AM.\n\nShower, then downstairs by 7:00 for breakfast at Pyramid Cafe at the Luxor.\n\nI ordered a breakfast burrito — honestly one of the better ones I’ve had. Very filling. It ended up lasting me basically the entire day. Two cups of coffee with it (included), which helped.\n\nTotal was about $33.\n\nExpensive… but worth it.\n\n(For context, a bottled water the night before was around $6 — so yeah, that’s Vegas.)\n\n---\n\n## Getting There\n\nTook an Uber over to the Venetian — $20, paid cash.\n\nDriver was a guy named Sam from Iraq. Came to the U.S. with his family as a teenager. Quick conversation, but always interesting hearing those stories in passing.\n\n---\n\n## At the Conference\n\nStayed at the conference until around 5:30 PM.\n\nA few things stood out pretty quickly.\n\nFirst — the schedule felt… looser this year.\n\nMultiple speakers were late. Not just a few minutes — sometimes 15 minutes, even 30. It made the whole thing feel a bit less tight compared to last year, which I remember being more dialed in.\n\nSecond — small detail, but noticeable — the T-shirts this year felt kind of boring.\n\nNot a big deal, and I’ll probably still get one. But compared to last year, they didn’t stand out.\n\n---\n\n## Michael Saylor & STRC\n\n:contentReference[oaicite:0]{index=0} spent a good amount of time talking about a new preferred stock — STRC (Digital Credit).\n\nThe idea (as he explained it):\n- price is intended to stay around $100  \n- monthly dividend  \n- ~11% annualized yield  \n\nHe went deep into how he engineered it.\n\nFrom a technical and financial standpoint, it was interesting.\n\nBut I have mixed feelings.\n\nOn one hand, it’s impressive — structuring something like that, aligning it with a Bitcoin treasury strategy, creating yield.\n\nOn the other hand… it starts to feel like financial engineering again.\n\nNot necessarily wrong. But it’s a different direction than the simplicity that drew a lot of us to Bitcoin in the first place.\n\nStill processing that one.\n\n---\n\n## Bitcoin Magazine Presence\n\nOne thing that stood out more this year:\n\n:contentReference[oaicite:1]{index=1} had a very visible presence — especially around books.\n\nThey were actively promoting titles from their own authors.\n\nWhich makes sense — they’re part of :contentReference[oaicite:2]{index=2} and also run the conference.\n\nBut it did add to that feeling I mentioned earlier:\n\nA bit more structured.  \nA bit more commercial.\n\nNot necessarily a bad thing.\n\nBut it changes the tone compared to something that feels more purely grassroots.\n\n---\n\n## People I Met (or Almost Met)\n\nI did make a few connections.\n\n- :contentReference[oaicite:3]{index=3}  \n  He’s working on another open source Bitcoin node (based on Bitcoin Core + Bitcoin Knots).  \n  Looking for sponsors and open source developers.  \n  I gave him my GitHub handle.\n\n- Founder of :contentReference[oaicite:4]{index=4} (open source area)  \n  He showed some interest in *Continuum* and *Building Continuum*, which was encouraging.\n\n  One small moment that stood out — he asked what I was using for a local cache.\n\n  I said: SQLite.\n\n  He paused and said something like, “That’s cool — some wallets use that too.”\n\n  Not hype. Not confusion. Just recognition.\n\n- :contentReference[oaicite:5]{index=5} — very brief interaction  \n  She had to run to another speaking engagement.  \n  Didn’t recognize me / didn’t connect me to “Akamaister.”  \n  That’s fine — just how it goes sometimes.\n\n- Saw :contentReference[oaicite:6]{index=6}  \n  He had just finished speaking and left the stage quickly — no chance to connect.\n\n- Benjamin — we were supposed to meet  \n  He emailed in the morning, I gave him my number, but we never connected.  \n  Maybe tomorrow.\n\n---\n\n## The Books\n\nI brought a few copies with me.\n\nDidn’t sell any today.\n\nAnd honestly, I wasn’t pushing them.\n\nIt’s more about having them there — if the right conversation happens, I can share something tangible.\n\nWe’ll see what happens over the next couple days.\n\n---\n\n## General Feeling\n\nThe event definitely has energy.\n\nNo question.\n\nBut it feels different than last year.\n\nNot worse exactly.\n\nJust… different.\n\nHard to fully put into words yet, but you can feel it:\n- slightly less sharp  \n- slightly more structured  \n- slightly more commercial in tone  \n\nI need another day or two to really understand what that shift is.\n\n---\n\n## Wrapping the Day\n\nGrabbed dinner at Panda Express in the Venetian food court.\n\nThen Uber back to the Luxor — got back around 6:30 PM.\n\nShower.\n\nCalled Kiyomi around 8:30.\n\nReal life doesn’t pause just because you’re at a Bitcoin conference:\n- Whiskers peed on the sofa  \n- and apparently tried to get into Costco  \n- got turned away because Kiyomi had my card with my name on it  \n\nSo yeah… normal life continues in parallel.\n\n---\n\n## Closing Thought\n\nGood day.\n\nFull day.\n\nA few solid conversations, a few missed connections, and a lot to process.\n\nThe biggest takeaway so far:\n\nSomething has shifted in the energy this year.\n\nNot necessarily good or bad.\n\nJust different.\n\nI’ll see what tomorrow brings.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "871be1bf9d1bf77bfac11670092c59beae94d62c25f75750104577cd33bffa08",
+  "sig": "4a8d38b0bbc8735c6de528ef7a5ce6920022acdd4f991558d1e875d3fefe3d13ec1e0962138b4456bc75354a975227c925039942f265e26ba9fa0ccb54a57369",
+  "published": 0
+}

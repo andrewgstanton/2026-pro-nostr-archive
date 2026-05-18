@@ -1,0 +1,95 @@
+{
+  "content": "Andrew G. Stanton - Friday, May 8, 2026\n\n---\n\n## Signed Artifact Bundles Are Now Working End-to-End in Continuum\n\nYesterday I wrote that Continuum was becoming something broader than “a Nostr client.”\n\nToday that became very concrete.\n\nThe full signed artifact bundle flow is now working end-to-end.\n\nThat includes:\n- generating the bundle\n- attaching all proofs\n- generating manifests/signer metadata\n- verifying the entire package locally\n\nAnd the structure is no longer theoretical.\n\nThis is what an actual generated bundle now looks like:\n\n```\n2025_TaxReturn_continuum_signatures/\n├── 2025_TaxReturn.pdf\n├── 2025_TaxReturn.pdf.asc\n├── 2025_TaxReturn.pdf.bitcoin-proof.json\n├── 2025_TaxReturn.pdf.nostr-proof.json\n├── 2025_TaxReturn.pdf.pgp-proof.json\n├── 2025_TaxReturn.pdf.ssh-proof.json\n├── manifest.json\n├── pgp-public-key.asc\n└── signers.json\n```\n\nI won't share the actual artifact here (obviously) but I included one of the proofs, the manifest and the signers.json (all public)\n\n\n### 2025_TaxReturn.pdf.bitcoin-proof.json\n\n```\n{\n  \"address\": \"16H42vAEUBgr4Q5FVdvMLChNMGALrbgTLN\",\n  \"artifact_filename\": \"2025_TaxReturn.pdf\",\n  \"artifact_sha256\": \"da419c367bd572625fea4774d0fbcb1b64848c4bd5e353a56e3748591dfb0e8a\",\n  \"derived_public_key_hex\": \"0313a7b62bdcdb32209e4ffbb84f0dbd0a826e4138f59dbf9884f73f9241b2b813\",\n  \"identity_fingerprint\": \"3cecdfdc7f5b2d160887fb5c1ac60ae17ec9be2065a8ebff098836b2e8f1e1aa\",\n  \"identity_name\": \"16H42vAEUBgr4Q5FVdvMLChNMGALrbgTLN\",\n  \"message\": \"Continuum artifact attestation\\nartifact_filename: 2025_TaxReturn.pdf\\nsha256: da419c367bd572625fea4774d0fbcb1b64848c4bd5e353a56e3748591dfb0e8a\\nsigned_at: 2026-05-08T20:20:34.675183+00:00\\n\",\n  \"message_sha256\": \"de1e83af9f23217a14b676f6db56fd230ff5d2b4f89683a746ba192b0052b9bb\",\n  \"public_key_hex\": \"0313a7b62bdcdb32209e4ffbb84f0dbd0a826e4138f59dbf9884f73f9241b2b813\",\n  \"signature\": \"MEUCIQDsXzeJWtwcYIWHipwVgd4nkc5FCpmlQFbzEmavjcqBwAIgVP2Cx7TM/wamqjEIZKAVInoR2TZ03QxA7C1M991ZVl4=\",\n  \"signature_encoding\": \"base64_der_ecdsa_secp256k1_sha256_coincurve\",\n  \"signature_scheme\": \"ecdsa_secp256k1_sha256_coincurve\",\n  \"signed_at\": \"2026-05-08T20:20:34.675183+00:00\",\n  \"type\": \"continuum_bitcoin_artifact_attestation\",\n  \"version\": 1\n}\n```\n\n### manifest.json \n\n```\n{\n  \"artifact_filename\": \"2025_TaxReturn.pdf\",\n  \"artifact_sha256\": \"da419c367bd572625fea4774d0fbcb1b64848c4bd5e353a56e3748591dfb0e8a\",\n  \"created_at\": \"2026-05-08T20:20:35.150512+00:00\",\n  \"includes_bitcoin_proof\": true,\n  \"includes_nostr_proof\": true,\n  \"includes_pgp_proof\": true,\n  \"includes_pgp_public_key\": true,\n  \"includes_pgp_signature\": true,\n  \"includes_signers_json\": true,\n  \"includes_ssh_proof\": true,\n  \"type\": \"continuum_artifact_signature_bundle\",\n  \"version\": 1\n}\n```\n\n### signers.json\n```\n{\n  \"artifact_filename\": \"2025_TaxReturn.pdf\",\n  \"artifact_sha256\": \"da419c367bd572625fea4774d0fbcb1b64848c4bd5e353a56e3748591dfb0e8a\",\n  \"created_at\": \"2026-05-08T20:20:35.150512+00:00\",\n  \"signers\": {\n    \"bitcoin\": {\n      \"address\": \"16H42vAEUBgr4Q5FVdvMLChNMGALrbgTLN\",\n      \"derived_public_key_hex\": \"0313a7b62bdcdb32209e4ffbb84f0dbd0a826e4138f59dbf9884f73f9241b2b813\",\n      \"identity_fingerprint\": \"3cecdfdc7f5b2d160887fb5c1ac60ae17ec9be2065a8ebff098836b2e8f1e1aa\",\n      \"identity_name\": \"16H42vAEUBgr4Q5FVdvMLChNMGALrbgTLN\",\n      \"proof_file\": \"2025_TaxReturn.pdf.bitcoin-proof.json\",\n      \"public_key_hex\": \"0313a7b62bdcdb32209e4ffbb84f0dbd0a826e4138f59dbf9884f73f9241b2b813\",\n      \"signature_encoding\": \"base64_der_ecdsa_secp256k1_sha256_coincurve\",\n      \"signature_scheme\": \"ecdsa_secp256k1_sha256_coincurve\",\n      \"signature_type\": \"bitcoin_secp256k1_artifact_attestation\"\n    },\n    \"nostr\": {\n      \"identity_name\": null,\n      \"npub\": \"npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\",\n      \"proof_file\": \"2025_TaxReturn.pdf.nostr-proof.json\",\n      \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\",\n      \"signature_encoding\": \"hex_schnorr_secp256k1_sha256\",\n      \"signature_scheme\": \"schnorr_secp256k1_sha256_coincurve\",\n      \"signature_type\": \"nostr_schnorr_artifact_attestation\"\n    },\n    \"pgp\": {\n      \"email\": \"andrewgstanton@gmail.com\",\n      \"fingerprint\": \"B480CC987E0BAA6D5962EBAABF2E7F14860D3FB0\",\n      \"identity_name\": \"Andrew G. Stanton\",\n      \"key_algorithm\": \"Ed25519 (EdDSA)\",\n      \"proof_file\": \"2025_TaxReturn.pdf.pgp-proof.json\",\n      \"public_key_file\": \"pgp-public-key.asc\",\n      \"signature_file\": \"2025_TaxReturn.pdf.asc\",\n      \"signature_type\": \"pgp_detached_signature\",\n      \"subkeys\": [\n        {\n          \"algorithm\": \"ECDH\",\n          \"id\": \"DE8888788F1628BF\"\n        }\n      ],\n      \"user_ids\": [\n        \"Andrew G. Stanton <andrewgstanton@gmail.com>\"\n      ]\n    },\n    \"ssh\": {\n      \"identity_fingerprint\": \"SHA256:HRNyprnaZz+8kvBKwk7K4Cpept0tnH1dgCU0Ivmw0rM\",\n      \"identity_name\": \"SHA256:HRNyprnaZz+8kvBKwk7K4Cpept0tnH1dgCU0Ivmw0rM\",\n      \"key_algorithm\": \"RSA\",\n      \"proof_file\": \"2025_TaxReturn.pdf.ssh-proof.json\",\n      \"public_key_openssh\": \"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDJL6Hjgc8K8KVLi3xth+9UiuC6czgvr0YJsy9qAaCBhntszVRTW8/whjnSMnS/MiDZEdV0z8Em0fkAZ7yj76r6m/8Sm8xGBcC2MKR9lDH2sbeiWa2+NKxHBlmXCCp/Ftc21eUbhpVRWe0afm1JQg50xk34Rg61BVjpSALoOSzmq/Cy/XDxqcgNCeul26cuLPi/6hINhIopMZSg/W3LcvR+YBu6hk6tz47bZsat9xGOWO5ZK0RAumOIXuxHfziZ81VXVk77bV8EyzKNjhHO4Z0rervTghUUGzf8izQwLij95mwIhi2ekJS56p1x6da4YmwJUNWOWpUGAkKljNN+tPvH2YWOQu88Td5IHdCMDbN77rMAvq4skMIR3bbN3HNJCOWrMQ7Wggj61sdMCHOFYkGghWaA62MwxGNe2++KGczYLZpsMI/blJD3Aa22OBamR2/9mtSlbaa5kmyOwk5j2KtkyqI+PJJQtO+6p0UmJXnEZqy1TbAqcaPMUeFUOfrrF1fdC32uIPbyzRcnMxmd4a/NJqxbQpryJWpsWAmfzndjUFNFCcPm+9BIVVWWcIyB2kYeJNq+Ooz4p877lQ5JRJ9hKKVNqdSFCJMNZEXiXv4Da/6SPyG5xD3UZ0ERe2bURfALKsfcJCD4BgTZIOkBxU/WZUV5Ns99TfIibMSVHNi5Ww==\",\n      \"signature_encoding\": \"base64\",\n      \"signature_scheme\": \"ssh_rsa_pkcs1v15_sha256\",\n      \"signature_type\": \"ssh_artifact_attestation\"\n    }\n  },\n  \"type\": \"continuum_artifact_signers\",\n  \"version\": 1\n}\n```\n\n\nThis is not a mockup.\n\nThese are all from an actual generated Continuum signing bundle.\n\nAt this point Continuum supports:\n\n- Nostr signing + verification\n- PGP signing + verification\n- Bitcoin signed attestations + verification\n- SSH signing identities + verification\n\ninside the same local-first workspace.\n\n---\n\n## The Important Part Is That Every Proof References the Same Artifact\n\nThe verifier flow works by recomputing the artifact hash locally and validating every included proof against that exact artifact.\n\nThat is the key.\n\nFor example:\n\n- the Nostr proof attests to the artifact hash\n- the Bitcoin signed message attests to the same artifact hash\n- the PGP signature validates against the artifact\n- the SSH proof validates against the same canonical payload\n\nSo the verifier is effectively asking:\n\n“Do all of these cryptographic identities independently attest to this exact artifact?”\n\nIf the answer is yes:\n\n- the artifact has not changed\n- the proofs are valid\n- the signer metadata matches\n- the attestations are internally consistent\n\nNo relay required.\nNo cloud verification service required.\nNo external platform required.\n\nJust the artifact bundle itself.\n\n---\n\n## The Bundle Is Becoming the Durable Object\n\nThis feels important because the center of the architecture is shifting.\n\nMost modern systems revolve around (except of course for Nostr!)\n\n- accounts\n- servers\n- hosted platforms\n- SaaS databases\n\nBut here the durable object is the signed artifact bundle itself.\n\nThe proofs travel with the artifact.\n\nThe verification metadata travels with the artifact.\n\nThe signer metadata travels with the artifact.\n\nThe bundle itself becomes portable cryptographic authorship.\n\n---\n\n## Different Cryptographic Worlds Are Converging\n\nAnother thing that became very obvious while building this:\n\nthese proof systems originated from completely different domains.\n\nPGP came from:\n\n- email trust\n- software signing\n- decentralized verification\n\nSSH came from:\n\n- infrastructure authorization\n- machine access\n- operational trust\n\nBitcoin signing came from:\n\n- sovereign monetary identity\n- address ownership\n- cryptographic attestations\n\nNostr came from:\n\n- decentralized publishing\n- relay-based distribution\n- event authorship\n\nYet underneath all of them is the same primitive:\n\ncryptographic authority attached to an artifact.\n\nContinuum is now treating those systems as interoperable proof layers around the same signed object.\n\n---\n\n## The Really Interesting Part Comes Next\n\nNow that the verify flow is working, the bundle can evolve over time.\n\nFor example:\n\nI can generate a signed bundle locally.\n\nAnother Continuum user can:\n\n- verify every proof\n- inspect the manifests/signers\n- add their own attestations\n- regenerate the package\n- pass it forward again\n\nAt that point the bundle becomes more than authorship.\n\nIt becomes portable multi-party attestation.\n\nFor example:\n\n- several Nostr users independently attesting\n- multiple Bitcoin identities signing the same artifact\n- multiple PGP signers approving a release\n- multiple SSH authorities validating infrastructure artifacts\n\nAll independently verifiable.\n\nAll portable.\n\nAll local-first.\n\nAnd importantly:\nwithout requiring a blockchain consensus layer or centralized signing authority.\n\n---\n\n## Composite Signing Authorities\n\nAnother direction I’m now thinking about is the idea of a composite signer.\n\nRight now the identities are independent:\n\n- one Nostr identity\n- one PGP key\n- one Bitcoin signing identity\n- one SSH identity\n\nBut increasingly it makes more sense to think in terms of grouped signing authorities.\n\nFor example:\n\n“Andrew Stanton”\ncould internally contain:\n\n- multiple Nostr identities\n- multiple PGP fingerprints\n- several Bitcoin signing identities\n- several SSH identities\n\nThen Continuum could apply all configured proofs automatically when generating the bundle.\n\nThat abstraction feels much closer to how real-world cryptographic trust actually works.\n\nIndividuals and organizations rarely operate through a single key.\n\nThey operate through overlapping cryptographic authorities.\n\nContinuum is starting to model that directly.",
+  "created_at": 1778303907,
+  "id": "ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "86585a6fdea276ea520d3a5b60649cfd291031fa83c1a74103f8ea22d27de3ac3c394fb2972e98b3625e57242a69d6f8812f50f3812f9e460b0b3e76b2546f60",
+  "tags": [
+    [
+      "d",
+      "portable-cryptographic-authorship-and-multi-proof-artifact-bundles"
+    ],
+    [
+      "title",
+      "Portable Cryptographic Authorship and Multi-Proof Artifact Bundles"
+    ],
+    [
+      "summary",
+      "Continuum now supports complete end-to-end signed artifact bundles containing Nostr, PGP, Bitcoin, and SSH proofs alongside manifests and signer metadata. The verifier flow locally recomputes the artifact hash and validates every attached proof against the same artifact, allowing independently verifiable multi-proof attestations without relying on relays, cloud services, or centralized platforms. The article explores how portable cryptographic artifact bundles, multi-party attestations, and composite signing authorities could fundamentally change digital authorship and verification."
+    ],
+    [
+      "published_at",
+      "1778303907"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "pgp"
+    ],
+    [
+      "t",
+      "ssh"
+    ],
+    [
+      "t",
+      "cryptography"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "verification"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "security"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "display_date",
+      "2026-05-08"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6_friday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

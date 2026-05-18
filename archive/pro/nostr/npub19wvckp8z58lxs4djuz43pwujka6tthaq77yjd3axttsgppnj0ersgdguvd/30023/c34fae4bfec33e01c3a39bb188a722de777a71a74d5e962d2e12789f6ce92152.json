@@ -1,0 +1,27 @@
+{
+  "content": "## Vault v1 — Fully Functional\n\nToday was a **major milestone**: in less than 8 hours (I started about noon today), the full v1 Vault is operational, from nothing, it's 7:17 PM\n\n### Features Implemented:\n\n1. **Vault Creation / Deletion**\n   - `Create New Vault` generates `vault.db` with full schema.\n   - `Delete Vault` removes all vault files (`vault.db` or `vault.db.enc`).\n\n2. **Lock / Unlock Workflow**\n   - Lock encrypts `vault.db` → `vault.db.enc` and deletes plaintext.\n   - Unlock decrypts `vault.db.enc` → `vault.db` and deletes encrypted copy.\n   - Controlled by a **master password**.\n\n3. **Dashboard Integration**\n   - Vault controls under Tools section with a toggle.\n   - Buttons dynamically **enable/disable** depending on vault state.\n   - `Edit Vault` button only visible when vault is unlocked.\n   - All buttons are **centered, consistent, and styled** via CSS.\n\n4. **Edit Vault CRUD**\n   - Inline table for vault entries.\n   - Fully functional **Add / Save / Delete**.\n   - Rows automatically handle unique IDs (primary key).\n   - Works entirely in the **local workspace**, no external dependencies.\n\n5. **Vault Backup**\n   - `data/vault/` folder is now included in the workspace backup zip.\n   - Supports both locked (`vault.db.enc`) and unlocked (`vault.db`) states.\n\n6. **PGP Key Metadata**\n   - Algorithm and subkeys correctly stored and displayed.\n   - Human-readable algorithm names restored via lookup table.\n   - Dashboard now fully shows `Algorithm` and `Subkeys`.\n\n### Notes\n\n- v1 is fully local-first and secure — nothing leaves the user’s workspace.\n- Future enhancements: search within vault, AJAX-based inline editing, auto-lock timers.\n- This milestone demonstrates a **complete local-first encrypted artifact workflow** in a single day.\n\n**Result:** Continuum now has a working, secure, fully integrated Vault v1 — from zero to functional in under 8 hours.",
+  "created_at": 1778465892,
+  "id": "c34fae4bfec33e01c3a39bb188a722de777a71a74d5e962d2e12789f6ce92152",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3f7699efe4d0b23675239f7a7967fa445ed5f02b036767573019114482236c5514b8ab73f98f1efb3d0fc9fc8f2c0608c057c6d390ab6a5e8b884e7c7ec580d5",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-may-10-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, May 10, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,27 @@
+{
+  "content": "created another release this afternoon tagged v1.6.7.6)\n\n- includes the vault + additional identities + signing artificats flow\n- lightly tested the native app build -- everything looks good so far\n\nI probably am not going to be pushing all the release info tonight (even though the official\nrelease is today.\n\nposted 3 articles and notes today about the vault work yesterday \n\nI feel like things are in a very good condition",
+  "created_at": 1778554894,
+  "id": "7e93ac6539bd04fd7bbc3adff63daf714b230acf93d3f539afa5461d8ead0eaf",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "70cd12b619ad63d07e98f3c095a21a1418fe5b160e4e850e9129a9687c9118de025aac575f03142ac27271287f880dc2ad36e116b237cad9936e964cbb2d9efb",
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-may-11-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, May 11, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
