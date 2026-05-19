@@ -1,0 +1,43 @@
+{
+  "content": "5/18/2026 - One thing I appreciate more over time:\n\nContinuum is becoming less dependent on “ideal developer conditions.”\n\nNot everything assumes:\n\n- Docker\n- cloud infrastructure\n- external APIs\n- perfect runtime environments\n- always-online workflows\n\nThe system increasingly degrades gracefully instead of simply disabling functionality.\n\nThat architectural direction matters more to me than adding flashy features.\n\n#Continuum #SoftwareArchitecture #LocalFirst #Engineering",
+  "created_at": 1779162750,
+  "id": "98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "22cd24f08921b90e9b80beace52de464209256f57b8268e5a34ffd852091bfeed504fc43001cde1e9ae23dabb4519bdcf4a899e4302e534f943ad6852d495a78",
+  "tags": [
+    [
+      "d",
+      "note-1779162750"
+    ],
+    [
+      "published_at",
+      "1779162750"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "softwarearchitecture"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "engineering"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

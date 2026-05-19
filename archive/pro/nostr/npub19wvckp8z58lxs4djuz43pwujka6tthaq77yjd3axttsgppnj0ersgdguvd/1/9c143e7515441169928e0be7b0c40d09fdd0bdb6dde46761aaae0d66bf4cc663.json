@@ -1,0 +1,47 @@
+{
+  "content": "5/18/2026 - Continuum has supported native desktop builds for a while now.\n\nBack in v1.6.7 (April 9, 2026), the project reached an important packaging milestone:\n\n- signed + notarized native Mac builds\n- updated native Windows builds\n- unified Docker alignment\n- packaging improvements\n- build script cleanup\n- Windows launcher/runtime fixes\n\nBut one lingering inconsistency remained:\n\nPDF export support was still effectively tied to Docker/WeasyPrint environments.\n\nToday’s work closes much of that gap.\n\nPDF exports are now supported consistently across all build types, including the native desktop builds I now actively use myself for writing and publishing.\n\nThat progression matters because the goal was never merely:\n\n> “ship a packaged app.”\n\nThe goal is a durable local-first authoring environment that behaves coherently across environments.\n\n#Continuum #NativeApps #PDF #LocalFirst #DigitalSovereignty",
+  "created_at": 1779162326,
+  "id": "9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5ac1dc80ae9d5bd909ce45228bd2cbc8476b816aba547287dc2b60f14d80aa7099c553f1f1e337cb56cb5bc857ac6f085de62b9fa3b29225e315b0dd63761d19",
+  "tags": [
+    [
+      "d",
+      "note-1779162326"
+    ],
+    [
+      "published_at",
+      "1779162326"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nativeapps"
+    ],
+    [
+      "t",
+      "pdf"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

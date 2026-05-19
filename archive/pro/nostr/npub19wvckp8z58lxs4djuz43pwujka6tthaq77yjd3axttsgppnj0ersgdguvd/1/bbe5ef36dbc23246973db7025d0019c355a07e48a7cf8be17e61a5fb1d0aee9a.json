@@ -1,0 +1,43 @@
+{
+  "content": "5/18/2026 - Interesting feeling tonight:\n\nThe native Continuum build no longer feels like a packaged demo of the project.\n\nIt increasingly feels like the actual environment the project was aiming toward all along.\n\nThat shift is hard to quantify technically, but very obvious experientially once you begin using the compiled app itself daily for real writing, editing, exports, and publishing workflows.\n\n#Continuum #LocalFirst #NativeApps #Nostr",
+  "created_at": 1779162691,
+  "id": "bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4ee0b1a4bb68c44fec635026a0f693fd5680391be98e6c79351544633ca6aed91b9a5741e6802097a6890fb46e91cb5759c3d05f87372ba24684feacdc0997d4",
+  "tags": [
+    [
+      "d",
+      "note-1779162691"
+    ],
+    [
+      "published_at",
+      "1779162691"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nativeapps"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
