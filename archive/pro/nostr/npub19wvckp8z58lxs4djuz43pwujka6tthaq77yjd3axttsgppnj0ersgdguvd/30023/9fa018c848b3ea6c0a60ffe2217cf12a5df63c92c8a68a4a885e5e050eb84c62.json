@@ -1,0 +1,27 @@
+{
+  "content": "created release - v1.6.7.7 that supports\n\n- full encryption of workspace w/ backup and restore routes\n- in the afternoon also enabled pdf exports across all environments\n\nThese are important milestones\n\nFor the first time, I'm not now publishing mainly from the native app build (built this afternoon after I had built the pdf w/ the export feature for native builds -- uses a different library than weasyprint)",
+  "created_at": 1779163441,
+  "id": "9fa018c848b3ea6c0a60ffe2217cf12a5df63c92c8a68a4a885e5e050eb84c62",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "90b80a5839718a16cb29506458a5c9f0b151239ccd6061121ddad6446b53ecf57525547727475eab4390e207ebc4bdbb510294890664faf49abd8f2f355cd99a",
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-may-18-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal -  Monday, May 18, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

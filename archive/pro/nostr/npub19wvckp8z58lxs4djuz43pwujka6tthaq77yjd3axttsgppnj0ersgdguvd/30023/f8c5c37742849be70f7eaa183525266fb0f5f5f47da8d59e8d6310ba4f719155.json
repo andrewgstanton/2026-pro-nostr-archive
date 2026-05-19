@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Monday, May 18, 2026\n\n---\n\nA surprisingly large amount of software assumes the environment will always behave perfectly.\n\nThe right dependencies.\nThe right OS libraries.\nThe right runtime.\nThe right package manager.\nThe right container image.\n\nBut reality does not work that way.\n\nEspecially when building local-first software.\n\nToday Continuum improved PDF export support so that it now works consistently across all build types.\n\nIf WeasyPrint is available, Continuum uses it (that was what I used initially in the docker builds but it requires additional os dependencies.  Weasyprint will NOT work in a pure python environment.\n\nIf it is not available, exports still function using the fallback renderer instead of silently disabling the feature.\n\nThat sounds like a tiny implementation detail.\n\nIt is not.\n\nOne of the goals of Continuum is portability across environments:\n\n- native desktop builds\n- Docker deployments\n- local Python installs\n- partially offline systems\n- constrained environments\n- future sovereign hardware setups\n\nA feature that only works “under ideal conditions” is not truly portable.\n\nThis became especially obvious while testing different builds and environments.\n\nSome systems had WeasyPrint available immediately.\nOthers did not.\nSome builds lacked the necessary rendering dependencies entirely.\n\nThe easy solution would have been:\n\n> “Disable PDF export unless WeasyPrint exists.” (which is what I had done in the native and local builds)\n\nBut that approach quietly shifts control back to the environment.\n\nInstead, the export flow was redesigned so PDF generation remains available everywhere.\n\nHigher quality rendering when possible (in docker builds)\nGraceful fallback when not.\n\nThat principle matters far beyond PDF generation.\n\nThe same philosophy increasingly shapes Continuum itself:\n\n- authorship should work offline\n- signing should work locally\n- identities should remain portable\n- exports should remain durable\n- backups should remain usable\n- workflows should degrade gracefully\n\nA sovereign system cannot depend entirely on ideal infrastructure.\n\nIt must continue functioning even when conditions are imperfect.\n\nThat does not mean every environment will look identical.\n\nIt means the core capability survives.\n\nThis is one of the reasons I continue emphasizing the distinction between:\n\n- local keys\n- and local-first authorship\n\nThose are not automatically the same thing.\n\nMany applications technically store keys locally while still making authorship dependent on network availability, cloud APIs, or external services.\n\nContinuum keeps moving in the opposite direction.\n\nThe environment should support the user.\nThe user should not become dependent on the environment.\n\nEven a “minor” feature like PDF export reveals that philosophy in practice.",
+  "created_at": 1779156906,
+  "id": "f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa402013f1eadfef85a1efe8c9ca190398416dee1758cfe5068e2d4bf6197592994d030ac1aeadabd3c7f73c2bc8e41c4fd11105b06f3a9059fbdd6ec010c882",
+  "tags": [
+    [
+      "d",
+      "pdf-export-consistency-matters-more-than-it-sounds"
+    ],
+    [
+      "title",
+      "PDF Export Consistency Matters More Than It Sounds"
+    ],
+    [
+      "summary",
+      "Today Continuum reached an important usability milestone: PDF exports now work consistently across all supported build types instead of depending entirely on one rendering engine.  This sounds small on the surface, but it represents something much larger about portability, durability, and local-first software design."
+    ],
+    [
+      "published_at",
+      "1779156906"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "pdf"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "offlinefirst"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "python"
+    ],
+    [
+      "t",
+      "weasyprint"
+    ],
+    [
+      "display_date",
+      "2026-05-18"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

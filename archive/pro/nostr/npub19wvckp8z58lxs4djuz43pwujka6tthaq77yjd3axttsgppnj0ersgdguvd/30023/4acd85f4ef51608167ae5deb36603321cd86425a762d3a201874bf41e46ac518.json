@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Monday, May 18, 2026\n\n---\n\n\nModern software increasingly assumes permanence.\n\nPermanent internet, cloud APIs, \nPermament authentication services and infastructure \n\nBut real systems fail constantly.\n\nLibraries break.\nDependencies disappear.\nContainers differ.\nOperating systems behave differently.\nNetworks go offline.\n\nA sovereign system must account for this reality.\n\nToday’s work on Continuum reinforced that principle in several ways.\n\nOne visible example was PDF export support.\n\nInstead of requiring one exact rendering engine (weasyprint -- which I had used in the docker builds) and disabling the feature everywhere else, Continuum now supports graceful fallback behavior across all build types.\n\nThat sounds small.\n\nBut graceful degradation is part of sovereignty.\n\nA system that completely collapses when one dependency disappears is not truly durable.\n\nThe same principle showed up in the encrypted workspace work completed today.\n\nLocking and unlocking an encrypted workspace is not merely a UI feature.\n\nIt changes the runtime assumptions of the entire application.\n\nQuestions suddenly matter that many applications never even ask:\n\n- What exists in plaintext?\n- What survives after shutdown?\n- What gets cached accidentally?\n- What happens during import/export?\n- What happens if the process crashes?\n- What artifacts remain on disk?\n\nThese are uncomfortable engineering questions because they expose how fragile most systems really are.\n\nBut they matter.\n\nEspecially if software claims to value sovereignty, privacy, or ownership.\n\nThe current direction of Continuum is increasingly treating the workspace itself as the protected unit:\n\n- identities\n- drafts\n- tombstones\n- nostr event db\n- vault data\n\nNot isolated features or disconnected modules, but a coherent local workspace.\n\nThis also changes how backups are viewed.\n\nA backup is not merely “copying files.”\n\nA sovereign backup should preserve:\n\n- portability\n- integrity\n- local ownership\n- usability across environments\n- secure at-rest storage\n\nToday included more work around encrypted workspace integrity validation and safer lock/unlock transitions.\n\nAgain, not glamorous work.\n\nBut important work.\n\nBecause sovereignty is not established by slogans.\n\nIt is established through engineering decisions.\n\nEspecially the boring ones.\n\nEspecially the edge cases.\n\nEspecially the moments where systems partially fail.\n\nAnyone can build software that works perfectly in ideal conditions.\n\nThe harder challenge is building software that remains coherent when conditions are imperfect.\n\nThat is where architecture starts revealing its philosophy.",
+  "created_at": 1779157280,
+  "id": "4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d89d0397ea3f67e16cf1559b401827005f55a5f73fa0d19f0f3ea58f3314877f2f5b7d4a00de45d931c9a1e5e97e030342fdb2c94b2a720ef556cae0b96146a9",
+  "tags": [
+    [
+      "d",
+      "sovereignty-requires-better-failure-modes"
+    ],
+    [
+      "title",
+      "Sovereignty Requires Better Failure Modes"
+    ],
+    [
+      "summary",
+      "Today’s Continuum work reinforced an important idea: sovereign systems are not defined only by their capabilities, but by how they behave when dependencies are missing, environments change, or systems partially fail."
+    ],
+    [
+      "published_at",
+      "1779157280"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "engineering"
+    ],
+    [
+      "t",
+      "softwarearchitecture"
+    ],
+    [
+      "display_date",
+      "2026-05-18"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

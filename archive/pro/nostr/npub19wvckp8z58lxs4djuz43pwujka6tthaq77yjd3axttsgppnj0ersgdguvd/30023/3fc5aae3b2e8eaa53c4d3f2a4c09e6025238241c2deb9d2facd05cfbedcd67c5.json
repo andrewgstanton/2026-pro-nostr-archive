@@ -1,0 +1,83 @@
+{
+  "content": "Andrew G. Stanton - Monday, May 18, 2026\n\n---\n\nOne of the recurring themes in Continuum has been the separation between *creation* and *distribution*.\n\nToday’s work reinforced another distinction that matters just as much:\n\n**usable locally** vs. **secure at rest**.\n\nThose are not the same thing.\n\nMany systems claim to be “local-first” simply because keys are stored on the device. But if the entire workspace remains readable in plaintext while the system is shut down, the sovereignty story is incomplete.\n\nThat is part of what today’s progress addressed.\n\nThe current direction is moving Continuum toward a model where the workspace itself can be encrypted and locked as a coherent unit:\n\n- identities\n- drafts\n- tombstones\n- nostr event db\n- vault data\n\nThis is not merely about “adding encryption.”\n\nIt is about reducing the number of accidental plaintext artifacts left behind during normal usage.\n\nThe more I work on Continuum, the more obvious it becomes that local-first authorship requires thinking carefully about runtime state transitions:\n\n- lock\n- unlock\n- import\n- export\n- clear workspace\n- encrypted backup enforcement\n\nThese transitions matter because sovereignty is not only about ownership of keys.\n\nIt is also about understanding exactly when your data exists in readable form and when it does not.\n\nA cloud platform abstracts all of this away from the user.\n\nContinuum intentionally exposes these concepts because they are real.\n\nToday’s work also included deeper integrity validation around encrypted workspaces and more runtime-safe handling of lock/unlock flows.\n\nThat may sound minor from the outside, but these details become extremely important once a workspace starts behaving more like a portable sovereign environment rather than “just another app.”\n\nThere was also progress around encrypted workspace packaging.\n\nInstead of selectively protecting isolated pieces of data, the architecture is increasingly moving toward treating the workspace itself as the protected unit.\n\nThat changes the mental model entirely.\n\nThe goal is not merely:\n\n> “my password database is encrypted.”\n\nThe goal becomes:\n\n> “my workspace exists in a protected state unless I intentionally unlock it.”\n\nThat distinction matters.\n\nAnother practical improvement today was standardizing PDF export support across all build types.\n\nContinuum now supports PDF exports consistently whether running:\n\n- locally\n- in Docker\n- in packaged desktop builds\n- or in fallback environments without WeasyPrint\n\nIf WeasyPrint is available, Continuum uses it for higher quality rendering.\n\nIf it is unavailable, the export still works through the fallback path instead of simply disabling the feature.\n\nThat consistency matters because portability has become a major design goal of the project.\n\nThe environment should not determine whether core authorship features work.\n\nThis was not a flashy day of development - No dashboards pretending to be revolutionary.\n\nBut the system became more coherent.\n\nMore durable, portable and hontest\n\nAnd honestly, that matters more.",
+  "created_at": 1779156465,
+  "id": "3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4cc0b35c5e786511cdcdf7ff92df95e5b43488aea03f4934903e1eae65fc90cd02f85c27ce1c60a2582abb07127f8eff4ac3c3a1bdcc3a6f7c5969efdc3c2968",
+  "tags": [
+    [
+      "d",
+      "continuum-v1677--toward-a-fully-encrypted-sovereign-workspace"
+    ],
+    [
+      "title",
+      "Continuum v1.6.7.7 — Toward a Fully Encrypted Sovereign Workspace"
+    ],
+    [
+      "summary",
+      "Today's work pushed Continuum further toward becoming a true sovereign local-first workspace.  The focus was not on “cloud sync” or engagement mechanics. It was on reducing plaintext exposure, improving encrypted workspace handling, and making the local environment more durable and portable across different deployment models.  Another important milestone: PDF exports are now supported consistently across all build types, including environments where WeasyPrint is unavailable."
+    ],
+    [
+      "published_at",
+      "1779156465"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "encryption"
+    ],
+    [
+      "t",
+      "privacy"
+    ],
+    [
+      "t",
+      "pdf"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "display_date",
+      "2026-05-18"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2_monday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
