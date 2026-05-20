@@ -1,0 +1,28 @@
+{
+  "id": "7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1779287905,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:b785ad30714ff150f4c7d6d0d74423e50947f58c04c6d8ec44977ddfce73c0fc:bitcoin-fixes-the-money-what-fixes-the-human",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b785ad30714ff150f4c7d6d0d74423e50947f58c04c6d8ec44977ddfce73c0fc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This is a very powerful piece. Thank you for sharing it ",
+  "sig": "707bcdb4afb88d3d9e066f3a8840b671a1c6b9556614b292616cfb970ef584d6cefbf2de2170e85f2eae39a6b6ac8676656d7f66276fb6aa8619c56292e2e4b5",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
