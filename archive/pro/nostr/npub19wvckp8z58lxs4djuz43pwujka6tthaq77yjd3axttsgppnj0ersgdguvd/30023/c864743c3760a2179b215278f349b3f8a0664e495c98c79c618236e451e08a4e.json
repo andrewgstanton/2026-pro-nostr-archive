@@ -1,0 +1,43 @@
+{
+  "content": "This was my first real day on SN, even though I joined about a week ago.\n\nI was reading the original story behind Stacker News and it helped me understand both what I like about it and what unsettles me at the same time.\n\nHere's what I like (so far):\n- the desire for real Bitcoin-native communities\n- the rejection of fake internet reputation systems\n- the emphasis on long-term incentives\n- the idea that incentives shape behavior\n- the attempt to create something more substantive than algorithmic social media\n\nI genuinely resonate with a lot of these things.\n\nBut after using SN more actively today, I also began feeling something else:\n\nOnce discourse became economically incentivized, it felt like it subtly changed the emotional texture of the conversation itself.\n\nI noticed:\n\n- Replies became transactions.\n- Disagreements generated visible economic activity (in some cases more than the original article itself)\n\nAnd I realized:\n\n- Provocation can become economically productive.\n- Engagement clearly was.\n(and you could see that directly)\n\nNothing about this is necessarily malicious or even wrong. In many ways the system is functioning exactly as intended.\n\nBut it still feels psychologically different from simple publishing or discussion, which I had been doing a lot (mostly on Continuum and on Nostr -- Continuum is a local-first publishing tool that runs as a client but it's very simple now -- just allowing me to post articles, and notes, doesn't have feeds, etc..)\n\nI think what unsettles me is not Bitcoin itself, but realizing how deeply incentives shape communication once they become tightly coupled to engagement loops.\n\nI'm still thinking through it honestly and haven't resolved the tension (and maybe never will)\n\nIt's fascinating and unsettling at the same time right now.\n\n---\n\nOriginally posted on Stacker News\nTuesday, May 19, 2026",
+  "created_at": 1779290417,
+  "id": "c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "005332a1b112a4336646eb54fa780eb718932499c6435243547144db0e442364629eb1a18ab7af2cbf142ffeadebde7637a6a35b665c6fae7319e55fb21e137c",
+  "tags": [
+    [
+      "d",
+      "my-first-real-day-on-stacker-news"
+    ],
+    [
+      "title",
+      "My First Real Day (On Stacker News)"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "published_at",
+      "1779290417"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "display_date",
+      "2026-05-19"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3_tuesday.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
