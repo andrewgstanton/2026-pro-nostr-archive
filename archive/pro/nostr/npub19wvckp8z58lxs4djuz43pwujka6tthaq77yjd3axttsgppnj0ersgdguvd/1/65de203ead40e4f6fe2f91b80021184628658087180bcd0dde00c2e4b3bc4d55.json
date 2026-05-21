@@ -1,0 +1,47 @@
+{
+  "content": "5/21/2026 - Step 1 of the new Archive Sync Service inside Continuum:\n\nTesting whether kind:1 notes can be reliably persisted into the archive layer directly from within the application runtime itself.\n\nThis flow currently:\n\n* exports kind:1 events from the local Continuum database\n* writes JSON + markdown projections into the local archive repositories\n* updates history tracking\n* commits archive changes via git\n* synchronizes updates to the remote archive origins\n\nOne important realization during this work:\n\nThe archive itself exists locally *before* git synchronization occurs.\n\nMeaning:\n\nA failed git push does not necessarily mean the archival step failed.\n\nThe event may already exist inside the local archive repositories even if remote synchronization later fails.\n\nThis is gradually becoming something very different from normal “Nostr app” workflows.\n\nLess focused on feeds/timelines.\n\nMore focused on:\n\n* local-first authorship\n* persistence\n* archival continuity\n* structured historical storage\n* optional synchronization layers\n\n#Continuum #Nostr #LocalFirst #Archival #DigitalSovereignty",
+  "created_at": 1779405730,
+  "id": "65de203ead40e4f6fe2f91b80021184628658087180bcd0dde00c2e4b3bc4d55",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "94d160db357b7ee29c8c75d07d21831deacc6a158ce5071e6964caff66d0a3437b179e00f98cfa8b392c3b6c489a2b4aa18960871921c25047e92376598a2227",
+  "tags": [
+    [
+      "d",
+      "note-1779405730"
+    ],
+    [
+      "published_at",
+      "1779405730"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "archival"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
