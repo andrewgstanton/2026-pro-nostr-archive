@@ -1,0 +1,27 @@
+{
+  "content": "released 1.6.7.8 this afternoon after updating release notes which included\n\n- better support for env across all build types\n- pdf support across all build types\n\nnot much else\n\nbrainstorming w/ chatGPT in the evening but I was pretty exhausted and went to sleep shortly after",
+  "created_at": 1779382484,
+  "id": "f1a972541feacdf2f343d24d33aca3ceec6247d960076e7defe7008e43c08180",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9830025b3370cde2a0ade77ffcc1e3b6c38e8c43c0dd6553fc4ab1f412615efd3b1ad7429ab394b9669026e7ddbf91b4b5b0aa9d6aa74aa61d6ac6278e62429e",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-may-20-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, May 20, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

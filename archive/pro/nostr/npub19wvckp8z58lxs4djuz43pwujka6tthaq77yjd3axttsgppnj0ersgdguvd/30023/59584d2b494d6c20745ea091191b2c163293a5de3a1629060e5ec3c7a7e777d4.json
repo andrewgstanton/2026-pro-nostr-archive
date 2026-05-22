@@ -1,0 +1,27 @@
+{
+  "content": "I spent most of the day working with Stacker.news\n\nWrote a piece about my experience (\"My First Day\"), posted that on SN (Stacker News) EOD 5/19\n\nbut published this morning (5/20) on Nostr (article) -- so I have a canonical copy\n\nI didn't get around to integrating the env support (across all environments which I touched on Monday (5/18).\n\nThat's about it for now.",
+  "created_at": 1779311914,
+  "id": "59584d2b494d6c20745ea091191b2c163293a5de3a1629060e5ec3c7a7e777d4",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d30020c49f7a469ca066d5a747ec35c96324bf47ca396e9757399cdbcc92811cc420a1e471438a434d76285950c76c079bfb7a0eb67ea55f50175b20cf9ad0c1",
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-may-19-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, May 19, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
