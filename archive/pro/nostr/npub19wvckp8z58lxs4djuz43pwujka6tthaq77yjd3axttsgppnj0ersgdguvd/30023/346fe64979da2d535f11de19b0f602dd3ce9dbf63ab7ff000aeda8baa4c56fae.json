@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Thursday, May 21, 2026\n\n---\n\nToday I continued working on the new Archive Sync Service inside Continuum.\n\nThis work is about making sure local events can be persisted into a structured archive layer directly from the application runtime itself.\n\nThat archive layer is separate from relays.\n\nIt is also separate from workspace backup/export.\n\nThe goal is not merely to “post” events somewhere.\n\nThe goal is to preserve authored events as durable records.\n\n## Step 1 — kind:1 notes\n\nThe first test was kind:1 notes.\n\nThat worked.\n\nContinuum can now take kind:1 events from the local database and persist them into the archive structure.\n\nThat means the note is written into the local archive repository as ordinary files.\n\nThe archive stores both:\n\n- the raw JSON event\n- a markdown projection of the event content\n\nIt also updates the history tracking for that npub and kind.\n\nThen git is used to commit and push the archive changes.\n\nThis confirmed the basic model:\n\n> local event → local archive → git commit → remote archive sync\n\nThe important part is the order.\n\nThe archive is updated locally first.\n\nGit comes after.\n\nSo if a git push fails, the local archive write may still have succeeded.\n\nThat distinction matters.\n\nA failed push is not necessarily a failed archive.\n\nIt may only mean remote synchronization failed.\n\n## Step 2 — kind:30023 articles\n\nThe next step is kind:30023 support.\n\nThis matters because kind:30023 events are the long-form article layer.\n\nNotes are important, but articles represent a different kind of authored work.\n\nThey are longer-lived and carry more context (and I'm also using THIS article to test this particular step)\n\nArticles (kind:30023) are often the work that most needs to be preserved.\n\nThe goal now is to run the same archive sync pattern against kind:30023 events.\n\nThat means taking long-form articles from the local Continuum database and writing them into the archive structure as durable files.\n\nThe archive should preserve:\n\n- the raw event JSON\n- the markdown/article projection\n- the history entry for the npub\n- the event’s relationship to the broader archive index\n\nThis gives the article a life outside the database and outside relays.\n\nIt becomes part of a structured archive.\n\n## Why this is different from normal Nostr app behavior\n\nMost Nostr apps are centered around posting.\n\nThe usual flow is something like:\n\n> write event → publish to relays → appear in feed\n\nContinuum is moving in a different direction.\n\nThe flow is becoming:\n\n> author locally → persist locally → archive → synchronize optionally → publish when ready\n\nThat is a very different model.\n\nThe archive layer is not just another feed.\n\nIt is a durable historical record.\n\nIt can include published events, unpublished events, edits, tombstones, markdown projections, raw JSON, RSS entries, and index files.\n\nThat starts to become something closer to personal publishing infrastructure than a social client.\n\n## The final result\n\nThe final result I am working toward is a managed Archive Sync Service inside Continuum.\n\nInstead of opening a Docker shell and manually running scripts, Continuum should be able to run the archive sync from inside the application.\n\nEventually that means a user can click something like:\n\n> Sync Events to Archive\n\nand Continuum will handle the rest.\n\nThe service will be able to:\n\n- check whether archive sync is available\n- verify that the local archive repositories exist\n- verify that git is available\n- persist events into the archive\n- commit local archive changes\n- push remote archive updates\n- show sync status\n- expose runtime logs\n- avoid duplicate overlapping sync jobs\n\nThis is still being built step by step.\n\nKind:1 worked.\n\nKind:0 worked.\n\nNow kind:30023 is next.\n\nAfter that, the remaining pieces are tombstones, RSS updates, and the global archive index.\n\nOnce those are wired together, Continuum will have a much stronger local-first archival flow:\n\n> every meaningful event can be preserved outside the database, outside relays, and outside any single app surface.\n\nThat is the direction.\n\nNot just posting, backup or exporting, but a structured archive of authored events.\n\n--- \n\n(crossing fingers)",
+  "created_at": 1779409606,
+  "id": "346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aeb8b07fa8d80e1d99b6fdad02f73f7d22d8bb415dabcaced8b98f010af2edaa2a82d9f3ab1eca442338246eac2baa498b0e2748ad24ea2fb0829c651eee2c35",
+  "tags": [
+    [
+      "d",
+      "syncing-events-to-archive"
+    ],
+    [
+      "title",
+      "Syncing Events to Archive"
+    ],
+    [
+      "published_at",
+      "1779409606"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles."
+    ],
+    [
+      "display_date",
+      "2026-05-21"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5_thursday.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "archive"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "bb1db1b89bdaafffc865e76a9cba06df8897aeff93ed51402cd3414917f56ef2",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
