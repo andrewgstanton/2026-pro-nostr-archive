@@ -1,0 +1,42 @@
+{
+  "content": "You are  welcome Paul",
+  "created_at": 1779575751,
+  "id": "969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "293ab4693742f8890ee8ed033eb5c9c40eca8c293eebae4047041ed9f9d81ec37bbd2058cb37e81c4a065b4cc82e6a594e41da081e0c471f71b1dffbd391bcb8",
+  "tags": [
+    [
+      "a",
+      "30023:805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3:nostr-only-is-a-flex",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "283c4fc1d6409119a5bfbbf8d5533c82ab2db7aa3d4aea9e8b5aaae317f2ea25",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3c6d08c75000fdb7226014e1e7e14abf9a51b628f5de60f892b39a9a9e797774",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ]
+}
