@@ -1,0 +1,66 @@
+{
+  "content": "Andrew G. Stanton - Saturday, May 23, 2026\n\n---\n\n## Introduction\n\nToday I completed a major architectural shift in Continuum’s archive system.\n\nWhat originally started as a relatively simple “sync current database state into Git” workflow evolved into something much deeper:\n\na queue-driven archival pipeline designed to preserve the *full event history* of authored and discovered Nostr events over time.\n\nThis turned out to be significantly more difficult than expected because the problem itself changed.\n\nThe original archive model treated the current SQLite database as the source of truth.\n\nThe new system treats the *event stream itself* as the source of truth.\n\nThat distinction matters a lot.\n\n---\n\n## The Original Problem\n\nThe previous archive workflow worked roughly like this:\n\n1. Read the current SQLite database\n2. Find the latest kind:0, kind:1, and kind:30023 events\n3. Export those into Git-backed archive repositories\n4. Rebuild a global index from the exported files\n\nAt first glance, this seems reasonable.\n\nBut there was a subtle problem:\n\nThe live database only stores the *latest known state* of many objects.\n\nFor example:\n\n- profile updates (kind:0)\n- notes and replies (kind:1)\n- long-form articles (kind:30023)\n\nIf multiple edits or updates occurred between archive sync cycles, only the final state would survive in the database.\n\nIntermediate versions could disappear entirely before the archive system ever saw them.\n\nThat meant the archive was not truly preserving the event history over time.\n\nIt was only preserving snapshots of the latest known state.\n\n---\n\n## Crossing the Architectural Boundary\n\nThe realization that changed everything was this:\n\n> The current SQLite database is not the archival source of truth.\n\nThe event stream is.\n\nOnce I accepted that, the architecture had to change.\n\nInstead of exporting directly from the current database state, Continuum now stores full raw event snapshots into an `archive_sync_queue` table as events are created, updated, or discovered during refresh/import operations.\n\nImportantly, the queue stores the *entire raw event JSON*, not merely event ids.\n\nThat distinction matters because it allows every individual version of an event to be preserved independently.\n\nEven if the live database later overwrites the latest visible state, the queued historical versions still exist.\n\nThis transforms the archive process from:\n\n```\ncurrent DB snapshot -> export\n```\n\nThat is a very different system.\n\n## Queue States\n\nThe queue currently tracks three states:\n\n- `pending`\n- `processing`\n- `committed`\n\nThe flow now works like this:\n\n1. An event is queued as `pending`\n2. The archive worker claims the row and marks it `processing`\n3. The worker exports the event into the archive repositories\n4. Git operations complete successfully\n5. The queue row is finally marked `committed`\n\nIf export or Git operations fail, rows are automatically reset back to `pending` for retry later.\n\nThis became important because archive persistence now has to handle:\n\n- partial failures\n- retries\n- duplicate processing attempts\n- concurrent worker protection\n- Git/network failures\n- idempotency\n\nThese are problems that didn’t really exist in the earlier “scan current DB” approach.\n\n---\n\n## Queue-Driven Exporters\n\nThe archive exporters for:\n\n- kind:0 profiles\n- kind:1 notes/replies\n- kind:30023 long-form articles\n\nwere all rewritten to consume queue rows instead of querying the live database directly.\n\nThis was another important shift.\n\nPreviously, exporters looked up the latest database rows during export time.\n\nNow the exporters consume immutable queued snapshots directly from `archive_sync_queue.raw_json`.\n\nThis means the archive process no longer depends on the live database remaining unchanged between creation time and export time.\n\nThat greatly improves archival durability.\n\n---\n\n## Decoupling the Global Index\n\nAnother important architectural improvement was separating:\n\n1. Commit Pending Events to Archive\n2. Rebuild Global Archive Index + RSS\n\nThese are now independent operations.\n\nThe first operation persists queued events into the Git-backed archive repositories.\n\nThe second operation rebuilds the global archive index entirely from committed archive history files.\n\nThis ended up being one of the most important design improvements.\n\nThe global archive index no longer depends on the live Continuum database at all.\n\nIt can now be reconstructed entirely from committed archive history stored in Git.\n\nThat means the archive itself has become self-describing.\n\nThe live database is no longer required to regenerate the archive index.\n\nThat creates a much more durable and portable archive model long-term.\n\n---\n\n## External Nostr Clients\n\nOne corner case appeared during testing.\n\nIf I created an event in another Nostr client:\n\n1. Refreshing Continuum would correctly import the event into the local database\n2. The dashboard would display it normally\n3. But the event would never enter the archive queue\n\nThat meant externally-created events would never be archived.\n\nThe old shell-based sync process accidentally handled this because it scanned the current database state directly.\n\nThe new queue-driven model required explicit handling for externally-discovered events.\n\nThe solution was to enqueue newly discovered events during refresh/import operations if:\n\n- the event does not already exist locally\n- and the event is not already queued\n\nThis preserves the strengths of the original database-scanning model while still gaining the benefits of queue-driven persistence.\n\n---\n\n## Background Processing\n\nThe system is now structured so archive persistence can eventually run automatically in the background.\n\nFor example:\n\n- Commit Pending Events every 10 minutes\n- Rebuild Global Index periodically only when needed\n\nThe expensive global index rebuild can also be skipped entirely when no new commits occurred.\n\nThis separation became important because rebuilding the archive index is much more expensive than simply committing pending events into the archive repositories.\n\n---\n\n## Why This Became Surprisingly Difficult\n\nAt first, this seemed like a relatively small feature.\n\nIn reality, it became a much larger architectural transition.\n\nThe system moved from:\n\n> Export the current database state\n\nto:\n\n> Capture and preserve an event history over time\n\nThat introduces an entirely new class of problems:\n\n- queue durability\n- idempotency\n- retries\n- eventual consistency\n- partial failure recovery\n- Git commit semantics\n- concurrent worker protection\n- historical version preservation\n- decoupling live state from archival state\n\nIn other words:\n\nthis stopped being a simple export script and became an archival pipeline.\n\n---\n\n## Current Status\n\nThe core system is now functioning:\n\n- queue-driven archival\n- durable version preservation\n- Git-backed persistence\n- automatic recovery from partial failures\n- decoupled global index rebuilding\n- queue-aware exporters\n- support for externally-created events\n- archive reconstruction from committed history\n\nThere is still cleanup and automation work remaining, but the foundation is now in place.\n\nAnd importantly:\n\nmultiple edits occurring between sync intervals are no longer lost.\n\nEvery version can now be preserved independently over time.\n\n---\n\nNOTE: I had chatGPT create this artricle mostly (and it's pretty accurate), please forgive any AI-isms if you see anything in the description.  Trying to save time and this is mostly just describing what I have been working on since May 21.",
+  "created_at": 1779568924,
+  "id": "dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e6550c31f6fd38ca5ece0fb1605dc73090581c2a303daf76a4551f6903e72efa63c3476549b75808cb0d332a485e520c9a3bd948c8d0ff1387d3e99b38a1ba1e",
+  "tags": [
+    [
+      "d",
+      "queue-driven-archive-persistence-in-continuum"
+    ],
+    [
+      "title",
+      "Queue-Driven Archive Persistence in Continuum"
+    ],
+    [
+      "summary",
+      "Continuum’s archive system has now shifted from a simple “export current DB state” model to a queue-driven archival pipeline that preserves full event history over time. Events are queued as immutable raw snapshots, committed into Git-backed archive repositories, and later used to rebuild a global archive index independently from the live SQLite database. This architecture now supports durable version preservation, retry-safe archival processing, and long-term reconstruction of archive state entirely from committed history."
+    ],
+    [
+      "published_at",
+      "1779568924"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuumm"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "git"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "sqlite"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "display_date",
+      "2026-05-23"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7_saturday.jpg"
+    ]
+  ]
+}
