@@ -1,0 +1,31 @@
+{
+  "kind": 30023,
+  "created_at": 1779507590,
+  "tags": [
+    [
+      "d",
+      "test-article"
+    ],
+    [
+      "title",
+      "test article"
+    ],
+    [
+      "published_at",
+      "1779507590"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "239307bc5c4be699d4f0e2b7ed8fc4884e4e09eb08148ecc54eeb4fc9064c8e0",
+      "edit"
+    ]
+  ],
+  "content": "- change 1\n- change 2",
+  "pubkey": "f104c306cdb6f0e909b0c79773ce2acd0fa88113d634fb0f918f608bb1cdd669",
+  "id": "ffb26db6441c525c9dd840c6d5b332e89c11adf8101c6f64fa8c3d460472ced6",
+  "sig": "c774987d4470c3e3c934ad42640962c5a18ac489c0d4b4c101fa493356f140131446ea41e6467267ca3bf32d45230f80a6c9f39995ba41170e7b2910ed36f74e"
+}
