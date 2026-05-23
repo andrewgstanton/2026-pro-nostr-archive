@@ -1,0 +1,26 @@
+{
+  "content": "Up about 8:00 or so and took Whiskers out to the (Alamo Square) park after giving him his medicine\n\nsold the 2 shares of ELF, (bought yesterday) and then bought 2 more. Waiting for those to go up\n\nWent to Richmond to pick up the cake (about 9:30 AM) and returned shortly after 10:00\n\nlater in the morning sold the 2 shares I bought early for a small profit but don't want to get into \na PDT call (pattern day trading) so figured I would wait until next Tuesday (to sell the remaiing 2 shares).  So far I tiday profit of $2.00 (since yesterday about 1% gain)\n\n(I keep doing this but avoid day trading -- \"swing trading\" and I could generate some decent income\n\nwe will see.\n\nUgh\n\nAfter I got back in the afternoon maybe about 1 or 2 PM, I started building the queue and building out the archiving service -- I got the kind 1, 0 and 30023 to archive to git from a button in a arcive queue page (skipping a lot of the details)\n\nbut by 9 PM or so was pretty happy got nearly all of it completed",
+  "created_at": 1779563262,
+  "id": "dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "997eda86e4575f13ae291aa3fe02596801af44e6a884d8b441a1d07268a2815ddd2294a01b7ea7232f4acf6275be280ee9bbf2871f0c963f787c09cbb9521fba",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-may-22-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, May 22, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "content": "Today in the afternoon, started working on getting the shell scripts for archiving working in python\n\nI also thought about using a syncing service (and in the evening brainstormed w/ chatGPT about using a queue (in a separate table) for storing every change for kind 1, 0 and 30023 events\n\nWhiskers continues to decline slowly he is peeing a lot and we are going through 5-6 (washable) diapers per day, over the last maybe 2 weeks we have had to  do daily washes for the diapers\n\nI think yesterday I ordered 6 more washable diapers and also vacuum (miele) bags (for our Miele vacuum).  \n\nAlso traded (a little) on a new account -- bought 2 shares of ELF (thinking it would go up tomorrow) (and it did)",
+  "created_at": 1779562442,
+  "id": "b9e0ca96f829c81309ba751496a73949a014d25387ce871ad0b90223e9e4ea15",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "610bdff4a995f83350e9d276f25fa8e602d8e7a5003dfa7d71af7074116863893d917c598560c050c13cd496166dd538bcad53ba7029f7243a26379e2f8b118f",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-21-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, May 21, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ]
+}

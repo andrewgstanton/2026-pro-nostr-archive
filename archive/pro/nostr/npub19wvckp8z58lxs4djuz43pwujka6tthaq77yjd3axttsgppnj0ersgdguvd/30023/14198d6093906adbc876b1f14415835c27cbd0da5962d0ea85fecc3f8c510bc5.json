@@ -1,0 +1,31 @@
+{
+  "kind": 30023,
+  "created_at": 1779562737,
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-21-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, May 21, 2026"
+    ],
+    [
+      "published_at",
+      "1779562737"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "b9e0ca96f829c81309ba751496a73949a014d25387ce871ad0b90223e9e4ea15",
+      "edit"
+    ]
+  ],
+  "content": "Today in the afternoon, started working on getting the shell scripts for archiving working in python\n\nI also thought about using a syncing service (and in the evening brainstormed w/ chatGPT about using a queue (in a separate table) for storing every change for kind 1, 0 and 30023 events\n\nWhiskers continues to decline slowly he is peeing a lot and we are going through 5-6 (washable) diapers per day, over the last maybe 2 weeks we have had to  do daily washes for the diapers\n\nI think yesterday I ordered 6 more washable diapers and also vacuum (miele) bags (for our Miele vacuum).  \n\nAlso traded (a little) on a new account -- bought 2 shares of ELF (thinking it would go up tomorrow) (and it did)\n\nAlso we went to New May Wah this afternoon (together) so I could help Kiyomi carry the rice and we also ordered the cake (from Shubert's bakery -- 10 inch chocolate mouuse cake -- to pick up tomorrow after 9 am.\n\nReally sweet -- similar to what Kiyomi got last year for my birthday\n\nin 3 days I will be 61 (May 24)\n\nI also signed another signature for the 401K distribution (I started yesterday after really mulling it over Tuesday.\n\nI hope the 30K gets to bank account (Wells personal) before end of Month so I can start paying some debts -- I still have two mortgage payments due in May for 2 Texas properties (by 5/15) so they are a week late -- I've been getting calls almost every day from Citadel\n\nUgh",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5",
+  "sig": "0eaf6015d0f2793d2937297f3327e7dcccedb98d686d77abb642ac91f9d0c0dad7ee06feb88137cd2133c96f7a2d05a0dd16f978067025cfefb7302d92ee3b95"
+}
