@@ -1,0 +1,9 @@
+{
+  "kind": 0,
+  "created_at": 1779511494,
+  "pubkey": "f104c306cdb6f0e909b0c79773ce2acd0fa88113d634fb0f918f608bb1cdd669",
+  "content": "{\"name\": \"test\", \"about\": \"test1\", \"picture\": \"\", \"banner\": \"\", \"website\": \"\", \"nip05\": \"\", \"lud16\": \"\"}",
+  "tags": [],
+  "id": "1dbc288528e8d91b41fda7f9adcdba0eb2b191396817eba1954041bdde828316",
+  "sig": "b639171c80d3ada4276011592a2b15c0f9b71e25293be5d6547ceebd9fe936d7b005fc7094f75d9a4ab4aa120f2b101bdb4566013d2246cbaa9f1dfc0f755e06"
+}
