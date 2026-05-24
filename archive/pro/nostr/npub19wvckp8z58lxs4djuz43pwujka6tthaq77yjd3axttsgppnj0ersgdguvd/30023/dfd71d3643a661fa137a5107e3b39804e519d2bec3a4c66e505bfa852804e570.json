@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1779654177,
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-21-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, May 21, 2026"
+    ],
+    [
+      "published_at",
+      "1779654177"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5",
+      "edit"
+    ]
+  ],
+  "content": "Today in the afternoon, started working on getting the shell scripts for archiving working in python\n\nI also thought about using a syncing service (and in the evening brainstormed w/ chatGPT about using a queue (in a separate table) for storing every change for kind 1, 0 and 30023 events\n\nWhiskers continues to decline slowly he is peeing a lot and we are going through 5-6 (washable) diapers per day, over the last maybe 2 weeks we have had to  do daily washes for the diapers\n\nI think yesterday I ordered 6 more washable diapers and also vacuum (miele) bags (for our Miele vacuum).  \n\nAlso traded (a little) on a new account -- bought 2 shares of ELF (thinking it would go up tomorrow) (and it did)\n\nAlso we went to New May Wah this afternoon (together) so I could help Kiyomi carry the rice and we also ordered the cake (from Shubert's bakery -- 10 inch chocolate mouuse cake -- to pick up tomorrow after 9 am.\n\nReally sweet -- similar to what Kiyomi got last year for my birthday\n\nin 3 days I will be 61 (May 24)\n\nI also signed another signature for the 401K distribution (I started yesterday after really mulling it over Tuesday.\n\nI hope the 30K gets to bank account (Wells personal) before end of Month so I can start paying some debts -- I still have two mortgage payments due in May for 2 Texas properties (by 5/15) so they are a week late -- I've been getting calls almost every day from Citadel\n\nUgh",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "dfd71d3643a661fa137a5107e3b39804e519d2bec3a4c66e505bfa852804e570",
+  "sig": "250efb3334ffcf05828fb10789e331b81912d2a756f3854f207fd8b7abc7a12fb958579696fcd9f0cfce4102c98f493e7dc7e512ddadfa7c7d2ef638907f11e5",
+  "published": 0
+}
