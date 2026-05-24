@@ -1,0 +1,50 @@
+{
+  "content": "More Improvements to Continuum’s Archive Queue System (5/23/2026)\n\nMade several improvements tonight to the new queue-driven archive system in Continuum.\n\nOne important addition was handling events discovered from *other* Nostr clients correctly.\n\nPreviously, if I created a note or reply in another client like Primal and later refreshed data in Continuum, the event would appear locally in the database and dashboard, but it would never enter the archive queue because Continuum itself did not originally create it.\n\nThat is now fixed.\n\nDuring refresh/import operations, newly discovered kind:0, kind:1, and kind:30023 events can now automatically be queued for archival if they are not already present locally or already queued.\n\nThis preserves the benefits of the original database-scanning archive model while still keeping the newer queue-driven persistence architecture.\n\nI also split the archive sync process into two separate background tasks:\n\n1. Commit Pending Events to Archive\n2. Rebuild Global Index + RSS\n\nThe first task commits queued events into the Git-backed archive repositories.\n\nThe second task rebuilds the global archive index entirely from committed history files.\n\nThe archive queue page now displays active archive job information directly in the UI, including:\n\n- current running archive task\n- active thread names\n- thread count\n- runtime status information\n\nThis makes the archive subsystem feel much more transparent and understandable while background jobs are running.\n\nOne particularly satisfying moment tonight was being able to launch a long-running global archive index rebuild in the background while continuing to use Continuum normally for other tasks.\n\nThat separation between foreground authoring and background archival processing is starting to make Continuum feel much more like a durable local platform than a traditional web application.\n\n#continuum #nostr #archives #git #sqlite #localfirst #architecture",
+  "created_at": 1779598030,
+  "id": "afc518e56d622c938c2f5d69c7eb18073640cd3a04f3c2f19f298cd08f760868",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7fc0d5d7ce8ddcbaa88adea71aef1f66419e6f68dfc1b94b2a08b8c9ff1a998cd567c1233807148f0c854bcf6eb13a2896e9b4690a3a0b7483686daa68fad6ef",
+  "tags": [
+    [
+      "d",
+      "note-1779598030"
+    ],
+    [
+      "published_at",
+      "1779598030"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "archives"
+    ],
+    [
+      "t",
+      "git"
+    ],
+    [
+      "t",
+      "sqlite"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "architecture"
+    ]
+  ]
+}
