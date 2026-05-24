@@ -1,0 +1,31 @@
+{
+  "kind": 30023,
+  "created_at": 1779595677,
+  "tags": [
+    [
+      "d",
+      "builder-jounel---saturday-may-23-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Saturday, May 23, 2026"
+    ],
+    [
+      "published_at",
+      "1779595677"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "ebba4fc24423c96737f0b91590a3a086a313311ea9537d0a7bd2655e992f48cc",
+      "edit"
+    ]
+  ],
+  "content": "Last day of my 60th year -- tomorrow I turn 61\n\nWhat a year it's been.\n\nI also baked some cookies in the afternoon (chocolate cookes from Trader's Joes)\n\nand finished about 5:00 giving Kiyomi and myself\n\nThen after that - had a few good calls -- one with Philip\nand another with Heather (which just ended about 6:40)\n\nI actually don't feel very hungry now (had a sandwich earlier) the two cookies were actually\npretty filling\n\nIn the early afternoon did some more changes to continuum queue to catch a corner case\n(new events getting into the db through the refresh relay process)\n\nIt's 7 PM now Whiskers is sleeping. \n\nGoing to take him out once he wakes up.\n\nIt's been a very pleasant and beautiful day for us I think.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "001723df932ec6832ca60936f50ad2d3b5a3841f6db339f2eee8b0fe32b9274b",
+  "sig": "14d3d4e55cb5659dd89d30be5f1c49909e11ca80543523567adc4d42df1074aa6c9bc3bfc8e91bf40c1a4017d6cbaed9cfba5e1378ee815e612bbf7e4a7ddf33"
+}
