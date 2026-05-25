@@ -1,0 +1,35 @@
+{
+  "content": "Nearly all publishing today (including most Nostr clients) follows roughly the same pattern:\n\n1. Log in to an app or platform\n2. Create a post, article, or draft\n3. Click “Post” or “Publish”\n4. Hope it generates engagement\n5. Receive rewards for likes, reposts, comments, or attention\n6. Repeat\n\nOver time, people stop posting simply to speak honestly.\n\nThey begin posting for engagement itself.\n\nI’ve been building a “local-first” system that operates on a fundamentally different principle.\n\nFull disclosure: It runs on Nostr, so technically it is a kind of Nostr client.\n\nBut the workflow is different:\n\nWrite locally first.\nSign it locally (verifying authorship).\nThen decide later whether you want to publish it at all.\n\nPublishing becomes optional.\n\nAuthorship comes first.\n\nThe broader point I’m trying to make is this:\n\nAny publishing system that requires you to be online *in order to create* will naturally drift toward engagement-centric behavior over time.\n\nBecause the act of creation itself becomes psychologically tied to:\n\n* visibility\n* reaction\n* metrics\n* feedback loops\n* audience response\n\nThat dynamic exists on centralized platforms, but it can emerge on decentralized ones too.\n\nThis is part of why I keep emphasizing “local-first authorship.”\n\nNot just local keys.\nNot just decentralized publishing.\n\nLocal creation first.\n\nWrite locally.\nSign locally.\nThen decide later whether publishing is even necessary.\n\nAnd no — this post was not AI-generated.\n\nBut I’m also not particularly interested in defending the fact that someone spent time thinking carefully before writing something.\n\n\n---\noriginally posted on Stacker.news\nTitle: Where is Your Center of Gravity ?",
+  "created_at": 1779677861,
+  "id": "5a203bda3c5b0f63bc66705b27cbcb2dfd35f5761abfa2b51a59b65cab2101c2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8387943888f932bb4dfafa6f6cae78c96adeefd085680fcd7cf96c77b030ce13e8eb85682ba790c30105f2bec0dd76beab9dbee74370e2f3907c395e1f8aafeb",
+  "tags": [
+    [
+      "d",
+      "where-is-your-center-of-gravity-"
+    ],
+    [
+      "title",
+      "Where is Your Center of Gravity ?"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "published_at",
+      "1779677861"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-05-24"
+    ]
+  ],
+  "published": 1
+}

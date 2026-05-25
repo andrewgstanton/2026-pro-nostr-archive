@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1779677980,
+  "tags": [
+    [
+      "d",
+      "where-is-your-center-of-gravity-"
+    ],
+    [
+      "title",
+      "Where is Your Center of Gravity ?"
+    ],
+    [
+      "published_at",
+      "1779677980"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-05-24"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ],
+    [
+      "e",
+      "5a203bda3c5b0f63bc66705b27cbcb2dfd35f5761abfa2b51a59b65cab2101c2",
+      "edit"
+    ]
+  ],
+  "content": "Nearly all publishing today (including most Nostr clients) follows roughly the same pattern:\n\n1. Log in to an app or platform\n2. Create a post, article, or draft\n3. Click “Post” or “Publish”\n4. Hope it generates engagement\n5. Receive rewards for likes, reposts, comments, or attention\n6. Repeat\n\nOver time, people stop posting simply to speak honestly.\n\nThey begin posting for engagement itself.\n\nI’ve been building a “local-first” system that operates on a fundamentally different principle.\n\nFull disclosure: It runs on Nostr, so technically it is a kind of Nostr client.\n\nBut the workflow is different:\n\nWrite locally first.\nSign it locally (verifying authorship).\nThen decide later whether you want to publish it at all.\n\nPublishing becomes optional.\n\nAuthorship comes first.\n\nThe broader point I’m trying to make is this:\n\nAny publishing system that requires you to be online *in order to create* will naturally drift toward engagement-centric behavior over time.\n\nBecause the act of creation itself becomes psychologically tied to:\n\n* visibility\n* reaction\n* metrics\n* feedback loops\n* audience response\n\nThat dynamic exists on centralized platforms, but it can emerge on decentralized ones too.\n\nThis is part of why I keep emphasizing “local-first authorship.”\n\nNot just local keys.\nNot just decentralized publishing.\n\nLocal creation first.\n\nWrite locally.\nSign locally.\nThen decide later whether publishing is even necessary.\n\nAnd no — this post was not AI-generated.\n\nBut I’m also not particularly interested in defending the fact that someone spent time thinking carefully before writing something.\n\n\n---\noriginally posted on Stacker.news\nTitle: Where is Your Center of Gravity ?",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7",
+  "sig": "f7c49af95b84c4e234b9333dbe19b8a3cf43768d3f234316ff7b4aa2958b99284a9c1caa54062f981c36eb10c826b5d9a32c16b1e1e57b74b49a8bd12b11d9db",
+  "published": 1
+}
