@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1780008776,
+  "tags": [
+    [
+      "d",
+      "cotinuum-consulting---short-architecture--risk-reviews"
+    ],
+    [
+      "title",
+      "Continuum Consulting - Short Architecture & Risk Reviews"
+    ],
+    [
+      "published_at",
+      "1780008776"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-05-28"
+    ],
+    [
+      "e",
+      "8b1775ee4de1aed0316b23eae73cadd6fa4b1c27260e82f1975af8c056d1eb1a",
+      "edit"
+    ]
+  ],
+  "content": "## A Focused Way to See What Can Break Before It Actually Does\n\nMost teams don’t fail because they lack talent or effort.  \nThey fail because hidden constraints surface too late.\n\nI offer **short, fixed-scope architecture and risk reviews** for teams building complex systems — especially where identity, data ownership, AI, or long-term durability matter.\n\nThis is not a long-term contract and not a hiring funnel.  \nIt’s a time-boxed intervention designed to surface risks early and clarify tradeoffs.\n\n### What This Is\nA **2–3 week engagement** focused on understanding how your system actually behaves under pressure.\n\nTypical areas of review include:\n- system architecture and boundaries\n- identity and key management\n- data ownership and exit paths\n- AI integration points and leakage risks\n- long-term failure modes (technical and incentive-driven)\n\n### What You Get\n- a written assessment\n- clearly identified risk hotspots\n- tradeoff analysis (what you gain vs what you give up)\n- concrete recommendations you can act on — or ignore\n\nNo implementation obligation.  \nNo dependency created.\n\n### What This Is Not\n- not a rewrite\n- not staff augmentation\n- not a resume-driven role\n- not an open-ended advisory relationship\n\nThe goal is clarity, not capture.\n\n### Who This Is For\n- early-stage teams shipping real systems\n- founders making irreversible architectural decisions\n- organizations worried about long-term risk, not just velocity\n- teams navigating AI, identity, or local-first constraints\n\n### Engagement Details\n- Fixed scope\n- Fixed timeline\n- Clear start and end\n- Typical range: **$3k–$8k**, depending on complexity\n\nIf this sounds useful, reach out with a short description of what you’re building and where you feel uncertainty.  \nIf it’s not a fit, I’ll say so quickly and honestly.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "29c50b20ac9fc53ed6f89641a8d2dcf49f32400344f95a3a554c31e008f36036",
+  "sig": "fa41b7aac6fe3ed6f7408d8fb3dbdbc0d8337d90ede7947b9dde40927c9057fb21a2e0002d26698105264775319cae391af22f5849d598241ac349f8775dc1a2",
+  "published": 0
+}
