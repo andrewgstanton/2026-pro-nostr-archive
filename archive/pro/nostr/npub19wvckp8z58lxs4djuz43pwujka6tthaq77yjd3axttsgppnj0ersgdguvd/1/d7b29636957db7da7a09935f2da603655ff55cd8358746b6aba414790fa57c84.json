@@ -1,0 +1,26 @@
+{
+  "content": "Spot on!!\nnostr:nevent1qqs9m5w2smxj8qmwpvuf6nys2n8cfcg9eyz2plvkcy40fqdsmgvcmjsskq82d",
+  "created_at": 1774072215,
+  "id": "d7b29636957db7da7a09935f2da603655ff55cd8358746b6aba414790fa57c84",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "94566b25914e889fad69a30de21d1f5ce9e0c1f3ea929acb1f072ab5ff477b0988c908884c05128d985d7f753eb0dd63d8306909f6f9a7de917b55bb72d1baa9",
+  "tags": [
+    [
+      "e",
+      "5dd1ca86cd23836e0b389d4c9054cf84e105c904a0fd96c12af481b0da198dca",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e3a59924933c9f9f2df83449055eb3858f1480fdd0c5edb95df08bedcd2e6624",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

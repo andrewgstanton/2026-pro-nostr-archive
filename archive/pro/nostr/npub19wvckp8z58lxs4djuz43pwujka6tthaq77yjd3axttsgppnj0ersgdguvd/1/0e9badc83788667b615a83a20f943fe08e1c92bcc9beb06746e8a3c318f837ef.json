@@ -1,0 +1,26 @@
+{
+  "content": "I think He is indeed speaking !!\nnostr:nevent1qqst5sl9pftnpq2mcx27ztmuzw7sxuaysf9uu35r456az8r0w7y3whgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgw5hf7c",
+  "created_at": 1770866580,
+  "id": "0e9badc83788667b615a83a20f943fe08e1c92bcc9beb06746e8a3c318f837ef",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "14e87d1e9367760f8330f8ea3d44cf1145631c61f597013c2cba4a6ba56ced5dcea21937066e2e1332b62ba19d433e80691ff7edb5cfb9b0afb010cacc70345f",
+  "tags": [
+    [
+      "e",
+      "ba43e50a5730815bc195e12f7c13bd0373a4824bce4683ad35d11c6f7789175d",
+      "wss://relay.primal.net",
+      "mention"
+    ],
+    [
+      "p",
+      "88627810b6b13a6d0e1fc998dea7458af411bf3bd73fd8964bcc9e53dc28f8fe",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

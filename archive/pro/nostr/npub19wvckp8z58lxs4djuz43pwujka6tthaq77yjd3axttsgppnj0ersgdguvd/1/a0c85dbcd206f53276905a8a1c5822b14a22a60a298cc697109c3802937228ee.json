@@ -1,0 +1,26 @@
+{
+  "content": "Soon on @adam!",
+  "created_at": 1770220453,
+  "id": "a0c85dbcd206f53276905a8a1c5822b14a22a60a298cc697109c3802937228ee",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d8b8da535d36634df299ae5f48e3d64bd2d99115b38a32ae337e84ae724d2e6cbb9aeb1d24aba7ac5a23271c1dcdc2aa40e99c896b6423d8303a359082adb0d3",
+  "tags": [
+    [
+      "e",
+      "930a23e5e323028c7bd028fbe075b84c74548de76e2cb902a98a0242b57580c1",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b7b51cc25216d4c10bc85ae27055c9a945fe77cafd463cf23b20917e39ce6816",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

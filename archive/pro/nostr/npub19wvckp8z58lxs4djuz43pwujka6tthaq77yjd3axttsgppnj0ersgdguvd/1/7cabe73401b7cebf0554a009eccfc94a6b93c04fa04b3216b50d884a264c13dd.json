@@ -1,0 +1,23 @@
+{
+  "content": "This is sending a note after adding/updating my relay lst",
+  "created_at": 1779930245,
+  "id": "7cabe73401b7cebf0554a009eccfc94a6b93c04fa04b3216b50d884a264c13dd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d2d2e84fde8a926ab6b8bf952c4e7f52f43f529049ebf8b6fda9a8af2fd952e2363240408e2daf07c5f56478cff7af0d36a8ecfeda3d7036b081fb718a38ba02",
+  "tags": [
+    [
+      "d",
+      "note-1779930245"
+    ],
+    [
+      "published_at",
+      "1779930245"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

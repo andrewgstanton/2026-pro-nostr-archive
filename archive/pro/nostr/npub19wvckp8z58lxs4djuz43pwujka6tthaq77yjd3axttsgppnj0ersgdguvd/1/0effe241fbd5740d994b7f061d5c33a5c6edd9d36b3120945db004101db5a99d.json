@@ -1,0 +1,26 @@
+{
+  "content": "I think enterprises and businesses will adopt  Nostr authentication on practical rather than philosophical grounds not because it’s decentralized (it is) but because it is more secure and easier to manage \nnostr:nevent1qqs80c379t0txyk0e3km085ew7tjkjr0uphe44f6hlkgnae8adjzluqp8kxgu",
+  "created_at": 1772517684,
+  "id": "0effe241fbd5740d994b7f061d5c33a5c6edd9d36b3120945db004101db5a99d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "189f93cad24fe9d13dccdf212d00883c29dd1cbafb08b43a9de5af4918c7527cd83efc3ecaa60622364c3eb76ec0875835032cacdb98502164ed180782fe0c48",
+  "tags": [
+    [
+      "e",
+      "77e23e2adeb312cfcc6db79e9977972b486fe06f9ad53abfec89f727eb642ff0",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "c1f2f8dfeb43aacd2af88e3cdb3b9440ae54fb0aa91aad4bd4e7f9fc8f226c7a",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

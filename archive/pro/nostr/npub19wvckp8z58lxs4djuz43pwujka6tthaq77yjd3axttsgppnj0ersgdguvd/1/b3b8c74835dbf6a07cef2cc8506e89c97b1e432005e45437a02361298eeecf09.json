@@ -1,0 +1,26 @@
+{
+  "content": "This is what we need to be building !!\nnostr:nevent1qqsxds0mpqu53sldpezhvkrjwx85ecs6336fflfdud49hd3ycgc9dks4eaaqa",
+  "created_at": 1770825267,
+  "id": "b3b8c74835dbf6a07cef2cc8506e89c97b1e432005e45437a02361298eeecf09",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c9fc8cd309a7fee780767df426aa4a94674c1bc8122cf8c10293c319c99e418cc36ae4e3c29d90ae7e1eda3ddc9030f9fe455f939c052105e1bf0a4b1c162461",
+  "tags": [
+    [
+      "e",
+      "66c1fb083948c3ed0e45765872718f4ce21a8c7494fd2de36a5bb624c23056da",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

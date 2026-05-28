@@ -1,0 +1,26 @@
+{
+  "content": "Thank you nostr:nprofile1qqszzcpjn57wlvpurljzhyuk04fnm38zfn67ghmykpuw27s59kmjgsspzpmhxue69uhkummnw3ezuamfdejszrthwden5te0dehhxtnvdakq5lgcxe for reposting!!\nnostr:nevent1qqsva75cjtd8rzw7cw8twq4qshu4w3mc24qgg7caf9ccc5lj83tdm2gppamhxue69uhkummnw3ezumt0d55hr0cz",
+  "created_at": 1770159450,
+  "id": "4349e8ee79537e67604dbd5013a51a7b0aa284a6db3ff763a0dab4764879d3ae",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6f870ae88371cd09b2c1ef2c2200156edf5f5ee30be78fc87111ba87d620703e2bd84bd3f52582e64555921c3b2c7f6086ca4fa4140d614527c6a8496d2cff07",
+  "tags": [
+    [
+      "e",
+      "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+      "wss://nostr.mom",
+      "mention"
+    ],
+    [
+      "p",
+      "2160329d3cefb03c1fe42b93967d533dc4e24cf5e45f64b078e57a142db72442",
+      "wss://nostr.wine",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "content": "Tolkien often felt that he didn’t invent Middle Earth he discovered it \n\nI strongly suspect Bitcoin falls in the same  category ( discovery versus invention)",
+  "created_at": 1770824903,
+  "id": "8169061a10a1599af23ce0e6ed89ddd8b75f48fb1f910b954e4a3754c677c738",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6126a04a381571e8ddad3f102f7a7dece64376ba6562c9753989d9a8fa71654b94e2cab6974f998812b03c15d46977fa11b16c5a61bef76c578adb98a1e17ba5",
+  "tags": [
+    [
+      "e",
+      "df07f7bc11be30c32902c8280b6a7dbc5af1888bd88eaf0e50dbd8f520df9448",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

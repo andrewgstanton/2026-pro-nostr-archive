@@ -1,0 +1,26 @@
+{
+  "content": "https://primal.net/andrewgstanton/sabbath-in-an-inflationary-world",
+  "created_at": 1773542912,
+  "id": "a81b9813c605bc70a643d3fd0138e4706af719aef456ca342efcfae0b7cff048",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eb454360ae3550e90d76843768d7989626e8a1d6a2e6d26198b6cf96e5b9d5150fd179029c7b1678222bdd2f11fed1d27b648d41392d42ad11999a7f37cb462d",
+  "tags": [
+    [
+      "e",
+      "5578be2a49e5acd28b10ca6fed999ca9a5660dda50173f0ec02bdfd018c8636a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

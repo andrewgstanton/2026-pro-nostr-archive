@@ -1,0 +1,32 @@
+{
+  "content": "Amen it’s why I am building Continuum",
+  "created_at": 1770510745,
+  "id": "d46988f5fccac6d040c7f9f549ed606d935511e9be4239658c0bfe56c25b5f01",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bd92873edbfcf8512110744f7641ae0ab654039cf726f36ecb7833369726a2b807504c6cc2a6f92bb7df8b8040d2879a5a62a3b21c20a78f8f6b9dbbbfd10855",
+  "tags": [
+    [
+      "e",
+      "c0ed6288689f92a91830fb669f54a0d8ee920c0ce9b42804ed634f553c21826c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b8a9df8218084e490d888342a9d488b7cf0fb20b1a19b963becd68ed6ab5cbbd",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "6a359852238dc902aed19fbbf6a055f9abf21c1ca8915d1c4e27f50df2f290d9",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

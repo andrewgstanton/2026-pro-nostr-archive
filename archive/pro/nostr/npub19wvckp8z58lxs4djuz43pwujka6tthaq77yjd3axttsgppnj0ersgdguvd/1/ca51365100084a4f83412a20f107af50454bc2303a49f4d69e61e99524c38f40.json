@@ -1,0 +1,26 @@
+{
+  "content": "I have written a number of articles on using Bitcoin and Nostr for tribal sovereignty it’s a great idea I even incorporated tribes staking land on mars in my Bitcoin Chronicles  series (“New Lakota”)",
+  "created_at": 1773794584,
+  "id": "ca51365100084a4f83412a20f107af50454bc2303a49f4d69e61e99524c38f40",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3cb191a089099412d1bf7af585e4ce5a6ce7249647d65fcef304b696ac287ac7363bf2c2881ebb919affc4159427b31bd624cc90ac0d61d72107da1877100cbd",
+  "tags": [
+    [
+      "e",
+      "06b26067e5f26d6c46ec4f55179b431cd1bf64f1d1b947b8e3b20bdaa707874e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "82eef885ee7a9cf72ac398f99e146237ea360811f38f6c44040a2a570a061a00",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

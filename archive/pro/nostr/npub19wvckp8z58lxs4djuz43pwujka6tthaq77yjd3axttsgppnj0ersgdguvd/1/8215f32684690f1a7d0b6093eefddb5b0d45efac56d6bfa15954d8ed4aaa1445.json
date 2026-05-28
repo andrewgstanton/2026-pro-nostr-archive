@@ -1,0 +1,26 @@
+{
+  "content": "Really interesting premise — especially the idea that virtual worlds absorb attention while power consolidates in the physical one.\n\nFeels like a theme we’re only beginning to explore.\n\nI’ve been thinking a lot about the infrastructure layer beneath that:\n\n→ what happens to authorship  \n→ identity  \n→ and long-form work  \nif the interfaces people rely on disappear or shift?\n\nCurious how deeply the book goes into that tension.\n\nCongrats on the release.",
+  "created_at": 1773932770,
+  "id": "8215f32684690f1a7d0b6093eefddb5b0d45efac56d6bfa15954d8ed4aaa1445",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "188838911d3764545743dcf1381be24dba272be7acf75071ed0f447be05b3061bf10d4737f88764a611644fbc06f881514a3482a4cd84533c52d13795a827669",
+  "tags": [
+    [
+      "e",
+      "dd6db835d34999485959e63b7288fc64bd9339cb8ce09f7cb630f87e469d1a11",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "eab0e756d32b80bcd464f3d844b8040303075a13eabc3599a762c9ac7ab91f4f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

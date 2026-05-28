@@ -1,0 +1,26 @@
+{
+  "content": "Ok Dan ",
+  "created_at": 1770148357,
+  "id": "42895651942b1286c68a475afe9cf99ed78dd7df20e5858ea93801e53d3e9acb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f71efe84c399f6fd4fb4c20290ff9f5d14d3d6f95763a911b76803704532ed95cc1f9a78466b10fe0f60ec057f7cf763fad8399cbe48d039b278b0b0aa79f071",
+  "tags": [
+    [
+      "e",
+      "d4706725fcb76f087967a9d98b84ad8e0971a194165d740b5abb458aae7017d4",
+      "wss://theforest.nostr1.com",
+      "root"
+    ],
+    [
+      "p",
+      "6a02b7d5d5c1ceec3d0ad28dd71c4cfeebb6397b95fef5cd5032c9223a13d02a",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

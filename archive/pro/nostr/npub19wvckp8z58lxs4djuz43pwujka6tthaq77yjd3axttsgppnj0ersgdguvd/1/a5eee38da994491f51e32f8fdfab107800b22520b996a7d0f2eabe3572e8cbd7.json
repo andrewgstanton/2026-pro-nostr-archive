@@ -1,0 +1,26 @@
+{
+  "content": "God is always in charge.  He inhabits eternity and wants us all to live with Him there",
+  "created_at": 1773759831,
+  "id": "a5eee38da994491f51e32f8fdfab107800b22520b996a7d0f2eabe3572e8cbd7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e5a79f745ed8e427891fc9d8e625fd47de8c0b8361865cd8b06dd9f55f7f157e9f03b442be8a4f987da0b3ee4276f356c6476af32849d21f41738816528251b9",
+  "tags": [
+    [
+      "e",
+      "353cf881c8bb9c7f3eed72c44421051b97b6c1e75eaa53257c62f028603d02c1",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "p",
+      "9267545d2917b80f707ffdb44a8ff979182568ef7baa04ee756b1f01d4e3688a",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

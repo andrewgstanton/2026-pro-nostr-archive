@@ -1,0 +1,26 @@
+{
+  "content": "It’s an interesting question do we as a species truly invent or discover.  ",
+  "created_at": 1770824726,
+  "id": "21f9b64ef9c04047c14b787bb4750be4b69d93e9bc39bc2f24c20b438b050254",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "45c3114d28ea1408c6edcb89551b2882372f73864f5e463c13e410b7107d175e95aa6f05f4a2b10a87d88c543cc53d7f7c4ef076370b009a0e464e7ac366ad4e",
+  "tags": [
+    [
+      "e",
+      "df07f7bc11be30c32902c8280b6a7dbc5af1888bd88eaf0e50dbd8f520df9448",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

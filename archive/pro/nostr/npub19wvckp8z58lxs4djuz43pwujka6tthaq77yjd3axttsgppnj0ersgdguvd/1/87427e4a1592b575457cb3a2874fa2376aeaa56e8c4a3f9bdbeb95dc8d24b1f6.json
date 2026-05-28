@@ -1,0 +1,26 @@
+{
+  "content": "I like this idea ",
+  "created_at": 1773117082,
+  "id": "87427e4a1592b575457cb3a2874fa2376aeaa56e8c4a3f9bdbeb95dc8d24b1f6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c2fc106dec19aea1c05a4e3b7c9c8e8ac737e89124b1250c53c9ff33651e9e597dd84bdbe7efe182b144563b35b58c6926740e0c4bad7966b08830b302ac9eb9",
+  "tags": [
+    [
+      "e",
+      "000096f44bd3d32808073c8952609b3559a62360d709b5fdc06cfe0134bf98b6",
+      "wss://nos.lol/ ",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

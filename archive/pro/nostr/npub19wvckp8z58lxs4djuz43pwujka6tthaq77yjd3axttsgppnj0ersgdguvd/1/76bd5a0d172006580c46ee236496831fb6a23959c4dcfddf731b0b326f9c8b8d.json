@@ -1,0 +1,26 @@
+{
+  "content": "I think it makes the art come alive ",
+  "created_at": 1770516152,
+  "id": "76bd5a0d172006580c46ee236496831fb6a23959c4dcfddf731b0b326f9c8b8d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6920c1212e607cd2935bfbedce3704c6cbe375d8c890d70ae7ff7a144282772e15441b4a1fc9f7c867f89a0e9561b99db5e95edbc3c0312d572e2094a77f2c40",
+  "tags": [
+    [
+      "e",
+      "2a105d3a24a6d04b0a68ee4a0ba8d18340a64afb4e3ba2a4657d39aa1c2b99c9",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a91769020ba8be9fff257cadacf152ef02b47c7993985263907829ac00f2e22f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

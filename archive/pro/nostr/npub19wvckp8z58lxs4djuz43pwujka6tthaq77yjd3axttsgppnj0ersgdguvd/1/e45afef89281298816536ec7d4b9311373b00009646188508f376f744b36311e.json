@@ -1,0 +1,26 @@
+{
+  "content": "If it’s really Ben",
+  "created_at": 1773594434,
+  "id": "e45afef89281298816536ec7d4b9311373b00009646188508f376f744b36311e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "15e8bf49b0b9413bc1128f16b44af85fefd9862a134950e73e7ad82064f87ca7a96922bd44b2b355904a51fc6df0e44ddbbd055470d3ae05c75f36b41c1e3e8b",
+  "tags": [
+    [
+      "e",
+      "d9fb2821870a3ce9d64898cedd31e90bf2efae8a1ce2ec59a3479c30d5c99063",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6a359852238dc902aed19fbbf6a055f9abf21c1ca8915d1c4e27f50df2f290d9",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

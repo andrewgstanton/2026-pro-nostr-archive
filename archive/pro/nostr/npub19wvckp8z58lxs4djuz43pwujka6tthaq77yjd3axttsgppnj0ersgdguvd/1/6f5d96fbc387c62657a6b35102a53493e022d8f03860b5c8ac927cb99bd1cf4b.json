@@ -1,0 +1,26 @@
+{
+  "content": "Hawai’i no ka oi !!",
+  "created_at": 1773241015,
+  "id": "6f5d96fbc387c62657a6b35102a53493e022d8f03860b5c8ac927cb99bd1cf4b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "991f9bc8ddebb31e4473de0a595c25db033ec48ccb0641a2419a613042bbb127846086be75568f5469bccb3c33fc196ad5df4be875225eb78fcb73f9d176331a",
+  "tags": [
+    [
+      "e",
+      "19ed64688ed97d12e447527c2c7c50249882b427e248fa9c7e43f23096665961",
+      "wss://relay.mostr.pub/%20",
+      "root"
+    ],
+    [
+      "p",
+      "cdbb36aaa95489e504eabc7f7ca5384fbd091f0f1240e79060e9229988bfc662",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

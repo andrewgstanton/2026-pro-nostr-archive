@@ -1,0 +1,26 @@
+{
+  "content": "Very well said Sam!! ",
+  "created_at": 1773540050,
+  "id": "8bba6188c19a90fa269db2337a31ef395cf72fe456d009d53dc8d31004b72430",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0b85e9eb49e3dff73e7cab3002d98c5cd88c57a193fd225a17a5f8732527a9b99187a4bcc7dbdef6ef7917704d3dfec89e831e7aab9d83afb4241bc5007a5cba",
+  "tags": [
+    [
+      "e",
+      "0ebce906591fe1998fd81fb9732a69ee75159caac988498b3a2ecb727e4a8ff2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

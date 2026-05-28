@@ -1,0 +1,26 @@
+{
+  "content": "Jesus was foretold in the  Tanakh (Old Testament) !! \n\nThanks for sharing !!\nnostr:nevent1qqsdahllq9s7m396nw0rtefz6xlrswq0jfu0amf0csc6rtp08m0d3xc69q5xl",
+  "created_at": 1770517758,
+  "id": "98566c00c65395b5c0ca3feae1f290ceab821b87b11059a040649614d9a1cb13",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3fbab6411d82695afff5d3f4c7f4342cae8f933df197cac55d3cbba10cfafde5e21caf6407d3ddc12c3a598d6c419811a68824a8cebea67cc91d7632fc123c93",
+  "tags": [
+    [
+      "e",
+      "dedfff0161edc4ba9b9e35e522d1be38380f9278feed2fc431a1ac2f3eded89b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

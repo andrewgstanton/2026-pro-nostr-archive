@@ -1,0 +1,20 @@
+{
+  "content": "I will make a shorter presentation later\n",
+  "created_at": 1770190077,
+  "id": "631508dae9b63a8f74bd7870cd60137d3a28fe3fb6e08c95304e4eabcf4b49b6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7bf91c443bf29e3b9c87036c20e3652ed2bb3db9eea8566cf0fd5f4437bad570d2297dfcebe05a7c79f4f1948ff0883cd761b2cc948eda6bdadeef1fed4b2dea",
+  "tags": [
+    [
+      "e",
+      "b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f",
+      "wss://nostr.mom",
+      "root"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

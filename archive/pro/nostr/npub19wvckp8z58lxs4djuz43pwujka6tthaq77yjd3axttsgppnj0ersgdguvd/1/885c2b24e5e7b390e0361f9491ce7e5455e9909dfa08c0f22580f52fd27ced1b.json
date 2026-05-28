@@ -1,0 +1,80 @@
+{
+  "content": "Honestly Roland, the most helpful thing right now would be for people to actually download Continuum, run it locally, and share their experience using it.\n\nWhat helps most at this stage is real feedback — what works, what’s confusing, where the friction is, what feels useful and what doesn’t.\n\nThat kind of hands-on feedback is far more valuable than likes or comments.",
+  "created_at": 1773445168,
+  "id": "885c2b24e5e7b390e0361f9491ce7e5455e9909dfa08c0f22580f52fd27ced1b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "33749c04e061ac550ffe839f1ef461e794b99a63d0374ef4a3585cdf06a868d0581e3ad825f1d1cde0f8fc45437d5b58b6f9438d4ab3d7649bb454be13c97de5",
+  "tags": [
+    [
+      "e",
+      "7d453aae925c6f12e94e16f84f2210cd03f67f1aa99ca79c0cb9f287a9f73b2d",
+      "wss://relay.primal.net/ ",
+      "root"
+    ],
+    [
+      "p",
+      "cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "content": "Because you are the devil :) ",
+  "created_at": 1773537338,
+  "id": "02f470341359697dde4950d521b4b02f8fee5d282d54fbde2be471cef6d595f2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "402608f2e59be2b2f5156b9914f97a26b910275de661c4c455d8bbf1037fbb8ecad10f9512be5d6a14ae959d5e74a0d0a514663bbbeb0498a63e61e0efb251fd",
+  "tags": [
+    [
+      "e",
+      "06f0cd3cc4aeeac4ac6d2773edcc92e2630f53ad77ff7c114a537d5e074c790c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6debe8d7ea401978d30b0994bfde0eb43a433f02b6937b7daec7381e54cb16eb",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

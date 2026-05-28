@@ -1,0 +1,26 @@
+{
+  "content": "Wow.  Really sorry to hear about this pretty crummy.  \n\n",
+  "created_at": 1770511177,
+  "id": "5c7de4723c50a3db3d06a7af6ee39868e78d1c4f24130db573455cb5622a3380",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c68b28243719c4636996c137298a13b66db0e5161458555fcf8d8ba2c70fa4426d47ca69205c8ca8e88f0ad32c198b2730b26d4853cc4a1163194a6d6599bcb0",
+  "tags": [
+    [
+      "e",
+      "7295604fc3d822519d9c7e9b5860040c7820d3f947faa537058176dd9a0731fe",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6a359852238dc902aed19fbbf6a055f9abf21c1ca8915d1c4e27f50df2f290d9",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

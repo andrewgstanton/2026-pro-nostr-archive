@@ -1,0 +1,26 @@
+{
+  "content": "Amén ",
+  "created_at": 1773415636,
+  "id": "a2836e5e901593661c63e07d066b435ec50ed20ded1645b49d21bd486a09161d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e783a458a412ee0175bf5feda7746a9df23316fbc9aebe237111c774b746fc2f6c65cdfcd3cca2797efd5e2fe30578da7c3d1273c9e6e13fd8c4e36bb5bf064a",
+  "tags": [
+    [
+      "e",
+      "cb2ce905bdc16798d89ea0b243fd3599eade650ad1136ec7c0ec45cef0ed2b1d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

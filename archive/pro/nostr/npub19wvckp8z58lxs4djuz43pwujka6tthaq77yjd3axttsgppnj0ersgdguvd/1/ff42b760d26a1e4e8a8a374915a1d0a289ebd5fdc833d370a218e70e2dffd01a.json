@@ -1,0 +1,26 @@
+{
+  "content": "I am explicitly building a key rotation strategy in Continuum",
+  "created_at": 1771955612,
+  "id": "ff42b760d26a1e4e8a8a374915a1d0a289ebd5fdc833d370a218e70e2dffd01a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "853bb775bebb033d9897c70c2fc1da6778f69e50870f670d0e363c1103be8a344786bc2ca70204ae31fe5d8e3ef83e2d064ad303f2d9374f06a7c03dd7c3de93",
+  "tags": [
+    [
+      "e",
+      "3e359e25bde20c2bd3743cf8083a72d2aef6ba59b10493698b001a2bb5568589",
+      "wss://nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "db8aa197a8a3958432f00e42cfbf5877531312725b18f4030e7d7ee5ee8774ca",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

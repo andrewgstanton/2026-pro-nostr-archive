@@ -1,0 +1,26 @@
+{
+  "content": "Freedom",
+  "created_at": 1773109739,
+  "id": "b73a05f7aa45d1e52a5f42478ea5184c8237d03fdb7c3e306910751fc375b0a5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3f1ed8d3eabe49fb6d8a9b0dac8b37005537393c72e8f108557f93181c02464465ec9565d0769654950d09363f760115df767e863017cddba1e60a6da74f661a",
+  "tags": [
+    [
+      "e",
+      "7953e4b77e8cf01ef86cce9e65d1181abe09265421379a59eeebba91844592a7",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f07ca6f4696bb923b134285acf115800cead750194ebb42a96233bb57a9dc939",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

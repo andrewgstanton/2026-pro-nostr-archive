@@ -1,0 +1,26 @@
+{
+  "content": "That is fantastic !",
+  "created_at": 1770484699,
+  "id": "60e1c59fc3877adc44fb9c28fd6f5b254357506f8e4269152effa5898a4dbca1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f005925c166ba2952c6ce3d95c1fd59fd0ae1b68c0819a12c821d954980415486b76603dbdd793bff2fb096bc00f4188e808d666c76fbd5295d53425c568cfd3",
+  "tags": [
+    [
+      "e",
+      "20b431c3e4e70ecadf04236cd4e5684b303abd47e30ed9c03e23ee78c1d46dcd",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

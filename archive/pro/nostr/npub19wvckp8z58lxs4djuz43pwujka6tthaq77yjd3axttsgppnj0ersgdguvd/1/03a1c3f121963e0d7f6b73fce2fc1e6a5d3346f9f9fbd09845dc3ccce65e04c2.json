@@ -1,0 +1,26 @@
+{
+  "content": "Love to learn more \n\n",
+  "created_at": 1773109835,
+  "id": "03a1c3f121963e0d7f6b73fce2fc1e6a5d3346f9f9fbd09845dc3ccce65e04c2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "01b0ece21bcf1032f2ef79238c054305746bb330046e38b7c4977232424ba6ede8fe1e1ed13d6786e0364d6805256ba9501d8a76095e9014782d05ffa5b992fc",
+  "tags": [
+    [
+      "e",
+      "ee2b0b34023055c5c8591535c8843356f6cf69237f1b3f4c2d4bc2b91c549ed2",
+      "wss://nostr@bitcoiner.social",
+      "root"
+    ],
+    [
+      "p",
+      "16d114303d8203115918ca34a220e925c022c09168175a5ace5e9f3b61640947",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

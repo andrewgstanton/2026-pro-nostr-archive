@@ -1,0 +1,26 @@
+{
+  "content": "If anyone is interested\n\nnostr:npub122x6e9uss38lmvnhh8mkkt6exwm0a4eme9ta087h8fddxd5w2gqqv2xru8 \nnostr:nevent1qqsxy7m99slh3h8fmpylc3gdgxqrsn4r5qlju8j0nf6trucgwamntccpndmhxue69uhkummn9ekx7mp0y5erqamnwvaz7tmwdaehgu3wd3skuep0y5erqffjxpshvct5v9ez2v3swaehxw309ahx7um5wgh8w6twv5hj2v3sy5erqctkv96xzu39xgc8wumn8ghj7ur4wfcxcetjv4kxz7fwvdhk6te9xgc8wumn8ghj7un9d3shjtnyv9kh2uewd9hj7ffjxpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9u9gcgel",
+  "created_at": 1772927380,
+  "id": "f16aba860ab41ff9e81e6c5f659341721ebdb591947e78b18e515be08fe8908c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "45ce61727f802c1f37acf3b271a05d220b43e2df087a2cd299fcb9470b8857accde3fab3726e0c5b5383f3f8aebe17586ef3ab3723c399bee3639dddd72363a7",
+  "tags": [
+    [
+      "e",
+      "627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "mention"
+    ],
+    [
+      "p",
+      "528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "content": "Check it out!\n\nnostr:npub122x6e9uss38lmvnhh8mkkt6exwm0a4eme9ta087h8fddxd5w2gqqv2xru8 \nnostr:nevent1qqsd3y9tu263xlndfxt76t05a4q55zcswfrnsxefjhd7nzdm04lzphspzemhxue69uhky6t5vdhkjmn9wgh8xmmrd9skc63cla9",
+  "created_at": 1772945363,
+  "id": "919acb19122640bba9ea02d184d1712e19512f9a31212f3909c11b5d80feb1bf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6fedf4309467a5d7e420a45771c9ecf5894404e8dfe8cc33e7497be88c2f69ad1c8c1b1e573f98c3e6ef8996b37230d4e4ed2277d3cf584ed2ec0205c5bbdd36",
+  "tags": [
+    [
+      "e",
+      "d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de",
+      "wss://bitcoiner.social",
+      "mention"
+    ],
+    [
+      "p",
+      "528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

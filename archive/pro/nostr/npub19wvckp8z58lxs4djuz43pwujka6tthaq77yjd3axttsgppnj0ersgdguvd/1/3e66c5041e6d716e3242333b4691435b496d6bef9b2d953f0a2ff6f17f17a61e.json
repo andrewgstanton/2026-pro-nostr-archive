@@ -1,0 +1,32 @@
+{
+  "content": "I actively use AI tools like ChatGPT to build and test Continuum with lots of effort and care the opposite of slop pasta \n\nAnd I am not using a tool now to “smooth” over what I am saying \n\nAnything  worth doing well requires effort and care \n\nThanks for sharing\n\n\n\n\nnostr:nevent1qqsgshqtwun2mrtlv3vpz55w8c4dnlxfg4ylfvkm30wvkx5vj4kdc2czyq4enzcyu2slu6z4kts2ky9mj2mhfdwl5rmcjfk85edwpqyxwflywqcyqqqzvjs2wmhyj\nnostr:naddr1qqvxxctjd9hxwttpvfhh2apdwdkx7urs09cxzum5vyq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qgsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycrqsqqqa28dfxznw",
+  "created_at": 1774196834,
+  "id": "3e66c5041e6d716e3242333b4691435b496d6bef9b2d953f0a2ff6f17f17a61e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a7e617e8660b6a77204c1f6d41fe1e21b381b39074ce9b46816ba646d6cc4a1d489b5210d62c9e897bd34e566595eafe7202ca49102ec0f32a55f69b440b5f9a",
+  "tags": [
+    [
+      "e",
+      "885c0b7726ad8d7f645811528e3e2ad9fcc94549f4b2db8bdccb1a8c956cdc2b",
+      "",
+      "mention"
+    ],
+    [
+      "a",
+      "30023:6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93:caring-about-sloppypasta",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

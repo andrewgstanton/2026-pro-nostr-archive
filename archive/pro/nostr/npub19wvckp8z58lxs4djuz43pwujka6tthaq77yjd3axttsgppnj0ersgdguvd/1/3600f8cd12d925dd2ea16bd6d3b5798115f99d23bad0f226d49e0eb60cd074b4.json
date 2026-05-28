@@ -1,0 +1,26 @@
+{
+  "content": "Publishing is partly how I think ",
+  "created_at": 1773791215,
+  "id": "3600f8cd12d925dd2ea16bd6d3b5798115f99d23bad0f226d49e0eb60cd074b4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d5202650911883e86b190971fddb15d4f639908f1b05cd3d79ab40e44bbc32499a50c2fb999e9a8e33adbb6ebb3ea0548704fe286890513675af4af619c0a91e",
+  "tags": [
+    [
+      "e",
+      "ea4683ffe6de1201f6a90ff0ba457fb5c99e3083ac65415f765e3885012670ea",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

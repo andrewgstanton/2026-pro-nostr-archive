@@ -1,0 +1,20 @@
+{
+  "content": "\nAppreciate the repost, Duncan — thanks for helping this reach the right builders\nnostr:nevent1qqsva75cjtd8rzw7cw8twq4qshu4w3mc24qgg7caf9ccc5lj83tdm2gppamhxue69uhkummnw3ezumt0d55hr0cz",
+  "created_at": 1770151203,
+  "id": "360d74c24ab4c62792197ff75d44a0404fc13caf9d08be923e159a966d1f27eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "001cb887536fedf519341f13d5c7679eb684ab0be830b158dbcdf0ae05346d99995df28088ccd9a73d151f6a33a31fa9ff2ea19eb90a31b65f34a41d5b7a4aa6",
+  "tags": [
+    [
+      "e",
+      "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+      "wss://nostr.mom",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

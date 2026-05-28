@@ -1,0 +1,26 @@
+{
+  "content": "Amen ",
+  "created_at": 1770493813,
+  "id": "e76f039f54cc46bb73b82f60fe1fdecf10e6ccd8300526d4f0f8d019abd7a3d7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9b5599534a12b08d17ac0e43ed0de131a98216872129d0a6a04b4ea7c01781fedf33e7787922251afc19be4cc0a5585ef9cd53d6964f9569bed976767d0fb477",
+  "tags": [
+    [
+      "e",
+      "2a22e5385932f7a9dce9de8fc4448446a7caca5c02dd1fa97ec292b88c44d7f0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

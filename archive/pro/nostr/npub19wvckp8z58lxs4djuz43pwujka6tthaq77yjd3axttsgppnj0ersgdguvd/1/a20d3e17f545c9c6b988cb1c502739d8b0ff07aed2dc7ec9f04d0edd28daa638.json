@@ -1,0 +1,26 @@
+{
+  "content": "Would you be interested in being an early adopter of Continuum ?\n\n",
+  "created_at": 1773421328,
+  "id": "a20d3e17f545c9c6b988cb1c502739d8b0ff07aed2dc7ec9f04d0edd28daa638",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3119f4a8b8d2df06de950822c7c200ae7b99004a4a481fe605c4204a2f2bd91934c28c7539d0fa36fa114b5dd5635e781d3c4ceb0caa0cafdb57ae25c1f512b9",
+  "tags": [
+    [
+      "e",
+      "5cba9520a3455ef77dd1f2bd441e6758f3505ed8d04bf313efc807106d228471",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

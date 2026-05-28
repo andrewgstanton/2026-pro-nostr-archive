@@ -1,0 +1,26 @@
+{
+  "content": "Sharing in case others woukd be interested\n\nnostr:npub122x6e9uss38lmvnhh8mkkt6exwm0a4eme9ta087h8fddxd5w2gqqv2xru8 \nnostr:nevent1qqszuf8zn8fh748cvsnxpsj5kh6846xqaynx2pmqjdmnnuc0e92ggnccvsk0z",
+  "created_at": 1772914434,
+  "id": "d8f3e907b4931d26fa193668226cd09fc9b5d8cf1c1bc3aea5c3712cb7ed37b0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1145fd3a12ab63954a3d944ff5e69517202a3a92589b03602f933189faa5d5ecc7694233c3be2afbbd8438fd61fca4fc88880287f13bded90eed64f3cd7c2831",
+  "tags": [
+    [
+      "e",
+      "2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
