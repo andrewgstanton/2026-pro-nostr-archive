@@ -1,0 +1,27 @@
+{
+  "content": "Whiskers wanted to pee in the morning around 4:00 am \n\nI didn't take him out just went to the bathroom\n\nLet him drink a lot (I was pretty sleepy) and changed his diaper\n\nLater in the morning around 9:00 noticed he had pooped in the living room\n(we had to clean that out)\n\nKiyomi also vacuuumed in the afternoon\n\nI was tired for most of the day.\n\nI think getting up early to change his diaper and let him drink is disrupting our sleep\n\nI worked on a few items this afternoon for Continuum\n\n- added relay list editing\n- added ability to import an event (json)\n\nYesterday felt very long though we had taken a break to watch the movie \"The Mandalorian\"\n\nI'm tired now but feeling better than I did earlier\n\nI think Continuum is ready for another release",
+  "created_at": 1779943060,
+  "id": "b92dd0403477c6bdac7f9df9d1320e891b0e8a99ae239a1e6f67d441e4b305ec",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f192e64c36f7e151b3880591de1afa9d7187ffe7f77fa4b69a2d8a2ab17f1c016d93f23da037b56a5807392ed493bf7a2a57668f3e4a4d31a96680ccb05dd91e",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-may-27-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, May 27, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
