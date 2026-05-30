@@ -1,0 +1,18 @@
+{
+  "id": "be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1780019598,
+  "kind": 1,
+  "tags": [],
+  "content": "Great article!  \n\nI have written about the same themes you address here in some of my previous articles.\n\nWe need to emphasize these themes more!\n\nThank you for sharing!",
+  "sig": "52a7d27d75179e5489dccf2ae43ff163954b3a1a6440b3a54f7a30582cbc03718c26fe3dd957e780befce4024c08105d029d6e7617d2f587bafca5a36459036b",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
