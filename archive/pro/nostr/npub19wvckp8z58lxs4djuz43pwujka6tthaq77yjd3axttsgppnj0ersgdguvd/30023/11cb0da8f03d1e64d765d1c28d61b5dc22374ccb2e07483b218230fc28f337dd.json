@@ -1,0 +1,27 @@
+{
+  "content": "More development and waiting on the 30K from directedIRA\n\nThis morning signed another form, was assured the 30K would be wired today\n(it did not)\n\nSuper frustrating, but in the meantime,\n\n- Added import event and export event (view and export) routes and functions\n- Added release notes f9r v1.6.7.9",
+  "created_at": 1780167191,
+  "id": "11cb0da8f03d1e64d765d1c28d61b5dc22374ccb2e07483b218230fc28f337dd",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c940c9973fd54ac49cbe1ba01f6017d669974592dc8666172250f498f6493df6c144cf4c75e7a3f88fcc7a76dcf2fed94184bb92c7664ad7aaaea202c92617d2",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-may-28-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, May 28, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

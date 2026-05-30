@@ -1,0 +1,27 @@
+{
+  "content": "I ended up signing one more sets of forms this morning\nand yes finally the 30K was wired into my wells account in the afternoon\n\nSpent most of the afternoon working on restoring db from the archive function.\n\nAlso a number of frustating things happended today:\n(chatGPT helped summarize as my unfiltered explanation was full of frustration)\n\n--- \n\n## Coinbase\n\nYou moved money in.\n\nNo problem.\n\nYou bought Bitcoin.\n\nNo problem.\n\nYou sent one transaction to one Ledger (38.55)\n\nNo problem.\n\nThen on the second transaction ($100.00)\n\nID verification\nVideo verification\nLiability disclaimers\nExtra warnings\nAdditional approval steps\n\nSame person.\n\nSame account.\n\nSame exchange.\n\nSame day.\n\nDifferent destination address.\n\nAnd suddenly the process changes.\n\nYou're dependent on Coinbase's risk engine, which is essentially a black box.\n\n---\n\n## 401(k) Transfer\n\nThis one would frustrate me more.\n\nYou requested your own money.\n\nThen:\n\n5/20 — form\n5/21 — revised form\n5/28 — revised form\n5/29 — revised form\n\nCompliance raises another issue.\n\nRepresentative assures you:\n\n\"It will be wired today.\"\n\nYou specifically ask:\n\n\"Please let me know if there are any issues.\"\n\nThen...\n\nsilence.\n\nMoney not received.\n\nNow you're dependent on:\n\ncompliance\noperations\nwire department\nrepresentative\nbank processing\n\nand you don't know which dependency failed.\n\n---\n\n## Insurance / Mortgage\n\nThis is another classic example.\n\nThe insurance company references one policy.\n\nThe mortgage company references another.\n\nThe portal doesn't clearly show the information you need.\n\nYou become the human API integration layer between two organizations that should already be talking to each other.\n\nYou have to:\n\nidentify the mismatch\nfind the correct policy\ncross-reference documents\nsend explanations\n\nbecause their systems don't line up.\n\n---\n\nHere was my unfiltered explanation of what I went through today:\n\nToday: \n\n- 1. I transfered $38.55 from my Chase account to Coinbase \n- 2. Transferred $100.00 from wells fargo account to Coinbase \n\nNO problem \n\n- 3. I bought $38.55 in bitcoin (on coinbase) and sent that BTC to Ledger 2 bitcoin address \n(this is the ledger that stores the continuum related work -- The $38 was for KDP royalties and some cash back bonus from one of my credit cards \n- 4. I bought $100.00 in bticoin and (attempted to send that BTC to Ledger 1 bitcoin address \nfor (Savings account) that's when Coinbase required my to verify my id + video on my phone before the money could be sent then it warned me \"are you sure you want to send to this address\" and then asked me to check a couple of disclaimers saying I do not hold coinbase liable etc.. \n\nWTF!! \n\n- 5. I have requested $30K to be sent from my 401 K (I have $31K in cash) to my wells fargo account I had to sign/resign forms 4 separate occasions \n- 5/20, 5/21, 5/28, and 5/29 each time there were slightly different things I had to change update on the form \n\n- compliance dept raised an issue yesterday saying the money couldn't be sent because of some issue this morning signed last form 5/29 and rep ASSURED me the 30K would be wired to my wells fargo account today I ASKED HIM TO PLEASE LET ME KNOW IF THERE WERE ANY ISSUES NO MORE COMMUNICATION \n\n- Money still has not been received in my wells fargo account (as of 12:40 PM)\n\n-  5. I have been getting emails from the insurance company addressed to my mortgage company (but sent to me) depanding payment for the insurance (about 4096), \nthen emails from the mortgage company referencing this and to call them the issue ? \n\nthe insurance policy for the property was different than the one for this properly that the insurance company provided so I had to email with the correct policy number and reference the message from the insurance company! \n\n(the poicy # is not explicitly listed in the documents for this property on the portal I could go on But that has been my day so far \n\nPretty frustrating\n\n----\n\nNOte: the 30K DID finally get wired just before 2 PM it showed up in my account\n\n\nAlso in the afternoon I Did see a VENMO transfer (for Niu Valley) for 2K show up in my venmo account (started transfer to chase account.",
+  "created_at": 1780168204,
+  "id": "d77734901826b2c5c9c823525b61c348e124ca4895b0480aaf392f12aec779de",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "944f619acde178648e68742f5efcc7b51b2da636391a563fa1ef8eeb7452943df129a6ba2f43ba6f01221314a2882a247aeacdf5a4409854a704fce064fa220d",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-may-29-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, May 29, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
