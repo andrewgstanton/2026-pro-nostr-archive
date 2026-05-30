@@ -1,0 +1,26 @@
+{
+  "id": "57d2a4b9cecfcd83e6b036ba985f8101df1d7c2ed546ed7dc1015005b9e2afb6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767671680,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c90ea86e609a8fd02564dbf54589d62de41802540931c317f102ea2ef73748d4",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "ce3ad6da322db5bf257f9b870e7178cdf87e68b191ec46a7d8f4e0a4713b801e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have this exact note I think funny on paper I am a Millionaire !!\n\nIt’s monopoly time kids!!",
+  "sig": "e32a2ec48ca422354d333e798f57cf908fcf5be7685241758f5971d098f3eda013e5225a6ccf3661f64580c76b13da826475274c0e749525f898b3354d977f4a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1a11d5e060ae72372f4d4363d581eaa5f4684b6121a0249f252f802d5b87278a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767511747,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8b3dfaeda96fde8c00c813f651dfb9126161ab1852ce367b52fcbcd6b77aebc6",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "0e29efc2a3eb6966403e8c61cb8bea6d78527af5e0565a2baa0f313eff142af2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I also am really sorry about your grandmas passing right after the New Year.  My father passed away Sep 29 this past year (2025) after about a year of declining health. Still processing.  \n\nWill be praying for you. \n\nPlease take care and know the Lord will walk through this with you.  \n\nGive yourself time to grieve also \n\nTake care\n\n(Romans 8:38-39j NKJV\n\n „38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come, 39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord.“\n",
+  "sig": "cef86e077a7062e52eb20876027627806929d67cbffabdf85e93bacaad6ba8e2d0344a9fb621a41003f50ec48948b52095c7e815bc206bb29726e5cced619e32",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

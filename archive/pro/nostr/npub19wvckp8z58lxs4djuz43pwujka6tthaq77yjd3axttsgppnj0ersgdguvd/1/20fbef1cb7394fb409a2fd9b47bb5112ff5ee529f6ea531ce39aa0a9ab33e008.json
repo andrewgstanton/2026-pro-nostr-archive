@@ -1,0 +1,26 @@
+{
+  "id": "20fbef1cb7394fb409a2fd9b47bb5112ff5ee529f6ea531ce39aa0a9ab33e008",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767648290,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a4a529f8031db5fdb5e5ddae6ea27e952bde6b20081c088611d8d5947c3ab0d3",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "5c22920b9761496e931f53a382c2def2ce9d24ebf0961603eda79f1b24b9f2bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Have you read some of the stories in the Chronicles?",
+  "sig": "ba84655127d053988ef7e583d0542d82b7faa0e3b74e9bb3597c8ca5236dd59a39915777cd5a53281e516c4045132bce374d6f0b3a74c1f16b3fcd95556ff698",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

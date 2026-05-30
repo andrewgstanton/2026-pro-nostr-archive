@@ -1,0 +1,20 @@
+{
+  "id": "3521c6946831f36f25f6a8da42cb7f3ed73234e9f1dda49008c4a502fc761a92",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769970051,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+      "wss://nostr.mom",
+      "root"
+    ]
+  ],
+  "content": "🧱 Continuum Testing — Clarification\n\nTo be clear:\n\nI pay testers 5,000 sats.\nYou do not pay to participate.\n\nThis is a small bounty for serious builders or writers willing to:\n\t•\tinstall Continuum\n\t•\tactually use it\n\t•\tshare concrete feedback\n\nStill limited to 3 testers max.",
+  "sig": "9f4cfcf417af791e9a8c68be642e8bf364c915cb9a13161f1d5d19f0df652e14a8ecc052f618b48b7398acbcd63e4f2af151f3a2fdd882f84d2683011c20fa43",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

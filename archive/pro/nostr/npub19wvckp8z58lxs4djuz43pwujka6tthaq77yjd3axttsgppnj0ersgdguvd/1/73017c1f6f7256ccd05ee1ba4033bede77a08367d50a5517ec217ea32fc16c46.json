@@ -1,0 +1,26 @@
+{
+  "id": "73017c1f6f7256ccd05ee1ba4033bede77a08367d50a5517ec217ea32fc16c46",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1768518185,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cb11e1fd79b78e553887c06c7ac2a925f4f6f785558996facfb420e1954bd430",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "SPOT ON  !!! I just wrote an article on „Sovereign Publishing“",
+  "sig": "43dcb2ac4d602b1acf52b71528239dde3ae405011789df61c10fe75ec79dd85c87414248e80fee3a2ba605256ace5002c07de5e70aa7387032c9b67442bfbf7a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0282f777498b89d8a82ae2a33e45c6c18be5fdfcd6902205a1b0719a9a314eec",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767649228,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e50bb3541e36934963867d4351f741b64ae7a5b139886a28bedd7de9c64a8107",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "5c22920b9761496e931f53a382c2def2ce9d24ebf0961603eda79f1b24b9f2bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I love this metaphor thank you for sharing !!",
+  "sig": "ecd8a9cf06afffc625ec52e936137c4273be0fe8bac30112f9ce46e2c362ac7139bf601d424409c8d2f92661763526040f57531a1ad312cd45f7641355014ae4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

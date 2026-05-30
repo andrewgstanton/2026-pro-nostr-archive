@@ -1,0 +1,26 @@
+{
+  "id": "37a0759bcf5a603ccdd25c77643aada1d58b18ebc7edf29309f69df88968dfb0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769284493,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "85dd9a8cebc16e8698b8e0739f3c2f233031311dfacbdd8102cfd311986c7201",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": ":)",
+  "sig": "43f7d28b3bb10c35239db5a77ba5ae5f8dcfa3984347f697eb874a3cd1d91cbd4ef632b88ec01f9e7113dde9bca00c4b81126988ee329c97cb10c78e08877756",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

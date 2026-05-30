@@ -1,0 +1,26 @@
+{
+  "id": "17fc81dc78779de9030ada490d3c1816cf155b4acbe322620b3af7d5d6b3f571",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767469248,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2dcb89dc7042ee2662e025453716c34deea0a30a1317d8fa192f158ff6831066",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "9c86d77537a6380ce371e3a4860bc7e1fb2adbb2821bf1a8f1cd4e8ce02240c9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": " I have the same view as you about speaking hard truths \n\nIt probably why I have not grown  faster ",
+  "sig": "c837730e33890688bbb0996260e3d278f79a4262305d028f60a3fbd2cbcd0cee607ccb6908551e8387d470eb67e0021b194c7b454eec99d0be053831ce233320",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

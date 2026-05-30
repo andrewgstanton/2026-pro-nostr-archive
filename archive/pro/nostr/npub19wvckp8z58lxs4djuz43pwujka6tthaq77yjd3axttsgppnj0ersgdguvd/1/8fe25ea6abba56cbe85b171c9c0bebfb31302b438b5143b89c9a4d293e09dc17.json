@@ -1,0 +1,26 @@
+{
+  "id": "8fe25ea6abba56cbe85b171c9c0bebfb31302b438b5143b89c9a4d293e09dc17",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767332434,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2e57a24ceb1db72c87dcdb8d24b3e5d91a2a463ded12cbfbdc7dc3ec6ca6720d",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you beautifully said",
+  "sig": "28d82d14e585ec765fbab3af57ef62a097efb7b5337eec572923453b64e57e0b3aa828a1c0b8d8320839979e64f3ce70ef0fe34aecb9d3efac80a59f24ed8d11",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

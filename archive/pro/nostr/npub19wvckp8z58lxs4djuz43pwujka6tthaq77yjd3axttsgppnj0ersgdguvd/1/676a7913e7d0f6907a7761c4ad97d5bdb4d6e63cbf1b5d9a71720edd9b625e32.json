@@ -1,0 +1,20 @@
+{
+  "id": "676a7913e7d0f6907a7761c4ad97d5bdb4d6e63cbf1b5d9a71720edd9b625e32",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1770065292,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+      "wss://nostr.mom",
+      "root"
+    ]
+  ],
+  "content": "Update / clarification:\nThis isn’t a competition or a race. If you’re interested, just DM me.\n\nI’ll start with the first few who want to try it, and if there’s interest beyond that, I’m happy to extend it to more testers. The goal is careful feedback, not speed.",
+  "sig": "016bbc9df2654801a1fbf56043709b7091533f7f7a973168424a1eaac293d8da83bf8434e9d91fa8c5b96f974e3f79bdb68d061e3b723383275297c4fe060705",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

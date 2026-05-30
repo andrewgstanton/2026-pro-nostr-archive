@@ -1,0 +1,26 @@
+{
+  "id": "8c01f241b22f0a3d65a7111abda35fd0bc7cb51b9f976e0092983f1c806934f4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769899283,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "81d9cf76287604458dc71c223d2675c7b0b769eebdb9595d55c175dcbf4131c3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "まだ NIP にはなっていません。\n\n記事本文は暗号化されています。\n\n現在の閲覧方法：\n\n500 sats を送る\n\n読みたい記事を DM で知らせる\n\n私から アンロック用リンク（全文） を DM で送ります\n\nそのリンクを開くと全文を読めます\n\n現在は Continuum がこの仕組みをサポートしていますが、他のクライアントでも実装可能です。",
+  "sig": "9e7f175f9c7df3a0ab78569025b400de849c5beb34f941ba1aac445a97c84aa0632cf1403b918fbf4f934598622ee8ffaafae16d7b840abd66300db83f6f2683",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

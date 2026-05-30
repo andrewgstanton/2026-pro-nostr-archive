@@ -1,0 +1,26 @@
+{
+  "id": "39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1773561613,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d790421281f48bbf3ba8847e74d38855d32f79465ae8f4522251eb17643942e2",
+      "wss://relay.primal.net/v1/",
+      "root"
+    ],
+    [
+      "p",
+      "71df211931d26ee41121d295bd43cbc7e382505e333b5c13d4016ced9542d9d7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Indeed it is!!",
+  "sig": "b9eb7c2d5bfbf83f6a79752b4430b07bb706f49b3da166e8f5196c42327fd18e7653efadac431e3fe4218ccdae724e7a08594b2152f4ee0b79aa8b8e55405ec2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

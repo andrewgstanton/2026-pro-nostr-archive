@@ -1,0 +1,26 @@
+{
+  "id": "b25906e980f4cc35abdfa02df9953e2f31c9d915d6ba262d14ea06f39caa9cca",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1770090722,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bd36b60153b77644fe8a4c89b953e51cc00834571f02352b74345d5cdfd35245",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "04c915daefee38317fa734444acee390a8269fe5810b2241e5e6dd343dfbecc9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "More things change the more they stay the same ",
+  "sig": "d3f790b53c1f4ee11a196dc4db2cdc4b9453be1e4f17e83358f84d09efa476283e80d1d55ce80b7390fad9f02be038dd7896989d55b11872840b378c4f0e7984",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "41adaf6c4ca2f63f0e373280e4b3ae6a83a5efb03f208d8108549c8bfe2052c6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1768957036,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bbf78bad96f466079071cada0922527d4b484d169f64444d67e08d08525e62b0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "84b0022062b65f9cce7c0849353ead36b23b6c10f6225bd5d0b53527d4584323",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Send me some more :) (just kidding but nit really zaps are truly appreciated !!",
+  "sig": "d0111d6597c71c99f869156ef5e465a999e628c23016f9bcc7bb0ad05393868858fc601f15777111cf2da6d80d77e48aaa1291ac226b441ab2f2c201364848bc",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

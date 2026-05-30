@@ -1,0 +1,26 @@
+{
+  "id": "3b7a674055804fdc4d65ff94ce1a8f8cfec947589ac3eef6f89f9431cc9665ec",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769899353,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "81d9cf76287604458dc71c223d2675c7b0b769eebdb9595d55c175dcbf4131c3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "# Reading Paid Articles - 1/31/2026\n\nIt’s not a NIP yet.\n\nThe article body is encrypted.\n\nTo read it today:\n\nSend me 500 sats\n\nDM me the article you want to read unencrypted\n\nI will DM you the full article unlock link\n\nOpen that link to view the full article\n\nExample\n\nSample paid article link (main content is stored encrypted):\nis.gd/5ov8nh\n\nSample paid article link with unlock code in the URL:\nis.gd/9KIOD3\n\nContinuum supports this flow today; other clients could implement it too.",
+  "sig": "c40ded25e27dffe98bf4cb0fea000a8db10c842b00b4e4172ba31ba447699f49b4e66748c4e5e66023091de7df2d89497febd32d7db4a6189470d7e18c00a766",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

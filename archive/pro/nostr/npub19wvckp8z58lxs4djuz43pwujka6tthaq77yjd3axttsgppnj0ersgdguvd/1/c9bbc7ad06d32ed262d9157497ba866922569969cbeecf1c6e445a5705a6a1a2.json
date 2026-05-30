@@ -1,0 +1,26 @@
+{
+  "id": "c9bbc7ad06d32ed262d9157497ba866922569969cbeecf1c6e445a5705a6a1a2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769325329,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "82a03ad08928a137d706a8b5d6171165a30a4154b602db74483a82031d5397fa",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you Duncan I am really happy that this encouraged you Gid bless you !!",
+  "sig": "a328e7f8f368e1c52be2f9de21b58461e5f49114082797dea43483e7a6100260d6bf57e7ed824105b8fee936dcf175db8d15e9ba725b7820a685dbf87c25ab17",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

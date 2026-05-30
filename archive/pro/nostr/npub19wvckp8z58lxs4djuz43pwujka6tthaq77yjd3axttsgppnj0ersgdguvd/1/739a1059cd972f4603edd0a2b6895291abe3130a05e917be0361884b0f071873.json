@@ -1,0 +1,26 @@
+{
+  "id": "739a1059cd972f4603edd0a2b6895291abe3130a05e917be0361884b0f071873",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1769220963,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ebfcd64f337851e2b3f090b98f7d3fc8bc19e6e9bf69ae6f5fdfa424d8e57bae",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very very cool Paul !! Very cool ",
+  "sig": "a880b282d093bd11fd7619b5a114e9215fe40d566553b3bad90d2d30e1aabd93f0d7ea0736df4cce2bc6eb518b89f13708efec1ffa8edcf1870b5ef2f400b989",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
