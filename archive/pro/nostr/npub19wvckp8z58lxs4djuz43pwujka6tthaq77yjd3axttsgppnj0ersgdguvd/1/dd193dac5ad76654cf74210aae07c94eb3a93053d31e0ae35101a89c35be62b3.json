@@ -1,0 +1,28 @@
+{
+  "id": "dd193dac5ad76654cf74210aae07c94eb3a93053d31e0ae35101a89c35be62b3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778601811,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d0cea05297449e7666d55d9aa9bd7325c711fcdddeca570bec1459d90f5143cb",
+      "wss://nostr.mom/beacon-yonder-november",
+      "mention"
+    ],
+    [
+      "p",
+      "47f97d4e0a640c8a963d3fa71d9f0a6aad958afa505fefdedd6d529ef4122ef3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Pretty cool!!\nnostr:nevent1qqsdpn4q22t5f8nkvm24mx4fh4ejt3c3lnwaajjhp0kpgkwepag58jcpyemhxue69uhkummnw3ezumt0d5hkyetpvdhkuttedahxgetj94hx7an9d43x2useccc3r",
+  "sig": "3feae539de4da2934bc8ff72887d3c2acd685f25ac5a1136b4d3619581a7d69ecac7fee6e3ea42af1389b33ff14bb2799cdc3373b67c9d8fdc5a6b3241ffdf1b",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

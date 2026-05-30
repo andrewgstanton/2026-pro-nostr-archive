@@ -1,0 +1,27 @@
+{
+  "id": "208646ddd2da9b35976e7b82cbee472ffaa6539700cf96d2900d5a48004d10ab",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774390619,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7173afd03a2361c75c513cf4685503680db9d22eb44b81aa2fafb9e4b22a9e49",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "They did that sort of thing a lot some emperors married their sisters.\n\nNo restraint in sone cases \n\n",
+  "sig": "643ff53a52f18f09b501e47e0fe7f8d56a22cb9d4038aa4c38c66b44ee6e17af2d864d05d757aa3a717007ce677e6161cce7b97a063ea7b8c6bf0ec782b50e34",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

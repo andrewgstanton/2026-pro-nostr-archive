@@ -1,0 +1,83 @@
+{
+  "id": "fe62f6a5c33c4bb85b5fd667bad8d4a1f680d0a389e5395cf17f62970a0d9efb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774391012,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9e531140c274336edf8782679f071f2ae7bad326a35b5fef200fd69d99d89ed9",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3492dd43d496a237f4441fd801f5078b63542c3e158ffea903cb020a1af4ffdd"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Exactly why I built Continuum",
+  "sig": "3ff0926c11afa69d8289dd03f229bf71cf831d7139526f1834534394ce74e8893f636ebfae1d25cec456c977725c321f43f3f83f127fc69223ce73660fdce1d3",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,77 @@
+{
+  "id": "a9d030fa6e0d2df6f71b7e011e8d720d1148b0ecc384ac66517262d51e60357a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774391222,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "77af3197084731750d6795617571d0f48e70eb5eac9ddc1338459d4c2556ebfe",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "What about Continuum) ?\n\nHere is the client in the raw data for a recent event I posted FROM my localhost instance of Continuum\n\nthe client tag is : Continuum-Pro-localhost\n\nBut this reply will be ignored.\n\n\n----\n\n{\"id\":\"da10daccd66c1f3ebd01c44758dab3be7fd75e51ace6102b540e57ffb4c4616c\",\"sig\":\"af23d0e646baf335ce41aa605a547ba6bb64fa4bf7eaccde3ea5252caab6e205a5616e52a68121a5090e3749c4867be7216d4f55dd29518b0567dea6e88eb132\",\"kind\":1,\"tags\":[[\"d\",\"note-1774383330\"],[\"published_at\",\"1774383330\"],[\"client\",\"Continuum-Pro-localhost\"]],\"pubkey\":\"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\",\"content\":\"Note 5 — Interface — 3/24/2026\\n\\nMost of what we see is the interface.\\n\\nFeeds. Buttons. Profiles.\\n\\nIt feels like that’s the system.\\n\\nBut it isn’t.\\n\\nIt’s just what we’re allowed to see.\\n\\nI explore this further in my book *Building Continuum* (Chapter 1 - Why I Started)\\n\\n“The client was just a window.”\",\"created_at\":1774383330}\n\n",
+  "sig": "170e8ff553e49b92686cb01d03284b16b44823008b16c013a91d678dbfc1744495ec9e0834a64b6fddc186455ff3fe7b22f7714a7fccc29ac68a38bdaa068585",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

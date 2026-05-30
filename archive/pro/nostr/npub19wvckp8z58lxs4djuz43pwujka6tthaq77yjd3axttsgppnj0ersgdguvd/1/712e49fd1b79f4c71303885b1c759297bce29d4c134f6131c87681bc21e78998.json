@@ -1,0 +1,28 @@
+{
+  "id": "712e49fd1b79f4c71303885b1c759297bce29d4c134f6131c87681bc21e78998",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778436448,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bb659150cf1d057dad3e8aa9cf460fb40a9670b80ffd813e244483da52f4616e",
+      "wss://nostr.mom",
+      "mention"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Looks delicious!!\nnostr:nevent1qqstkev32r836pta45lg42w0gc8mgz5kwzuqllvp8cjyfq762t6xzmsppamhxue69uhkummnw3ezumt0d56eka95",
+  "sig": "804c440be2e8d77ec7d23f9d8ba20b64ea6ab127344c2c7a85d4abe8b48e6c286b0936c3775ba98cfd63c32d2fddb0c1531273169b5b38c403d7be0be0c2b2a4",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

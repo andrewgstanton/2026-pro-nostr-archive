@@ -1,0 +1,28 @@
+{
+  "id": "6f33df049b09cb1d39ae37a79becb3ac84cdb595a54bda6e5020a2beb5ae289c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778300970,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "de29634728ed092a8a303d6eb4c6f546773a0c4566fca8f0c5cbc3f4283941bb",
+      "wss://bitcoiner.social",
+      "mention"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "wss://relay.primal.net/",
+      "mention"
+    ]
+  ],
+  "content": "Thanks nostr:nprofile1qqszw5z5y8px3umrq79l2sqddqnnhxr3ar34yclac3fjvqqzt6hn7ycpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzamhxue69uhkzarvv9ejumn0wd68ytnvv9hxgtcrzr9yf !!\n\nDoing good .  The private keys I used were from a Bitcoin knots “full core” wallet that never had any funds associated with it\n(Used only for confirming transactions).\n\n\nnostr:nevent1qqsdu2trgu5w6zf23gcr6m45cm65vae6p3zkdl9g7rzuhsl59qu5rwcpzemhxue69uhky6t5vdhkjmn9wgh8xmmrd9skchjm3t7",
+  "sig": "a297b3a1003687f95339352f4483917734d6c3aff4f1a907eaf7bdd08845f1f493293b8de690888563b3af1764466367e807234baf0b9dbc509f2b0c7348c929",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

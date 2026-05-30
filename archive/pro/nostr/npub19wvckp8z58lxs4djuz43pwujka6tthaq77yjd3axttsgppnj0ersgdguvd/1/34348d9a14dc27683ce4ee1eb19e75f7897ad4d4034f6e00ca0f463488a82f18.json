@@ -1,0 +1,28 @@
+{
+  "id": "34348d9a14dc27683ce4ee1eb19e75f7897ad4d4034f6e00ca0f463488a82f18",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774234159,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "64758a0e75c4d8b277f5d608dd343046a36acb8c5c035e99c72f73cd724e047f",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great advice!!",
+  "sig": "4641ea89dd6da2dbe2bc1156d9278255e0d8867196911536f06f3a9ca1a53cdcc4ec9190d0315dc5067dc9ae413e9cbfb2ff18af8b64db16b7a01623b672694e",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

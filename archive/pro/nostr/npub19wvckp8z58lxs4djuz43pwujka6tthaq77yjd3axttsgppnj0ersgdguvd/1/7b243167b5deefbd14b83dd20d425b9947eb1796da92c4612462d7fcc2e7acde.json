@@ -1,0 +1,22 @@
+{
+  "id": "7b243167b5deefbd14b83dd20d425b9947eb1796da92c4612462d7fcc2e7acde",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776617981,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "30a0cbe99b009b11873a89b865e0826237ec42791412e987bcd5714bd1fd7139",
+      "wss://bostr.shop/cn/flint-tango",
+      "mention"
+    ]
+  ],
+  "content": "I did this experiment to prove I could sign and schedule an event to publish in the future while having no internet and complete the process on a different machine \n\nnostr:nevent1qqsrpgxtaxdspxc3suagnwr9uzpxydlvgfu3gyhfs77d2u2t687hzwgpramhxue69uhkymmnw3ezuumgdacz7cmw9anxc6twwskhgctwvahs0edka5",
+  "sig": "85d0095f8f93352da706dfffe9a686feddd6bfef1175a6c2ec4d095d9f5c68b32359b859ccfff1f3fd95d2eecff0bd26a9d86f200ab5a9ac6ee921a7777ec783",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

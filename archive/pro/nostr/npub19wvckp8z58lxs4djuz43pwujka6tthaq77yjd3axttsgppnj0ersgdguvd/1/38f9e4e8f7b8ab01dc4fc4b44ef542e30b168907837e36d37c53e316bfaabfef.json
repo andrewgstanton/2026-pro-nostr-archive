@@ -1,0 +1,34 @@
+{
+  "id": "38f9e4e8f7b8ab01dc4fc4b44ef542e30b168907837e36d37c53e316bfaabfef",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778301066,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4d64b65c655f2a670d48a0df4885b80f221284952f2d2f3db6daec8e8d4e1e3d",
+      "wss://relay.primal.net/ ",
+      "mention"
+    ],
+    [
+      "p",
+      "9370b7df7566137a2e0f029c2f3f183ff1aa09e86452d4a6e0a249b915292e81",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e5c55839b2cc6a12c002b15515be087e899dce1e4c1eeaf63ee0e0550f456bb5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great quote!!\nnostr:nevent1qqsy6e9kt3j472n8p4y2ph6gskuq7gsjsj2j7tf08kmd4myw348pu0gprpmhxue69uhhyetvv9ujuurjd9kkzmpwdejhgteq7vv75l",
+  "sig": "7e7e5ebb18b850f990ba0aacd2cdd0f301a9434b9009bcc433969fcb8e6316fb6bd3a61a095b49ab0f9a308c64480cfacad78bc7e5aa61e83ab7342ca70b8607",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

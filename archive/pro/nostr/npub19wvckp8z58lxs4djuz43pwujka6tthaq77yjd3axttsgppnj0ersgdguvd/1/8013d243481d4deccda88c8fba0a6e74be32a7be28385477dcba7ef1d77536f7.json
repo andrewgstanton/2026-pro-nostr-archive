@@ -1,0 +1,29 @@
+{
+  "id": "8013d243481d4deccda88c8fba0a6e74be32a7be28385477dcba7ef1d77536f7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777311685,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9b69b89c69f2a4bcf6eebb4f85c8c3a1d7a27f92dbf4b652157f1f444ce1d814",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen. \n\n“Rejoice always, pray without ceasing, in everything give thanks; for this is the will of God in Christ Jesus for you.\nDo not quench the Spirit. Do not despise prophecies. Test all things; hold fast what is good. Abstain from every form of evil.ʻ\n\n1 Thessalonians 516-22 (NKJV)\nnostr:nevent1qqsfk6dcn35l9f9u7mhtknu9erp6r4az07fdha9k2g2h786yfnsas9q6w7ahc",
+  "sig": "ef9204bb4aa23a86aabb80fccac7738fdc13d6e4ce671a2c4a9b9780b2d771d79325220c8137c38c0b9a0d9b379e49a9542803ed080c28f1df7e0b917289d93f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

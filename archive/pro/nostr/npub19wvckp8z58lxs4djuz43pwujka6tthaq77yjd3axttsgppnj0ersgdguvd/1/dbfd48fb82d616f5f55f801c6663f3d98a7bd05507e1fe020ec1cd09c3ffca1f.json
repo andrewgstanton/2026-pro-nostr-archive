@@ -1,0 +1,28 @@
+{
+  "id": "dbfd48fb82d616f5f55f801c6663f3d98a7bd05507e1fe020ec1cd09c3ffca1f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778349621,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cde46dc6146a966197a13598fdb21d979f944082f331c523a32ba626d01f130b",
+      "wss://relay.damus.io/glyph-prism",
+      "mention"
+    ],
+    [
+      "p",
+      "22305f795a15e408f87fd9fe47a3b0e21b5391fcf620ab44a0466d9854e7b617",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "English translation of your comment:\n\n“Bad idea, because it compromises users’ privacy and security, allowing improper surveillance and data collection.”\n\nI actually agree with you.\n\nUsing hot nsec keys casually for money or sensitive systems is dangerous. Too many people are collapsing identity, authentication, reputation, and financial authority into a single always-online key.\n\nThat creates real privacy and security risks.\n\nConcordo com você.\n\nUsar nsecs “quentes” de forma casual para dinheiro ou sistemas sensíveis é perigoso. Muitas pessoas estão misturando identidade, autenticação, reputação e autoridade financeira em uma única chave sempre online.\n\nIsso realmente cria riscos de privacidade e segurança.\nnostr:nevent1qqsvmerdcc2x49npj7sntx8akgwe08u5gzp0xvw9yw3jhf3x6q03xzcpypmhxue69uhhyetvv9ujuerpd46hxtnfduhkwmrewp5z6urjd9ek6rh0t9k",
+  "sig": "ab44d38433815f8c974100456de92ed14f391165bc28bba5a96f1042ae26f767b78da52fe4ac116f530cc518cbc1042339af6741e82d9dd0103c80ab4969dd8f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

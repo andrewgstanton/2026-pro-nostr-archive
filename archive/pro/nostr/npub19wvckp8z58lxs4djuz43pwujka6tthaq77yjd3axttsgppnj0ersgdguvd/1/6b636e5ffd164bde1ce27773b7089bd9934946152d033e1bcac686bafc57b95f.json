@@ -1,0 +1,28 @@
+{
+  "id": "6b636e5ffd164bde1ce27773b7089bd9934946152d033e1bcac686bafc57b95f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778311366,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9e599f22f6304df62a199d44e83086054493cec95c8d21aa44e11c2e05787a6b",
+      "wss://multiplexer.huszonegy.world/haven",
+      "mention"
+    ],
+    [
+      "p",
+      "52b4a076bcbbbdc3a1aefa3735816cf74993b1b8db202b01c883c58be7fad8bd",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "It’s a really bad idea\nnostr:nevent1qqsfukvlytmrqn0k9gve638gxzrq23ynemy4erfp4fzwz8pwq4u856cpyamhxue69uhk6atvw35hqmr90pjhytngw4eh5mmwv4nhjtnhdaexcep0dpshvetw0an2rp",
+  "sig": "0708305fce389caa87d16e8e7ce71e5542408ce2f2c7d81ee778fe958a1daabe9b26b5b20b9573959a87d2a625173774c3da1048faaf8144165d32b697eb4579",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

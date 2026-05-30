@@ -1,0 +1,27 @@
+{
+  "id": "6c8c6ddf136e8edd35053c63a262037ea83642c4fd3b4a5b53b8a1328176993e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774199382,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "820fade2ae03fa3a83dba419578263ee195687b486971594309b209fc8944922",
+      "",
+      "mention"
+    ],
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:🛠️-ai-isn’t-magic.-it’s-engineering.",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I wrote  this a while back just as true now as when I first wrote it \n\nTreat AI tools as part of your development pipeline instead of a magic black box \nnostr:nevent1qqsgyradu2hq8736s0d6gx2hsf37ux2ks76gd9c4jscfkgylez2yjgszyq4enzcyu2slu6z4kts2ky9mj2mhfdwl5rmcjfk85edwpqyxwflywqcyqqqzvjsswmqt2\nnostr:naddr1qqklp8um5rhm3redv95j66tndm3gpxt594kkzemfvvhz66t5u2qfjuedv4hxw6twv4jhy6twvuhqzrmhwden5te0dehhxarj9ekk7mgzyq4enzcyu2slu6z4kts2ky9mj2mhfdwl5rmcjfk85edwpqyxwflywqcyqqq823cfh22x6",
+  "sig": "f4ad6c12b9eec959e2d4b0c450a5c379a691d8408781e23fc6ddf376e6d4357c1017927cfe7c20e905e47ecbf6c462072489beeffbda71d6dcb759f8094862b3",
+  "_source": [
+    "primal backup",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

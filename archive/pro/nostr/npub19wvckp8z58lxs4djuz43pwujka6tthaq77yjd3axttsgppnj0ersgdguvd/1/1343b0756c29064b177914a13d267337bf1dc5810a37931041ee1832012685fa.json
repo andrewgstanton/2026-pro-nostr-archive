@@ -1,0 +1,27 @@
+{
+  "id": "1343b0756c29064b177914a13d267337bf1dc5810a37931041ee1832012685fa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774390103,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7173afd03a2361c75c513cf4685503680db9d22eb44b81aa2fafb9e4b22a9e49",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Funny if it’s true",
+  "sig": "d7fda22e705d0757668d105e4b64cf6cec0fdbcbd3e1bafc74af3847f7334c50010f5b1a988116f280e148e2a67216aa7b0ab3a3c38782e4f30efdc40abe8cc2",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

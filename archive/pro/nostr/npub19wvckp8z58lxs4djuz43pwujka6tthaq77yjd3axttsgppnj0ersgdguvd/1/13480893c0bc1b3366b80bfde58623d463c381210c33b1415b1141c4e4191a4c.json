@@ -1,0 +1,29 @@
+{
+  "id": "13480893c0bc1b3366b80bfde58623d463c381210c33b1415b1141c4e4191a4c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777865749,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ed250634a4b38162c04efdd7266657706df812b680fb0e5a8f3feeca8b8b7aff",
+      "wss://relay.primal.net/yonder-prism",
+      "root"
+    ],
+    [
+      "p",
+      "ff18165afde00852d49a4e1316c981c7af0164c1810c0bc0fe41d361dd7ca7f0",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen",
+  "sig": "8f0eaa26d406a9da3c7a4e21091a26d5cf1f6b7622f1c885f668753f1e0d9cd1456496661c9e716040052d04122fa66c68dc380803fe531270fa04a82e6d79b6",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

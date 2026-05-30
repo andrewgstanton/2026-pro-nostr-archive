@@ -1,0 +1,27 @@
+{
+  "id": "fc1d1fcf8f602f4ad796d26551179f2482d8cd4becf46faf4bdc83d3b26a95fe",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775196389,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b54998f84d1e016076112ec819b5293ba38bd3635c218059e7fbd48ee071f794",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This a great way if putting it thanks Paul!",
+  "sig": "71051462f9e34750a0df0843a9dde192e192927bef246b039e10d4756594c48c3b13c346023988d1e53733540024c611ca8bb2d8a875b1dbdfdf24bd870af192",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

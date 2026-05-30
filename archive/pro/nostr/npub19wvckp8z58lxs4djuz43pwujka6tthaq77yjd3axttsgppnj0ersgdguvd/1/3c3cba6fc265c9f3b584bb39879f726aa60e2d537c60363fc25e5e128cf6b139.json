@@ -1,0 +1,33 @@
+{
+  "id": "3c3cba6fc265c9f3b584bb39879f726aa60e2d537c60363fc25e5e128cf6b139",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774796720,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "87f4a47ffefe2a07731da3640c64c0990cd577631e4d0306fcf384a69a8f46e8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This was an excellent book highly recommend it!\nnostr:nevent1qqsg0a9y0ll0u2s8wvw6xeqvvnqfjrx4wa33ungrqm708p9xn285d6q79336d",
+  "sig": "232ca6069e77a4a25af9ae80cdfcd2a92de47817800fa7d0614b437e54a2e6e17b333cd0ea8fef4927cd0dd45b055d63b783f9b24df85d0596650e46d7bded83",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "045714e9c1b1511e58001dbb22c1fdec5181ea16f06f3f23697f612d1be92673",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777150430,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0000308c31a76be26f9173dfa80e2e85f941fd2802852643e98fdcee3b479e98",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e6c6c4a88a96b58b4f949494142e20ec7af55e037f3505fc379fd343118f4e15",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I aim to orient saturdays around themes of rest and sundays around renewal transformation or resurrection but not always.\n\nBut i think Its akways a good idea to pause and reflect looking back over the last week. \n\n\nnostr:nevent1qqsqqqps3sc6w6lzd7gh8hagpchgt72pl55q9pfxg05clh8w8dreaxq43wkr8",
+  "sig": "e50a8c3bfbe02f63ef1904dc5da2197e7a8d5547e7ab309e27f18c50fc02a90a11d5dc3f1a8edae6a27a312572aedae5f039dd05f4936fc3a4fd630a194f80c0",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

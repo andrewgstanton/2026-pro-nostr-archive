@@ -1,0 +1,28 @@
+{
+  "id": "71d2cc84bd131db4514404d20ba1107c14241facaeb81aa5c7413a9bc213a79d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778369920,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92b8d1856466dda48499879bfdec5304166ecaa88ae6b11aa2b7f737e39a5934",
+      "wss://relay.primal.net/ ",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Those adoption numbers are probably bogus 😄\n\nContinuum is still very early. I appreciate the encouragement, but there’s no public analytics dashboard or “on-chain” metric source tracking usage right now.\n\nMost of the work at this stage is still focused on architecture, identity flows, local-first publishing, signing, and artifact verification.",
+  "sig": "08ef38f4762e061dab26cb8fc84d2a995dd3e6dd650527279a4c89206526415dbd3c4d28cd3d9559907be4a8646310133cfee827f418e77ccf6195d2790fd944",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1067409d3f9bb1ba130839c85d618be07a955e71529c0322f6b3b5465fffa5e1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777508744,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "064c3b956d96226cd41d0fd05b5dace2cc5652a26be9bd4339f40241b52ab299",
+      "wss://espelho.girino.org/papa-dynamo-papa",
+      "root"
+    ],
+    [
+      "p",
+      "875705d034963b8487a8246468612a854ed2b5af66be936e1e48c25ce96a750d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes amen !!",
+  "sig": "c6c4ec2606f230068b2aedf65c1078898f6a52f7ba2b9819c8170c67bb4eab5f3af56c519a36d54cda5d0d24d03a8c541ed550fcb0912a2a0d4e760431b1db90",
+  "_source": [
+    "primal backup",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

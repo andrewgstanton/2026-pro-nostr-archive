@@ -1,0 +1,35 @@
+{
+  "id": "4b97e38c90b9c46cad7b05d3045244b371e3382c723c0f9fea7adf67292e9d17",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776002756,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c0c32cb4273b197611825c005ec1ac2df8e77b5597018fb6e9ace60d00ada985",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "mention"
+    ],
+    [
+      "p",
+      "62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2774d83c8f9789c583414292b1192c4345db7ff0d551ea32efa2958f4192f6e5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I agree!\nnostr:nevent1qqsvpsevksnnkxtkzxp9cqz7cxkzm7880d2ewqv0km56eesdqzk6npgpndmhxue69uhkummn9ekx7mp0y5erqamnwvaz7tmwdaehgu3wd3skuep0y5erqffjxpshvct5v9ez2v3swaehxw309ahx7um5wgh8w6twv5hj2v3sy5erqctkv96xzu39xgc8wumn8ghj7ur4wfcxcetjv4kxz7fwvdhk6te9xgc8wumn8ghj7un9d3shjtnyv9kh2uewd9hj7ffjxpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9ut5gd4d",
+  "sig": "d382494a89e38c6177c34ea32e37387d996f6379f823c39b5f4ba50972e03b4b74e0d0007064432983d32766d3170a673b6c0c523073254a8acf6b886331e01b",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

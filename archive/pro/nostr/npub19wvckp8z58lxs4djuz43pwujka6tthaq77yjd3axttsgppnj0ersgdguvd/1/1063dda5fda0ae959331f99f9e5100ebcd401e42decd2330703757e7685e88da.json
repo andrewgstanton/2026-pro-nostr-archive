@@ -1,0 +1,40 @@
+{
+  "id": "1063dda5fda0ae959331f99f9e5100ebcd401e42decd2330703757e7685e88da",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777400506,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "997a6cdfb389ed3fa6732088a6b01430dee6535a33de04f91d0ced3155be7696",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2a41bec7b7604165af61468572d85170e02bb91e6355597d76aaf270d328bb29",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b3050aec02a53019214a63923139c2832e0b545fff5a400cc5d4277093bd8ccf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Nice!!",
+  "sig": "ecf4983e4f79d154607e1397cfbc1d6278d0d0ec0232a637c0b9481427ab8e76e8b6dc841adba35fe129a5f9fd40535ec8f0974885ecf8b637a220d9c0d19b36",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

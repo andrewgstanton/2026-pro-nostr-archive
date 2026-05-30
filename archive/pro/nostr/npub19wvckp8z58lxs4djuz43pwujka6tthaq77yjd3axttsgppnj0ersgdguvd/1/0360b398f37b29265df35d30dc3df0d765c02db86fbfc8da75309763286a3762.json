@@ -1,0 +1,34 @@
+{
+  "id": "0360b398f37b29265df35d30dc3df0d765c02db86fbfc8da75309763286a3762",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777486331,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e8aba0713ace166bf0b4aa30d99bb436144ab14f26ad7e3fd8495bb4a292f9b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "497f5271ec4f0faf19f359567575971daf137dfb65117dc64c7a57d035872f8d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That is wonderful!!",
+  "sig": "836130f8dd7509e2bf125cbd99a2b827cdcac733beb6cb3fa23ab2efe71ac3a7ca578edfae38bfa150bd90ba4a4fa5ea134738540ea27a53d30b0e296c8bfccf",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

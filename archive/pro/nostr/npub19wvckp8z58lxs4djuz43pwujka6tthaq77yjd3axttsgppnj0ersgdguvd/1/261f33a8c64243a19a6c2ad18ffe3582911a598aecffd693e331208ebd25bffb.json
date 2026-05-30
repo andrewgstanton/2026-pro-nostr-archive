@@ -1,0 +1,28 @@
+{
+  "id": "261f33a8c64243a19a6c2ad18ffe3582911a598aecffd693e331208ebd25bffb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778649505,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "99802ab7f08b94b773f522653dd73cf1bc57134b7bebf91b58b090be03140156",
+      "wss://nostr.dler.com/dynamo-lantern-foxtrot",
+      "root"
+    ],
+    [
+      "p",
+      "637a2f1da5d2fc1976c14ec00f8eae4015afe99bb2554f1d537d0086a169dd8f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very well said !!",
+  "sig": "0b0793997abed915fbd7e5f4dbf6423ec2b8cdd47515769b164c779801523780ee42906ab7e2ef442d465d168d5085e502a7abbaa4e3591fa26e801287fbc8d3",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

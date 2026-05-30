@@ -1,0 +1,65 @@
+{
+  "id": "24ab3f9383d60c983d40cdb2c9416a83b1fed1cc1921e3ec7fdf9dec178bbc56",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1779255021,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "88122a51ba6c9417d6b0c671c0d4ed1415ae898fa722b3fd1a07308633210a25",
+      "wss://relay.primal.net/v1/zulu-papa-kilo",
+      "root"
+    ],
+    [
+      "p",
+      "1739d937dc8c0c7370aa27585938c119e25c41f6c441a5d34c6d38503e3136ef",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "32e1827635450ebb3c5a7d12c1f8e7b2b514439ac10a67eef3d9fd9c5c68e245",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d133ecb09963a7f7a705bf250324a226fcacbf51eba6f0b1b97df8c09338a4c8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0461fcbecc4c3374439932d6b8f11269ccdb7cc973ad7a50ae362db135a474dd",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "06b7819d7f1c7f5472118266ed7bca8785dceae09e36ea3a4af665c6d1d8327c",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "266815e0c9210dfa324c6cba3573b14bee49da4209a9456f9484e5106cd408a5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "460c25e682fda7832b52d1f22d3d22b3176d972f60dcdc3212ed8c92ef85065c",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I don’t feel so poor after alL…",
+  "sig": "2e61b3123a33d92a356fa470a8ae7440805ed46370e65be3005350c663a0be29729a56c13a81045511078ca518c3d5c76b7485baeef1945d769b2c0fe10739a6",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

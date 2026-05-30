@@ -1,0 +1,28 @@
+{
+  "id": "5a0eb351cb151b3f8c5fe880b712a64986600f52ae93a278533d156e9cb5bd90",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776565799,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "217e3528ebceb721e3b0ac2004aea4c672030b564b48fac489dbb30d3f57b57f",
+      "https://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yep but most still use them\n\n\nnostr:nevent1qqszzl349r4uadepuwc2cgqy46jvvusrpdtykj86cjyahvcd8atm2lcppa58garswvaz7tmwdaejumr0ds6uwwss",
+  "sig": "f25f87885dc9ea531c4be466fd2aaf98e2f7f974ab5b70437f659b89340eb64f1190adfc3dabfe6781e6d2854a387ef2703c0cbed51e2ca8dc47b8fdb26fd428",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a2df83d5cf15de0a33f068293f640ca45f280d2bdfb7c5641b15fb11ddaf5e38",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774286411,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fb59fd0cb588054703fdf2d90ac9e27f31da3cecfe4ea799604a977886788613",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Could not agree more \n\nBeen building a local first tool called Continuum.\n\nhttps://mycontinuum.xyz\n\nAlso just published my first book !\n\nhttps://a.co/d/0es8YXH9",
+  "sig": "5031c3ebcdd2274cbed46c761890ae483b5dbec81469127fd72cc2278c7c567a3707b31d397cb24f6136a70ca6fe266aada083f23a7bcaeef8eb5b7c40195522",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

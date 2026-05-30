@@ -1,0 +1,28 @@
+{
+  "id": "c46cb5563e53dec44411a68b8f592e7f0c9564fc8bae9008d48e608e4fdf2465",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775686938,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fff947f396f31608834d22750977a77bb6212b23eac267f75458948d2e0ba777",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a012dc823bcf80d5eadf4b6683035634bc40f1b0a52b958278b6bbc96458a70d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "From a note posted earlier:\n\n4/8/2026  ** Continuum v1.6.6 is now live on mycontinuum.xyz for both Mac and Docker. **\n\nThis release marks an important step forward for the Mac build.\n\nStarting with v1.6.6, the DMG and the Mac app inside the ZIP download are now signed and notarized.\n\nThat means a much smoother install and first-run experience on macOS, with significantly less Gatekeeper friction.\n\nThis was a meaningful infrastructure and release milestone for Continuum.\n\nLocal-first authorship continues to move forward.\n\nmycontinuum.xyz/downloads.html\nnostr:nevent1qqs0l7287wt0x9sgsdxjyagfw7nhhd3p9v374sn87a2939yd9c96wacjh2yfs",
+  "sig": "9abc0dfa9351cf29f03bfe7e402f56be45f04a4bfcdb81a4fe6052d614dffaa57f8787f01b177d4b1a19888ac4b3273ca9fed1c06ccffc75bf99311b00d110c7",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

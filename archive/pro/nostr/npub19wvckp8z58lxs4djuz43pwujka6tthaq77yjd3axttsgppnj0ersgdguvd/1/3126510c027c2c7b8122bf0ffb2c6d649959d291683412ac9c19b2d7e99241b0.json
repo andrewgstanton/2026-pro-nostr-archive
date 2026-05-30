@@ -1,0 +1,21 @@
+{
+  "id": "3126510c027c2c7b8122bf0ffb2c6d649959d291683412ac9c19b2d7e99241b0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774548865,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "28de54f01a9be528f376b56e6eb554d43ff4fb5cec5a910ace4e46622e4bb5db",
+      "",
+      "root"
+    ]
+  ],
+  "content": "I didn’t expect much reaction to this.\n\nThat’s actually part of the problem.\n\nIf you’re building on Nostr, or writing seriously on it, you *know* this gap exists.\n\nYou’ve felt it:\n- no drafting  \n- no real structure  \n- no control over presentation  \n\nAnd yet… we don’t really talk about it.\n\nWhy?\n\nBecause it’s uncomfortable.\n\nIt forces us to admit:\n\nthe current client layer is not enough.\n\n---\n\nI’m not saying Nostr is broken.\n\nI’m saying the writing experience is.\n\nAnd pretending otherwise doesn’t help anyone building real things.\n\n---\n\nCurious:\n\nWhat are you using today for long-form writing on Nostr?\n\nAnd be honest — does it actually work?",
+  "sig": "604ff2a0b4d01d7d22ab492cad3d2b4b70b2ace4e4c41291b79450ba2e5d2a38792da1e2ab877cf2ff811fbe9998df4faf3ffddcae82e399b0356d5327d08bb1",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

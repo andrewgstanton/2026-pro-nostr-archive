@@ -1,0 +1,28 @@
+{
+  "id": "5fe13d724832b1f35d6fb75af6ba2b7f2cc5ff56602ad87e74c62fd5ccd9e106",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778561728,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "72d5f12af22b81228726e9633c26af2229d03209d9f7e05032b36de5dac96c28",
+      "wss://orly-relay.imwald.eu/nexus-xenon-november",
+      "mention"
+    ],
+    [
+      "p",
+      "dd664d5e4016433a8cd69f005ae1480804351789b59de5af06276de65633d319",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen!!\nnostr:nevent1qqs894039tezhqfzsunwjceuy6hjy2wsxgyanalq2qetxm09mtykc2qp9amhxue69uhk7unv0ykhyetvv9uju6tdwaskcepwv46j7mn90p6hxttcv4hx7m3ddehhvetdvfjhyrs8srk",
+  "sig": "71e61442c202a5eea371e433714f2283dfec128ed37f639d8c99efae172e10ecf0188e77b469980fcfbca0a4972a238a6255fe3e961e759d47b2081a21219f6b",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

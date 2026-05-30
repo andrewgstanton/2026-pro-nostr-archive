@@ -1,0 +1,35 @@
+{
+  "id": "ea75df5fdcfae651e047a8106576f2e62b180317c8034540fec46428a835ef48",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778902512,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2bd4f52ab86205df9ad78ba50997743d00bb4648d47184eb38be29a2ed7ef1d5",
+      "wss://multiplexer.huszonegy.world/delta-warden",
+      "mention"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love this !!!\nnostr:nevent1qqszh48492uxypwlnttchfgfja6r6q9mgeydguvyavutu2dza4l0r4gp9emhxue69uhk6atvw35hqmr90pjhytngw4eh5mmwv4nhjtnhdaexcep0v3jkcarp94mkzunyv4hqpatqnk",
+  "sig": "f269be3192e2fd6d0d9ba07956d4b11322404602e74ec3622b312c035c3f13b6177b00068bab8eb0a60d143fa53c9b7eafed64beb129cfb912ddd294c62a7e22",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

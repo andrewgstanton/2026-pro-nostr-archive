@@ -1,0 +1,28 @@
+{
+  "id": "0fc95e4a750239ea761cbe4cc3667d278b5b8f40d52977a42b52e6d33a3f0098",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775895686,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "573c747890e86eb1c87118cc6234d5b1b2b634e5d04fb43f5dabcfd59ed21d7b",
+      "wss://relay.primal.net/v1/zulu-papa-kilo",
+      "mention"
+    ],
+    [
+      "p",
+      "a012dc823bcf80d5eadf4b6683035634bc40f1b0a52b958278b6bbc96458a70d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "!!\nnostr:nevent1qqs9w0r50zgwsm43epc33nrzxn2mrv4kxnjaqna58aw6hn74nmfp67cp9pmhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtmkxyhh5atvw5khqctsvykkk6tvdulrl8yn",
+  "sig": "9fe0725f004788f01cf8ac1795bdd953a0eb1cb81af72ef51629f298a732b818cb235283952d823dc57f7ab8779739f5eae5112632946844ec777b3be980dd45",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

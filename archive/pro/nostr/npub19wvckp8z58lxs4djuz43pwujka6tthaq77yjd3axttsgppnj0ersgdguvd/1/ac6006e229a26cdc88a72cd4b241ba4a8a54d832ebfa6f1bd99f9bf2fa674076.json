@@ -1,0 +1,36 @@
+{
+  "id": "ac6006e229a26cdc88a72cd4b241ba4a8a54d832ebfa6f1bd99f9bf2fa674076",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1779559848,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3:nostr-only-is-a-flex",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3c6d08c75000fdb7226014e1e7e14abf9a51b628f5de60f892b39a9a9e797774",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have wrestled a lot with the ideas you bring up in this article\n\nThank you for sharing.",
+  "sig": "51b34ec356eb10bb71f22d8e63e22cf5aa5015f311a28c801aaccf183eef37d78b50788c1ac36d22798d1c053ecd02bc21f8b17e39357820cffe0464df5b39f9",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

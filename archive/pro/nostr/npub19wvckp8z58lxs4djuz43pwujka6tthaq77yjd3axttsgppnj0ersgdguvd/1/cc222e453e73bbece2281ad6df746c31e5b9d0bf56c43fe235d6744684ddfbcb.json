@@ -1,0 +1,27 @@
+{
+  "id": "cc222e453e73bbece2281ad6df746c31e5b9d0bf56c43fe235d6744684ddfbcb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774806971,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "20342b5fe12e1586b7f8f4e7d5a23b269cc39e9d593e8935249f84abf3c58e2b",
+      "wss://offchain.pub",
+      "root"
+    ],
+    [
+      "p",
+      "8d34bd2432240c5637174a3db191878baa1c133aec739b64a264259f414be32b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "AMÉN",
+  "sig": "3e009cb4c693dc37b6e98c83caf94facfed192cb78e29cd05be258a13367d27bd543865af6c2119ef230670c1db272a4d86a47b327d05077a5278ea3d325090b",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

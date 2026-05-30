@@ -1,0 +1,27 @@
+{
+  "id": "404ef5c7a604cdc0f480c2fcef1d6bad6ffc2b6e21942ca8f8f56fa68cac7925",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774622115,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bf3267b0e26ccf74663aec681a8067ccfef016ddb0bc84f9dedcbb36b5d9eec4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f8e6c64342f1e052480630e27e1016dce35fc3a614e60434fef4aa2503328ca9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yep",
+  "sig": "41b320a35e6f92e33e42dce4853580e7342efbdf9d4cf12354c44893e890f3c5e43b4e93497973804009669d29efa0b6e9c712accc001cbf30868815c62576d9",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

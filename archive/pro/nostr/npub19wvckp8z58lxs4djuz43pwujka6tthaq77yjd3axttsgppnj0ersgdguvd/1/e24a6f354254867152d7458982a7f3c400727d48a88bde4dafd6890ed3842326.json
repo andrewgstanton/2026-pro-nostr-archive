@@ -1,0 +1,29 @@
+{
+  "id": "e24a6f354254867152d7458982a7f3c400727d48a88bde4dafd6890ed3842326",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777134660,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0a412514cc984d9ee5c0262f5745738ec09b8c5f9aa88797d55df7305812390a",
+      "wss://nos.lol/cipher-zulu",
+      "mention"
+    ],
+    [
+      "p",
+      "cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Danke !!\nnostr:nevent1qqsq5sf9znxfsnv7uhqzvt6hg4ecasym330e42y8jl24maestqfrjzspr9mhxue69uhkummn9ekx7mp0vd5hq6r9wgkh5atvw5yn9pkv",
+  "sig": "7dcee3101730c9823c8c0e026043a1ed495cce5b4eeaa38aa4f5d283c7bbf3a5ef0f65ab7a339a350704ae7ec8d7ae0354fe905567eed69033836d2ad721f8cb",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

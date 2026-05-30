@@ -1,0 +1,28 @@
+{
+  "id": "d0d75822273183fa1fdd8c8bbceddbec3b8b210eb63a6a832a6bed4af740f04b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777075509,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fcf66722093c56628b16bc39335fd52ecfa8dcb4353019d3782104745e1a8ea6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f2cea30af62bcba9074b8da2d378e001549569a721054e82982ac3440da853ca",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yep  thatʻs what i usually do these days!!",
+  "sig": "32c6f76493878c75ef672626e0ec62f78ba2717542f74fc02518112eab6de8d4d4e1267576bc020ff6541ffb0a0bd019b46ea898e0cb2eba6320dcfaef0773c1",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

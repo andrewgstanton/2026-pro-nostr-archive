@@ -1,0 +1,28 @@
+{
+  "id": "996e64f88fea3724965b0ea023dee15cc0e360284494557121e26c5762b0d8d5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776612981,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c1c7b26ecdc8444a94de8b954e32f12b4877c0e8a42b5655731a02bad3119161",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "99fa5d636639de4eb82e76f79dc40e7f787367183b273fec2ae7adb2c7cf5e8d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very well said ",
+  "sig": "93e695becc1b11845bf1432bd8d7b85f4be2dd1ce9b915ae9e34ad71692e91c85d7177611bf30320c5416b88ef053748a125dbacf4b402db36d175a9716c83cf",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

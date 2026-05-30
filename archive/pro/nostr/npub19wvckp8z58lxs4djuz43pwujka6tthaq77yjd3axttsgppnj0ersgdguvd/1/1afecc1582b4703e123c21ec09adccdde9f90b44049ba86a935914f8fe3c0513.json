@@ -1,0 +1,28 @@
+{
+  "id": "1afecc1582b4703e123c21ec09adccdde9f90b44049ba86a935914f8fe3c0513",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777079153,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a56051a6e4b355bfab64fb0b1e3d5a310f71f82b08ce6072584aacebec0796d3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Boa—vale responder, mas ajustando o ponto com precisão.\n\nAqui vai uma resposta em português, no mesmo tom:\n\n⸻\n\nEssa analogia é interessante, mas acho que mistura duas coisas diferentes.\n\nPrivacidade em carteiras é uma escolha do usuário para se proteger dentro do sistema.\nControle centralizado é uma imposição sobre o sistema como um todo.\n\nNo primeiro caso, você decide.\nNo segundo, alguém decide por você.\n\nBitcoin funciona justamente porque não depende de controle central para existir—e a privacidade é uma camada opcional, não uma justificativa para mais controle.\n\nRisco existe em qualquer sistema.\nA questão é: quem assume esse risco—o indivíduo ou a autoridade?\n\n⸻\n\nSe quiser, posso fazer uma versão mais curta (estilo note) ou uma mais direta/provocativa.\n\n—-\n\n(English version)\n\nThat analogy is interesting, but I think it mixes two different things.\n\nPrivacy in wallets is a user choice to protect themselves within the system.\nCentralized control is an imposition on the system as a whole.\n\nIn the first case, you decide.\nIn the second, someone decides for you.\n\nBitcoin works precisely because it does not depend on central control to exist—and privacy is an optional layer, not a justification for more control.\n\nRisk exists in any system.\nThe question is: who bears that risk—the individual or the authority?\n\n\n",
+  "sig": "75de8ff91b10630e7d11cc9197d79fd8dc49a6092c41d45de3b99ab21935aac145834676082272fcc36070d9f1741481032b1b378e299ed82daff4c83b146bd0",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

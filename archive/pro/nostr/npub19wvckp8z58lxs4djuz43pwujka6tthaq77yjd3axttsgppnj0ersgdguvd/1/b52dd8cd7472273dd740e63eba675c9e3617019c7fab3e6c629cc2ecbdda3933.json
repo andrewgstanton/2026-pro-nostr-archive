@@ -1,0 +1,28 @@
+{
+  "id": "b52dd8cd7472273dd740e63eba675c9e3617019c7fab3e6c629cc2ecbdda3933",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778303513,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c585156dfb45ad18789eb41c30781b1b6ad918216509bf59286ef4ba962f0ffb",
+      "wss://nostr-dev.wellorder.net",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes!! \nnostr:nevent1qqsvtpg4dha5ttgc0z0tg8ps0qd3k6kerqsk2zdlty5xaa96jchsl7cpr4mhxue69uhkummnw3ez6er9wch8wetvd3hhyer9wghxuet55qwhdv",
+  "sig": "3dba8fb3b6a909bd11a8819a346857abbd88965b4de7deb4b934888e4bcb75a45d5dd31b486084c7784dc1bf0e34e5b8a92688569d9972be7439dfcfef4d9548",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

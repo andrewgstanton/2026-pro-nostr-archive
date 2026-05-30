@@ -1,0 +1,29 @@
+{
+  "id": "80dea901a6d51b824b2c69a6f63d87a6dce1f08f82d5923f793283bdb67415c5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1779315489,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d77c4e2c8ef2783be7a283c1e761aa676793d49ae0517ecbebe5f38f24aaa941",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Why does this keep happening ?",
+  "sig": "bb35da2bec934d8485fc6be2e2c7237a01696815f18dfd1e4f9012549264ed223780c90fe6726e2adf1be453858577c5d9ebf2a439e662f2ad6d009a529d3a17",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a1c347c907eeb756244e4df6b2da0bdc4dd24f593817bbca6d7873e9ed176254",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777388433,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "71ff318ec4de4769d94cbc48a1b9dc145a68671fb51f43f1ee842a6a789a5b44",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ],
+    [
+      "t",
+      "InChristAlone"
+    ]
+  ],
+  "content": "And what about this?\n\nʻFor God has committed them all to disobedience, that He might have mercy on all.”\n\nRomans11:32 (NKJV)\n\n#InChristAlone\n\nGid bless you Laser ",
+  "sig": "b268c27641fce12e41d0c87edc0355ca16a1430f55e69d1be214518ce35dad691591ffcff6269de7613ce2a816bad707ea37f1f9c1d945603cbd9a08c130d111",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

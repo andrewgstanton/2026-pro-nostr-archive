@@ -1,0 +1,29 @@
+{
+  "id": "90290447aa92a80028083af27e815ad0c9c27dbf89b1e498bd2be5b95ae9aa83",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778249396,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d8ef6b01567f29510f484ce88078a94678049498860e43fc4059a32ec09744e9",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "d9f2471cc8f33111071bd0de1fef87d783cc4140e0f70ba9298a53b9e07c60f6",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Got to get some to go your way!",
+  "sig": "2ff69050f8d19f6848ceed8b535208567a254265bd331f75050a5e6dba242f420211b92b0342ed4b5e5aac8a254e88a79004387a8401f9d3ff78635bd6d6cf6d",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

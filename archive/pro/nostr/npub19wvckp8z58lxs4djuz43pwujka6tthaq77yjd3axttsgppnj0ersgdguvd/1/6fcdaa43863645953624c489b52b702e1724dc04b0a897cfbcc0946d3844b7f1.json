@@ -1,0 +1,28 @@
+{
+  "id": "6fcdaa43863645953624c489b52b702e1724dc04b0a897cfbcc0946d3844b7f1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777312104,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e7607e994e32fbbfa3ca2e333134f7ea45c092f8644f9cc820a40b03ba475954",
+      "wss://relay.lacompagniemaximus.com/golf",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "2 Corinthians 6:2\nFor He says:\n“In an acceptable time I have heard you,\nAnd in the day of salvation I have helped you.”\nBehold, now is the accepted time; behold, now is the day of salvation.\n\n\nnostr:nevent1qqswwcr7n98r97al509zuve3xnm753wqjtuxgnuueqs2gzcrhfr4j4qpyamhxue69uhhyetvv9ujumrpvdhk6urpvahxjetdv9uxjmt4wvhxxmmd9ank7mrx9fqyxf",
+  "sig": "ce7f9717749b636960519ace001ca78aab986a01403f66599d3ab78ab88e8071b99a92b985b175b8ab856c5e29296ac51eb897eaa2eef081794647059e97a91f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

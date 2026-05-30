@@ -1,0 +1,28 @@
+{
+  "id": "18c072f0ae3a68e008ece95cac5ca5f08d45a5bedfb604c26e12ead7570367a0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778654338,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3a77586c765c786a4a655cf80aee030c7613282faf20de4eb8e2b5111fe35956",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c582af78dff442700ec59e21786532a7074c00be8b7b1eac989bbf62698069cc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Truly fascinating !! Lived in Japan for three years love the wasabi there !!",
+  "sig": "f00e9a4fb81c35ba75d6cfee15815d20c34922f1797960e6a0776c4d2a096fd529492b68d3c15bf73f697df818cc36c3d38bf43ff18355c1e871c2cbd01a74ed",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a352c82ca184ab97b0d699ece38988d59559d127215d51fb7f6d5ca581dbe56e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776800737,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "422f1577f75429b705479f4ef9e6d5e2fe1e5ff2c939ce5f3a421c24c64fe356",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Been good \n\nThanks for asking\n\nPlease check out my site mycontinuum.xyz \n\nOrder my book (10% discount if paid in sats), download continuum or comment/fork  any of my public repos\n\nThat would  all be very helpful\n\n\n",
+  "sig": "c4cbca0443bf20d2562536387a9d96200dbdf227ef3f480d3c86bfd0b471699e570c25472f8367827a9cabe378a4635d626cc23d774b04ef078a53129dfa3b41",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fdc8ab90d21ef15810370a38dacab6529b42664fa3e2ef1eafff15ba77f669df",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778311290,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9ffc3761977fee1adba21cdff2625fd0008df8b63bb5407b3e5a1d3ae53a425c",
+      "wss://nostr.dler.com/dynamo-lantern-foxtrot",
+      "root"
+    ],
+    [
+      "p",
+      "52b4a076bcbbbdc3a1aefa3735816cf74993b1b8db202b01c883c58be7fad8bd",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Use a bogus throwaway  key pair if you want to play this game.",
+  "sig": "19b5c4c66feb2c4fc2f27344f0acde3d6d4362d7170d375e510e42c2c5c6d4869f695311c3f3a1e31d3e566ba0e50d99cab93bfb25f50a3c4e91fa50e1a7bf10",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

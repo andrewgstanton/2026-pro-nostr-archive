@@ -1,0 +1,28 @@
+{
+  "id": "c34a987d30d48e8c1329f1c127d425edfb837d2c2a3d6871a422454f7b722963",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778205819,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bf659670698b061d28fec0403813d53eede6a5edf48d2246c3444031942b3755",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "ad88abf01bdfe3bfcad8d36b4bca1565e6b3596b2f06ab122e448b66cc0e2d17",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Only 5 slots left ?  Might want to clarify anyone can buy bitcoin and start stacking it ",
+  "sig": "a0ff6133c672029fe51a9848ec925ad57dbc4bc4f55d28fc9baed5466bf742120263f81d4c5636faf32bcfe0478a5dc001f6d71108ca9260eea580a444c8aeb0",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

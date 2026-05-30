@@ -1,0 +1,27 @@
+{
+  "id": "3c07e3010183ae782e7648a43fc89cb48a48d5787e22b0700b70ed2f1d002351",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774554747,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "036c0f6cc09999902200c959b9afde36f65856104dcc8cebbd94337340d500b7",
+      "wss://relay.primal.net/v1/",
+      "root"
+    ],
+    [
+      "p",
+      "3862d44c8e078e37dcb1dff1fd6511a57575c8d89943c269290a77cde210342f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes I have they are all solved in Continuum actually",
+  "sig": "b18d25bb5b904924692ac5698d665c02553c0a7fd208a4995b94349abf4a7594ab67cc4e0c040f740fdb9ecb12cd270acbfae189a63fa4014071070fcfdb5efb",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "995ed41a9977ac2ec89c1c74a5f190bf08d82577d9da2a3bb0922af3e4364751",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774399639,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ffd390d69e9156543ec68194554e024ec89541f699558120702a75de26dc8e31",
+      "wss://bitcoiner.social",
+      "root"
+    ]
+  ],
+  "content": "And just to be clear I am not defending his record nor am I a stoic philosophically\n",
+  "sig": "492691a81f42758af3afd9de735fdd7d84f8bb6aa9ba08d3f1c035a3efdb093b01fddd13f734588661b94ba8067bf1bbb02e99621714fe9dd31b0221eabfe07d",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

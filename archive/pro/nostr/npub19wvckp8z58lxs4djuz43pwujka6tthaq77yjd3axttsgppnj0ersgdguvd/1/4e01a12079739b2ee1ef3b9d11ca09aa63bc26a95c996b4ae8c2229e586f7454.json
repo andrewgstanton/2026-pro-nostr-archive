@@ -1,0 +1,28 @@
+{
+  "id": "4e01a12079739b2ee1ef3b9d11ca09aa63bc26a95c996b4ae8c2229e586f7454",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777166217,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "02e1945381b31a21588ecd772ac42837d9ae017499034e3077e2ae8cc9e7dd1f",
+      "wss://relay.satlantis.io/xray-mike-zenith",
+      "mention"
+    ],
+    [
+      "p",
+      "f2cea30af62bcba9074b8da2d378e001549569a721054e82982ac3440da853ca",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very true!!\nnostr:nevent1qqsq9cv52wqmxx3ptz8v6ae2cs5r0kdwq96fjq6wxpm79t5ve8na68cp99mhxue69uhhyetvv9ujuumpw3kxzmn5d9eju6t09au8ycte94kkj6m994ax2mnfw35qdjweuk",
+  "sig": "9f7390cd9092750700b53e14e3b34d3ab78c074881892f69985488f2c2ca2473e6cd414ce9b9dc2e1269b4abc62c5ba68b1650f01cc30bd8d77399f338bbe1ee",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

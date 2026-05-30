@@ -1,0 +1,28 @@
+{
+  "id": "ac836556eebc8d5487d12a04f2169a200d886b01d8ff0c2923ae55b70c6e6060",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1775841911,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7bf6928f948d72f584e41375ce37a324dfeb7eb5ce409d22ab1f178f5843177d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Congratulations!! This is much needed ",
+  "sig": "de7d3baa626311d664ec4c699c46a8efae98606892efd9a61bd35e1c99296b7b9c2eb312597202edf7c105b29a87b62363f9377fa563029fedc859fc31e02ecf",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

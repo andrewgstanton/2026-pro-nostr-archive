@@ -1,0 +1,29 @@
+{
+  "id": "17331ddff9265d2c3a646b6323234cb06a857c26281a8fa7064f9337128e63da",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776566055,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "80eae6620267ae91d796ebba1e987c67d7f01eb9d40f3ceffb2a9535019fe7a6",
+      "https://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Agree 100% but sovereign tools also need to be as convenient as possible (without sacrificing privacy or security )\n\n\nnostr:nevent1qqsgp6hxvgpx0t5367twhws7np7x04lsr6uagreualaj49f4qx070fsppa58garswvaz7tmwdaejumr0dsq6ghaa",
+  "sig": "3d0ae5afe2af32f5ac32a0637d4244d9060e37ecc7e9a9d85ada8c476c23ac9ffcfc97f93ce314309fac1f9a15db56d4a06b00b92e5d35e24da8ca6641e5f5ab",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

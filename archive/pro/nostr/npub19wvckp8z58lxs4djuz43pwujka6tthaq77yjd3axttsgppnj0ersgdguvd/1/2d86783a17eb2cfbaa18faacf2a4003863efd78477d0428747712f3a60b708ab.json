@@ -1,0 +1,29 @@
+{
+  "id": "2d86783a17eb2cfbaa18faacf2a4003863efd78477d0428747712f3a60b708ab",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776557405,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "67254eec8364d6cb7cc3ebbba4094b1c81e1bb889c07b88241de67c3e740ae85",
+      "wss://relay.primal.net",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Spot on!!\nnostr:nevent1qqsxwf2wajpkf4kt0np7hwayp993eq0phwyfcpacsfqaue7ruaq2apgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhg7cv4j4",
+  "sig": "fc51434849b0c466842c0cd98ecb017d6eecdaabae8facd363de3ab6197e8b9fd6c04dfe9d5ee5bef900f50ac2c340b219f0224c044e6150013923a75eebaf12",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

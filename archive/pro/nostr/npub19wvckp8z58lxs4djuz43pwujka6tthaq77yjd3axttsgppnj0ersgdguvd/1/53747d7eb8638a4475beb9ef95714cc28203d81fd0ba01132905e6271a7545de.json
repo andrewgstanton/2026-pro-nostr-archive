@@ -1,0 +1,28 @@
+{
+  "id": "53747d7eb8638a4475beb9ef95714cc28203d81fd0ba01132905e6271a7545de",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776563450,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2bc4061ce476f1e77e3006cee2aeff1a4b4f6cad7106f822de7d55bc2e2070c2",
+      "https://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "!!\nnostr:nevent1qqszh3qxrnj8du080ccqdnhz4ml35j60djkhzphcyt0864du9cs8pssppa58garswvaz7tmwdaejumr0dsrmes03",
+  "sig": "1fc81de15f026c21b1bc505f95230427e04831156773399507fa53cd88f6ab3807063ebe9d8e6b683e7ac173d8e5d39c6777725bd9b63850e5ccce876f087cbd",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

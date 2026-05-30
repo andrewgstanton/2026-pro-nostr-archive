@@ -1,0 +1,27 @@
+{
+  "id": "cd64471d6677b9ccdab034963200c2e7e719a7d97656aa1fd834310bfc6a9583",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774498026,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "000043f12dd796fd8febcabd8c608207d3058251ea46802d370225644d6736dc",
+      "wss://relay.primal.net/ ",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes",
+  "sig": "0ef091f60ea37d2bb1342f41fa75dc1d1e1be4040e62c11f738863d459decc6781419ff77e0fb9ab2b61c22d6aa1b9c08232c4a94a9b2824ba8f60354fb8c523",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

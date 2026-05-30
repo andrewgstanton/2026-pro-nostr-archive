@@ -1,0 +1,33 @@
+{
+  "id": "f4321d772b7ca70b9a85f24dda956a7c926671bbe759ed0a5fc2ad49aae43829",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777045484,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a41917c63915a49bf35693a404f1961e84e839b763f4501dccfe109a9e06ca11",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ],
+    [
+      "t",
+      "ToChristAlone"
+    ]
+  ],
+  "content": "“Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us,\nlooking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.”\n\nHebrews12:1-2\n\nThat joy was the purchase of our souls by his blood.\n\n#ToChristAlone\n\n",
+  "sig": "eae19c74c992d3fb768d1bf1f9bea7a16ddd5126c05f40dc727785e6533066d222672a8978025e6de72b1511e9ad999501a472e29e8b629b8a0b1cf6a4247db4",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

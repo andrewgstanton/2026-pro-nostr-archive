@@ -1,0 +1,28 @@
+{
+  "id": "38ea8db804c80e4999faab5766bb59074c3f7760656d2731c977eb808374a387",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777397088,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "95620f80fc7fdbd3906785c0324ca000052a69ec435e176d8a6da34212b2e884",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Just met in the Open source area nice to meet in person Jimmy\n\nCheck out my site\n\nhttps://mycontinuum.xyz",
+  "sig": "ed1db27cfb398865b46d5745f74d1458fb26098de95699a39dd48880bd2f86fcf37fd94a46d1488096936622308d2061e881d6d1ec891f0685e8172257eb39b1",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

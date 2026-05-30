@@ -1,0 +1,32 @@
+{
+  "id": "c796690fd1790b96be1ac21c30879143eccf80789d5599c8945b42d547dddb47",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776617136,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1776616388"
+    ],
+    [
+      "published_at",
+      "1776617136"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "e",
+      "63b59e79859b814214256b2a022af7fb2ff05109613e781a0d0e99b60a3cab66",
+      "edit"
+    ]
+  ],
+  "content": "4/19/2026\n\n1. Note created and signed on my mac 9:32 AM\n2. Signed OFFLINE (no internet)\n3. Scheduled to publish 10 minutes from now (9:42 AM)",
+  "sig": "7f143ed5248622d1b0d0b79090ee169fb728ca89dd4593396baefb4afdab430909a02bb727301d9c3f0a41248e20d19bc05d98a82715ce754243f140bb5d7385",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

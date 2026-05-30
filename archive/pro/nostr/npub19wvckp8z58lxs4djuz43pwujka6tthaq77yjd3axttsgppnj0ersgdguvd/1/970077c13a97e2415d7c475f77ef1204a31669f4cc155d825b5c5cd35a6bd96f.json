@@ -1,0 +1,86 @@
+{
+  "id": "970077c13a97e2415d7c475f77ef1204a31669f4cc155d825b5c5cd35a6bd96f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774209146,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c9b6ab22f70dbdfe8ae3ea0a089f036fbd28ba9498ffa5c9e47cd38cab2ac997",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19"
+    ],
+    [
+      "p",
+      "40b9c85fffeafc1cadf8c30a4e5c88660ff6e4971a0dc723d5ab674b5e61b451"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "This is actually a very good idea",
+  "sig": "5ee72a002cbc93156a59b65cccc1db41ab5df051366eddc2873a001ca3931949c5fb59b021a057824a6db12c8aa13d9ba479b70a566c504148636c2ca3841282",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

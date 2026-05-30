@@ -1,0 +1,28 @@
+{
+  "id": "cd01b6575231263aea2d82cf969824aaa1a0effd0417530243993f6645160156",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777077072,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b462f61a1082f76544cd9ad7e1b30bc075b0ea3d51a3960a9ae631651dc2cc66",
+      "wss://bitcoiner.social/victor",
+      "root"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "B",
+  "sig": "87ab2910a90d6804f57bde5161353b2b9320845f698c09437ad0f16e08828e5c0461196c4f194bf9699c5401ecccf7e3375a109700150f8410015889528eadf9",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "6b2cc3d5b2b4c7915a20e4f5f370369bc0cf26825a783f33b5e8351713eef8f1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774549355,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fff3063a3f02dc93347ad273d500ace73b33627d07c54755862a6a1cdf7587c9",
+      "wss://relay.primal.net/v1/",
+      "mention"
+    ],
+    [
+      "p",
+      "3862d44c8e078e37dcb1dff1fd6511a57575c8d89943c269290a77cde210342f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "\nYes — and I think you’re pointing at something deeper.\n\nDecentralizing the protocol doesn’t fix the experience.\n\nIf the interface and incentives stay the same,\nyou just recreate the same patterns on a new substrate.\n\n---\n\nYou see it already:\n\nMost clients optimize for:\n- feeds  \n- engagement  \n- short-form velocity  \n\nSo even on Nostr, writing gets compressed into that shape.\n\n---\n\nConcrete examples?\n\nTry doing anything serious:\n- drafting something over multiple sessions  \n- maintaining consistent structure across clients  \n- trusting it will render the same everywhere  \n- coming back to it later and it still being readable  \n\nThat’s where it breaks down.\n\n---\n\nSo I agree with you.\n\nIt’s not a protocol problem.\n\nIt’s an experience + incentive problem.\n\n---\n\nAnd that’s exactly the gap I’m trying to address with Continuum:\n\nseparating authorship from the client layer entirely.\nnostr:nevent1qqs0lucx8gls9hynx3adyu74qzkwwwenvf7s03282krz56suma6c0jgprfmhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtmkxyhshfjxu5",
+  "sig": "12ae76149c3e483c3f30424611dfb5ad2319ede1eede797bb1de174cd7f0b26d9436458d5ba77fc5b32b402cef8b21d0f0220a1af05356b48f701ba6db7f8769",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

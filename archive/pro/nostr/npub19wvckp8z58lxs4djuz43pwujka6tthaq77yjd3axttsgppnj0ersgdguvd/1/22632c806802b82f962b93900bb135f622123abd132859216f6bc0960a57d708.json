@@ -1,0 +1,28 @@
+{
+  "id": "22632c806802b82f962b93900bb135f622123abd132859216f6bc0960a57d708",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777397259,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00006b8e83c95266e6f797512e3e2ef5111dca69ee939e55e96ae8220061ca1c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "At the state Now!",
+  "sig": "7fea4a327281d0211849420fb093aea01e8e273a2fddc50ee10519a5a326258f2d970b31ebea383dcea37320502e540e2251bcc31706ab5af971b24c88168929",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

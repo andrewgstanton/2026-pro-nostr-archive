@@ -1,0 +1,29 @@
+{
+  "id": "73beabd3c1411de2b1b4788df82eaf6e6054fae48869c1123f3a2ab6fbc2c3ce",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778216832,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c18aec5fe57faeb48574c3f437eec210ea0beebb8bcf13633d6d1ccd53c95521",
+      "wss://nostr-pub.wellorder.net",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love it yes!\nnostr:nevent1qqsvrzhvtljhlt45s46v8aphamppp6sta6achncnvv7k68xd20y42ggpr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59sfwlf",
+  "sig": "15f2ca0aecb1bfc443861083ab079e53c4d32bc454961b3a42eda0623ec96d873bcf118f16b366c742a26da56146279bc90ef60c6784893ceb41e9bf821f3cf5",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

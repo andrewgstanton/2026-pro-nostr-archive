@@ -1,0 +1,28 @@
+{
+  "id": "226d073f48a1a022d48b977ded07d6cbb96eb7cbca00fc5bca3e538005fdbdb8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777230317,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "184988991359698a1370e08ffabdab293ede8dedc6ece20223268ac7a7119c06",
+      "wss://nostr.bitcoiner.social/prism-xray-beacon",
+      "mention"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes!!\nnostr:nevent1qqspsjvgnyf4j6v2zdcwprl6hk4jj0k73hkudm8zqg3jdzk85ugecpsp9emhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmp0wpexjumd94u8ycte943x2ctrdahqtzzxmk",
+  "sig": "a9269c261e9f9b0a25f217dd331319090c182de23191db3b470922266a8539cc623f8f480d841b732d3d144e70b14a3185c9c7b2577a4357fbca2dd4deb7f5f8",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

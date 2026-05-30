@@ -1,0 +1,51 @@
+{
+  "id": "b1a0501df842d0ba40cbfe0db82bd264261365c241590e146ab7779ffc476ee1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774846772,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2943a2f362574069040b44f4f06b44c4a5cf3f1696e9d703a5a66a41704a23c3",
+      "wss://relay.primal.net/ ",
+      "root"
+    ],
+    [
+      "p",
+      "d1bd33333733dcc411f0ee893b38b8522fc0de227fff459d99044ced9e65581b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "07163d235a979216d5a4f90bc535dbb2fa7c11d82ff98dd459387c66ac7fb5f1",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "17e2889fba01021d048a13fd0ba108ad31c38326295460c21e69c43fa8fbe515",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8e9f64b35e7e4384b5248f1d4294f109bb8d3442b04d7c59a62c04e702441488",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I can relate very well !!\n\n Refrain  from building new features “just because you can” \n\nTie them to your core  architecture if you can\n\nWriting about you are building (like what you are doing with this post I think helps) \n\nAnd don’t  give up !!\n\n\n\n",
+  "sig": "cba9678b7c4dde2509ca36e011802386363a34bc7af12cc33c906cc4e7fd44e80c0fafe462554170b90953daf5ccf20f0ba37b9ae6ba6825531da1599433d9c3",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

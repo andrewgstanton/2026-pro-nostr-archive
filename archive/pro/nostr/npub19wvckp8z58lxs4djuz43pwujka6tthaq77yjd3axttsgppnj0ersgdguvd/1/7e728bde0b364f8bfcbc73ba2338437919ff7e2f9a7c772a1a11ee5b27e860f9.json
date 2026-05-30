@@ -1,0 +1,28 @@
+{
+  "id": "7e728bde0b364f8bfcbc73ba2338437919ff7e2f9a7c772a1a11ee5b27e860f9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1774284685,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8728a6167c07293e61cd4bee91849db2245fb84f1159d61c877f69fba56c73fe",
+      "ws://relay.snort.social",
+      "root"
+    ],
+    [
+      "p",
+      "cec38c65502a92909a562798b86d63179c2e923479ef0d12293f092bc7ad7cd6",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This us wonderful \n\nWill check it out!\n\nAlso just published my first book \n\nhttps://a.co/d/02X7JLbQ",
+  "sig": "b1310eaef4a6df2853bc85a2bda739c40f8d2f087905c37cf6785b77c738d9520f3a2b518c9a318550a9f19f990e3ab3706f06d52d1202da2660d6e997e3bb5f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

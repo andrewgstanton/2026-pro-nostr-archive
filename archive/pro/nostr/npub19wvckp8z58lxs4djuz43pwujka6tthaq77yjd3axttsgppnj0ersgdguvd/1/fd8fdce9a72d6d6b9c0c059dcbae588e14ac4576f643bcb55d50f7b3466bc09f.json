@@ -1,0 +1,29 @@
+{
+  "id": "fd8fdce9a72d6d6b9c0c059dcbae588e14ac4576f643bcb55d50f7b3466bc09f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777167457,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7db68a468ded387c12f18d6784f8dd6441f87dcc98ffb8113299f22e1c27411a",
+      "wss://relay.primal.net/sierra-ivory",
+      "mention"
+    ],
+    [
+      "p",
+      "c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes!! Amen!!\n\nBitcoiners need Jesus \nAnd Christians should adopt Bitcoin \nnostr:nevent1qqs8md52g6x76wruztcc6euylrwkgs0c0hxf3laczyefnu3wrsn5zxspydmhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtmnd9jhyunp945hvmmj0ysvmxpy",
+  "sig": "df028e6cd2eecda11271db0cac9db440d8e3d5ab320da516104ac313a32e00bb035203202628fe89e8af589df344ee865dc265efb773f9349c4490464e351afd",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

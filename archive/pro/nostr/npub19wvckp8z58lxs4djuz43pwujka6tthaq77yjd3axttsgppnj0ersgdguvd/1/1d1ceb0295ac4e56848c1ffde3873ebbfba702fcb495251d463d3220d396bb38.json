@@ -1,0 +1,29 @@
+{
+  "id": "1d1ceb0295ac4e56848c1ffde3873ebbfba702fcb495251d463d3220d396bb38",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778824126,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3c8818785faa28d40cb3341f8f1b564d8d553e75b78a0b8cde6ec03d7558bd57",
+      "wss://relay.nos.social",
+      "root"
+    ],
+    [
+      "p",
+      "a80fc4a78634ee26aabcac951b4cfd7b56ae18babd33c5afdcf6bed6dc80ebd1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen",
+  "sig": "8ef12c579921d48a0fd090cfb72c37607d001458fea101400215ed70405ae806889cea7f61025bd75f53f0e5f683395be3bda9eb4a2822cb8fc93db26da3d164",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

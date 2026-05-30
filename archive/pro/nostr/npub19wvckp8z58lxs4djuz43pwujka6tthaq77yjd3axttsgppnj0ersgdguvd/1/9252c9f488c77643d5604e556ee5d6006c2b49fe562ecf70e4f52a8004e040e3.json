@@ -1,0 +1,28 @@
+{
+  "id": "9252c9f488c77643d5604e556ee5d6006c2b49fe562ecf70e4f52a8004e040e3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777139720,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ad27b7f9fee54ac2fedacb8dacb872fac3f0cbadb2ccc9c45c70012045517930",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "22305f795a15e408f87fd9fe47a3b0e21b5391fcf620ab44a0466d9854e7b617",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Concordo — tradução ajuda com o idioma, mas não com soberania.\nSe você não controla suas chaves, você não controla seus dados — é simples assim.\n\n(English version)\n\nAgree — translation helps with language, but not with sovereignty.\nIf you don’t control your keys, you don’t control your data — it’s that simple",
+  "sig": "d8972bff9026dbfe91f14989fe12ebbf19fedb4f0bc2477436040097acbfab609962687ad8edd4ecb360171980a3a040507f8fb5cda2650e7d05d68bf77929e1",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

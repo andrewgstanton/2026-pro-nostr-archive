@@ -1,0 +1,29 @@
+{
+  "id": "a03ab876aca326fa50c818f23f113191f32109a7a985ccb16d13977f025a08df",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777044933,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a41917c63915a49bf35693a404f1961e84e839b763f4501dccfe109a9e06ca11",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "AMEN",
+  "sig": "40b0a9976fa3c18de6e86172cf99136d16e7cddd3fe9454616842327eecab05cae9c56cb0890e47d6ab24c84aa44c854acfb8e756ea1bf54301caee41f1f2bc7",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

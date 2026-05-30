@@ -1,0 +1,34 @@
+{
+  "id": "30652fa02a90c30676a7f9e19e7bca011dfbd48b2c30362c91c348513309c19b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777508695,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "05756817fdae00ee84d8c8854a7cd95f865a5385de465842a552f5d6e76e6411",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "eeb11961b25442b16389fe6c7ebea9adf0ac36dd596816ea7119e521b8821b9e",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "1baf18ae863cfd815a775c28943d8f4efe7ddbfe9e7bd1da1cddac93b75e2806",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I woukd have loved to stay have a flight boarding at 7:10 pm tonight \n\nI hope i get to meet him in person someday… fascinating guy!",
+  "sig": "cfc666a6c25b9ee2ab3fcbacb66c84303d70ff9805ac9d5a93ae4e0a8a72bb78b042cfd457bd909ceacb38ebc3c705554d02db7616a91f13b3ea89debaac04a2",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

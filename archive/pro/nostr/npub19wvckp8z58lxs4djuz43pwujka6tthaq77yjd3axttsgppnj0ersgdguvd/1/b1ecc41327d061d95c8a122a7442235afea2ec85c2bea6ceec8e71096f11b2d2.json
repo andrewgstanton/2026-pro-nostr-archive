@@ -1,0 +1,28 @@
+{
+  "id": "b1ecc41327d061d95c8a122a7442235afea2ec85c2bea6ceec8e71096f11b2d2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1777079272,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a56051a6e4b355bfab64fb0b1e3d5a310f71f82b08ce6072584aacebec0796d3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And forgive me not fluent in portuguese!!",
+  "sig": "11b6dcd1d5fff55ca95ed5b288df720b56a3a970b984b20eefe2b869a8335065729f65b9751bd67914bf0d04c259689a60940ce735222e5fcf154a7f22a1bc04",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

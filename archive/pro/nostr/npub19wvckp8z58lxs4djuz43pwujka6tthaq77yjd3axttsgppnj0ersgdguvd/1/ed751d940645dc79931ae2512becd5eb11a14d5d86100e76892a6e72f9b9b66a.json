@@ -1,0 +1,29 @@
+{
+  "id": "ed751d940645dc79931ae2512becd5eb11a14d5d86100e76892a6e72f9b9b66a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1778218180,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fae008d75fd71bcdd7a070b65e3f79a0679d1b6aa1948200b3f82a1e2e64dd20",
+      "wss://nos.lol/oscar-jade",
+      "mention"
+    ],
+    [
+      "p",
+      "ebb0a0183eb1c4bdd55c460c570a370fa15f314f422b82c0f2c95e1f15962435",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love it !! We can let even protocols compete with each other !\nnostr:nevent1qqs04cqg6a0awx7d67s8pdj78au6qeuard42r9yzqzels2s79ejd6gqprpmhxue69uhkummn9ekx7mp0daekxctj944xzer9a40nym",
+  "sig": "329aed85dbb60cc89b502df2ba8aea4ebd4d83e46e6bd23c119493d0ce854df5e5c3e79a96af914ab40108e4f1623f3e4d0dc4d4534e0673fda563b41262aa2c",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

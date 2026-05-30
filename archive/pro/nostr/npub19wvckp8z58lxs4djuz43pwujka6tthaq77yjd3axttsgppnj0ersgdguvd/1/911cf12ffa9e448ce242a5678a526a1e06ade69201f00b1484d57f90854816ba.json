@@ -1,0 +1,29 @@
+{
+  "id": "911cf12ffa9e448ce242a5678a526a1e06ade69201f00b1484d57f90854816ba",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776746719,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5eacabb8b7710b146d61d8b945419eda1929e43631ff25a8d08636f2d3fe504c",
+      "wss://nostr.dler.com/bravo",
+      "root"
+    ],
+    [
+      "p",
+      "fae04142bf69a433cf4f6a10af74356d462441a41ecd56de2bb472ac4083589d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This is great woukd love to see this take off",
+  "sig": "d92a91d62f04e111984f61897c9941b27d7fbd3ab09b3311257b5d8b1b0ed9b82d643af6ad1db8bcdeb7f9d80a5ad7b7edc59d48f875d537839bdfb15ee98e42",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b06d45f3cd705723f944a7d8828d230a1b1d6a7ae00244aef9f91ce0ad33bc0c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1779080891,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1064eb6fd4fec3cee5f38591e238b3d1da8e29c62303c891999f48df5d496414",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8fec426247845bdd26f36ae4f737508c15dbec07d43ce18f8c136ab9e35ac212",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "58c741aa630c2da35a56a77c1d05381908bd10504fdd2d8b43f725efa6d23196",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Fascinating\n\n",
+  "sig": "68cfe62822b7d99ba7ac9841c9895047aa27282120c179eb5d1d8491c2f795e3516f37e342742aa743f6a86870f22fcd7cce1414b21749db750ab1cd14aad66b",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

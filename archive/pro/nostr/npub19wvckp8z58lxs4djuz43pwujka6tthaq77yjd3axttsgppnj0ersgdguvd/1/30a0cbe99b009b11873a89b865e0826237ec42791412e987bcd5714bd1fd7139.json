@@ -1,0 +1,33 @@
+{
+  "id": "30a0cbe99b009b11873a89b865e0826237ec42791412e987bcd5714bd1fd7139",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1776617690,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1776616388"
+    ],
+    [
+      "published_at",
+      "1776617690"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "e",
+      "63b59e79859b814214256b2a022af7fb2ff05109613e781a0d0e99b60a3cab66",
+      "edit"
+    ]
+  ],
+  "content": "4/19/2026\n\n1. Note created and signed on my mac 9:32 AM\n2. Signed OFFLINE (no internet)\n3. Scheduled to publish 10 minutes from now (9:42 AM)\n4. workspace backed up to zip put on usb (while offline)\n5. started continnuum on windows machine (9:40 AM)\n6. imported zip into continuum workspace -> selected same identity\n7. note published about 9:48 AM (had to restart continuum  \n8. typing these additions (from point 3) on the updated not on continuum running in Windows (9:54 AM)",
+  "sig": "ab971bf59edd2a343ff162f03c8c0314db6a9eb6da310f47f6e9e2287c815a548bad8d141a8f33ac5e7a4d7b88370c18d27bf4a79a28a25429320a7718bc6123",
+  "_source": [
+    "primal backup",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
