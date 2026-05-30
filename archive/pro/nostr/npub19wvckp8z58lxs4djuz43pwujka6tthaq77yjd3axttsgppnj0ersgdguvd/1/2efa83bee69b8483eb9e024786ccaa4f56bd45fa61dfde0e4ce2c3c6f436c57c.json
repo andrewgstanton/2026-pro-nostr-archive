@@ -1,0 +1,38 @@
+{
+  "id": "2efa83bee69b8483eb9e024786ccaa4f56bd45fa61dfde0e4ce2c3c6f436c57c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1768811382,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:4910cc9f3b301ed3",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "770663d09dcc4c66ead0f0f1786ab57be2fb1ddd3e60f0aabda36cbdab4b7a6e",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "40bb0165da616cfc34e78979033c48fd671a14293c9afac4c862f8a2d6182f6a",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen to this as well !\n\n",
+  "sig": "f2914dafe88b34780b6330a84f4a2f780349844252a792c3d6fe2173ca5771cdabd9a8d23c0a93b8571aabdc7ab487361e10e6cfd7c27f8bfed92c76d0d79ce5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

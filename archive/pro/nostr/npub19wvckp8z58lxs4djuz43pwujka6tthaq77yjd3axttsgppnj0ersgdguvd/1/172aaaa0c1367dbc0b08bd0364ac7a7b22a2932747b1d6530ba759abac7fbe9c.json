@@ -1,0 +1,38 @@
+{
+  "id": "172aaaa0c1367dbc0b08bd0364ac7a7b22a2932747b1d6530ba759abac7fbe9c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1768811417,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:4910cc9f3b301ed3",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "770663d09dcc4c66ead0f0f1786ab57be2fb1ddd3e60f0aabda36cbdab4b7a6e",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "40bb0165da616cfc34e78979033c48fd671a14293c9afac4c862f8a2d6182f6a",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Force is never ok .",
+  "sig": "ef61589ba09c5de5c3fbefa8884c9fc0542e1b7153f2e2e8dc41537b5e5fe27c0afe595a785d7eb17a34ca73ba7595dc5ba4c4093e3530dd9d0ac35a16043b7b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

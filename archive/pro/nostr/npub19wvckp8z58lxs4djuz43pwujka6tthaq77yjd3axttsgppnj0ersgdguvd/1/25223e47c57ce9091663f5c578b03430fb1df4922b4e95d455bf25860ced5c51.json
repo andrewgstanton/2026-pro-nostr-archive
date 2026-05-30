@@ -1,0 +1,33 @@
+{
+  "id": "25223e47c57ce9091663f5c578b03430fb1df4922b4e95d455bf25860ced5c51",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767739367,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f0a49ad6d6aafb924cca338a491d15addcb086f63f43dcdcbee32ab0e4303abc",
+      "wss://nostr.mom/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "f46c85e2b4b033c245856a1cb878b69359c42d416bdc0ac92ea881816abbc5f2",
+      "wss://relay.snort.social",
+      "reply"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I was inspired to write „What Real Protest Means“ (both long and excerpted versions) after reading your piece about war.  \n\nVery hard to do (and I don’t excuse myself) ",
+  "sig": "aa5fe3d7f3ef24fcceb9d4f8589dff88d1bc93a2eec1eabe7572c55698036e28d96ddc90ebca6d024e64acf2bb06048b49e52ffcb8512e46151c1535f33c9145",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

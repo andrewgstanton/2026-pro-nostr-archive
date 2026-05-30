@@ -1,0 +1,32 @@
+{
+  "id": "21881d9e3eef6a9edca0f3753625362cf81911d00cb627fa16f32fba000b44c7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767648388,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a4a529f8031db5fdb5e5ddae6ea27e952bde6b20081c088611d8d5947c3ab0d3",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "e",
+      "20fbef1cb7394fb409a2fd9b47bb5112ff5ee529f6ea531ce39aa0a9ab33e008",
+      "wss://nostr-verified.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "5c22920b9761496e931f53a382c2def2ce9d24ebf0961603eda79f1b24b9f2bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That is very encouraging.  Thank you sharing!",
+  "sig": "c03636161e71f6ec9933d6594fa2b75a027e32db5b1899dcc07bd8e33fdb3bd6ad79765ccc44812beec0e817228f61e22f61817c340ad8bb74dcaf8614eef5c5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

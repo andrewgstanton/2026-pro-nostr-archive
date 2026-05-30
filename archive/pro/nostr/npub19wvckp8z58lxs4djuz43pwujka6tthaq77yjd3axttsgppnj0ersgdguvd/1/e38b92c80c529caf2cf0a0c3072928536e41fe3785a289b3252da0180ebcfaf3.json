@@ -1,0 +1,33 @@
+{
+  "id": "e38b92c80c529caf2cf0a0c3072928536e41fe3785a289b3252da0180ebcfaf3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767736359,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f0a49ad6d6aafb924cca338a491d15addcb086f63f43dcdcbee32ab0e4303abc",
+      "wss://nostr.mom/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "f46c85e2b4b033c245856a1cb878b69359c42d416bdc0ac92ea881816abbc5f2",
+      "wss://relay.snort.social",
+      "reply"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I try to read all of your articles \n\n",
+  "sig": "b705263743da7eeaef5e7616a5a290889bd14168b8725f9bf18c3762c28ba5443f352c99bec3dcfc461cb9a1c184e86d8fb0f9e431cf53f4c62f5654e9eb6a60",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
