@@ -1,0 +1,30 @@
+{
+  "content": "testing writing a note from the native (mac) build (v1.6.7.9) and having the note\n\n- show as published\n- show up in the pending queue",
+  "created_at": 1780188346,
+  "id": "63baf8dd0fcebe884579d8bea63dcc041d76e91d7cbf0ce7f56235de53780795",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0b0024bbbc4f7e9bd8b935410fddf4b1eae027b709cab3fde72b73089a58126f3851320a68db10aef3ed0e144fac12823ec918029ccb168a48f3d96c414cb8e5",
+  "tags": [
+    [
+      "d",
+      "note-1780188346"
+    ],
+    [
+      "published_at",
+      "1780188346"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
