@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1780195753,
+  "tags": [
+    [
+      "d",
+      "note-1780188346"
+    ],
+    [
+      "published_at",
+      "1780195753"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "63baf8dd0fcebe884579d8bea63dcc041d76e91d7cbf0ce7f56235de53780795",
+      "edit"
+    ]
+  ],
+  "content": "testing writing a note from the native (mac) build (v1.6.7.9) and having the note\n\n- show as published\n- show up in the pending queue\n\ntesting w/ changes made to the note (edit note):\n- reppublishing\n- running process to commit changes to git (after refactoring how I was calling the scripts)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "da80b888a434c814f90a47f69295d463646dd4a54742f07881d93f7f81c834eb",
+  "sig": "564ecca8ce020d08fb09916af63d0252a761e56b8fd993a480588e909fbf1df85ba9325e8c6789351576bce60bf9501dce82f6531a3b05225cf229776cad8fe2",
+  "published": 1
+}
