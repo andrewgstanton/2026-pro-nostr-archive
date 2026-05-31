@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1780209870,
+  "tags": [
+    [
+      "d",
+      "note-1780188346"
+    ],
+    [
+      "published_at",
+      "1780209870"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "e",
+      "e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276",
+      "edit"
+    ]
+  ],
+  "content": "testing writing a note from the native (mac) build (v1.6.7.9) and having the note\n\n- show as published\n- show up in the pending queue\n\ntesting w/ changes made to the note (edit note):\n- reppublishing\n- running process to commit changes to git (after refactoring how I was calling the scripts)\n\ntesting again after more refactoring (eliminating every call to sys.executable) except in continuum_launcher for native app builds\n\ntesting again after building native app to see if all the archive/restore functions work properly",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078",
+  "sig": "2d7002244818a210dc82f18ba5d5366c3df80f4fe1a4e9e0334fbff3e056423b3520c60c9a82b5cfb5c5638e7918b2b6f112c65c653c42075facce5115425e83",
+  "published": 1
+}
