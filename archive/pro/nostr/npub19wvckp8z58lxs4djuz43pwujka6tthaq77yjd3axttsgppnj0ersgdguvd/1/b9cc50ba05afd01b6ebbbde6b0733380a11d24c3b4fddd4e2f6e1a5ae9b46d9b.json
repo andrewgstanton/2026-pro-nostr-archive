@@ -1,0 +1,14 @@
+{
+  "id": "b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1780264710,
+  "kind": 1,
+  "tags": [],
+  "content": "Just a test …",
+  "sig": "9e9ea339b5e643c36d31cfd2d959d6cce7985750c9bd54140bcc89740e97a8e79baae59526d5d38d4d143b9176f5f0b55a1a0218414e8f0a731df350ccc70d9f",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}
