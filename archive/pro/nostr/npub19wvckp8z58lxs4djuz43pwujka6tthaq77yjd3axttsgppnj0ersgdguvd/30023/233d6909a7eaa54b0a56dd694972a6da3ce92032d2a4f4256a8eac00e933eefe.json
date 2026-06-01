@@ -1,0 +1,27 @@
+{
+  "content": "End of the month\n\nStill reflecting on some of the frustrations I experienced Friday but feeling better\n\nSome bickering between Kiyomi and i in the evening\n\nWhiskers continues to pee a lot \n\nThere have been no more instances of him collapsing\n\nFinalized updates in the relase and did a final build but din't test",
+  "created_at": 1780334813,
+  "id": "233d6909a7eaa54b0a56dd694972a6da3ce92032d2a4f4256a8eac00e933eefe",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "381a09442d90b164c14b80ebb1d0cbd7bc0094d8d983ce6b15c21ec9cfabfd9c5fa575ed25c6377db1db4b4c40444d6ccefda53519b3859fc61a6b9b6a1a682c",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-may-31-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, May 31, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}
