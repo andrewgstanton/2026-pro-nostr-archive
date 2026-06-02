@@ -1,0 +1,39 @@
+{
+  "content": "6/1/2026 - Continuum v1.6.7.9 released 🚀\n\nThis release adds a complete archive + recovery workflow.\n\nNew:\n\n• Archive Sync Service + managed queue\n\n• Restore events directly from archive\n\n• Import existing signed events\n• Export/view raw event JSON\n\n• Archive queue dashboard + live console logs\n\n• Article search\n\n• Relay management improvements\n\nEvents can now move more freely between:\n\n#nostr #bitcoin #opensource #continuum",
+  "created_at": 1780365896,
+  "id": "d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ce1d06c4a2240fb870d1fad9d6f42482a15785910433c66fc7e6f6bc584cdf66d06a604ffd2ba7fc329cdcfbb944a94707a2c4a2cff06a7201142310bc0930db",
+  "tags": [
+    [
+      "d",
+      "note-1780365896"
+    ],
+    [
+      "published_at",
+      "1780365896"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "published": 1
+}
