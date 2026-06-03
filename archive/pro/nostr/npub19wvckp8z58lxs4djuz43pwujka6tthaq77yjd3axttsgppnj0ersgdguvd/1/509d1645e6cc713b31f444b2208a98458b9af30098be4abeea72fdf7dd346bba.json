@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1780458282,
+  "tags": [
+    [
+      "d",
+      "note-1780447417"
+    ],
+    [
+      "published_at",
+      "1780458282"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "e3ebdfee4a9f80e4c3e2b4a19c48b0fd4751db14649d06315931641e5d46907c",
+      "edit"
+    ]
+  ],
+  "content": "Another test",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "509d1645e6cc713b31f444b2208a98458b9af30098be4abeea72fdf7dd346bba",
+  "sig": "6a94bfcf2a89c9e71d05f89cc84a47d09f5ec39f55610feda0fc0f49daa5910bb025704a53fcd9d76b8de08a7ad53a6830dfa8a3f15dd9ef1facaa58f3d5632f",
+  "published": 1
+}
