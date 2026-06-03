@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1780460839,
+  "tags": [
+    [
+      "d",
+      "note-1780447417"
+    ],
+    [
+      "published_at",
+      "1780460839"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "30673e953090a9b1256f76e69d0be564a7dafac91ec3779992a364d00d4d51a4",
+      "edit"
+    ]
+  ],
+  "content": "Yet Another Test 2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082",
+  "sig": "97c2c558f5632c60abc0a2df23162e5f2681cda1ea10fba3288dbbaaabbfd870542444a6cee9569efa8305747c978a7c06a0fb889e1e3894d1619f1de393df4b",
+  "published": 1
+}
