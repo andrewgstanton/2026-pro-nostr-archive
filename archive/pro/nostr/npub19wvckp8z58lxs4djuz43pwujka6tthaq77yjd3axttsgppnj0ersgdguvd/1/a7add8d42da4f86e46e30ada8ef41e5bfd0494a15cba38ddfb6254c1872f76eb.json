@@ -1,0 +1,63 @@
+{
+  "content": "6/3/2026 - Released Continuum v1.6.8.0 today.\n\nA smaller release focused on usability and runtime management:\n\n• Added an application console window\n• Reorganized tools and buttons for easier navigation\n• Added a shutdown application tool for clean shutdown of native and local builds\n\nA lot of cleanup behind the scenes as well.\n\n#continuum #nostr #buildinpublic #opensource\n#Continuum #Nostr #DeveloperTools #LocalFirst #SelfSovereign #ProductUpdate",
+  "created_at": 1780535912,
+  "id": "a7add8d42da4f86e46e30ada8ef41e5bfd0494a15cba38ddfb6254c1872f76eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c90c5b17d19cf05a12951fbb394619d584167133a6a23f0324d2c9c905150372c5a3174d6546116b3483d70ab509a92b3f7db147c3ee91949d03451f8724dec1",
+  "tags": [
+    [
+      "d",
+      "note-1780535912"
+    ],
+    [
+      "published_at",
+      "1780535912"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "developertools"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "productupdate"
+    ]
+  ],
+  "published": 1
+}
