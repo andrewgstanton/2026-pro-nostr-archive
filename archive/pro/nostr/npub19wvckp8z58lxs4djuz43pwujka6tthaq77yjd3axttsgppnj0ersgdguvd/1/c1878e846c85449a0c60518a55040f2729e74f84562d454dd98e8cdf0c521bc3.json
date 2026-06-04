@@ -1,0 +1,42 @@
+{
+  "content": "I feel the same way ",
+  "created_at": 1780587863,
+  "id": "c1878e846c85449a0c60518a55040f2729e74f84562d454dd98e8cdf0c521bc3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "14ffa4043cf80e8ec9f4470bf4d48d154b556083396e78ae34cd622b3e76e8f2ae2da6e4cb0d8f49be8beb01b91cf1a7ae50e5a2c181020e966f7901232cf216",
+  "tags": [
+    [
+      "e",
+      "de80e39b0b2a9ae9af74dd2c276c84151f000fa9d7da67b8c72eaccf5db76a92",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "532d830dffe09c13e75e8b145c825718fc12b0003f61d61e9077721c7fff93cb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "be41636e3e6d2fe99e065200dc8a9034f9128064fdcd39b75a6983cae55c4909",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

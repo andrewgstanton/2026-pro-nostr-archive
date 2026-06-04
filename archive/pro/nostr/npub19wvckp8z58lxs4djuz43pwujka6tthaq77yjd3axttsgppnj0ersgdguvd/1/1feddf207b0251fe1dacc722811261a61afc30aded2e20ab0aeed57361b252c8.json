@@ -1,0 +1,42 @@
+{
+  "content": "Alrightee then",
+  "created_at": 1780547441,
+  "id": "1feddf207b0251fe1dacc722811261a61afc30aded2e20ab0aeed57361b252c8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2ddfcbf4afe0cc0f0e339f77b9447dddb6e65571f111f430b56d40421f0efa4fbdcb45bb872b4e640ce54df2c318e07869035f665adc3ad5455827e12f20374f",
+  "tags": [
+    [
+      "e",
+      "dc084230e42b7c82f105f77cc8f901274a2ffe49a21cfa2475db59295098a5cf",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "23bd872edfc4624fb5be74eb81de575d5ae56600f81571af6cf6d213995cad80",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "fc84b266081f87a40c4f8131aa7bb7e0f83dd14c4738b03d207970a88c4c86ab",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
