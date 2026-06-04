@@ -1,0 +1,32 @@
+{
+  "kind": 30023,
+  "created_at": 1780540934,
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-june-2-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, June 2, 2026"
+    ],
+    [
+      "published_at",
+      "1780540934"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "e",
+      "9d4e3909bfe65c75ad61481093f62cc616a13f340e547f0628f0421246cd5414",
+      "edit"
+    ]
+  ],
+  "content": "Continued working on separating the logging for archive syncing, console and and restore_from archive logging\n\nBy the end of the day, I had cleanly separated each of the logs (what was happending was that\nthe stdout and stderr got mixed in with the logs while show/hiding the\n\nI also added a shutdown tool and a dedicated application console window\n\nAlso spent a few hours cleaning up the buttons on the different tool cards and organizing them better.\n\n(I'm actually writing this offline to see if it can be saved cleanly -- looks like it will!)\n\nit WAS saved but because I was offline when I signed it -- it didn't get picked up as an event to be added to the archive queue -- see if it does now",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "758da3b40305194ea325da03c5b43c610632537a3827f9dc3c058b2dadc094ef",
+  "sig": "dcd6c16c9c4387525daed4c27e324e063f2e6bbc4e83fb649e3e5120c6e8d85c7e3e23a6755e68f73faba7b8a89ac06c1c630d5955dd444fa773d3cdc0907bb7",
+  "published": 0
+}
