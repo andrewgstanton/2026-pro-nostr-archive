@@ -1,0 +1,39 @@
+{
+  "content": "Yes!!",
+  "created_at": 1780637364,
+  "id": "96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a898b57232b9f5428f6f843af3c9a225f32cbbc2f599e18a9e7ee8ff9747ff1d6026a73b11d60e308fe112589ec8305af9a501bd8e29c15a755d8e5b73b03cad",
+  "tags": [
+    [
+      "e",
+      "14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae",
+      "wss://primus.nostr1.com/echo-uniform",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "a768b1580046e2a382bef02c9d48b345410733f21979f19c10894fa5cf2919dc",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "7de3def8d21199c5ac7b82735cb3b6fb4837dfbc3cd3130b8ff085d50c384b43",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
