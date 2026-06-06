@@ -1,0 +1,70 @@
+{
+  "content": "Just signed in using my own NIP-07 extension (connected to my localhost continuum for signing ... very cool \n\nI don't need alby or any other 3rd party\n\nBuilt the browser extension (with some help but it works very well!",
+  "created_at": 1780726806,
+  "id": "44c6391d4530d806784c3a777e2ef94ee193c4770e594807f92e1ad850f82758",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b76df16962b4f4d542ebc97bcbcbe6a9d8a07ddbf4fe813bc00f8b56197946b9e0d8616d6ba0038e42b5ab02974cd002fe144a15fef9e417f6859ebc830f22dc",
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

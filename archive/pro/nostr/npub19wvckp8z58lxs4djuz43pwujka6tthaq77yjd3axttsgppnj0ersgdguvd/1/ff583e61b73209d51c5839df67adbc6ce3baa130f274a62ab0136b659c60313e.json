@@ -1,0 +1,30 @@
+{
+  "content": "6/5/2026 - Minor release today - v1.6.8.1\n\n- fixed archive reconciliation issue where events detected in the Continuum archive were not always being marked as archived in the local database\n- centralized application database access by moving inline SQL into db_utils and vault_db\n- reduced route/service database coupling to simplify future schema updates and migration support",
+  "created_at": 1780713459,
+  "id": "ff583e61b73209d51c5839df67adbc6ce3baa130f274a62ab0136b659c60313e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aa162e805290ff06c000b3f91f77c9f3b98c9d977789ada49b1505f5eb259f19eef7bd7d214f4764cd1212eb9ea9ddb40cbc7c1509c9af416d9b9d197fa33e08",
+  "tags": [
+    [
+      "d",
+      "note-1780713459"
+    ],
+    [
+      "published_at",
+      "1780713459"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

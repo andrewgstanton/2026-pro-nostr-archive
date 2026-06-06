@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1780724530,
+  "tags": [
+    [
+      "d",
+      "note-1780713459"
+    ],
+    [
+      "published_at",
+      "1780724530"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "ff583e61b73209d51c5839df67adbc6ce3baa130f274a62ab0136b659c60313e",
+      "edit"
+    ]
+  ],
+  "content": "6/5/2026 - Minor release today - v1.6.8.1\n\n- fixed archive reconciliation issue where events detected in the Continuum archive were not always being marked as archived in the local database\n- centralized application database access by moving inline SQL into db_utils and vault_db\n- reduced route/service database coupling to simplify future schema updates and migration support",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "b8a80e2e47b8ddcce22d6d9858aae7991fcc613dee516fdc02b71fcbdad9a3dc",
+  "sig": "394a05de1c9d95ef683374561ba6af3fb645b861367b52bd0b9c4f95eca11a861920f78ba6acc7a292d7b9cc6c40561c36072a91fbb7af12e70528d91d16ebcf",
+  "published": 1
+}
