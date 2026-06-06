@@ -1,0 +1,23 @@
+{
+  "content": "another test",
+  "created_at": 1780706430,
+  "id": "124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "28b55ea7d236c4b3654ffac8ebbfb2460d1884fac95c2403a1ea26162f43c081b950d226c8e4579fb85d3b9d2763f99abac9c275d0122fd6676b7b8de9b8a667",
+  "tags": [
+    [
+      "d",
+      "note-1780706430"
+    ],
+    [
+      "published_at",
+      "1780706430"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 1
+}
