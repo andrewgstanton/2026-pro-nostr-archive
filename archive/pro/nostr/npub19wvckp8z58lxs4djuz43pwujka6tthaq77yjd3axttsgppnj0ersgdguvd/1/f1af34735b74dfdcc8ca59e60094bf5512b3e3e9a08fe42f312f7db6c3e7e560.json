@@ -1,0 +1,84 @@
+{
+  "content": "It won't matter at that point.  But getting from $60K to $1 Mill is not going to happen tomorrow.",
+  "created_at": 1780858417,
+  "id": "f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "efef9ddbe5f343b3b04f18356da64ac538f0b4058ae8f864872973f24bfe2cec5a862cdc233f2f846f17fa1d16b1b574619b98cd223e7d4d364d0c58300bc026",
+  "tags": [
+    [
+      "e",
+      "b7d9e22ad3b4035894ff7c7cadff97a9e34174599dc4313d5cc7c60da398f387",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

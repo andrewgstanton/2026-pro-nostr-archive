@@ -1,0 +1,30 @@
+{
+  "content": "1000 percent true!! \n\n",
+  "created_at": 1780846803,
+  "id": "13c4f6bc72ea9332a7482820c1877c07a9627fd2d9e3a15e32bd42487690b26c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "54f7115e10ac27e26a6cfc6371b4bb58970c5e24a164afaa16713b4708b576b6ba36bd47b258a4ca1ab09aaa23a548436ae2a73e3c1a26e617ffc12eb7408223",
+  "tags": [
+    [
+      "e",
+      "d40ad9ec9c8cf063dd40c80729844af7ce780fd18d6bd53ce14e908254fbd15a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
