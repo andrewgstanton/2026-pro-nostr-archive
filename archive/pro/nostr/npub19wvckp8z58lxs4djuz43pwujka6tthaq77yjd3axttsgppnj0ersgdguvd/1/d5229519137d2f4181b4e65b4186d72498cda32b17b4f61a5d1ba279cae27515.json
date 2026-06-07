@@ -1,0 +1,22 @@
+{
+  "content": "Created a note using a browser (NIP-07) I created that runs in tandem with my local Continuum Instance\n\nHere is a screenshot\nhttps://image.nostr.build/7e6790c4f75529527bda31c2fabc9da36bc00c12facb57ad053878380be57290.png\n",
+  "created_at": 1780807930,
+  "id": "d5229519137d2f4181b4e65b4186d72498cda32b17b4f61a5d1ba279cae27515",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "45f6d38ead0cb5812bbb60ef4646ea53f2cfaea022de5582acab72afe98615d6552f45340273d25c7568197bb9c48e430d42634cfcce4ae2b0848bb9c76d415c",
+  "tags": [
+    [
+      "client",
+      "NostrThreads",
+      "31990:d993b854eca3f743a33eafb3ccf92a11e83783fa5697bdee06fc4a0082358b16:nostrthreads",
+      "wss://relay.damus.io"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

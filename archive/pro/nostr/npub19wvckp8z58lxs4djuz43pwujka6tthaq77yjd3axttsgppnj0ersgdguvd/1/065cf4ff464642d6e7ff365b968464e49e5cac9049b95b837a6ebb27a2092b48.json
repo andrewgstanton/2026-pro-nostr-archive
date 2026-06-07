@@ -1,0 +1,16 @@
+{
+  "content": "Posting here (on iris.to) while using my browser extension sigining from my keys on Continuum (localhost)... ",
+  "created_at": 1780813175,
+  "id": "065cf4ff464642d6e7ff365b968464e49e5cac9049b95b837a6ebb27a2092b48",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "941c9d0655e137f2f1f8aca75a9c60a70f41ef8267bad0eb9ddace9ffa63e143a70bc9bb80cf20b501c2df7d600409e00b9cdeb260c97383b3a88435ffd64bcc",
+  "tags": [],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

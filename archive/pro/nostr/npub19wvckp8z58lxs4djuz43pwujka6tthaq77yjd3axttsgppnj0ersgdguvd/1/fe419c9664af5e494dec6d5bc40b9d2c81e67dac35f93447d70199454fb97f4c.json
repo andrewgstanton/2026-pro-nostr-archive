@@ -1,0 +1,18 @@
+{
+  "content": "Running another test please ignore…",
+  "created_at": 1780783410,
+  "id": "fe419c9664af5e494dec6d5bc40b9d2c81e67dac35f93447d70199454fb97f4c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e3492202176fafdb3322a616da841ab56757ba0eb8bf9462c1d009e21dc6ae108bd94fc4e1264dd66eb4f941efb61cfc69b1e32280d4952884e903e40133d778",
+  "tags": [],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

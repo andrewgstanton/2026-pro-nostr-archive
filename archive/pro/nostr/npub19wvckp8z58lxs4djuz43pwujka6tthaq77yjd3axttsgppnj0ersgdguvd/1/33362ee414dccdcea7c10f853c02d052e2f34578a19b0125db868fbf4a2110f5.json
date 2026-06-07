@@ -1,0 +1,88 @@
+{
+  "content": "Thanks for your work Evan!",
+  "created_at": 1780797553,
+  "id": "33362ee414dccdcea7c10f853c02d052e2f34578a19b0125db868fbf4a2110f5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0559ca40fecd883080c79c35d25d7da31feec8c5bdfc2cd5e8e107b5aa6d72eeec9abf54cdca58f50cc8662ee47885321cd573dee18f58faef1366c119143c7b",
+  "tags": [
+    [
+      "e",
+      "000a46f80de2d99b9a3cfcccd75a2d4963aded79a5c6eff3ae9b27b289df395d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "34d2f5274f1958fcd2cb2463dabeaddf8a21f84ace4241da888023bf05cc8095"
+    ],
+    [
+      "p",
+      "2d9873b25bf2dda6141684d44d5eb76af59f167788a58e363ab1671fefee87f2"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

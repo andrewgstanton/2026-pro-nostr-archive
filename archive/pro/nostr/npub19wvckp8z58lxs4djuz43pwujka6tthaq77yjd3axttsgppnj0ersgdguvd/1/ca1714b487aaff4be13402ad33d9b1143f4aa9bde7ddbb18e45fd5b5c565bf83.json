@@ -1,0 +1,25 @@
+{
+  "content": "Just signed in using my own NIP-07 browser extension (associated w/ Continuum)",
+  "created_at": 1780807367,
+  "id": "ca1714b487aaff4be13402ad33d9b1143f4aa9bde7ddbb18e45fd5b5c565bf83",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2a2b87a16cd7972b82a11d8261d30b2ec5261ad71ff77f3d4a1faeba97d13f57931d22bd6eb77ff83750fc92eafeaa01c43b38feef5a574dc928b5ff124cfa4c",
+  "tags": [
+    [
+      "client",
+      "NostrThreads",
+      "31990:d993b854eca3f743a33eafb3ccf92a11e83783fa5697bdee06fc4a0082358b16:nostrthreads",
+      "wss://relay.damus.io"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
