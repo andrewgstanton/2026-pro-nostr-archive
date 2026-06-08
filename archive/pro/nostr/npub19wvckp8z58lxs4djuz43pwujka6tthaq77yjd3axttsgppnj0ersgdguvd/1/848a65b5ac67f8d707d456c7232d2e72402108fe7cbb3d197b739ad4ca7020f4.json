@@ -1,0 +1,82 @@
+{
+  "content": "Screenshot of browser signing activity \n\nhttps://blossom.primal.net/9154ce5092847620f9ce3e8b73d32090888ff5d36310b3b95e5f08652b77b6f1.png ",
+  "created_at": 1780867250,
+  "id": "848a65b5ac67f8d707d456c7232d2e72402108fe7cbb3d197b739ad4ca7020f4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f75c86ab9830d81f388402255de63920783b4e257fcc1c0a666329ec076492cf0c2155ecd7afd01499d8adcc2774c8653f02546de520991d30486e0acbb7d36a",
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "imeta",
+      "url https://blossom.primal.net/9154ce5092847620f9ce3e8b73d32090888ff5d36310b3b95e5f08652b77b6f1.png",
+      "m image/png",
+      "dim 2436x1258",
+      "service nip96"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
