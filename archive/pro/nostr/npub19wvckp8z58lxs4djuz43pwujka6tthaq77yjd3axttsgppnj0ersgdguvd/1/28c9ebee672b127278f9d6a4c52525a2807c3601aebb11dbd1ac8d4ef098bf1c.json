@@ -1,0 +1,37 @@
+{
+  "id": "28c9ebee672b127278f9d6a4c52525a2807c3601aebb11dbd1ac8d4ef098bf1c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1780882317,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b7d9e22ad3b4035894ff7c7cadff97a9e34174599dc4313d5cc7c60da398f387",
+      "wss://relay.nos.social/",
+      "root",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832"
+    ],
+    [
+      "e",
+      "b57e75a49f1fd1147a87ff2c45728817a30c43731259e89f75a7d9a5e81ff0e6",
+      "wss://relay.ditto.pub/",
+      "reply"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Right ",
+  "sig": "4b1264b220427db258c8b757ad73ba9a4a058a902a8c7391f0f9bf6ed3a67ed2e76debfaf6fbcd8843e80997234a441cfcb5e9262a27726cdbbff87cf0985843",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
