@@ -1,0 +1,27 @@
+{
+  "content": "Most of the day finishing up the db migration I started Wednesday \n\nNot much else to report\n\nKiyomi and I had a bit of an argument in the afternoon.\n\nOrdered more medication for Whiskers in the evening on Chewy)",
+  "created_at": 1780975374,
+  "id": "c5dcec4adf4add93751ffda5a1bb65d57f453132a47152faab348e7ba9e512d8",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6c2f5abbf03bfd2dbc47276518970f27d50e9b2daa42b2645e4cd94abdcd3ba8fb8a4d4fa9c022e645439eb2696bb0ccdfd85688bddc5197ca835162a4f9d5fb",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-june-5-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, June 5, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Finalized the release v1.b.8.1 which fixed a couple of minor bugs and consolidated the db migration calls in one one file (db_utils.py)\n\nI also started working (since Friday) on a browser extension which allows one to sign remotedly.\n\nWhiskers collapsed again in the afternoon while eating (maybe around 4 or 5 PM)\n\nhe is getting weaker.\n\ndon't know if we can actually swing a trip to San Diego - he might be too weak\n\nKiyomi continues to make amazing onigiri -- tried more today -- amazing",
+  "created_at": 1780975587,
+  "id": "391f6363f29c1ad079d6fbe112427761145fd63f7124935f19d816b7ba98f649",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0349e0536de4beb8797d17224dbeb2161f4316a608790e88cb8850eece74a9ba3f779f2ef0beed7fcbb841aaddb2a16f0c005d78f2064236faa0528f8491e0ea",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-june-6-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, June 6, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

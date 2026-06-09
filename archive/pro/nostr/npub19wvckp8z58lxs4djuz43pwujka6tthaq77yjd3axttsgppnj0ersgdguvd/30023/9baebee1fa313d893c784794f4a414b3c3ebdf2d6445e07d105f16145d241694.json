@@ -1,0 +1,27 @@
+{
+  "content": "I spent more time this afternoon finalizingthe remote browser login features from Continuum\n\nI will add more detail in a release notes when I finish testing it all\n\nAlso started adding unit tests and added them to the pipeline (with Dr. C's help)",
+  "created_at": 1780975706,
+  "id": "9baebee1fa313d893c784794f4a414b3c3ebdf2d6445e07d105f16145d241694",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2fa13ac0c43b0bb04780a55ce9c333d7b997135fccc02c3d984db606df0d45ba8f95987846614a8d78251d9bea35ca4a2a4efdc9175a324b53867f7a4f493f78",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-june-7-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, June 7, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

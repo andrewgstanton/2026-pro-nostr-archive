@@ -1,0 +1,27 @@
+{
+  "content": "Highlight of the day was meeting w/ tim Driscoll in Japantown around noon\n\n(We had Ramen at Yamadaya in Japantown -- was very nice and he was nice enough to cover for today)\n\n(I would cover for next time)\n\nSeptn most of the afternoon after I came back continuing to work on the migration of db calls \nfrom yesterday)",
+  "created_at": 1780975230,
+  "id": "01f751c39157cccde1febda777706ec60624bc5fefcc487a367817fde8be80ae",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "94da011fe72fbd5b79b8db56ed23570c223f2d5d5488cfbe9792bc5ded12d8a0555bca97d0f4ef8a1fcfd7949b67b5a48686202151f86670da590c8d5b70022e",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-june-4-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, June 4, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}
