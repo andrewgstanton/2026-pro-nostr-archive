@@ -1,0 +1,25 @@
+{
+  "content": "Really ?  ",
+  "created_at": 1781331803,
+  "id": "8ad66ebbd5d6421e44716e3f45ca7e378068c9cfffa38692f6b5848e854f9cdc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d3a3d90f435a35ca125d72c0a02c8a40464f0b32a9819651b45756ee4242bb38b65cf9764a8d4f500fb5aa818e92170f2fb0b1a066da748e2739320164a31998",
+  "tags": [
+    [
+      "e",
+      "56f97f259288009111ed3b8d774a107759c42ab26e0e9fbac58045236bb72b38",
+      "",
+      "root",
+      "47f97d4e0a640c8a963d3fa71d9f0a6aad958afa505fefdedd6d529ef4122ef3"
+    ],
+    [
+      "p",
+      "47f97d4e0a640c8a963d3fa71d9f0a6aad958afa505fefdedd6d529ef4122ef3"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

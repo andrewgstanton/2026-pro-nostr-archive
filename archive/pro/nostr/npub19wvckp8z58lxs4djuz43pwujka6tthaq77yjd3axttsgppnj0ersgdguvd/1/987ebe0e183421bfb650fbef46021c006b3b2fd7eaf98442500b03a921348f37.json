@@ -1,0 +1,15 @@
+{
+  "content": "checking out Iris (using my browser extension from Continuum).",
+  "created_at": 1781162058,
+  "id": "987ebe0e183421bfb650fbef46021c006b3b2fd7eaf98442500b03a921348f37",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0cae0659bbf6db7d2eb7d7e56da939df1ea16bd46ee870ee885f16c7e1df4c8427a530452151cdc538041d026b54555581673d2633f18ff27df2968b61d5ce95",
+  "tags": [],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

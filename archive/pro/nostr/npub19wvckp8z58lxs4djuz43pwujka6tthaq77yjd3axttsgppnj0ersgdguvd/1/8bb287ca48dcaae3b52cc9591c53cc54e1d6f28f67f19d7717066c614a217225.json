@@ -1,0 +1,20 @@
+{
+  "content": "Thought I would share this ...\n\nThis is the console window WITHIN my continuum that shows logging into iris using my browser extension...\n\n\nhttps://npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd.blossom.band/b536b44a7cdc260fd41f1b75d44a30cdf9f1880b95c2a5815160393c78f601ff.png",
+  "created_at": 1781331481,
+  "id": "8bb287ca48dcaae3b52cc9591c53cc54e1d6f28f67f19d7717066c614a217225",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c8e92bbbe2efe7715c5db710cb945dc715135e0424a8b25e8617aa27d62cf7db337f2bda676dbdcdd4f67fb88e8d1c42d08c5903059aa3a9021f531419a2c01e",
+  "tags": [
+    [
+      "imeta",
+      "url https://npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd.blossom.band/b536b44a7cdc260fd41f1b75d44a30cdf9f1880b95c2a5815160393c78f601ff.png",
+      "dim 2404x1556",
+      "blurhash LtL}BFWC~qxu-=WVRjof_3j]IUof"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

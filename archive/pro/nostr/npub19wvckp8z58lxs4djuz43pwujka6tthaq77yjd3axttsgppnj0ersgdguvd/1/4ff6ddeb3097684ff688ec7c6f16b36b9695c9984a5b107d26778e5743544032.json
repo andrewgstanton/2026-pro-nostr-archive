@@ -1,0 +1,36 @@
+{
+  "content": "Amen!!\n\n\nnostr:nevent1qqspk5ujdlaa4qc5k339anfpyh54z9rep2v8q4jt0x68vdda0sahg3gpr9mhxue69uhkuurjdau8jtntwf5hxarpwpekktnvwcc28qpf",
+  "created_at": 1781368127,
+  "id": "4ff6ddeb3097684ff688ec7c6f16b36b9695c9984a5b107d26778e5743544032",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cb1d4e5e583acffb31e254c1f48fd1874e202d7f480515b0f92109670f0e0e5329670cdfcd8c30d32844680608e80e777cd0b0260df0be239bf122776d0e7504",
+  "tags": [
+    [
+      "e",
+      "1b53926ffbda8314b4625ecd2125e95114790a9870564b79b47635bd7c3b7445",
+      "wss://nproxy.kristapsk.lv",
+      "mention"
+    ],
+    [
+      "p",
+      "ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e83b66a8ed2d37c07d1abea6e1b000a15549c69508fa4c5875556d52b0526c2b",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

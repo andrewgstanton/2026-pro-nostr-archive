@@ -1,0 +1,31 @@
+{
+  "content": "I'll look into that.  My shutdown...\n\n        os.kill(os.getpid(), signal.SIGTERM)",
+  "created_at": 1781329865,
+  "id": "22bd472383256b046c58b17847a979a14cfc277236600334cbca475894fc3f2c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "221b3be1fa29bc1522d4eff6af1efd68d3250aa82edebc8f040d46781363e4a325455036c88a8174903a7c19b8620be385c2553e661abad1b45c2f8c62293bc7",
+  "tags": [
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "6a2c30e2ae0f62889fe6f6122c03227c1252031a947984cadf71aa538f0acea1",
+      "",
+      "reply",
+      "106239448252d78fdda07a145bf797556dbdf65e1fa9807e58171a638872fe04"
+    ],
+    [
+      "p",
+      "106239448252d78fdda07a145bf797556dbdf65e1fa9807e58171a638872fe04"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

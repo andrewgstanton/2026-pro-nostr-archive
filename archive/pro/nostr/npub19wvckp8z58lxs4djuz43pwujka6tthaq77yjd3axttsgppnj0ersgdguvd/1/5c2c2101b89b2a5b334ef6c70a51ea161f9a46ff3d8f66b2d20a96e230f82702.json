@@ -1,0 +1,20 @@
+{
+  "content": "OK so I started using Damus Notedeck comparing Damus w/ Primal and some other clients...\n\n",
+  "created_at": 1781332342,
+  "id": "5c2c2101b89b2a5b334ef6c70a51ea161f9a46ff3d8f66b2d20a96e230f82702",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9136325412602d4ee3ce1d37be656245e6647958bb8c308e1ca51837e9c01a4b442cfac2cb774ed33fe98a52edfa42a030f351cdf7acfbd8c24e911e36e41f8b",
+  "tags": [
+    [
+      "client",
+      "Damus Notedeck"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

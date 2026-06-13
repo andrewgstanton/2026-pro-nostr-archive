@@ -1,0 +1,83 @@
+{
+  "content": "Sorry to hear Evan.\n\nI will be praying for him and your family.",
+  "created_at": 1781333056,
+  "id": "b195fbfbe89606cc22874daabc3c0b9bc8ac9a1e8fc993343d9aa464a29020a6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2e4c71fc63090d55387271011a55d037696eb3a32b810e21714ff53e9809bf2cbec6858593a1c34e909cabf24933c60cf502de3a0b3e01a6a9ca7b2d51dc795b",
+  "tags": [
+    [
+      "e",
+      "ff913eb287d32b6be6e4cfd671c2df2fb6b2c6a9ec21aacf613b3fc54111c8c5",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3c906042e889f081619588980bcf1ebca6a5443022ad6dd8205aba269577212b"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,79 @@
+{
+  "content": "Thank you for saying this out loud!  \n\nVery true -- \n\n\"Nostr sucks too but at least we can control making it better\"\n\nnostr:nevent1qvzqqqqqqypzpckv7l8jqspl8u4y54dn9rcduwlrs4v2040nxce0m2h0cunvrj8tqqsqqqryft7wxz5s7ynv744czfs7t5tx5u7sqf4t42628mqyqfr6m9qj57928 ",
+  "created_at": 1781333326,
+  "id": "31b4181f511c7ec5a4c360edb0d9bf84148411e31b3a2b4f3a708030a22fd4a2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d17ccae06df6e324f3038dd73afe55e797d341f1a1fef474a3b873e2b329113d8b09b0d57003b7e0a7d0620657521db4b9e93819ee851388839a1f2af4b66999",
+  "tags": [
+    [
+      "e",
+      "0000644afce30a90f126cf56b81261e5d166a73d0026abaab4a3ec040247ad94",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

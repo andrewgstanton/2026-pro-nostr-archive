@@ -1,0 +1,30 @@
+{
+  "content": "Released the Continuum Browser Signing Extension as open source.\n\nBrowser-based signing without tying identities to a specific browser profile.\n\nUse existing Nostr experiences while keeping identity management local-first.\n\nNot another client — trying to explore a different trust model.\n\n#nostr #opensource #bitcoin",
+  "created_at": 1781335052,
+  "id": "3245c3c0bd4c4a52fdb311e634973063382eb5d0574a5d21c5aea14dc8c283fd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0c3368edd1f66695043ce6adfd1ad611b1a92730c298812785cf6b46f5f256dc0a1b86b0e3a56a581a74d62eca83f9844696ba336e6c2938c4d9089369757482",
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

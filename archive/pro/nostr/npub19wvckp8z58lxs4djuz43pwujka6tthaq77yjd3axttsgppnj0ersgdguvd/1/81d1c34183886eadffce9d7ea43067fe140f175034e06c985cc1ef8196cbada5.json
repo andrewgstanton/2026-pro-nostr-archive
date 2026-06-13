@@ -1,0 +1,30 @@
+{
+  "content": "Love it !!\nnostr:nevent1qqsxk86ghqn2v9srp09s0jr8lu848tk8hwhv5897phcepuceqgy7t2qkdclr6",
+  "created_at": 1781365348,
+  "id": "81d1c34183886eadffce9d7ea43067fe140f175034e06c985cc1ef8196cbada5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ac2294a5a78d1cb5aed25602e235808f319ae196b4a40edd3117e61dd8f2b5581fb98d77d000700f0c5ea84fd44325a4a8b84cf508e8423f933ee7c0fd2abdcb",
+  "tags": [
+    [
+      "e",
+      "6b1f48b826a616030bcb07c867ff0f53aec7bbaeca1cbe0df190f3190209e5a8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "92dfa05d915196a7a09152fa3f57871debfd422e1d278ac5af266a70c3350b1f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Love it!!\n\nonward!!\nnostr:nevent1qqszu3uksfl9qh84cesnrrpmcwl75fu7an3qadptqh4m05ngtqmj45ctelx82",
+  "created_at": 1781368394,
+  "id": "f19faed9d6c3ed62753e8eea87de84147666634ad76da5dcbfa22ddac9d64686",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2cb7a1fdf267927f0fc3a788a8ab779fdc011cab7a4eb0d9df223301d80262a931fa1d27e4bfd2ad509747e27d2eac46b069ed9c02aa7fd6a77c6f09cb24655e",
+  "tags": [
+    [
+      "e",
+      "2e4796827e505cf5c661318c3bc3bfea279eece20eb42b05ebb7d26858372ad3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

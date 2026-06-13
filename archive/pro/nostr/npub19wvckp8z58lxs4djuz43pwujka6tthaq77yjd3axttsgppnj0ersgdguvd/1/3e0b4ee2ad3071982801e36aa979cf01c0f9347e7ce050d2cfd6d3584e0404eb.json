@@ -1,0 +1,30 @@
+{
+  "content": "Congratulations on fundstr!  \n\n",
+  "created_at": 1781335464,
+  "id": "3e0b4ee2ad3071982801e36aa979cf01c0f9347e7ce050d2cfd6d3584e0404eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6e5cbfa463c04ab8370ee769bc77d40d848823bca46a6ecc85bc3866e9112d7c6fa5cccaea3b74586502f706811ceb038967daf83258bcea4877b65bc8f13185",
+  "tags": [
+    [
+      "e",
+      "7bf6928f948d72f584e41375ce37a324dfeb7eb5ce409d22ab1f178f5843177d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

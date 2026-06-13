@@ -1,0 +1,83 @@
+{
+  "content": "I started stacking sats (again) taking a portion from my trading gains (10%) and putting them in Ledger ... feels good to be sure\n",
+  "created_at": 1781332942,
+  "id": "3af0adcdf233b41fbc34a58e8f5ba4b97be4e481fef392e5421e35a8e2c5e052",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3b3469bf7913ff1a62a0d1c39bab82a0837514fe25b8a69e752e603e325588bf3fe49523b0ff05cf731c1158f31b7de3b7ab1834d70cff45cb33cb37198fc8d8",
+  "tags": [
+    [
+      "e",
+      "b7d9e22ad3b4035894ff7c7cadff97a9e34174599dc4313d5cc7c60da398f387",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

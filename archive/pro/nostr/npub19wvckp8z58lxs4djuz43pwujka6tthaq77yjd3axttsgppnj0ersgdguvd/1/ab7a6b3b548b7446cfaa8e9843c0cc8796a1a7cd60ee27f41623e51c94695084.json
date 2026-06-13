@@ -1,0 +1,20 @@
+{
+  "content": "And this shows the connection history of successful browser sessions ....\n\n(I don't know if anyone is interested...)\n\nhttps://npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd.blossom.band/93a81a2f7704455f68a1186bc56251e0aade166212a699f34364552839b4f297.png",
+  "created_at": 1781331670,
+  "id": "ab7a6b3b548b7446cfaa8e9843c0cc8796a1a7cd60ee27f41623e51c94695084",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b8368e36e57d5e2cf75d1eeb4c7ffdda23df52b26a9dccd0262396abb34eb65f4d4233ce990a7032f8a0864a3a31406066be7b425863a9daedad9faf892e91df",
+  "tags": [
+    [
+      "imeta",
+      "url https://npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd.blossom.band/93a81a2f7704455f68a1186bc56251e0aade166212a699f34364552839b4f297.png",
+      "dim 2414x1596",
+      "blurhash LDSF@T?cxu_2_4bJt7t6IUofoffi"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,51 @@
+{
+  "content": "6/12 - Would like to start posting articles and notes again — it's been a while.\n\n(I was very very prolific for a while but I have been adding a lot to Continuum over the last few weeks.\n\n\nI just want to publish again ...\n\nHere are a few topics I’d like to explore:\n\n• Continuum Is Not Another Nostr Client\n\n• Browser Extensions vs Mobile Signers\n\n• Why I Still Prefer Local-First Software\n\n• The Hidden Cost of SaaS Logins\n\n• What Bitcoin Conferences Get Wrong About Identity\n\n• Remote Signing Without Browser Lock-In\n\n• From Social Graphs to Service Graphs\n\n(just some ideas I have)\n\n#Nostr #Bitcoin #LocalFirst #DigitalSovereignty #Identity #SelfCustody #Continuum",
+  "created_at": 1781330977,
+  "id": "ef6be71414e89760afee248de4e59fd56e4967a5f00d1321cbbf4c110cb3ff46",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "334fefc5080133d7d725f0d4a4014c281b072ab9a582a3e1a1b3692fa5aa08f5d9ca298f6528e1cfb701bc5420bf7cf116ca513ea4abbea828972b08d521839d",
+  "tags": [
+    [
+      "d",
+      "note-1781330977"
+    ],
+    [
+      "published_at",
+      "1781330977"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "selfcustody"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "published": 1
+}
