@@ -1,0 +1,27 @@
+{
+  "content": "Another good trading day -- 2457 in gains (total for the week about 10K but remember I had cover an equity call a week before that was something like -7k and -3k a few weeks before so ...\n\nI've about broken even for the year.\n\nlike the last few days (since Wednesday), I have been taking 10% of the gains and purchasing BTC.\n\nbut it feels good anyway, I'm getting rewarded for doing something !\n\n(I LOVE continuum but it hasn't paid for anything much yet).\n\nI had an amazing response from Joshua (met at Bitcoin 2026) -- after I sent him a screenshot of the auth flow and an explanation on Tuesday, he responded with the following below:\n\n\"Good morning Sir\nThis is extremely interesing.\n\nMy question would b: What is it going to take for us to \nhave this operational and ready for the market place\n\nThe idea is needed and very useful.\"\n\n\nThis was probably the strongest validation I have had in the last year honestly.\n\nAfter all the \"s*it\" I have gone through last year (s*it isn't the right word) -- but it has been  a very very difficult time in 2025 through now...\n\nI took Whiskers out for a long walk this morning to the park (8:00-8:40 or so) -- full walk around the park.\n\ntraded lightly for a few hours to get the 2547.\n\nAMD gapped up to 120s then retreated I think it's near the top and will head down but we will see.\n\nI made most of my gains trading AMD (nearly all short day trading scalps and closing a few that were  bought in the mid 200s last year)\n\nI hope I can keep up this momentum (without stressing out too much) next week and start building an income stream again.\n\nAbout 6 PM had Dr. C design wireframes for the \"continuum signer\" concept I shared with Joshua in response to his message today:\n\n---\n\n(my response in SMS from his earlier message on SMS):\n\n\"Thanks Joshua — appreciate that.\n\nGood question.\n\nThe core authentication flow already works as a proof of concept.\n\nTo make it marketplace ready I think there are roughly three phases:\n\nHarden the protocol\n\nformalize challenge/verify endpoints\nsession handling\nauth expiration\ndeveloper docs\n\nClient experience\n\nlightweight mobile signer\nbrowser compatibility\nonboarding flow\n\nPartner integration\n\npilot with a conference, event, or service provider\nvalidate integration and UX\n\nI’m intentionally keeping scope narrow:\nidentity + authentication first\n(not replacing existing platforms).\n\nHappy to walk through architecture if useful.\"\n\nI am really happy with the wireframes Dr. C and I built together very handy NOw I have a real design I can build off of (but I'm not going to share details with either Benjamin or Joshua until I get a more concreate collaboration -- Joshua is a lot closer to that actually",
+  "created_at": 1781324348,
+  "id": "ce0b9cda676f886dfa5a0c06237d9c345ea9e0b0bcee80936012b3abe1706201",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c34dd77c9e103731c7114eefeed9d03c5a05dba0b9b8702ea0ad2ae3de19e7bb7f2419c0493ff7ac10f3b446b40fa04fa41be7e669df5f41a7998ed2a40b7ea1",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-june-12-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, June 12, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

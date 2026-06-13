@@ -1,0 +1,27 @@
+{
+  "content": "Some trading for about an hour before I met w/ Benjamin (on zoom) 9:00 AM\n\nWe had a couple of discussions ended at 10:30 AM and after I resumed trading a bit\n\ngains of 2454 today, like yesterday also took 10% and bought BTC\n\n(will try to repeat pattern as much as possible, even if small gains, any losses don't do)\n\nIn the afternoon spent some time taking the \"browser extension\" and added it ot the public repo (continuum) and had Dr. C help me write a how-to guide for installing and using it also updated sections of the mycontinuum.xyz site with a link to the browser extension (adding to tools and open source section)",
+  "created_at": 1781323110,
+  "id": "ceed6ceebdee5212bab55de9ad1f72065e527789c66109784aae2c003ce7287c",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "00f55d14f9e3012b447f96f57d761a01e89edcdccae51d5fceb38802f6fc4c78b611d0994d6c14b66d11317adc9ef9de0c1d5ba666e61552781463d7bf9ee72b",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-june-11-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, June 11, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

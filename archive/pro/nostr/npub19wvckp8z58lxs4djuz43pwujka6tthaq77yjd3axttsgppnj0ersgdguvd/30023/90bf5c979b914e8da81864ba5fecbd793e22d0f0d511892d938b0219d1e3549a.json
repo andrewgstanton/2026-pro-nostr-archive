@@ -1,0 +1,27 @@
+{
+  "content": "FINRA rules changed now my e-Trade account is no longer restricted!!\n\ntraded about 2 1/2 hours this morning (7 - 9:30 AM)\n\nhad $2400 realized gains (and reduced some of the liquidations I had to make last few weeks to mee the equity requirements (when it was still $25K minimum)\n\nWill see how the rest of the week goes\n\nBeautiful day though a little windy.\n\nI also did some work in the work in the afternoon creating a better sheet to cover all the transactions for BTC into these various buckes (BTC-Savings, BTC-BPV etc..)\n\nAlso connected briefly with Joshua (whom I met at Bitcoin 2026) - April 29\n\nHe has been very busy with shows this past week.\n\nSent him a screenshot of the auth flow and a short explanation (had help)\n\nI hope he sees the potential use cases here",
+  "created_at": 1781058089,
+  "id": "90bf5c979b914e8da81864ba5fecbd793e22d0f0d511892d938b0219d1e3549a",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4f4e655dd70d50807e0e794b1831682b79163aa4f674dc6a574007181990b01202205742043774834717a75d4bc880cef1d2fca96e8607cde2390decb250e92d",
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-june-9-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, June 9, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}
