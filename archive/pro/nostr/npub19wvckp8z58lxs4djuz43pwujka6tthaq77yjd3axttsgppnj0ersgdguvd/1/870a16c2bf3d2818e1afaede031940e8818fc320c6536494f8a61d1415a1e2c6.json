@@ -1,0 +1,43 @@
+{
+  "content": "We should connect",
+  "created_at": 1781386346,
+  "id": "870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "61cba7e4fbd291d89411d39e947cc5f8088f04b73520a9bf2aba72e561aea58249c83c641b00e243f966d6818241576adc43782d318939a4b5c55288e7093e6c",
+  "tags": [
+    [
+      "e",
+      "cb6b1db8b523ab489b1dfb081005e9761db5aac9a66ffd5186362dd775672d4b",
+      "wss://nos.lol/",
+      "root",
+      "3bf0c63fcb93463407af97a5e5ee64fa883d107ef9e558472c4eb9aaaefa459d"
+    ],
+    [
+      "e",
+      "1a3a49d06fc3353f92fa78e62fac4d0d2cc67a77ebdd961c982d6ed0d7ec2f08",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "3bf0c63fcb93463407af97a5e5ee64fa883d107ef9e558472c4eb9aaaefa459d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8671a6e5188f73e7746ccf0dd169bf4a6785438b72c121f83bfffd04f88194d1",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

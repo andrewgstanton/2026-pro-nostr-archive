@@ -1,0 +1,30 @@
+{
+  "content": "This is very much needed \n\nAt one point I even offered a bounty (5000 sats) for testing \n(Simple tests)\n\n\nnostr:nevent1qqsvk6cahz6j826gnvwlkzqsqh5hv8d44ty6vmla2xrrvtwhw4nj6jcwct0es",
+  "created_at": 1781385859,
+  "id": "1d660c46fed76e465fc08cbb1d7f070d963a5aef2049543eca5b245555bca758",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8b28c11a43a8399f5686d2912cb4c64a39f32240839c73fbaf593775d3b47070f067d3d8b7a0a3f12deed52eb538a5c5513579554f014cac4e93a38147b3b889",
+  "tags": [
+    [
+      "e",
+      "cb6b1db8b523ab489b1dfb081005e9761db5aac9a66ffd5186362dd775672d4b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3bf0c63fcb93463407af97a5e5ee64fa883d107ef9e558472c4eb9aaaefa459d",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
