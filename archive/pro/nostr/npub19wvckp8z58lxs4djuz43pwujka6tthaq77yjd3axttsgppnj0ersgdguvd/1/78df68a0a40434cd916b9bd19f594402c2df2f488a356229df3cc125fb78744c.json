@@ -1,0 +1,43 @@
+{
+  "content": "6/14/2026 - \n\nReleased v1.6.8.2 - June 14, 2026 today \n\nTheese are the highlights:\n\n🔐 Remote signing enabled\n\n• Continuum identities can now participate in remote signing workflows\n\n• Added identity settings schema + editor support\n\n• Improved signer configuration and defaults\n\n• Browser extension support released separately\n\n🧪 Testing + release improvements\n\n• Added pytest unit testing foundation\n\n• Added initial test coverage support\n\n• Added automated validation in release builds\n\nSmall release, but an important step toward local-first identity + interoperable signing.\n\n#Continuum #Nostr #Bitcoin #SelfSovereignIdentity #OpenSource",
+  "created_at": 1781493683,
+  "id": "78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2ceeb3e724298469fce1dea028b51d49966295f088af07e4343244cde72e4b4ef31973753a5a5d376e0e15ec3135dd44de52284b285517d9c7c0b5392c04ae0e",
+  "tags": [
+    [
+      "d",
+      "note-1781493683"
+    ],
+    [
+      "published_at",
+      "1781493683"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "opensource"
+    ]
+  ],
+  "published": 1
+}
