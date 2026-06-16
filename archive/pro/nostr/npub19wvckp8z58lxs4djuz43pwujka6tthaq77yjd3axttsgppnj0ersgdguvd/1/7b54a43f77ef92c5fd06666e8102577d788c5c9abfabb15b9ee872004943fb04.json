@@ -1,0 +1,28 @@
+{
+  "content": "Well said!!!",
+  "created_at": 1781500824,
+  "id": "7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1f2a075fe8d25ae7524150de39a5498519417e3f39e99c4cf812a378f1b806808e9ddd88d3d0ad18527b92eeaf761b5a3d69d81ee24fa5a7efae9d859b5232f8",
+  "tags": [
+    [
+      "e",
+      "4465743ef7e6f16c547343571977b1de21a515b4a662ec545a01ff02ef1e47ae",
+      "wss://relay.primal.net/sierra-ivory",
+      "root"
+    ],
+    [
+      "p",
+      "92dfa05d915196a7a09152fa3f57871debfd422e1d278ac5af266a70c3350b1f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

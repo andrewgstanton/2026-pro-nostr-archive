@@ -1,0 +1,54 @@
+{
+  "content": "6/14/2026 - Some more thoughts on Continuum ...\n\n** Various Ways of Describing Continuum **\n\nI was thinking more about Continuum tonight, and came up with a few different ideas.  \n\nNot every description of Continuum emphasizes the same thing. \n\nThese are different lenses describing the same underlying idea. \n\nThese are different ways of looking at what I've been building over the last year. \n\nI hope these descriptions are helpful and will you make y'all think.\n\nHere goes ...\n\n---\n\n** Continuum as a Sovereign Workspace **\n\nContinuum is a sovereign workspace where identity, signing, storage, and publishing remain under user control.\n\nApplications become interchangeable interfaces rather than permanent homes for identity.\n\n---\n\n** Continuum as Identity Infrastructure **\n\nUsers should not migrate identities between applications.\n\nApplications should connect to user-owned workspaces.\n\n---\n\n** Continuum as Local-First Software **\n\nContinuum keeps identity and user state local-first.\n\nCloud services may exist, but they are optional and should not become the source of truth.\n\n---\n\n** Continuum as an Interoperability Layer **\n\nContinuum is not trying to replace clients.\n\nIt explores how clients, signers, services, and applications can interoperate while preserving user control.\n\n---\n\n** Continuum as Portable Sovereignty **\n\nSovereignty is not choosing Linux over macOS or Windows (though I love Linux and Open Source)\n\nSovereignty is keeping identity, data, and signing portable across all of these.\n\n---\n\n** Continuum as a Capability Platform **\n\nApplications request capabilities.\n\nThe workspace decides what to expose.\n\nIdentity, signing, publishing, storage, and authentication are capabilities—not ownership transfers.\n\n---\n\n** Continuum as a Response to SaaS **\n\nMost modern software asks users to create another account.\n\nContinuum asks whether accounts should belong to users instead.\n\n---\n\n** Continuum as a Nostr Extension **\n\nNostr decentralized the social graph.\n\nContinuum explores decentralizing the workspace.\n\n---\n\n** Continuum as a Long-Term Direction **\n\nThe application is temporary.\n\nThe workspace is durable.\n\nThe user is the constant.\n\n---\n\n** Continuum is not another client. **\n\n** It is the workspace behind the client. **\n\n#Continuum #Nostr #Bitcoin #LocalFirst #SelfSovereignIdentity #OpenSource #DigitalSovereignty",
+  "created_at": 1781498163,
+  "id": "f3180e1cf4002a1c180853bcb98ea5e956ee3e8dfa449693becbffd03e7338c1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "961a0ebd63cb4852e6cd3d29ea71459173f04a6f65bcced1795e4a42eca07ab20add201657bb3b676bb73f63fec176857efe37f2dc99b62b4f160674e734cc47",
+  "tags": [
+    [
+      "d",
+      "note-1781498163"
+    ],
+    [
+      "published_at",
+      "1781498163"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
