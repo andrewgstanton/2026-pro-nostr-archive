@@ -1,0 +1,24 @@
+{
+  "content": "just connected on relayop.xyz!\n\nThanks nostr:npub1wxazmmaj28dsvc80fsvxfyy9dvtwrfltss977hgqlp3txjk8v60s7dkf2l ",
+  "created_at": 1781821418,
+  "id": "06fd80c624d38b7078a64efc4ad0f2eb74c5ac42e1bedea1bd04eb29516b6145",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "77b4dba3019e996dcd4672a05021e39fef786bf11b10ef9753c2b915b903e0629a1815e337968a7f761e702bfbb77e832eeb896abfb2311ea0814f03830174c4",
+  "tags": [
+    [
+      "p",
+      "71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f"
+    ],
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

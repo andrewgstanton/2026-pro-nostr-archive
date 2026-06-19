@@ -1,0 +1,30 @@
+{
+  "content": "Looks like the New Order logo in Star Wars\n\n(Just realized that )\n\nWonder if that is intentional\n\n:)\n\nCool design ",
+  "created_at": 1781676599,
+  "id": "b4f42211c23b008c50586fb9b2707377b81043eebbb31073668976981ff5b929",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5deeeb7ff560f1eb0e5f9f6338e474efb839eb7ccb9c57a55cfadf49a6aac3d7522f22aad4da2c6877f09723c7bed49b004c68a63543594f834c1916ccc16d07",
+  "tags": [
+    [
+      "e",
+      "539377ebbac63921e53df2bd783d56d013c2c850eb1703271476b9810c2a98a5",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "e3a59924933c9f9f2df83449055eb3858f1480fdd0c5edb95df08bedcd2e6624",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Continuum has a built in password manager locally hosted no cloud dependency ",
+  "created_at": 1781676384,
+  "id": "689ad54f6cc423c72dab98dfaadbe235af91dbf778bcdf29953999b7bc3e595b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a36a96930a31df6fce7fa31e7bc9c3aa217c459e2462c969a5920a6f2e09dd2903e6309d007b6f00cb5997fc32a32a145cad84832f5dd07e68c48ac6af93d18c",
+  "tags": [
+    [
+      "e",
+      "97b445415b4741d4dd657d7a955f036a72bf0d0ab9fdf387674ad61fcbebe126",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "460c25e682fda7832b52d1f22d3d22b3176d972f60dcdc3212ed8c92ef85065c",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
