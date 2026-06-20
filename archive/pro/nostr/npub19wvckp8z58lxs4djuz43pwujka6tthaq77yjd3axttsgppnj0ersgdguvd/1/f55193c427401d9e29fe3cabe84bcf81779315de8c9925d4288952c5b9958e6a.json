@@ -1,0 +1,13 @@
+{
+  "id": "f55193c427401d9e29fe3cabe84bcf81779315de8c9925d4288952c5b9958e6a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Hey ",
+  "created_at": 1777845385,
+  "tags": "[[\"e\", \"00006b8e83c95266e6f797512e3e2ef5111dca69ee939e55e96ae8220061ca1c\", \"\", \"root\"], [\"e\", \"18d439c2c94a23e6201cf608fa6a3b9f2d351ea33a9ca1f54fe4c70f61954e60\", \"\", \"reply\"], [\"p\", \"3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24\", \"\", \"mention\"], [\"p\", \"ad88abf01bdfe3bfcad8d36b4bca1565e6b3596b2f06ab122e448b66cc0e2d17\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"f55193c427401d9e29fe3cabe84bcf81779315de8c9925d4288952c5b9958e6a\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777845385, \"kind\": 1, \"tags\": [[\"e\", \"00006b8e83c95266e6f797512e3e2ef5111dca69ee939e55e96ae8220061ca1c\", \"\", \"root\"], [\"e\", \"18d439c2c94a23e6201cf608fa6a3b9f2d351ea33a9ca1f54fe4c70f61954e60\", \"\", \"reply\"], [\"p\", \"3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24\", \"\", \"mention\"], [\"p\", \"ad88abf01bdfe3bfcad8d36b4bca1565e6b3596b2f06ab122e448b66cc0e2d17\", \"\", \"mention\"]], \"content\": \"Hey \", \"sig\": \"19b19aaf23fbbe959b4d6852cb697c2af67ae5b6bd0bfdcdca0a274b0328de42e6dc7a24cb820aecce8e214c2e6f554e9860e728b5a46db8d11118ad3c3a5d6d\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

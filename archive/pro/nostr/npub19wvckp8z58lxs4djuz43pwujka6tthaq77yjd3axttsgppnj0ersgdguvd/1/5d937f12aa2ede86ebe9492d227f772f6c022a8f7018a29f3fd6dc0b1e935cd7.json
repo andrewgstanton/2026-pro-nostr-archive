@@ -1,0 +1,13 @@
+{
+  "id": "5d937f12aa2ede86ebe9492d227f772f6c022a8f7018a29f3fd6dc0b1e935cd7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "You can also use a relay (run locally ). Spark is an interesting idea though",
+  "created_at": 1773423476,
+  "tags": "[[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"1022f0d866e3eb1585652f48e949a0c5ab863b08110057d6738634f5dc2a056d\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"5d937f12aa2ede86ebe9492d227f772f6c022a8f7018a29f3fd6dc0b1e935cd7\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773423476, \"kind\": 1, \"tags\": [[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"1022f0d866e3eb1585652f48e949a0c5ab863b08110057d6738634f5dc2a056d\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]], \"content\": \"You can also use a relay (run locally ). Spark is an interesting idea though\", \"sig\": \"dd1e0d48e91ee4ca26732dd12d075a5f925c4220351f5d08654b02a7b432ffcd41f0b01fc9c4e29caa30eecbe1ebb2d0f162bb6693e97e8393557d4600c43c85\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

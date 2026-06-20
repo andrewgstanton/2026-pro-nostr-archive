@@ -1,0 +1,13 @@
+{
+  "id": "47bb66fa561ab112ff9d6bff18401c0f331a0da7a944de86e09b5492fec6ca24",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Roland \n\nSpreading the word about Continuum is a big help too thanks fur quoting my FAQ article the other day !!\n\nVielen dank!!",
+  "created_at": 1773562116,
+  "tags": "[[\"a\", \"30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:running-continuum--common-questions\", \"\", \"root\"], [\"e\", \"7d453aae925c6f12e94e16f84f2210cd03f67f1aa99ca79c0cb9f287a9f73b2d\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\"]",
+  "raw_json": "{\"id\": \"47bb66fa561ab112ff9d6bff18401c0f331a0da7a944de86e09b5492fec6ca24\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773562116, \"kind\": 1, \"tags\": [[\"a\", \"30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:running-continuum--common-questions\", \"\", \"root\"], [\"e\", \"7d453aae925c6f12e94e16f84f2210cd03f67f1aa99ca79c0cb9f287a9f73b2d\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2\", \"\", \"mention\"]], \"content\": \"Roland \\n\\nSpreading the word about Continuum is a big help too thanks fur quoting my FAQ article the other day !!\\n\\nVielen dank!!\", \"sig\": \"1400672ad7723cc307f6a2737874549c183eb5c5eb76f803285e53e75f46ba7185fa4c224206eace64869b7ff20c174c73144d727f61b99764568de51257c64c\", \"_source\": [\"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

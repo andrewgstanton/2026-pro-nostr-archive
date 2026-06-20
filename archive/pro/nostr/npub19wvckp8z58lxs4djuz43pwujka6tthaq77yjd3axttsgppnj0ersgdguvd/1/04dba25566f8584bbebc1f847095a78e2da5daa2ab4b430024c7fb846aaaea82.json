@@ -1,0 +1,13 @@
+{
+  "id": "04dba25566f8584bbebc1f847095a78e2da5daa2ab4b430024c7fb846aaaea82",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Nice !  I sometimes post German versions of my long form posts on Nostr.\n\nLooking forward to the Italian and English newsletters\n\n\n\n\n\n",
+  "created_at": 1774108439,
+  "tags": "[[\"a\", \"30023:1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e:fermata-291-larma-di-tutti\", \"\", \"root\"], [\"e\", \"0992598462a4bea97340985ea6dd741c0dbaa077f74ec579285e46bc5780a911\", \"\", \"reply\"], [\"p\", \"1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"04dba25566f8584bbebc1f847095a78e2da5daa2ab4b430024c7fb846aaaea82\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1774108439, \"kind\": 1, \"tags\": [[\"a\", \"30023:1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e:fermata-291-larma-di-tutti\", \"\", \"root\"], [\"e\", \"0992598462a4bea97340985ea6dd741c0dbaa077f74ec579285e46bc5780a911\", \"\", \"reply\"], [\"p\", \"1b5ee74df1f13eb85d54d36bc19a4180f44ce9aceeba2ea110f9ea79bb1aae6e\", \"\", \"mention\"]], \"content\": \"Nice !  I sometimes post German versions of my long form posts on Nostr.\\n\\nLooking forward to the Italian and English newsletters\\n\\n\\n\\n\\n\\n\", \"sig\": \"4efb27a14a7c3c693a4da0566cdd5be0640890c98c2b1e0aa5e5fdd4405049f15a55563fc38c1a9f415f6263ce2ee6e87bf722812e7eddcb83f5234ea91d079d\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2820863b13f075022a520536e9473edc5832b7d9b9f168b4a5a7c19732668603",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Yes very familiar with the hex ēquivalents for  npub and nsec and we need to be clear about the distinction.",
+  "created_at": 1777306498,
+  "tags": "[[\"a\", \"30023:75d737c3472471029c44876b330d2284288a42779b591a2ed4daa1c6c07efaf7:w6OMwbZrKWo58DO5WcV4B\", \"\", \"root\"], [\"e\", \"002d52a65c6b3633fb0da0e26632677eef4b8652d65f0e52131db3ddad1473ad\", \"\", \"reply\"], [\"p\", \"75d737c3472471029c44876b330d2284288a42779b591a2ed4daa1c6c07efaf7\", \"\", \"mention\"], [\"p\", \"7d4417d5df435a97b8f55c8f2e7e2ef533e2371ce5e1cffd595c179a3eaf36d4\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"2820863b13f075022a520536e9473edc5832b7d9b9f168b4a5a7c19732668603\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777306498, \"kind\": 1, \"tags\": [[\"a\", \"30023:75d737c3472471029c44876b330d2284288a42779b591a2ed4daa1c6c07efaf7:w6OMwbZrKWo58DO5WcV4B\", \"\", \"root\"], [\"e\", \"002d52a65c6b3633fb0da0e26632677eef4b8652d65f0e52131db3ddad1473ad\", \"\", \"reply\"], [\"p\", \"75d737c3472471029c44876b330d2284288a42779b591a2ed4daa1c6c07efaf7\", \"\", \"mention\"], [\"p\", \"7d4417d5df435a97b8f55c8f2e7e2ef533e2371ce5e1cffd595c179a3eaf36d4\", \"\", \"mention\"]], \"content\": \"Yes very familiar with the hex \\u0113quivalents for  npub and nsec and we need to be clear about the distinction.\", \"sig\": \"724122d44d7b656ce9a170647325231f2e24c191e936034b4736d0d29249f1ac14586acdfd4d25b8776d5d71f0f4d89f8392a71f21921795fca742cbaca467e8\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

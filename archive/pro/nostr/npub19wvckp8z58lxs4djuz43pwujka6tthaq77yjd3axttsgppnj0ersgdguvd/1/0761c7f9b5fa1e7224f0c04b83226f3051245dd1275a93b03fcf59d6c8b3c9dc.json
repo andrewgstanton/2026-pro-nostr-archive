@@ -1,0 +1,13 @@
+{
+  "id": "0761c7f9b5fa1e7224f0c04b83226f3051245dd1275a93b03fcf59d6c8b3c9dc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Very i terestu g i have thoughts iut the parallels of Satoshi/bitcoin And christianity\n\nVery interestibg",
+  "created_at": 1777534896,
+  "tags": "[[\"e\", \"fd8fdce9a72d6d6b9c0c059dcbae588e14ac4576f643bcb55d50f7b3466bc09f\", \"wss://nos.lol/\", \"root\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\"], [\"e\", \"3027e27e96a39269bffeae3894378447ab1b2c0ee582f87cc333f32fdec2393d\", \"\", \"reply\"], [\"p\", \"45bda953cd3ba263b78d955dffb1b6ceb9eb600d53e5ac3b9d7581d2bc1e518e\", \"\", \"mention\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"0761c7f9b5fa1e7224f0c04b83226f3051245dd1275a93b03fcf59d6c8b3c9dc\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777534896, \"kind\": 1, \"tags\": [[\"e\", \"fd8fdce9a72d6d6b9c0c059dcbae588e14ac4576f643bcb55d50f7b3466bc09f\", \"wss://nos.lol/\", \"root\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\"], [\"e\", \"3027e27e96a39269bffeae3894378447ab1b2c0ee582f87cc333f32fdec2393d\", \"\", \"reply\"], [\"p\", \"45bda953cd3ba263b78d955dffb1b6ceb9eb600d53e5ac3b9d7581d2bc1e518e\", \"\", \"mention\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"]], \"content\": \"Very i terestu g i have thoughts iut the parallels of Satoshi/bitcoin And christianity\\n\\nVery interestibg\", \"sig\": \"10a0fbccbeba9fd0437f297f21cf3a368b29f143996e6ebba92d62706f34774628b29853407b11c597f087e4c90c509d773d599969abc828c1d8154f03f60189\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "0ecf161a3154f7677d751305fe283d776fdc13642e759a81ee23d578f7604fbc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Right now it’s manual — the signed event is stored locally and you can publish it when you reconnect.\n\nBut the system also supports scheduled publishing, so a note signed earlier can automatically publish once the runtime is back online.\n\nThe key idea is that the private key is only used locally.\nA hosted service can publish the already-signed artifact without ever touching the key.",
+  "created_at": 1772945986,
+  "tags": "[[\"e\", \"1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe\", \"wss://relay.damus.io\", \"root\"], [\"e\", \"830a79460f1ad6a9f8a221e88b0053527c0df6e6ce10e9ed74ec5ba81be66f3a\", \"wss://relay.snort.social/,\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"0ecf161a3154f7677d751305fe283d776fdc13642e759a81ee23d578f7604fbc\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1772945986, \"kind\": 1, \"tags\": [[\"e\", \"1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe\", \"wss://relay.damus.io\", \"root\"], [\"e\", \"830a79460f1ad6a9f8a221e88b0053527c0df6e6ce10e9ed74ec5ba81be66f3a\", \"wss://relay.snort.social/,\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]], \"content\": \"Right now it\\u2019s manual \\u2014 the signed event is stored locally and you can publish it when you reconnect.\\n\\nBut the system also supports scheduled publishing, so a note signed earlier can automatically publish once the runtime is back online.\\n\\nThe key idea is that the private key is only used locally.\\nA hosted service can publish the already-signed artifact without ever touching the key.\", \"sig\": \"d751a0f9e02445d84a492569894620fe8eeb6534ff6222a960fc746f5d292d86c04fb188059b9dee2fbd7d8b561b7d3c3927d738734676877745a3aacdfda72a\", \"_source\": [\"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

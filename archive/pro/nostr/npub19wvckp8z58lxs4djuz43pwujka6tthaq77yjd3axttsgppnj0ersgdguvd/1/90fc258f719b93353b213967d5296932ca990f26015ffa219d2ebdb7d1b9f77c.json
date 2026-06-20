@@ -1,0 +1,13 @@
+{
+  "id": "90fc258f719b93353b213967d5296932ca990f26015ffa219d2ebdb7d1b9f77c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "そうですね！！",
+  "created_at": 1776746819,
+  "tags": "[[\"e\", \"5eacabb8b7710b146d61d8b945419eda1929e43631ff25a8d08636f2d3fe504c\", \"wss://nostr.dler.com/bravo\", \"root\", \"fae04142bf69a433cf4f6a10af74356d462441a41ecd56de2bb472ac4083589d\"], [\"e\", \"d4a8ec3fde85fb82fa6aa887297c01a6d08e1f1ef697996c52781e767d34f78f\", \"\", \"reply\"], [\"p\", \"2d5b6404df532de082d9e77f7f4257a6f43fb79bb9de8dd3ac7df5e6d4b500b0\", \"\", \"mention\"], [\"p\", \"fae04142bf69a433cf4f6a10af74356d462441a41ecd56de2bb472ac4083589d\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"90fc258f719b93353b213967d5296932ca990f26015ffa219d2ebdb7d1b9f77c\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1776746819, \"kind\": 1, \"tags\": [[\"e\", \"5eacabb8b7710b146d61d8b945419eda1929e43631ff25a8d08636f2d3fe504c\", \"wss://nostr.dler.com/bravo\", \"root\", \"fae04142bf69a433cf4f6a10af74356d462441a41ecd56de2bb472ac4083589d\"], [\"e\", \"d4a8ec3fde85fb82fa6aa887297c01a6d08e1f1ef697996c52781e767d34f78f\", \"\", \"reply\"], [\"p\", \"2d5b6404df532de082d9e77f7f4257a6f43fb79bb9de8dd3ac7df5e6d4b500b0\", \"\", \"mention\"], [\"p\", \"fae04142bf69a433cf4f6a10af74356d462441a41ecd56de2bb472ac4083589d\", \"\", \"mention\"]], \"content\": \"\\u305d\\u3046\\u3067\\u3059\\u306d\\uff01\\uff01\", \"sig\": \"f132ee2246200c863e83cbc7864f0cb5fcf766cb2b2dd0a4fb5686673b5dc25ddb81669d6d46d81e3d1391a759d95a33db5afe4eba6df6bc106b754a74fc8371\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

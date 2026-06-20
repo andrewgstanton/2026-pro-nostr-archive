@@ -1,0 +1,13 @@
+{
+  "id": "7ae8d9fc55d1fd0d5ec93b238e7b15511d3ea14b7c9042fa2e7b6360dc987c9b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "How AI tools are creating possibilities that were too expensive or too time consuming not too long ago\n",
+  "created_at": 1778688214,
+  "tags": "[[\"a\", \"30023:fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5:the-pricing-wall-just-came-down--and-most-local-business-owners-havent-noticed\", \"\", \"root\"], [\"e\", \"ca7e7c3aeef548dde0ea0b4b026850ca43fd00d16e6f2586ef432dc61e6464fd\", \"\", \"reply\"], [\"p\", \"fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"7ae8d9fc55d1fd0d5ec93b238e7b15511d3ea14b7c9042fa2e7b6360dc987c9b\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1778688214, \"kind\": 1, \"tags\": [[\"a\", \"30023:fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5:the-pricing-wall-just-came-down--and-most-local-business-owners-havent-noticed\", \"\", \"root\"], [\"e\", \"ca7e7c3aeef548dde0ea0b4b026850ca43fd00d16e6f2586ef432dc61e6464fd\", \"\", \"reply\"], [\"p\", \"fac513a1ceded1eabc7407c12997485de8bbb28eddecefa016817fc8d4f407a5\", \"\", \"mention\"]], \"content\": \"How AI tools are creating possibilities that were too expensive or too time consuming not too long ago\\n\", \"sig\": \"9790ea879f13a1a9f364f21f2827cd6d6e62776cc6d5dd1769429c97e3242a94fb0b0332a527ee180c5effab92feb7833c13c14a69e98604290501ae69c418d7\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "427af6f5d0d02883f9b9dc22251addc86b328b3632c2eed7604bf3cbf584f264",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Thanks for the  clarification \n\nI actually will be doing this in my client (continuum) at some point",
+  "created_at": 1779323933,
+  "tags": "[[\"e\", \"80dea901a6d51b824b2c69a6f63d87a6dce1f08f82d5923f793283bdb67415c5\", \"\", \"root\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\"], [\"e\", \"69eaebcdda9c397ccbff14ab02978fb509c8ee46ebca71ec69571e56a00c2823\", \"\", \"reply\"], [\"p\", \"805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3\", \"\", \"mention\"], [\"p\", \"165b9d37a28903103af9ad24036bdc54270882c01add515791fc9666167cfac1\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"427af6f5d0d02883f9b9dc22251addc86b328b3632c2eed7604bf3cbf584f264\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1779323933, \"kind\": 1, \"tags\": [[\"e\", \"80dea901a6d51b824b2c69a6f63d87a6dce1f08f82d5923f793283bdb67415c5\", \"\", \"root\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\"], [\"e\", \"69eaebcdda9c397ccbff14ab02978fb509c8ee46ebca71ec69571e56a00c2823\", \"\", \"reply\"], [\"p\", \"805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3\", \"\", \"mention\"], [\"p\", \"165b9d37a28903103af9ad24036bdc54270882c01add515791fc9666167cfac1\", \"\", \"mention\"]], \"content\": \"Thanks for the  clarification \\n\\nI actually will be doing this in my client (continuum) at some point\", \"sig\": \"c6fabd97916f27b3768c2ea81e05f4229bd979eb75a533b72126d9b76f3091faa0c59d39e08385ad97b3313bca11204abcd348950e236ce172a34351bff8a101\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

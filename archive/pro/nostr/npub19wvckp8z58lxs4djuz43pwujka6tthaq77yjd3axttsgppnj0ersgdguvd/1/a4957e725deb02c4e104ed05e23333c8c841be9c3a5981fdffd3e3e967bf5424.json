@@ -1,0 +1,13 @@
+{
+  "id": "a4957e725deb02c4e104ed05e23333c8c841be9c3a5981fdffd3e3e967bf5424",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "True for the most part but not strictly everywhere. \n",
+  "created_at": 1777060172,
+  "tags": "[[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"7a50dbb1e8ae382b632e0e8547eb0ab77dc0779376ac32263b2ef33da9b361ec\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"a4957e725deb02c4e104ed05e23333c8c841be9c3a5981fdffd3e3e967bf5424\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777060172, \"kind\": 1, \"tags\": [[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"7a50dbb1e8ae382b632e0e8547eb0ab77dc0779376ac32263b2ef33da9b361ec\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]], \"content\": \"True for the most part but not strictly everywhere. \\n\", \"sig\": \"fc5a6d4486940dd691d125e5f83a1ff1725fb310dd77b12453a3c8f6dedb9edc99889f409f3b358381b84aea0029116e5d319c287d639cb58c2f31f59118766f\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

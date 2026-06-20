@@ -1,0 +1,13 @@
+{
+  "id": "8f39a4b9e208a13bdee3e2967b35227b442cabc8febe710ad1495a2a63f4c679",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Indeed and i never buy food in flight anymore always bring my own snacks \n\nI was mentuonung it as an example of nit being able to use cash to transact.",
+  "created_at": 1777076206,
+  "tags": "[[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"48b547c438d640405fd18653a643482599c53f2d750be5b9beeb89c96d702ff7\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"8f39a4b9e208a13bdee3e2967b35227b442cabc8febe710ad1495a2a63f4c679\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777076206, \"kind\": 1, \"tags\": [[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"48b547c438d640405fd18653a643482599c53f2d750be5b9beeb89c96d702ff7\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]], \"content\": \"Indeed and i never buy food in flight anymore always bring my own snacks \\n\\nI was mentuonung it as an example of nit being able to use cash to transact.\", \"sig\": \"33ef898775c00a2e657901cce6076dd2a42dfa3805bc3e2df762d215dd5b94d0db70c0c2aa29e80d555fa1149a1b82e6fe1641dc48d70a3d5ea7a428f50ff6c1\", \"_source\": [\"wss://relay.primal.net\", \"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

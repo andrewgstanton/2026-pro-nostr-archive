@@ -1,0 +1,13 @@
+{
+  "id": "336a4ebee7d498356b7c47e3baed98160423063cf9205a8d498a5f413ecded4c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "i was thinking of \"Apache Spark\" not anything related to Lightning/L2 projects my apologies",
+  "created_at": 1773424420,
+  "tags": "[[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"27d9edcaac89f49d9d0dd20366a047bfbd49c28a4587317f042ab610f63d32fc\", \"\", \"reply\"], [\"p\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"\", \"mention\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\"], [\"r\", \"wss://nostr-pub.wellorder.net/\"], [\"r\", \"wss://relay.damus.io/\"], [\"r\", \"wss://nostr.mom/\"], [\"r\", \"wss://purplepag.es/\"], [\"r\", \"wss://eden.nostr.land/\"], [\"r\", \"wss://premium.primal.net/\"], [\"r\", \"wss://pyramid.fiatjaf.com/\"], [\"r\", \"wss://relay.nostrplebs.com/\"], [\"r\", \"wss://nostr.land/\"], [\"r\", \"wss://relay.snort.social/\"], [\"r\", \"wss://relay.primal.net/\"], [\"r\", \"wss://puravida.nostr.land/\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"336a4ebee7d498356b7c47e3baed98160423063cf9205a8d498a5f413ecded4c\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773424420, \"kind\": 1, \"tags\": [[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"27d9edcaac89f49d9d0dd20366a047bfbd49c28a4587317f042ab610f63d32fc\", \"\", \"reply\"], [\"p\", \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"\", \"mention\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\"], [\"r\", \"wss://nostr-pub.wellorder.net/\"], [\"r\", \"wss://relay.damus.io/\"], [\"r\", \"wss://nostr.mom/\"], [\"r\", \"wss://purplepag.es/\"], [\"r\", \"wss://eden.nostr.land/\"], [\"r\", \"wss://premium.primal.net/\"], [\"r\", \"wss://pyramid.fiatjaf.com/\"], [\"r\", \"wss://relay.nostrplebs.com/\"], [\"r\", \"wss://nostr.land/\"], [\"r\", \"wss://relay.snort.social/\"], [\"r\", \"wss://relay.primal.net/\"], [\"r\", \"wss://puravida.nostr.land/\"]], \"content\": \"i was thinking of \\\"Apache Spark\\\" not anything related to Lightning/L2 projects my apologies\", \"sig\": \"6687798ed2900ce81cc5c8ff22a7dce77e017b981fe328fbcb135349f3ae32a23f55617fdcc405299863f1b22d932c8981f2ac8d3ac1aa066499325227b764e9\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "8675ede5f35c6cd55edf76177e067393392e8938b48949f71e741167bcdf0f5e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "This is really good feedback I will explicitly supporting this shortly (ability to sign while offline)",
+  "created_at": 1772914189,
+  "tags": "[[\"e\", \"1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe\", \"wss://relay.damus.io\", \"root\"], [\"e\", \"830a79460f1ad6a9f8a221e88b0053527c0df6e6ce10e9ed74ec5ba81be66f3a\", \"wss://relay.snort.social/,\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"8675ede5f35c6cd55edf76177e067393392e8938b48949f71e741167bcdf0f5e\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1772914189, \"kind\": 1, \"tags\": [[\"e\", \"1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe\", \"wss://relay.damus.io\", \"root\"], [\"e\", \"830a79460f1ad6a9f8a221e88b0053527c0df6e6ce10e9ed74ec5ba81be66f3a\", \"wss://relay.snort.social/,\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]], \"content\": \"This is really good feedback I will explicitly supporting this shortly (ability to sign while offline)\", \"sig\": \"dd7fda2bca93f6e976e5cad362a93320ffc839df28c3ec26c467112e215fa870af968781f2c35547659d2d49c388b91718c7f1292fe4b5b330d845ec74798150\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

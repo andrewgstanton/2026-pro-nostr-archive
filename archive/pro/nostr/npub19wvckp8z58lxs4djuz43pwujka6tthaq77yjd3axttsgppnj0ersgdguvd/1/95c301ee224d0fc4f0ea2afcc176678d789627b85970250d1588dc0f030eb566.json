@@ -1,0 +1,13 @@
+{
+  "id": "95c301ee224d0fc4f0ea2afcc176678d789627b85970250d1588dc0f030eb566",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Very cool! ",
+  "created_at": 1779083134,
+  "tags": "[[\"e\", \"2bd4f52ab86205df9ad78ba50997743d00bb4648d47184eb38be29a2ed7ef1d5\", \"wss://relay.damus.io/\", \"root\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\"], [\"e\", \"b26505ed3f8a47150483c2f336b2a76ec5f28333e4643ec9f4a69cd5651ba822\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"95c301ee224d0fc4f0ea2afcc176678d789627b85970250d1588dc0f030eb566\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1779083134, \"kind\": 1, \"tags\": [[\"e\", \"2bd4f52ab86205df9ad78ba50997743d00bb4648d47184eb38be29a2ed7ef1d5\", \"wss://relay.damus.io/\", \"root\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\"], [\"e\", \"b26505ed3f8a47150483c2f336b2a76ec5f28333e4643ec9f4a69cd5651ba822\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"]], \"content\": \"Very cool! \", \"sig\": \"aa1b925f8a8ab7f2e19408df5ee61066065d81e4848b629aa55241a2d6d2325fc4362b371a06d96f49749240d3fabfd231c58fc066f1d766452aedd614d747cf\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

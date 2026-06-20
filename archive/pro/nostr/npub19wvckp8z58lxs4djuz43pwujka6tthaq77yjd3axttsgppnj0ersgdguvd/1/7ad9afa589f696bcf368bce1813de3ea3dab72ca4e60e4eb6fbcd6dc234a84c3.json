@@ -1,0 +1,13 @@
+{
+  "id": "7ad9afa589f696bcf368bce1813de3ea3dab72ca4e60e4eb6fbcd6dc234a84c3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "\nThat sounds interesting. What I’m building with Continuum operates at a slightly different layer.\n\nContinuum is a local-first publishing node that manages identity (npubs), signed content, relay distribution, and durable archives so authors maintain custody of their writing.\n\nYour approach sounds more like a verification layer anchored to Bitcoin for proving authorship and content lineage. In principle the two ideas could actually complement each other.",
+  "created_at": 1773426155,
+  "tags": "[[\"e\", \"5cba9520a3455ef77dd1f2bd441e6758f3505ed8d04bf313efc807106d228471\", \"\", \"root\"], [\"e\", \"f277356a50b2c7ed38d2f0588785d199a5c534483dbb490928b568ad40bc1ff1\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"7ad9afa589f696bcf368bce1813de3ea3dab72ca4e60e4eb6fbcd6dc234a84c3\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773426155, \"kind\": 1, \"tags\": [[\"e\", \"5cba9520a3455ef77dd1f2bd441e6758f3505ed8d04bf313efc807106d228471\", \"\", \"root\"], [\"e\", \"f277356a50b2c7ed38d2f0588785d199a5c534483dbb490928b568ad40bc1ff1\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]], \"content\": \"\\nThat sounds interesting. What I\\u2019m building with Continuum operates at a slightly different layer.\\n\\nContinuum is a local-first publishing node that manages identity (npubs), signed content, relay distribution, and durable archives so authors maintain custody of their writing.\\n\\nYour approach sounds more like a verification layer anchored to Bitcoin for proving authorship and content lineage. In principle the two ideas could actually complement each other.\", \"sig\": \"41da2288b4c137ac0fc0abcf49a251115bf314d428758e441911d236920b6d77f7a4fefbb29ec90b3f14ef0b283bce4c129ae3314c341e37ab2c35f8edcbd29f\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

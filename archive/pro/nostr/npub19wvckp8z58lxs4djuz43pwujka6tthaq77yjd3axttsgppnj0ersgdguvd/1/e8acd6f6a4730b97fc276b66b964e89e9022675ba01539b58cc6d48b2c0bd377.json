@@ -1,0 +1,13 @@
+{
+  "id": "e8acd6f6a4730b97fc276b66b964e89e9022675ba01539b58cc6d48b2c0bd377",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "We have the technology. We have had it for years.\n\n",
+  "created_at": 1778951819,
+  "tags": "[[\"e\", \"2bd4f52ab86205df9ad78ba50997743d00bb4648d47184eb38be29a2ed7ef1d5\", \"wss://relay.damus.io/\", \"root\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\"], [\"e\", \"b26505ed3f8a47150483c2f336b2a76ec5f28333e4643ec9f4a69cd5651ba822\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"e8acd6f6a4730b97fc276b66b964e89e9022675ba01539b58cc6d48b2c0bd377\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1778951819, \"kind\": 1, \"tags\": [[\"e\", \"2bd4f52ab86205df9ad78ba50997743d00bb4648d47184eb38be29a2ed7ef1d5\", \"wss://relay.damus.io/\", \"root\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\"], [\"e\", \"b26505ed3f8a47150483c2f336b2a76ec5f28333e4643ec9f4a69cd5651ba822\", \"wss://nostr.mom\", \"reply\"], [\"p\", \"528dac9790844ffdb277b9f76b2f5933b6fed73bc957d79fd73a5ad3368e5200\", \"\", \"mention\"], [\"p\", \"c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf\", \"\", \"mention\"]], \"content\": \"We have the technology. We have had it for years.\\n\\n\", \"sig\": \"554c7df0cbb080795b35928c7e02a1a8da770ec2f240dac9c20e5779d2954e5b0ca3466b2d7788d13d9d4b2d2b153cdf80ae1c37ab14bcae7b92fd89107274f0\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

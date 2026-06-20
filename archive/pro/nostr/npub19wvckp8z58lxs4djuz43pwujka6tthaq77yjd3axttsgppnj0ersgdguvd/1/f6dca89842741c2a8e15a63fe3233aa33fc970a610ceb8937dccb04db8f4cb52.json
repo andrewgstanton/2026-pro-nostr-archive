@@ -1,0 +1,13 @@
+{
+  "id": "f6dca89842741c2a8e15a63fe3233aa33fc970a610ceb8937dccb04db8f4cb52",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Sorry to hear about this\n\nWhine I am not an atheist I do believe very strongly in freedom of expression\n\n\n",
+  "created_at": 1772912770,
+  "tags": "[[\"e\", \"2689b447f934648cf7ece0e6511b43b34299659871e19a1740708914e42b9f60\", \"\", \"root\", \"be41636e3e6d2fe99e065200dc8a9034f9128064fdcd39b75a6983cae55c4909\"], [\"e\", \"210539decb627f99c738572ae1016d5eb7361a1479cb6ff58b230a710c97aaba\", \"\", \"reply\"], [\"p\", \"1402afd415158ba467f13de4022da5e02052bb6f1944736eb01f5ccbc45a505d\", \"\", \"mention\"], [\"p\", \"be41636e3e6d2fe99e065200dc8a9034f9128064fdcd39b75a6983cae55c4909\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"f6dca89842741c2a8e15a63fe3233aa33fc970a610ceb8937dccb04db8f4cb52\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1772912770, \"kind\": 1, \"tags\": [[\"e\", \"2689b447f934648cf7ece0e6511b43b34299659871e19a1740708914e42b9f60\", \"\", \"root\", \"be41636e3e6d2fe99e065200dc8a9034f9128064fdcd39b75a6983cae55c4909\"], [\"e\", \"210539decb627f99c738572ae1016d5eb7361a1479cb6ff58b230a710c97aaba\", \"\", \"reply\"], [\"p\", \"1402afd415158ba467f13de4022da5e02052bb6f1944736eb01f5ccbc45a505d\", \"\", \"mention\"], [\"p\", \"be41636e3e6d2fe99e065200dc8a9034f9128064fdcd39b75a6983cae55c4909\", \"\", \"mention\"]], \"content\": \"Sorry to hear about this\\n\\nWhine I am not an atheist I do believe very strongly in freedom of expression\\n\\n\\n\", \"sig\": \"ff1a1cd0a76085b20aae27a4b5540a4e43ec9ef905dc7bce5a061e3d92c39a99c8d434dc133c6a7f5434dcc83d5c209583f5c3901445199d8e5373c99a2a432d\", \"_source\": [\"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "81407c2464239bdde85f95235fd360b682ed75c8b6a112d79b682ef357ac1cbe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Ok",
+  "created_at": 1771963980,
+  "tags": "[[\"a\", \"30023:71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f:the-architecture-of-the-invisible\", \"\", \"root\"], [\"e\", \"7cb7668021d273ac6599eb3fffb0a07ae03ea7cf31ff6176d7628676031b2a27\", \"\", \"reply\"], [\"p\", \"71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"81407c2464239bdde85f95235fd360b682ed75c8b6a112d79b682ef357ac1cbe\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1771963980, \"kind\": 1, \"tags\": [[\"a\", \"30023:71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f:the-architecture-of-the-invisible\", \"\", \"root\"], [\"e\", \"7cb7668021d273ac6599eb3fffb0a07ae03ea7cf31ff6176d7628676031b2a27\", \"\", \"reply\"], [\"p\", \"71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f\", \"\", \"mention\"]], \"content\": \"Ok\", \"sig\": \"f13a14f11f1c77c37487d265b89eef8d9d3b24dd5b84ad563eeb7d8e006f8c65433d80db202ebe7ce3d8f88f48a7651e5e52be0321bdea1ba1b387e0d0ec40cc\", \"_source\": [\"wss://relay.primal.net\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

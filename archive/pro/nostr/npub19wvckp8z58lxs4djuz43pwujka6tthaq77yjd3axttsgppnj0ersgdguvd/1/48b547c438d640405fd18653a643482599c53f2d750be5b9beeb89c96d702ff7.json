@@ -1,0 +1,13 @@
+{
+  "id": "48b547c438d640405fd18653a643482599c53f2d750be5b9beeb89c96d702ff7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "I was think specifically about travelling and wanting to buy something in flight (like dinner!). \n\nAt keast with the airlines i have used (united Hawaiian airfrintier —dont ask :) — theydo not accept cash only creditand tgat history be set up ahead if time ",
+  "created_at": 1777072153,
+  "tags": "[[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"44ae102607c818c7d065dee73a7df064b4db5107a04bf57a53919d86f43a0606\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]]",
+  "source_relays": "[\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]",
+  "raw_json": "{\"id\": \"48b547c438d640405fd18653a643482599c53f2d750be5b9beeb89c96d702ff7\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1777072153, \"kind\": 1, \"tags\": [[\"e\", \"a3cb4a4493c2d6cae08f229d84e577b456709400f5d2d7b8c4cfd13960e4a266\", \"wss://relay.primal.net\", \"root\"], [\"e\", \"44ae102607c818c7d065dee73a7df064b4db5107a04bf57a53919d86f43a0606\", \"\", \"reply\"], [\"p\", \"b98ca798b832513f02a5faced514c0c6ef97e24648a33945f0851ecd2c8053b9\", \"\", \"mention\"]], \"content\": \"I was think specifically about travelling and wanting to buy something in flight (like dinner!). \\n\\nAt keast with the airlines i have used (united Hawaiian airfrintier \\u2014dont ask :) \\u2014 theydo not accept cash only creditand tgat history be set up ahead if time \", \"sig\": \"3087b45c97f423966171c0547e9ed34f30e915a18975f4fc877fcba0cf3d142b386cc77f21b127fed8766433834ab4156fad51cd3b1961838a97205b35486a2b\", \"_source\": [\"primal backup\", \"wss://nostr.mom\", \"wss://nos.lol\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

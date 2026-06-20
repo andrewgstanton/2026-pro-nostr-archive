@@ -1,0 +1,13 @@
+{
+  "id": "1f8632e0a948ed8928f89dfeffbbdd8b0ae2f94bfc058bc6e935387abfcdc711",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "At this point people will either download it and run it or they won’t.\n\nI have made the process as transparent and as simple as I possibly can\n\n",
+  "created_at": 1773435279,
+  "tags": "[[\"a\", \"30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:running-continuum--common-questions\", \"\", \"root\"], [\"e\", \"633cdd199386d08c6eb499e9e0e6b3c29df6e0cdd5ee187697236aa363206e10\", \"\", \"reply\"], [\"p\", \"cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"1f8632e0a948ed8928f89dfeffbbdd8b0ae2f94bfc058bc6e935387abfcdc711\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773435279, \"kind\": 1, \"tags\": [[\"a\", \"30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:running-continuum--common-questions\", \"\", \"root\"], [\"e\", \"633cdd199386d08c6eb499e9e0e6b3c29df6e0cdd5ee187697236aa363206e10\", \"\", \"reply\"], [\"p\", \"cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2\", \"\", \"mention\"]], \"content\": \"At this point people will either download it and run it or they won\\u2019t.\\n\\nI have made the process as transparent and as simple as I possibly can\\n\\n\", \"sig\": \"0fc819fa3848074ad08d78800b65b64d18142c215c0c572ee468b0c8ecdb038a057072bfa134ca6947a4a1e7e57c7ddc3e43ddd5c846b2b2b850545d5fc07de6\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

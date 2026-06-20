@@ -1,0 +1,13 @@
+{
+  "id": "2f46acb62ca3ccaef357cd26a7bc6841bf9deecb7cde358db69cc1f168b23e50",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "Could you set up spark to run as a local service ( on another port and even potentially in a docker image ? ",
+  "created_at": 1773423730,
+  "tags": "[[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"5d937f12aa2ede86ebe9492d227f772f6c022a8f7018a29f3fd6dc0b1e935cd7\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]]",
+  "source_relays": "[\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]",
+  "raw_json": "{\"id\": \"2f46acb62ca3ccaef357cd26a7bc6841bf9deecb7cde358db69cc1f168b23e50\", \"pubkey\": \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\", \"created_at\": 1773423730, \"kind\": 1, \"tags\": [[\"e\", \"ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e\", \"\", \"root\"], [\"e\", \"5d937f12aa2ede86ebe9492d227f772f6c022a8f7018a29f3fd6dc0b1e935cd7\", \"\", \"reply\"], [\"p\", \"62b6a6222a0f3f875f6e7a62835c881932f00632992ca0c6cce150260c8b505b\", \"\", \"mention\"]], \"content\": \"Could you set up spark to run as a local service ( on another port and even potentially in a docker image ? \", \"sig\": \"27a20a7d7012e3693ad2b1e07ad4cffde753ebe8d57559f9e8e0bbf73e2fa894843cbe32429c20a02f4ceac3dba20c48633961a2e54d36fde25448ea8fc42ce4\", \"_source\": [\"wss://relay.primal.net\", \"wss://relay.snort.social\", \"primal backup\"]}",
+  "archived": 0,
+  "archived_at": null,
+  "published": 1
+}

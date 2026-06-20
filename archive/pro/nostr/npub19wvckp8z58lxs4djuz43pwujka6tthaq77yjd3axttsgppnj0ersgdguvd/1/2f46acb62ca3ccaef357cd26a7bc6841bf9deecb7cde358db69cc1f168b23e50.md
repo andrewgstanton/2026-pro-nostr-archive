@@ -1,0 +1,1 @@
+Could you set up spark to run as a local service ( on another port and even potentially in a docker image ? 
