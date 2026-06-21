@@ -1,0 +1,19 @@
+{
+  "content": "just testing on this account (using relayop.xyz)",
+  "created_at": 1781979811,
+  "id": "02fb787a9c908f32a196cee8312c54cdcd779b6d79a8d0aa87991a13401c8a9b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6720890623bc7faf5eb1f92fa6280433518b8fa17bfc5acd45e68b045a4e642db987776939b0de116057cd89c736db038a6cdfc709e5596181daa36d8e8716af",
+  "tags": [
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

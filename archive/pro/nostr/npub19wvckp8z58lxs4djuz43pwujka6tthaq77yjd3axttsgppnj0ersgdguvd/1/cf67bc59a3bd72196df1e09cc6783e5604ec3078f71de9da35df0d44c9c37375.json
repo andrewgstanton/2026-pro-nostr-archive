@@ -1,0 +1,35 @@
+{
+  "id": "cf67bc59a3bd72196df1e09cc6783e5604ec3078f71de9da35df0d44c9c37375",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1781981798,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0",
+      "wss://relay.ditto.pub/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "a47724e8a74c0a542ebb45fe9ce8146b32a78227048d47d71d4117efed3a7038",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks !!",
+  "sig": "80dcab10709859b303bcfc2606fbba5d6be381dec19332223f9502154ebae571195c8d9ef467194242af03cafab4c2439547cf0e640b5e6f61d33833749ba66a",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

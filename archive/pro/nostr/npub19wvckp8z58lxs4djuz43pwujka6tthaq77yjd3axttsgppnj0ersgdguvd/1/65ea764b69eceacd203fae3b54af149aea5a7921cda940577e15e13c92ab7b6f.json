@@ -1,0 +1,19 @@
+{
+  "content": "Another test",
+  "created_at": 1781979950,
+  "id": "65ea764b69eceacd203fae3b54af149aea5a7921cda940577e15e13c92ab7b6f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "822c297ffd9f232186745378db39def7e1d2cf4cc8bb9f17dda1de7069c9b22f0b799ee7d07b3182c322903d28a7777ef98d879380946d1e8b29c38884a5fd79",
+  "tags": [
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

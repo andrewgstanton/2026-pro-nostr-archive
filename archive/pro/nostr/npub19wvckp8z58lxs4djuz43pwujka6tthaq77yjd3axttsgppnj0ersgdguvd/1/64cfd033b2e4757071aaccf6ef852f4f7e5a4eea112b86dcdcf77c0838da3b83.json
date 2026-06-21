@@ -1,0 +1,34 @@
+{
+  "content": "I will thanks !",
+  "created_at": 1781980265,
+  "id": "64cfd033b2e4757071aaccf6ef852f4f7e5a4eea112b86dcdcf77c0838da3b83",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e5ad78fb1936b620bc0df696182e4bf70803fbc9eca4b245e4d5ba35c40a2c1901db4d609195089b15177f5c3126834f9c7b471f0a707945bb8ba9e5550156e1",
+  "tags": [
+    [
+      "e",
+      "e964c1452ba3a05593504ed54ebccf1350f970848eb23e4ffcaa6bfc96e7fb8e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "106239448252d78fdda07a145bf797556dbdf65e1fa9807e58171a638872fe04"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

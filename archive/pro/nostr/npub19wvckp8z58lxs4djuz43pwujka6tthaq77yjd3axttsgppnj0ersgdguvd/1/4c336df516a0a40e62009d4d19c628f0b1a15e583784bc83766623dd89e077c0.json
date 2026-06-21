@@ -1,0 +1,21 @@
+{
+  "id": "4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1781981524,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "content": "just disabled my browser extension see if this still posts!",
+  "sig": "c4914b03077869ffa0054c511058bf14e722bf41c5df629e44a88b3ed4e7b936e9c271800192c3c1f28562f6eec96ac6ec2385b2f1d087e67246341dc921c2b4",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
