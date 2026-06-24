@@ -1,0 +1,30 @@
+{
+  "content": "These are fascinating ideas \n\n",
+  "created_at": 1782195562,
+  "id": "6650af874c54e947bc188e4d1d7dd17a255feeb50c73d69a1ee51ab25ff775fc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "69c1aac46e7467d9c10cc50de2376dfd0424fd9c5571933d558c1d3351900485bcc2bce20c414b61b2395ada5feb78eaeac68c289d89d5ac1d48fe3e576d1668",
+  "tags": [
+    [
+      "a",
+      "30023:e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d:ilY7mRAlzdvKRTJnwSHhX",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

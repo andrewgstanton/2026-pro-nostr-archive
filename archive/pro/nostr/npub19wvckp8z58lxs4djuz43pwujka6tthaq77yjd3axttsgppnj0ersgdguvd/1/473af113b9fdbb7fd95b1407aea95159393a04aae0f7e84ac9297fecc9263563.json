@@ -1,0 +1,29 @@
+{
+  "id": "473af113b9fdbb7fd95b1407aea95159393a04aae0f7e84ac9297fecc9263563",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782194707,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d:ZBOepFuZCvfvKWLIs7L0z",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I also enjoyed this article very much.\n\nYour points are spot on !!\n\n I really think Bitcoin is freedom money like you said but most do not care about freedom, preferring convenience and comfort.\n\nWould love to start building g a circular economy with Bitcoin\n\n\n",
+  "sig": "72ad6814703cf93843ab71794760f7cd3c7c37aa0f01257bbc032a1cb7b97c3a2dac28a095b80dccc259e795e2756e86b356e68999da800ca1f0bc81c30b1bb8",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

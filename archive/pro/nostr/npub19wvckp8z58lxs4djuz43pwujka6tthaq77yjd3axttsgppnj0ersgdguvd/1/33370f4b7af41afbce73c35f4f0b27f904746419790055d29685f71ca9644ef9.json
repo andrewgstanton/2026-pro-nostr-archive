@@ -1,0 +1,32 @@
+{
+  "content": "Thanks again!  It turns out I have to restart my application if I change the settings I use to disable or enable proxying through the browser extension",
+  "created_at": 1782013343,
+  "id": "33370f4b7af41afbce73c35f4f0b27f904746419790055d29685f71ca9644ef9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "797d3e968b3f1b8a82047a4384ecaebabc44a4b81655adf059d9f642509463b27410ce7381c6ce2c945552b70ab763d93d755e0248898008db6e66296ce4eacf",
+  "tags": [
+    [
+      "e",
+      "a47724e8a74c0a542ebb45fe9ce8146b32a78227048d47d71d4117efed3a7038",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

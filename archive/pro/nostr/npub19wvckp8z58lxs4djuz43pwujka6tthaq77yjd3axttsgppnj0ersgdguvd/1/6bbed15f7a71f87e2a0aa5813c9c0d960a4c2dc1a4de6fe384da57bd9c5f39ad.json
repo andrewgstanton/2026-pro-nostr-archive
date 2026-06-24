@@ -1,0 +1,23 @@
+{
+  "kind": 1,
+  "created_at": 1782018493,
+  "tags": [
+    [
+      "q",
+      "539377ebbac63921e53df2bd783d56d013c2c850eb1703271476b9810c2a98a5"
+    ],
+    [
+      "p",
+      "e3a59924933c9f9f2df83449055eb3858f1480fdd0c5edb95df08bedcd2e6624"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "There is a New Order arising ...\n\nnostr:nevent1qqs98ymhawavvwfpu57l90tc84tdqy7zepgwk9cryu28dwvpps4f3fgzyr36txfyjv7fl8edlq6yjp27kwzc79yqlhgvtmdethcghmwd9enzgqcyqqqqqqgffhcqy",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6bbed15f7a71f87e2a0aa5813c9c0d960a4c2dc1a4de6fe384da57bd9c5f39ad",
+  "sig": "65b454033250d0d979e8a27384fd9f072a5c7505550abd5f902dd8b3acab6a41076b0e2ea63a40806bdf8cbfbf8504e8b5e687cdedbd1056a191b4ed26d70dc2",
+  "published": 1
+}

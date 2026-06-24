@@ -1,0 +1,32 @@
+{
+  "content": "Thanks again!.  Turns out I have to restart the application if I change any settings for connecting to the browser extension",
+  "created_at": 1782013464,
+  "id": "774524f85c9f6d497646f5ca97a78f5684a320111450ac01ccc2dc1424bf1c56",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "923fd1eaedbaf9fa2a82ddcba89e10f2f538fbf1e511f000f62decf5076e4ff8aacd3677421519bbfdb38841c52cd871c56e5eb9b5f429f6a24505e7945095c6",
+  "tags": [
+    [
+      "e",
+      "a47724e8a74c0a542ebb45fe9ce8146b32a78227048d47d71d4117efed3a7038",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

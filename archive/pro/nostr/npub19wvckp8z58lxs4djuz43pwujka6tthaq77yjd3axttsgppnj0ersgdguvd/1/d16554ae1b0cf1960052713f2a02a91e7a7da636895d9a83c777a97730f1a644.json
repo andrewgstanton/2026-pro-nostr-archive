@@ -1,0 +1,28 @@
+{
+  "id": "d16554ae1b0cf1960052713f2a02a91e7a7da636895d9a83c777a97730f1a644",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782021398,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2:rss-d08ed7823beb267a",
+      ""
+    ],
+    [
+      "p",
+      "cff1720e77bb068f0ebbd389dcd50822dd1ac8d2ac0b0f5f0800ae9e15c7e2b2",
+      "",
+      "Elch"
+    ]
+  ],
+  "content": "This is a really excellent illustration of the insanity of KYC-AML legislation!  Danke Sehr!\n\nnostr:naddr1qvzqqqr4gupzpnl3wg880wcx3u8th5ufmn2ssgkartyd9tqtpa0ssq9wnc2u0c4jqq28yumn94jrqwr9vsmnsv3nvfjkyv3kxassk0vv9n",
+  "sig": "d339773e16f89878d2d5f388c8e6eb609ed5ee32f03f48909ca1dd988cc10faf10e0822f2ab0fde34ccf6be9cb45c883a3abd13e5eec0fe7409b6eb588be1113",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

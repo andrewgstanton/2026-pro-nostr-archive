@@ -1,0 +1,23 @@
+{
+  "kind": 1,
+  "created_at": 1782014879,
+  "tags": [
+    [
+      "q",
+      "539377ebbac63921e53df2bd783d56d013c2c850eb1703271476b9810c2a98a5"
+    ],
+    [
+      "p",
+      "e3a59924933c9f9f2df83449055eb3858f1480fdd0c5edb95df08bedcd2e6624"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "It's The New Order!!",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "2ff5cdde8b53054a8d70ac3aad8f05228bbae52a7ba025c92a62675d64d66f9c",
+  "sig": "6cda97b82a685c505f9dee0e2316c42c470e9394012ba99f800c681c381b9d0dc4fbedea39fec2ef5c84e00c7b33771671c6a0cc1d4a34e14d12c50bfd6e556f",
+  "published": 1
+}

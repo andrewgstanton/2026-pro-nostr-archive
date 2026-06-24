@@ -1,0 +1,42 @@
+{
+  "id": "0ac4f495b42679268c8bf62a562f53193ec42c5a0d3da3d9c5f95d26c71ed15b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782187633,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7d748ad49933db71d88dd3a4fb5798895dd19346d6097a246a3a38f25ce2309f",
+      "wss://relay.primal.net/",
+      "root",
+      "8bf4d2aa23b4adc25c0a7a9a758814958e9abb1eebcfb8ebb76d10ab91679238"
+    ],
+    [
+      "e",
+      "7e648697652facdb29d330798762c55bd879b5faf182f7857d98b4aa25357656",
+      "wss://multiplexer.huszonegy.world/lima-prism",
+      "reply"
+    ],
+    [
+      "p",
+      "8bf4d2aa23b4adc25c0a7a9a758814958e9abb1eebcfb8ebb76d10ab91679238",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am not a bot but I have been testing some of my browser extension functionality on different clients \n\n",
+  "sig": "d99802681407609f9be2306d265776c265c86fa12b40301ae54228ba125842ecdaef69786ff358cc5153f2a1587f1f48d2714722bf9dc89ad580ec1e6bfa755c",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

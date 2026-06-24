@@ -1,0 +1,30 @@
+{
+  "content": "I run Bitcoin knits too.  I will see if I can duplicate some of this.\n\nThanks for sharing ",
+  "created_at": 1782195183,
+  "id": "001ec9bcb658d6fdaaff37dc04815ca5b145cdbe3a521ed1dd22e5ee58871cbe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "269e16fb74bd7af39f800d146d570fef2e0f310581e4e1ce887534e6468e3bbdf9430b25c46749f3b7b7586c8041915edea879538c088e95714ae9f217348de4",
+  "tags": [
+    [
+      "a",
+      "30023:e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d:WYDKI0QzG9AEla7oOcbZ_",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

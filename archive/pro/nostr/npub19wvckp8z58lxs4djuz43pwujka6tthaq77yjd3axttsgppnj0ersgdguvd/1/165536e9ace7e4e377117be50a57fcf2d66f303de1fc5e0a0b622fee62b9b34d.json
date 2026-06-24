@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "created_at": 1782013585,
+  "tags": [
+    [
+      "e",
+      "a47724e8a74c0a542ebb45fe9ce8146b32a78227048d47d71d4117efed3a7038",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Thanks again!  Turns out I have to restart the application if I change any settings related to connecting the browser extension I use",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "165536e9ace7e4e377117be50a57fcf2d66f303de1fc5e0a0b622fee62b9b34d",
+  "sig": "8884822465c3a51f140a88db464ee938ac5eac6b11c4c2d0901b3ce8bed4f6cda7b5ce15f5ce1240f63e9b679362c222a214575d9a448051e86a12807b859645",
+  "published": 1
+}

@@ -1,0 +1,23 @@
+{
+  "kind": 1,
+  "created_at": 1782019634,
+  "tags": [
+    [
+      "q",
+      "5f76e769c7e686dd36718f298de770f7283a1674e0318d02b4061ce931bf1c0f"
+    ],
+    [
+      "p",
+      "13bc95d921c8b6b26cf35494964daf86f9312fe50924483d266827979d80897d"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I think people love what is comfortable and convenient\n\nnostr:nevent1qqs97ah8d8r7dpkaxecc72vduac0w2p6ze6wqvvdq26qv88fxxl3crczyqfme9wey8ytdvnv7d2ff9jd47r0jvf0u5yjgjpaye5z09uaszyh6qcyqqqqqqg0k8mtr",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "193dbcddc401a089e9bb8d6747c13aeafab60901a6e8a195a368875642804ba0",
+  "sig": "84447f04a887ee26e6cc176183e04206ccc24300b94728de74d8c251fe9f75cfb13dc07787326cc420f831da456ad21260db7cdcb8c32a6ed661979dc1574ff0",
+  "published": 1
+}

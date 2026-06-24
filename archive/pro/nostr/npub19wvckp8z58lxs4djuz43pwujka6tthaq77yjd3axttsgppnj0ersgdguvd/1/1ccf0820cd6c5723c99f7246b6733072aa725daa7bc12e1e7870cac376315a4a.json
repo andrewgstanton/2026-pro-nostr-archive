@@ -1,0 +1,83 @@
+{
+  "id": "1ccf0820cd6c5723c99f7246b6733072aa725daa7bc12e1e7870cac376315a4a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782262450,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a4dd5a896cf6317b47d4afbadbd47a26ffa41776695a9ddf66e117e6c4e122d4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2d9873b25bf2dda6141684d44d5eb76af59f167788a58e363ab1671fefee87f2"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "But my vibe coded app is cool man really it is !",
+  "sig": "7e6ebcec245d5a89711eda9d43ee0406df0b33dddfc6e2e3bebafceea9f09029d9d6726dceb70eb0bcc6fd01e31cf357642fc3a50210cdd327e975c0fdc6af58",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

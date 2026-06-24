@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "created_at": 1782179807,
+  "tags": [
+    [
+      "e",
+      "dfd08ce7a860a70af9f781293bb00edc900a01f3d8b62e9be153acfcc2f785fe",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Yes indeed!!",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "d5a56f115249a2028ba9d814e3a8d2065c5068f2475b11d6dd0fad45939e32dc",
+  "sig": "b0823c0e54b0518c8f32d5f7680f1eb6d8a9e69ce46ff2bea10a400a4e508759e524f0c9abb0c2ed3aef0ae13824ffc303921a7ba3be15afce11ed196fd728d5",
+  "published": 1
+}

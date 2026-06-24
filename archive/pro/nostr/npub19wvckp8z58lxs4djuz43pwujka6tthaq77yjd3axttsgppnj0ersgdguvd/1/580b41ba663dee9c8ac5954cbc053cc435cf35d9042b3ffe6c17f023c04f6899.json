@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1782179775,
+  "tags": [
+    [
+      "e",
+      "dfd08ce7a860a70af9f781293bb00edc900a01f3d8b62e9be153acfcc2f785fe",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "And they will think you are the crazy one!!\n\nnostr:nevent1qqsdl5yvu75xpfc2l8mcz2fmkq8deyq2q8ea3d3wn0s48t8uctmctlspzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg80ukausdzcqm5w7ncl0ju0plqqzj5twsm2pgralkhfmvnfwad7mypsgqqqqqqspg6ngk",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "580b41ba663dee9c8ac5954cbc053cc435cf35d9042b3ffe6c17f023c04f6899",
+  "sig": "9cb603c2b58f59997d6b0da12caf1b979f870adedc464cd24976ddbee8b5a4d284e4ab9dab67daf6c18a71832231ac702dd9865fc6f107c494c651db6c4f13cd",
+  "published": 1
+}

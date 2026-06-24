@@ -1,0 +1,84 @@
+{
+  "id": "9f650343b5361285bff413eca6e2e617424698663b635ae43d8bea2f6cf6fc8d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782109988,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ToChristAlone"
+    ],
+    [
+      "e",
+      "e1ed2e796cda8b3405acb8956da363d72d6b9e71600ac4d028595f8b40e5fd3e",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Yes ! Amen!\n\n(But hard to do -- impossible actually without God's grace)\n\nIndeed\n\n#ToChristAlone\n\n\nnostr:nevent1qvzqqqqqqypzqdtgwhlaw2dsdm45c8t6wzslw5qyt5r8waxjrs86llj272ledghgqqswrmfw09kd4ze5qkkt39td5d3awtttneckqzky6q59jhutgrjl60shxzmwf ",
+  "sig": "b79f2c990aaf21d47b8233708b0ae559269bca73aed7f1bdaa12cde58d4600b591bc0cf70cc840d2832ba0c533d541b58fa573b0fc42924e6fdd4a8461c875ea",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

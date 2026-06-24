@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1782020308,
+  "tags": [
+    [
+      "e",
+      "1747b7860cbb705e1582410b7eafeaa532cbd382f622ac1dab166e93af5d72a7",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Yes! My (shorter) experience over the last year is similar.\r\n\r\nHard to fathom.\r\n\r\nThe very thing that attracted me to Nostr was in fact its decentralization.\n\nnostr:nevent1qqspw3ahscxtkuz7zkpyzzm74l422vkt6wp0vg4vrk43vm5n4awh9fcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygzt26alg8yjukrw3zf84jmcsdhtf8etrpqgrmu9ycju779704tt6cpsgqqqqqqsze8duf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "03cc4a9473d0d7ad77636319682acfd2b6158774270290c2bcc2c40d968366af",
+  "sig": "68af929202599f2b9b691b6e7b0c57ce63f6049ab367ff115323592d4575fab4e25c4cc8e76f6c56b12f9f7da4db3c8aacfd5c83f864b41e37a877da02f63c62",
+  "published": 1
+}

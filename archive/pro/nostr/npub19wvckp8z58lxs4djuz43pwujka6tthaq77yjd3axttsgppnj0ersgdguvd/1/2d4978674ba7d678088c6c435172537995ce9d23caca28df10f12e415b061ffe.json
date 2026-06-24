@@ -1,0 +1,29 @@
+{
+  "id": "2d4978674ba7d678088c6c435172537995ce9d23caca28df10f12e415b061ffe",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1782066761,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:51680667a90772f0e1b9f7e2bd5f3d5cd9726d799bfe1f3d3d0eecdb4a3f5cdb:have-no-fear-of-them-matthew-1016-33",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "51680667a90772f0e1b9f7e2bd5f3d5cd9726d799bfe1f3d3d0eecdb4a3f5cdb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Powerful words !!! This was very encouraging to me this morning \n\nThank you and thank the Lord for this good message !",
+  "sig": "eeba210cee662ad5df44491c8d7b7f6a10948e9a3d2938e79ad18b9dfaa03112c70c20ed82e871c694e041949b8cbaa0abdd14c7155742562f36dc05d70169fe",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
