@@ -1,0 +1,27 @@
+{
+  "content": "Morning spent 2-3 hours trading this morning (9-noon) $466 in gains.\n\n10% in BTC transferred to Ledger\n\nThinking about what I should build next for Continuum",
+  "created_at": 1782170620,
+  "id": "daedfdc70a3700908398ebbe6cee335210d172df0cb52530dade7cc49983a8db",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "44d7723e63c56d9bf5f9eadc27633e596fd1545903f48f3f0fecb222a187a5fc7784f081530cf95f5c6642bba37c6fa61e2aab1e733044bec01f059b5df2623c",
+  "tags": [
+    [
+      "d",
+      "builder-journal---monday-june-22-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Monday, June 22, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
