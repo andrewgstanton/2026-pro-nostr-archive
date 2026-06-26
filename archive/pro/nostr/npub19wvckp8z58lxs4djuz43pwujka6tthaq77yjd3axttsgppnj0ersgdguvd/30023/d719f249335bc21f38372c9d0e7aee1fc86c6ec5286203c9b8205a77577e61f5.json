@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1782278765,
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-june-23-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, June 23, 2026"
+    ],
+    [
+      "published_at",
+      "1782278765"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-06-23"
+    ],
+    [
+      "e",
+      "85aedd6e07a58c58d17d4bf507fa95f5629e1b618980b70d8914cb3373b05915",
+      "edit"
+    ]
+  ],
+  "content": "Traded for about 3 hours in the morning. Total gains of about 530 today.\n\nTook Whiskers out in the morning around 9:00.  \n\nAs I have been doing since early June, I put my 10% of my trading gains into Bitcoin\n\nIt's become very mechanical now and I feel almost no emotion doing this anymore\n\ntake 10% of the earnings -> deposit to Coinbase -> buy BTC -> transfer to Ledger\n\nI should feel good about this but I feel nothing.\n\nIn the evenings I have adding more detail to the threaded feature in Continuum --\nlast night I got the reply and quote to work and also \"saved for later\" (so I can edit or respond at another time -- saved reply is signed but not published.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "d719f249335bc21f38372c9d0e7aee1fc86c6ec5286203c9b8205a77577e61f5",
+  "sig": "feb3220e6df336b456379f97b0c26fada97aa2a5705fcff1117bccce132b9526400d7ff1e0ebceb2e05725cbb2ddd79da135d433604edb3d2729c5ce2c31965a",
+  "published": 0
+}

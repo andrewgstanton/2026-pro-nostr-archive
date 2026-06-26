@@ -1,0 +1,31 @@
+{
+  "content": "The main thing I did was test and then I released v1.6.8.2 this afternoon updating the links on mycontinuum and updating the download links\n\nI started thinking about how to include threads for event in the timeline.",
+  "created_at": 1782279154,
+  "id": "db914fe9f1842109032b72ba00bb3ee95380b934f7da87ebade3a8aef8f8556a",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e7c7448c089c49e368d2a92ff553a103a303bb614cb62922b2939cfdb915c5db9099ce6c14634b92d34fb68bb08c138582d4933d6f46dacdf25673be879e94e1",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-june-14-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, June 14, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-06-14"
+    ]
+  ],
+  "published": 0
+}
