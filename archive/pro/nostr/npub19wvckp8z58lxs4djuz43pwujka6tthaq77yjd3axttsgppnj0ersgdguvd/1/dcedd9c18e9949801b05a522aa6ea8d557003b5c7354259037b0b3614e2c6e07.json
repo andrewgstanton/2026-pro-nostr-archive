@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1782349526,
+  "tags": [
+    [
+      "e",
+      "0eae5e49afdbc0e5bedfde28ad3ed95145fc3137cfbae9f8866c96bef9700d31",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I agree w/ the idea but how would he prioritize shareholder's self-ownership specifically ?\n\nnostr:nevent1qqsqatj7fxhahs89hm0au29d8mv4z30uxymulwhflzrxe947l9cq6vgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9qe0jv4ypwvdjlj2hvfkt5kqzccrmf3fg0elvelvn0ssz0f69fzvpsgqqqqqqsdcdem3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "dcedd9c18e9949801b05a522aa6ea8d557003b5c7354259037b0b3614e2c6e07",
+  "sig": "1ba776f86327d817820659d3b703535987a74722fff1fe82c89649484bc68ffd2125f0dcf696c62161eac3736861e5c5cd0a18d00026b1b6faa0433205d6f3a1",
+  "published": 1
+}

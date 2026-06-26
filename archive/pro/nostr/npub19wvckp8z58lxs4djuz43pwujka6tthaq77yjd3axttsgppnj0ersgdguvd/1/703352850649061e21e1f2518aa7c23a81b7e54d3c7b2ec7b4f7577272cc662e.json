@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "created_at": 1782351454,
+  "tags": [
+    [
+      "e",
+      "2832759128884a0ad373f34b2d3e8db5f1778aec8a88b99097a6ce5f0835f113",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I will check it out! Thanks Guy !",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "703352850649061e21e1f2518aa7c23a81b7e54d3c7b2ec7b4f7577272cc662e",
+  "sig": "bdd8a3b272e8b886635b8983eea1262a906a9c91da9422f148fc5413bade7d85feb0cea959ff711111105efe3db7b4808615ab1667e083aceeb4d326aef14bd2",
+  "published": 1
+}

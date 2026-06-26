@@ -1,0 +1,33 @@
+{
+  "content": "Yes! Very important.  Nostr really is different.\n\nnostr:nevent1qqsyc5h9l5xqsxpr4d8u8jxetsrkmjxk7xvzkzemud9jgvathsv8kdgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9qe0jv4ypwvdjlj2hvfkt5kqzccrmf3fg0elvelvn0ssz0f69fzvpsgqqqqqqsw56lz6",
+  "created_at": 1782277087,
+  "id": "818dc911af87e44ce98db99446160e047face6e0ae75133f5f580f5afd1c5c76",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5b525928f5c850efa3f69c2de209337887896e76f306ed6a8b83b527d103da48e1ec17b920c84f9c2767754f5874449a3ddf84538a151fb610b70827129d3214",
+  "tags": [
+    [
+      "e",
+      "4c52e5fd0c081823ab4fc3c8d95c076dc8d6f1982b0b3be34b2433abbc187b35",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

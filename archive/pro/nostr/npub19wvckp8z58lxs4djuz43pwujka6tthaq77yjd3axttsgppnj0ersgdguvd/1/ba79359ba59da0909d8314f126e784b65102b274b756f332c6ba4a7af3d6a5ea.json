@@ -1,0 +1,37 @@
+{
+  "content": "Could not have said it better myself\nnostr:nevent1qqszz54s7nm8r3slvwwsz94jygssext03pqrcprnzms9435mtwd9n4gpr4mhxue69uhkummnw3ez6er9wch8wetvd3hhyer9wghxuet5e6c749",
+  "created_at": 1782360672,
+  "id": "ba79359ba59da0909d8314f126e784b65102b274b756f332c6ba4a7af3d6a5ea",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "290c01111048ec0729568913bd1eb56ab81cfaf4c89c39026e6e2181d318a09c018b8ffe68b702614d2c556bfe20dcfe2331b14aef546f5adea3e894fbf36f67",
+  "tags": [
+    [
+      "e",
+      "2152b0f4f671c61f639d0116b222210c996f88403c047316e05ac69b5b9a59d5",
+      "wss://nostr-dev.wellorder.net",
+      "mention"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3b7fc823611f1aeaea63ee3bf69b25b8aa16ec6e81d1afc39026808fe194354f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
