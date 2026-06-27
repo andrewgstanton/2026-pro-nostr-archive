@@ -1,0 +1,1 @@
+Continuum has full drafts for both notes and articles, but I like how you list the drafts on the sidebar... Will you support long form posts (30023) ?

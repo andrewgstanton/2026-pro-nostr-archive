@@ -1,0 +1,42 @@
+{
+  "content": "Not much really to be honest.\n\nIt’s very difficult.\n\n",
+  "created_at": 1782581084,
+  "id": "f7e5a11a9b5415c244c7190382f02daccb5aa5854392a7a93ffdb5ed8397dfdb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3d33a037c7b7480438236aba3bd94052f67f3422f036dd8ccfc97b7593095712f1a2dd350be964c552b129894bb70c833ff447500744859d6dc50f080d3aa86f",
+  "tags": [
+    [
+      "e",
+      "3d5537f6e0380046fd9d0645522f11e7a198872af01b620a94c6316d7e94ad1a",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "afa848969d317b5ea799293440f66b1b2a1e76d6640c31868b75543c127d6ed7",
+      "wss://relay.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8d468694fe3b294afa71271ed409fbfe061caedebe307992a1308696ef7fa9f4",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

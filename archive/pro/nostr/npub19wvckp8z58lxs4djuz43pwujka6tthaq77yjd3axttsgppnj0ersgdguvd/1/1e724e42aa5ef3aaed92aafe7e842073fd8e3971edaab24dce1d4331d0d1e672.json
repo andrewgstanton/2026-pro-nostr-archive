@@ -1,0 +1,30 @@
+{
+  "content": "Long form posts (or articles) are kind 30023, notes are kind:1\r\n\r\nI spent a lot of time building out support for long form publishing in Continuum\r\n\r\n(not vibe coded but did use AI a lot to help build it)...\r\n\r\nReally cool that this app was vibe coded.\r\n\r\nSend pictures of your time in Thailand!\r\n\r\nShould be a blast!",
+  "created_at": 1782579393,
+  "id": "1e724e42aa5ef3aaed92aafe7e842073fd8e3971edaab24dce1d4331d0d1e672",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "95fb22347324896f84c9721f22c95a2768313863ddcb88bec527beb1a47e1f07c6f371d5a41051b71a2cadd253300886734659332ce1e980fac113d2fb94b070",
+  "tags": [
+    [
+      "e",
+      "264b5325cf40cd7bd6f128c084fc0b50e9dbb2735fe6426685488f35cad87236",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

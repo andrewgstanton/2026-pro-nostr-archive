@@ -1,0 +1,28 @@
+{
+  "content": "Very nice -- Continuum also runs in Docker. (one of the options)\n\nyou can also download it as a native app\n\nhttps:/mycontinuum.xyz",
+  "created_at": 1782581536,
+  "id": "2ab25796f99f4f5afe31989c0221b1a3144cb05f98e9ae76afd1499a371d2bd2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "20923d21fce359786b93421cdd192e37dd2952386b51e641bca575f297480b86df6d009dfa035a0a43e81fb5e37755a8cbad9afb91421efa35a943223703c91d",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

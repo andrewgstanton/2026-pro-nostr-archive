@@ -1,0 +1,32 @@
+{
+  "content": "Yep I know :) ... !  \r\n\r\nMy wife uses Instagram (part of Zuk's empire) and Tik-tok a lot.\r\n\r\nI had a realization yesterday though that Continuum really isn't (just) another Nostr client (though it is that)\r\n\r\nit's a \"local-first identity workspace\".",
+  "created_at": 1782579989,
+  "id": "c69b08639c3bf38bd3006adc8ca401b4c2a2921aa005e73469b86b0d476a0e92",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d6b371533a64c488bdc84ff6fa012582e71db14d0cd2772e2b8d99d1d030b31a62c279bec8e92f926cc2c802fe617466867f0e06f7cd51725ec697a45bbddab5",
+  "tags": [
+    [
+      "e",
+      "ca9885d6bc5ec35e85f1208e524c4e333acf5110ffdce0146cc448873fe00260",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

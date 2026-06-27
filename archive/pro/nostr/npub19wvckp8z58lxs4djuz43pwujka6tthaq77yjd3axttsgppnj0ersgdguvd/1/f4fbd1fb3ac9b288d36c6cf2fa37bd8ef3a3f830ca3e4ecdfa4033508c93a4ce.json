@@ -1,0 +1,38 @@
+{
+  "content": "Continuum has full drafts for both notes and articles, but I like how you list the drafts on the sidebar... Will you support long form posts (30023) ?",
+  "created_at": 1782578769,
+  "id": "f4fbd1fb3ac9b288d36c6cf2fa37bd8ef3a3f830ca3e4ecdfa4033508c93a4ce",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f248d411ee81e74b52dec189b8253e157a115a1cd093cdda368dc09d8d06ccfb6a98ea1d9bf8c48efbe8acc733f742a1f65646ea2a1f064e3392f29d1fc2eb4a",
+  "tags": [
+    [
+      "e",
+      "118671b1f396b4fcf2aec11fe683d4c53cd63d45e6295d58bf45e9e125cd8670",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ed2d1452dc7d43cb9ccbaa9514da1032738e49b1e9c989e889e93dd75c3ec9b5",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

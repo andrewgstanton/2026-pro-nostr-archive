@@ -1,0 +1,42 @@
+{
+  "content": "Yes I agree \n\nI will definitely check it out !!\n\n",
+  "created_at": 1782581950,
+  "id": "d0fd1fa9b0fb86c0753ee291c654cd01ae3de80cd2f32e2110b7db3352aefd2c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "65298d8c31584e1baa43ebf76a314121910d03348fdf2b01d39730eaae341aa24daa54dc41994fb8eb70dbd72c528bcb11c93c97b5206f3f7875f828407f6d0f",
+  "tags": [
+    [
+      "e",
+      "3d5537f6e0380046fd9d0645522f11e7a198872af01b620a94c6316d7e94ad1a",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "afd0e5ad438b3c202f6d69f04df3c5abcd94a81de031ff196ab41470a07fba17",
+      "wss://offchain.pub",
+      "reply"
+    ],
+    [
+      "p",
+      "8d468694fe3b294afa71271ed409fbfe061caedebe307992a1308696ef7fa9f4",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

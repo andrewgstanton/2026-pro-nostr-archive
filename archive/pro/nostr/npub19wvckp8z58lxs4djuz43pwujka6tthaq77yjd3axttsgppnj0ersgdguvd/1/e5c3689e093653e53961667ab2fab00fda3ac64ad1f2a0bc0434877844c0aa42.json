@@ -1,0 +1,45 @@
+{
+  "content": "I am able to run 0.0.0.0:5000 (for continuum -- though this is the native build not in docker)\nhttps://media.poster.place/604070e2873d27bf708b752887cd12ea65f1636b9d527eb43b6e4cc5ece4a56a.png",
+  "created_at": 1782587081,
+  "id": "e5c3689e093653e53961667ab2fab00fda3ac64ad1f2a0bc0434877844c0aa42",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "27f01633b359e8b9ce6536ecc3e36c43340e84834c74243f9721527c82d7cc5844fb6521cdd88950b347cbe6f97081cf83b005b7ded70dc6be57a9f5595da730",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "c4545f6ca52fdc9b4687cc5a14954ab0ba1191e331aa82f2c19de2d37493129b",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/604070e2873d27bf708b752887cd12ea65f1636b9d527eb43b6e4cc5ece4a56a.png",
+      "m image/png",
+      "dim 2344x1542",
+      "x 604070e2873d27bf708b752887cd12ea65f1636b9d527eb43b6e4cc5ece4a56a"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
