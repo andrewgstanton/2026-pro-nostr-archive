@@ -1,0 +1,39 @@
+{
+  "content": "6/25/2026 — Software Should Age Well\n\nOne of the ideas behind Continuum is that software shouldn't just work today—it should still be useful years from now.\n\nThat means thinking about portability, durability, versioning, and making it possible to recover from mistakes without losing your work.\n\nFeatures come and go.\n\nA solid foundation lasts.\n\n#Continuum #LocalFirst #SoftwareEngineering #Nostr",
+  "created_at": 1782457496,
+  "id": "06185f7832e0ef9a6354dcaa753e722dff5a3d7c705106c26efb92f2f3bfcfc3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "722a0ed5775beb2ab754fb7f65a443030835aaca2f1bbea13706e93d1d71277d15a53f5f82b6caff8b6007a7094b30319f9f78b23860bfed3a382cca535cab32",
+  "tags": [
+    [
+      "d",
+      "note-1782457496"
+    ],
+    [
+      "published_at",
+      "1782457496"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "softwareengineering"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "published": 1
+}

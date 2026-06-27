@@ -1,0 +1,39 @@
+{
+  "content": "6/25/2026 — Describing Continuum\n\nI attended a Small Business Expo today and had several conversations about Continuum.\n\nThe interesting part wasn't explaining how it works technically—it was finding language that people could immediately relate to.\n\nThe description that seemed to resonate best was:\n\nSomewhere between a password manager and a place to manage your identities.\n\nIt's not the complete picture, but it's a useful starting point for explaining a much broader vision.\n\n#Continuum #Identity #Nostr #Startups",
+  "created_at": 1782457348,
+  "id": "9f1bfe33296ef0637c191bffca89d42762f4a21b78f2e5a1f6b3c0b24dfeff9b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2daa3d4d502640ac3ffcb6828771c1bc6086b2988ec841a54c3826207701babe095c2f9cb61d37cb896d579a6e78dffff800acda8d59d0ce12a1168c4a461dc9",
+  "tags": [
+    [
+      "d",
+      "note-1782457348"
+    ],
+    [
+      "published_at",
+      "1782457348"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "startups"
+    ]
+  ],
+  "published": 1
+}

@@ -1,0 +1,43 @@
+{
+  "content": "6/25/2026 — Continuum Was Never Meant to Be Another Nostr Client\n\nThere are already excellent Nostr clients.\n\nThat was never really the problem I wanted to solve.\n\nContinuum is using Nostr as infrastructure, not as a destination.\n\nPublishing notes, articles, profiles, and interacting socially are important, but they're only part of a much larger picture.\n\nI'm interested in giving people ownership over their identities and data, regardless of which application they happen to be using.\n\n#Continuum #Nostr #OpenProtocols #DigitalIdentity #Sovereignty",
+  "created_at": 1782456965,
+  "id": "3bc128a20717add6c1ee9854f39dded5a85931c993467a0c7e3766e0502f4d9a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "25264cda62d3dcbce0ee6c0a48eaf5ddb01af3716e8d16433e5ba26ce253920530ce6d470ccb6c041daf0119d030acfb9b87364257438d7931c6ffe9d1f6b1c8",
+  "tags": [
+    [
+      "d",
+      "note-1782456965"
+    ],
+    [
+      "published_at",
+      "1782456965"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ],
+    [
+      "t",
+      "digitalidentity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "published": 1
+}

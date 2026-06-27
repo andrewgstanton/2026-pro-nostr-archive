@@ -1,0 +1,39 @@
+{
+  "content": "6/25/2026 — Progress Isn't Always Visible\n\nToday wasn't about adding a big new feature.\n\nIt was about improving migrations, making the archive queue idempotent, eliminating duplicate work, and making synchronization more reliable.\n\nNone of those changes are particularly exciting to look at.\n\nBut they make the foundation stronger.\n\nSometimes the most important work is the work no one notices.\n\n#Continuum #BuildInPublic #SoftwareEngineering #LocalFirst",
+  "created_at": 1782457035,
+  "id": "3bab5d9ae15d8cd8b11ae62508a87f05a0278885782c24db4d72f0220d8ce11e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "42f5d620c4b360c10e60c97ba287a13d4aaeda69829e5ce388112ffa34666898fd5a5f431099af42591ac17fbd38960c3fe1668739105a4f8edce7af161a0ea7",
+  "tags": [
+    [
+      "d",
+      "note-1782457035"
+    ],
+    [
+      "published_at",
+      "1782457035"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "t",
+      "softwareengineering"
+    ],
+    [
+      "t",
+      "localfirst"
+    ]
+  ],
+  "published": 1
+}

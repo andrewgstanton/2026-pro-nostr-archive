@@ -1,0 +1,43 @@
+{
+  "content": "6/25/2026 — Identity Before Applications\n\nThe more I work on Continuum, the less I think about applications.\n\nApplications come and go.\n\nIdentity persists.\n\nIf I change browsers, operating systems, Nostr clients, or even protocols, I don't want to rebuild who I am each time.\n\nSoftware should adapt to my identity.\n\nNot the other way around.\n\n#Continuum #Identity #SelfSovereignIdentity #LocalFirst #Nostr",
+  "created_at": 1782456904,
+  "id": "4da1ce313eabbc57a1835bbf2d7f40b277accda668dc67042bc77bc8f9d93597",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d35416f32ab4b0d28df246c5c3e6c09880284183de28e25e1f4dae655338560e55c799009def64092be019222efe7ba45297a1b7ca39c63f2a51eaaa68adddaa",
+  "tags": [
+    [
+      "d",
+      "note-1782456904"
+    ],
+    [
+      "published_at",
+      "1782456904"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "published": 1
+}

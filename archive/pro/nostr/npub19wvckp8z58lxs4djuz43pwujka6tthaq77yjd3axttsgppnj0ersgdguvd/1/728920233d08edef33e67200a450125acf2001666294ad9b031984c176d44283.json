@@ -1,0 +1,39 @@
+{
+  "content": "6/26/2026 — Continuum Didn't Pivot. It Converged.\n\nOne thing clicked for me today.\n\nOver the past year, I've sometimes struggled to explain exactly what Continuum is ...\n\nIt's a Nostr client yes  ...\nIt's a local first sovereign workspace ...\nIt's a digital artifact signer ...\n\nFrom the outside, it may even have looked like the project kept changing directions.\n\nLooking back, I don't think that's what happened at all.\n\nContinuum didn't pivot.\n\nIt converged.\n\nThe project began as a local-first place to write and manage notes and articles.\n\nAs I started publishing through Nostr, it naturally evolved into managing multiple Nostr identities.\n\nEarlier this year I generalized identity management beyond Nostr keys to support other identity types such as SSH, GPG, and Bitcoin and then built tools around using these to sign and verify artifacts...\n\nMore recently, I began building Continuum Vault to manage legacy online accounts and digital identities.\n\nEach step solved a real problem I encountered while building the previous one.\n\nNone of these ideas appeared in isolation.\n\nInstead, they all pointed toward the same destination.\n\nToday I think I finally found the right way  to describe Continuum.\n\n> **Continuum is a local-first identity workspace.**\n\nIdentity is the center of gravity.\n\nNotes, articles, document and artifact signing, authentication, browser integration, publishing, archives, and digital relationships all naturally fit within that model.\n\nNostr remains an important part of Continuum, but it is no longer the thing that defines it.\n\nIt is one of the identity systems Continuum supports.\n\nThe architecture document I published today helped crystallize that realization.\n\nFor the first time, I feel like the individual pieces of Continuum are no longer separate ideas—they're becoming parts of a coherent whole.\n\n#Continuum #Identity #LocalFirst #Architecture",
+  "created_at": 1782543532,
+  "id": "728920233d08edef33e67200a450125acf2001666294ad9b031984c176d44283",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "193b7d8c9c00b90f6992198f453cd2a024d420c5c73debb7c38f212bd05ff77ff12d360553742889305fa15300d0f9c30e31c9d0eb37d12dac079e1154d695ff",
+  "tags": [
+    [
+      "d",
+      "note-1782543532"
+    ],
+    [
+      "published_at",
+      "1782543532"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "architecture"
+    ]
+  ],
+  "published": 0
+}
