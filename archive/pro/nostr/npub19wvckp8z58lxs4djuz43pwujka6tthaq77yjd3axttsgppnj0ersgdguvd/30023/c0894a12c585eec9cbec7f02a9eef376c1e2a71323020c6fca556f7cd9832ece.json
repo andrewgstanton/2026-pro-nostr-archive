@@ -1,0 +1,72 @@
+{
+  "kind": 30023,
+  "created_at": 1782538250,
+  "tags": [
+    [
+      "d",
+      "continuum-vault"
+    ],
+    [
+      "title",
+      "Continuum Vault: Rethinking Digital Identity"
+    ],
+    [
+      "published_at",
+      "1782538250"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it."
+    ],
+    [
+      "display_date",
+      "2026-06-26"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "Identity"
+    ],
+    [
+      "t",
+      "LocalFirst"
+    ],
+    [
+      "t",
+      "Authentication"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Architecture"
+    ],
+    [
+      "t",
+      "OpenSource"
+    ],
+    [
+      "e",
+      "aef96737053f5b7e845854881250783ceb87f3dd9596d5d2e719e79f37e0b45e",
+      "edit"
+    ]
+  ],
+  "content": "## Architecture & Vision\n\n**Version:** Draft 1.2  \n**Date:** June 2026\n\n---\n\n## Executive Summary\n\nContinuum began as a local-first platform for managing sovereign identities, signing events, publishing content, and preserving user ownership through open protocols such as Nostr.\n\nAs the platform has evolved, a broader opportunity has emerged.\n\nIndividuals now maintain dozens—or even hundreds—of digital identities across banks, brokerages, healthcare providers, employers, government agencies, cloud applications, cryptocurrency platforms, developer services, and decentralized protocols.\n\nEach identity exists in isolation, often requiring separate credentials, profile information, recovery procedures, notes, documents, and authentication methods.\n\nContinuum Vault extends the Continuum Core platform by providing a unified, encrypted, local-first identity workspace where every digital relationship can be managed from a single location under the user's control.\n\nContinuum is built on a simple premise: **identity should belong to the user rather than the applications they use.** Everything else in this document follows from that principle.\n\nRather than treating passwords as the product, Continuum treats digital identities as first-class objects.\n\n---\n\n## Background\n\nThe modern Internet has become increasingly fragmented.\n\nA typical user maintains accounts for:\n\n- Banks\n- Brokerages\n- Employers\n- Healthcare providers\n- Government agencies\n- Cloud applications\n- Social networks\n- Bitcoin wallets\n- Nostr identities\n- Developer platforms\n- Subscription services\n- Internal company portals\n\nEach service introduces its own authentication mechanism, profile information, account history, recovery process, and supporting documentation.\n\nUsers frequently rely upon multiple disconnected tools including:\n\n- Password managers\n- Browser autofill\n- Email archives\n- Cloud storage\n- Notes applications\n- Bookmarks\n- Memory\n\nWhile each tool addresses part of the problem, none manages the complete relationship between a user and every digital service they use.\n\n---\n\n## Problem Statement\n\nTraditional password managers focus primarily on one responsibility:\n\n> Remember my credentials.\n\nCredentials, however, represent only one component of an online identity.\n\nEvery account often includes:\n\n- Login URL\n- Username\n- Password\n- Email address\n- Phone number\n- Recovery information\n- Multi-factor authentication\n- Security notes\n- Documents\n- Statements\n- Contracts\n- Attachments\n- Support history\n- Personal notes\n- Historical activity\n\nManaging this information across multiple applications creates unnecessary complexity and increases the likelihood of forgotten information, duplicated effort, and security mistakes.\n\n---\n\n## Vision\n\nContinuum Vault provides a local-first identity workspace where every online account becomes an **Identity Record**.\n\nAn Identity Record represents the complete relationship between a user and a digital service.\n\nInstead of organizing passwords, Continuum organizes identities.\n\n---\n\n## Objectives\n\nThe Continuum Vault project will:\n\n- Provide unified identity management.\n- Support both legacy and modern authentication methods.\n- Integrate with the existing encrypted Continuum workspace.\n- Extend the existing Continuum Browser Extension.\n- Preserve complete user ownership through a local-first architecture.\n- Eliminate unnecessary dependence on third-party cloud password managers.\n\n---\n\n## Scope\n\n### 1. Identity Records\n\nEvery online service becomes an Identity Record containing information such as:\n\n- Display Name\n- Login URL\n- Username\n- Password\n- Email Address\n- Phone Number\n- Recovery Information\n- Security Notes\n- Attachments\n- Tags\n- Custom Metadata\n- Historical Activity\n\nIdentity Records become first-class objects within Continuum.\n\n---\n\n### 2. Identity Workspace\n\nEach Identity Record may additionally contain:\n\n- Notes\n- Documents\n- Statements\n- Contracts\n- Screenshots\n- Configuration Details\n- Recovery Files\n- Service History\n- Reminders\n- Custom Metadata\n\nThe objective is to centralize everything associated with a digital relationship rather than storing information across multiple applications.\n\n---\n\n### 3. Browser Integration\n\nContinuum already includes an open-source **Continuum Browser Signer** that securely communicates with the local Continuum workspace for Nostr authentication.\n\nContinuum Vault introduces a complementary **Continuum Vault Extension** focused on legacy website authentication and autofill.\n\nWhile both extensions share common architectural principles, they serve different purposes and are intentionally designed as separate components. Separating these responsibilities reduces the permission scope of each extension while allowing both to evolve independently.\n\nTypical workflow:\n\n1. User selects an Identity Record within Continuum.\n2. Continuum launches the associated login page.\n3. The browser extension securely communicates with the local Continuum workspace.\n4. The appropriate credentials are retrieved.\n5. Login fields are automatically populated.\n\nThe browser extension is not intended to become a standalone password manager.\n\nContinuum remains the authoritative source for identity information.\n\n---\n\n### 4. Local-First Security\n\nAll sensitive information remains encrypted within the local Continuum workspace.\n\nCredentials are decrypted only when required during authorized authentication workflows.\n\nNo cloud synchronization is required.\n\nNo third-party password storage is required.\n\nUsers retain complete ownership of their identity data.\n\n---\n\n## Authentication Evolution\n\nLegacy username/password authentication represents only one authentication method supported by Continuum.\n\nThe architecture is designed to evolve alongside future authentication technologies.\n\nSupported authentication methods may include:\n\n- Username / Password\n- Passkeys (WebAuthn/FIDO2)\n- OAuth and OpenID Connect\n- Enterprise Single Sign-On (SSO)\n- API Keys and Access Tokens\n- Nostr Event Signing\n- Bitcoin Transaction Signing\n- Lightning Authentication\n- Challenge / Response Authentication\n- Partner Application Authentication\n- Future Decentralized Identity Standards\n\nThe authentication mechanism becomes an implementation detail.\n\nThe Identity Record remains constant.\n\n---\n\n## Relationship to Continuum Core\n\nContinuum Vault is not intended to become a separate product.\n\nIt is a core capability of the Continuum platform.\n\n```\nContinuum Core\n│\n├── Identity Manager\n├── Continuum Vault\n├── Browser Signer\n├── Vault Extension\n├── Authentication\n├── Documents\n├── Notes\n├── History\n├── Publishing\n├── Nostr\n├── Bitcoin\n└── Future Identity Providers\n```\n\nThe Vault complements existing Continuum functionality rather than replacing it.\n\n---\n\n## Relationship to Nostr\n\nNostr remains a **first-class identity provider** within Continuum.\n\nHowever, Continuum extends beyond any individual protocol.\n\nWithin Continuum, a Nostr identity becomes one type of Identity Record alongside traditional SaaS applications, financial institutions, healthcare providers, developer platforms, and future authentication systems.\n\nThis positions Continuum as a general-purpose identity platform rather than a protocol-specific client.\n\n---\n\n## Existing Foundation\n\nContinuum Vault builds upon capabilities that already exist within Continuum today.\n\nCurrent functionality includes:\n\n- Local Encrypted Identity Workspace\n- Multi-Identity Management\n- Browser Extension\n- Open-Source Browser Signing\n- Nostr Authentication\n- Remote Signing\n- Local Browser-to-Workspace Communication\n- Local-First Architecture\n\nContinuum Vault extends these existing foundations rather than introducing an entirely new architecture.\n\nThe existing open-source Continuum Browser Signer already demonstrates secure browser-to-workspace communication for Nostr authentication. The Continuum Vault Extension builds upon many of the same architectural principles while remaining a separate component with its own security model and permission scope.\n\n---\n\n## Long-Term Vision\n\nContinuum seeks to become the user's trusted identity workspace.\n\nRather than maintaining separate applications for passwords, browser extensions, notes, decentralized identities, authentication, and future identity technologies, users manage every digital relationship from a single encrypted workspace under their own control.\n\nThe browser becomes an interface.\n\nApplications become interchangeable interfaces rather than permanent homes for identity.\n\nIdentity remains with the user.\n\nAs new authentication technologies emerge, users should not be forced to migrate between identity managers. Instead, Continuum should evolve to support new authentication methods while preserving a consistent user experience centered around Identity Records.\n\n---\n\n## Design Principles\n\nThe Continuum Vault project is guided by the following principles.\n\n### Local First\n\nIdentity data belongs to the user, not a cloud service.\n\n### Encrypted by Default\n\nSensitive information remains encrypted at rest and is only decrypted during authorized authentication workflows.\n\n### Identity-Centric\n\nContinuum organizes relationships rather than simply storing credentials.\n\n### Protocol Agnostic\n\nLegacy SaaS applications, financial institutions, decentralized protocols, and future authentication systems are all treated as supported identity providers.\n\n### User Controlled\n\nAuthentication occurs only under explicit user control.\n\nThe browser extension acts as a bridge between websites and the local Continuum workspace rather than functioning as an independent credential store.\n\n### Extensible\n\nThe platform should support future authentication mechanisms without requiring fundamental architectural changes.\n\n### Open Foundation\n\nWhenever practical, Continuum builds upon open standards, open protocols, and open-source software.\n\n---\n\n## Benefits\n\nContinuum Vault provides users with:\n\n- One place to manage every digital relationship.\n\n- A single location for managing every digital identity.\n- Secure local storage of credentials and identity metadata.\n- Browser-assisted authentication for legacy websites.\n- Historical notes and documentation associated with each identity.\n- Reduced dependence upon cloud-based password managers.\n- A migration path toward sovereign identity and future authentication methods.\n- A consistent user experience across both legacy and decentralized applications.\n\n---\n\n## Conclusion\n\nContinuum Vault represents a natural evolution of the Continuum platform.\n\nBy combining identity management, browser integration, authentication, documentation, historical context, and local-first security into a unified workspace, Continuum moves beyond password management toward comprehensive digital identity management.\n\nLegacy username/password authentication is simply the first step.\n\nThe long-term objective is to provide a single platform capable of managing identities across both today's Internet and the decentralized systems of tomorrow.\n\nRather than asking users to manage passwords, passkeys, Nostr identities, Bitcoin wallets, browser extensions, and future authentication technologies independently, Continuum seeks to provide a unified identity workspace where every digital relationship remains under the user's ownership and control.\n\n---\n\n> **Identity should belong to the user—not the application.**\n>\n> **Continuum is a local-first identity workspace, and Nostr is one of the identity systems it supports.**",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "c0894a12c585eec9cbec7f02a9eef376c1e2a71323020c6fca556f7cd9832ece",
+  "sig": "663955bd213781bcc58f717ad781ccf1487f13adfea5d59f163a0922c4df06351e57adb9acb14f625154cbf4db64dd4636558c87107e512eb6ba83aafca04e87",
+  "published": 0
+}
