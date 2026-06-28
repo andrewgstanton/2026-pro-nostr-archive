@@ -1,0 +1,27 @@
+{
+  "content": "Good trading day -- about 600 in gains total, did the usual DCA ($100) for Friday and 10% of gains into Bitcoin (at the time I had 520 or so in gains -- traded a little more at the end of the day\n\nBitcoin dropped below 60K on Thursday but its climbing a little higher today. \n\nI honestly shouldn't care too much but it still rattles me a bit.\n\nIn the evening an article about Continuum Vault that actually clariffied for me what Continuum really is - \"A local -first identity workspace\" -- not a Nostr client, not a password manager, not a signer (although it's all of these).  \n\nAlso wrote a note about this epiphany.",
+  "created_at": 1782576734,
+  "id": "a3c0acf69641ba4a71c1e71994de8f9d1c0059e0e51d7db4878367f43615bea7",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "116b02311fbefa79ba9098273adebbe9c3e908e2c18377456c9b092fd0eed73e5348204040ebfc0849706307c4c39eda61a304b797fbf436f9745747077545e6",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-june-26-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, June 26, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
