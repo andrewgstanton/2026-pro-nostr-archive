@@ -1,0 +1,42 @@
+{
+  "content": "Yes that is what I have ended ip doing!\n\nYes i have it on amazin but woukd orefer people but it in sats !\n\n",
+  "created_at": 1782672686,
+  "id": "5505e1f2f3130f2c7cb09b463ea7808861dbf3313b0206dc0ff7a5421f63f604",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "26eda73ad247262eb7bd3a8783ece95b5bdcaa3732fbd4269a82d9544a1cb8552b2178ea587992dcf6f3243e23b60a673c3a2985354ae3da26a383403646277c",
+  "tags": [
+    [
+      "e",
+      "985e5ce00e34e2d7e4af5205fbab99079ab3950dea953ee5c3b606c58d4f2e6c",
+      "",
+      "root",
+      "58edc6ae61f49115ec95808fbc8768851cd358a6566085c154da2c4ce070cfa5"
+    ],
+    [
+      "e",
+      "5965201275fe0283b861d326939b45abb10475dc5549441ad01362f27333d1ae",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "58edc6ae61f49115ec95808fbc8768851cd358a6566085c154da2c4ce070cfa5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

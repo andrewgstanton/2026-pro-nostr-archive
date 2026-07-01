@@ -1,0 +1,79 @@
+{
+  "content": "Great Job Alex!\n\nOne thing though -- I didn't see a way to connect via a browser extension (NIP-07).  \n\nI am actually thinking of building an NIP-46 Continuum Bunker extension so I can  login to NostrHub.io without sharing my nsec\n\nmy Continuum Signer is open sourced by the way:\n\nthe signer specifically -- \n\n(this can be adapted for any application running locally that exposes the sign and public key urls)\n\nhttps://github.com/andrewgstanton/continuum/blob/main/browser_extensions/README_CONTINUUM_SIGNER.md\n\nhttps://github.com/andrewgstanton/continuum",
+  "created_at": 1782675505,
+  "id": "01d930cfa3f9c1c336968967826bb9f85970bfd2bbd0ba0fa9c5513122fecb5e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2910451c62f43ac7c9f5237205e0fed92e0ac42032b275075daa456b0f94be17e99dcb9135d504fb0732f483599f56c1e8d383eee22874a410c1cc9484ab33ac",
+  "tags": [
+    [
+      "e",
+      "0eea20ab5a773e5c67f4f986b4d6e0269740b6a276abf2406e0723e6504d5835",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "0461fcbecc4c3374439932d6b8f11269ccdb7cc973ad7a50ae362db135a474dd"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,29 @@
+{
+  "content": "Spot on !!!\n\nThis article really laid it all out!\n\nStarted Continuum on my birthday in 2025 just over 1 year ago.  \n\nI have written over 900 articles on bitcoin, sovereignty and “ building cathedrals”) on Nostr \n\nPublished a book (Building Continuum) in March ( before I turned 61)\n\nEverything you described in this article I have gone through.\n\nBut I have no desire to go back\n\nThis is really important to read.\n\nThank you for sharing !!",
+  "created_at": 1782672244,
+  "id": "d37243967a169cd5b61fb3503cf01df4bbc4d7d62b83ac5a864d36b2ec039219",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "522464bca5d66cb6d4c010b0f66b32b1a1536c4a41034c0406a53b1d3cb8aead9bb8a9a5869f9fd8050f3850f943453a11f3d90e8aeeb3b29139668bbb1067b3",
+  "tags": [
+    [
+      "a",
+      "30023:ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851:lOCx0ZoV4BuHl9YPlBALt",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

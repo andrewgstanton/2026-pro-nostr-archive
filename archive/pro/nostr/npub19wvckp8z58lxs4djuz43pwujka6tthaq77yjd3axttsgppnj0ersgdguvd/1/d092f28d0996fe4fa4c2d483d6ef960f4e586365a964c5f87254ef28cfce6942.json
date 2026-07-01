@@ -1,0 +1,30 @@
+{
+  "content": "Beautiful !",
+  "created_at": 1782670904,
+  "id": "d092f28d0996fe4fa4c2d483d6ef960f4e586365a964c5f87254ef28cfce6942",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e12169842e7816d829a1ad0dd9dbd01af587d164920e072d6ddcf0837c2901cfd0b9395a16aacfb088fd7c60001725007f685cb9ececb29c28497e5bf27210f6",
+  "tags": [
+    [
+      "a",
+      "30023:51680667a90772f0e1b9f7e2bd5f3d5cd9726d799bfe1f3d3d0eecdb4a3f5cdb:what-then-will-this-child-be-the-nativity-of-john-the-baptist-luke-157-80",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "51680667a90772f0e1b9f7e2bd5f3d5cd9726d799bfe1f3d3d0eecdb4a3f5cdb",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

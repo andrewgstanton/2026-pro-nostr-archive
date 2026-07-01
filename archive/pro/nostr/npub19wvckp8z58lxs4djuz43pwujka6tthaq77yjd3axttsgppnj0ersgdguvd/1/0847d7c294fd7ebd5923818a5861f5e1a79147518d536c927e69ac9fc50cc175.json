@@ -1,0 +1,26 @@
+{
+  "content": "Experimenting with using Continuum in the native build ...",
+  "created_at": 1782601227,
+  "id": "0847d7c294fd7ebd5923818a5861f5e1a79147518d536c927e69ac9fc50cc175",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4ad403df654843b2873e02ac3e4573a82fe522406c6619cc48c8d12f8377ff8ae98712a00bde74f13ccd9920ad2bbd1ec829b0a145849317df67e02146b13656",
+  "tags": [
+    [
+      "d",
+      "note-1782601227"
+    ],
+    [
+      "published_at",
+      "1782601227"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,29 @@
+{
+  "content": "Went to your website very cool!!\n\nI would actually like some feedback on my book building Continuum as well as a series called\n\n“The Bitcoin Chronicles”\n\n",
+  "created_at": 1782714067,
+  "id": "fdbab23d07b329e499776382c8e80bc2bb7c71d3cef445ed5b573e136830b203",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "740a6af39943dfc23a954c7d945521d80a209366474b1caa122e865d5a71210aab9e39762afcc2ae9fe047a01769b748ce2639865d6d0869260b8356a8555509",
+  "tags": [
+    [
+      "e",
+      "6e14cd1007b8ed53ae1f6d179811fa77fcce4e574e27cbe5069537dbd3cb2f92",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}
