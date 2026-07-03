@@ -1,0 +1,30 @@
+{
+  "content": "Indeed!",
+  "created_at": 1782597714,
+  "id": "0f714c2392d009ff9bda93518674f7e26246d80b1ecd4e783849b150a95b5909",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "97e3a3454552581a55f2f72070a4d7add62b624660216d65d34b8338a1897f9705ac85ec2de7aaf771a364ecddac4e4f387795995205ecc2d2a8bd2698d46da3",
+  "tags": [
+    [
+      "e",
+      "5ba39b62e7f47f75cbbd5022ecd37e350b15c39117168b1aa00d243052925757",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

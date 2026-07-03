@@ -1,0 +1,37 @@
+{
+  "content": "hmm doesn't work not sure why.  Could be something in my docker setup that is refusing port 3051 (it should work I agree).\n\ntried :\n\nhttp://0.0.0.0:3051 \n\nhttp://localhost:3051\n\nhttp://127.0.0.1:3051\n\nall fail.  \n\nIt might be something on my end though \n\n(localhost:5000 works for me though for Continuum so not sure why 3051 wouldn't work if the docker compose ran successfuly",
+  "created_at": 1782586929,
+  "id": "c4545f6ca52fdc9b4687cc5a14954ab0ba1191e331aa82f2c19de2d37493129b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a32d8080513de30c969ad0f05219755d00a0467d0493939afb504ea6e7c1b1f7872c83676301588c38bf6caa8036e071e2d01b49db70cd08331cb70ae8c28ab",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "180c5836185f2c6857a276e53bad803f5f9fd41df95509d8371613513166130c",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

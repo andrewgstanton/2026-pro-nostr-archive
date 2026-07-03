@@ -1,0 +1,32 @@
+{
+  "content": "I also am not trying to compete with Nostr clients there are many good ones what I did instead was make it easy for me to use my Continuum instance to connect and log in to these various clients using my browser signer extension.\r\n\r\nThis let's me post or interact on a particular client  without having my keys leave Continuum.",
+  "created_at": 1782580544,
+  "id": "3d5537f6e0380046fd9d0645522f11e7a198872af01b620a94c6316d7e94ad1a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "84ed137ab40fb8a703e04cd5f68b71f3d9ab8e1926b0e7361c4d6f42447e1acb89662696410ece84362e6781d9b12a0e6cda9a9c53ab42a51cbad1e97da81d59",
+  "tags": [
+    [
+      "e",
+      "ca9885d6bc5ec35e85f1208e524c4e333acf5110ffdce0146cc448873fe00260",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,65 @@
+{
+  "content": "that fixed it ... but I did the following:\n\nran docker compose -- successfuly generated  all the images\n(screenshots attached)\n\nbut I go to localhost:3051/client and get \"connection refused\"\n\n(I am almost out of space and also on a very old mac so will try again again with more space...\n\n\nhttps://media.poster.place/c742e87a06b14c1e48fffb93f9bf4b2d684959da4d51dc80ec3c11c69dfab7d2.png\nhttps://media.poster.place/fb128aa293566d6d2d3e415d220060bc9cf2afd32e3d7041e8a986a2dc262f4c.png\nhttps://media.poster.place/47415023fdbc426d08926b5d1536782f981728c4cbe9b25bb5bec2be3b4953ba.png\nhttps://media.poster.place/0274d396a30e3efd6a15608408b71c0ad95e7ccfa6744b9b4564308d057366c0.png",
+  "created_at": 1782586474,
+  "id": "a75ce7a0277ba8d1cd269de536dafa6cffdbd1a747a703da7b19307e37a0c766",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ea0ffe672f880e8f2a27151df5b67a503b8fdda4506309e8956e730565f0f505dd727946364e13ad7784ef8f6384691a3dc8a893286dda520423dbc4126e7235",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "d79c628c2bc08f74c46040557f2d2c2fd46577259ef325377bf20112be9a9794",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/c742e87a06b14c1e48fffb93f9bf4b2d684959da4d51dc80ec3c11c69dfab7d2.png",
+      "m image/png",
+      "dim 2360x1562",
+      "x c742e87a06b14c1e48fffb93f9bf4b2d684959da4d51dc80ec3c11c69dfab7d2"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/fb128aa293566d6d2d3e415d220060bc9cf2afd32e3d7041e8a986a2dc262f4c.png",
+      "m image/png",
+      "dim 1209x784",
+      "x fb128aa293566d6d2d3e415d220060bc9cf2afd32e3d7041e8a986a2dc262f4c"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/47415023fdbc426d08926b5d1536782f981728c4cbe9b25bb5bec2be3b4953ba.png",
+      "m image/png",
+      "dim 2550x1388",
+      "x 47415023fdbc426d08926b5d1536782f981728c4cbe9b25bb5bec2be3b4953ba"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/0274d396a30e3efd6a15608408b71c0ad95e7ccfa6744b9b4564308d057366c0.png",
+      "m image/png",
+      "dim 2636x1106",
+      "x 0274d396a30e3efd6a15608408b71c0ad95e7ccfa6744b9b4564308d057366c0"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

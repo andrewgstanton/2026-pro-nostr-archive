@@ -1,0 +1,29 @@
+{
+  "content": "This article really spoke to me",
+  "created_at": 1782666199,
+  "id": "05609e7c9931e438d4d7d4d7022930a92e681aca2a63fe81ddcbf6042bf7e38a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "229c61f0fed34e5b0a4a1d0a9e895f1e23bd8c8732d3387c54e017f48e4f8381f39000c6cf5cff17f024ae0ed1301ad5e2c99aaa7de0c8ddf6e6901687feda08",
+  "tags": [
+    [
+      "a",
+      "30023:08964cb53cbce2abafbfb5560a7d1f8af2d80f32a53e845d304e830a51bf010f:living-bitcoin-standard",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "08964cb53cbce2abafbfb5560a7d1f8af2d80f32a53e845d304e830a51bf010f",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

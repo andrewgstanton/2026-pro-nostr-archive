@@ -1,0 +1,30 @@
+{
+  "content": "I do like it I'll look at some more!",
+  "created_at": 1782579091,
+  "id": "664866d851087acaa0ab806b6bca22ebb0a7639802a1b027c74edda1b5b39ac0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a8078f9e747ee9d3adcb04a12bf3119c66fff696aa7e5477a88e3bd17eea2b6c0003a20612df5eb836ce7c805eee2ee2f403046c163640056caa95748e8e4ff",
+  "tags": [
+    [
+      "e",
+      "ed2d1452dc7d43cb9ccbaa9514da1032738e49b1e9c989e889e93dd75c3ec9b5",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

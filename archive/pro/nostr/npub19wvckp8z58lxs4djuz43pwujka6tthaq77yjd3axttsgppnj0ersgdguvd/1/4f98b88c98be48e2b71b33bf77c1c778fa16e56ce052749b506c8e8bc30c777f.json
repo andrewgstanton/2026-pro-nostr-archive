@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1782604655,
+  "tags": [
+    [
+      "e",
+      "488770b04eb669b8e1196915906ed01ac8830345808fa6056df2e0b7d70a4e5b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I went on bchnostr a bit I got the same feelint as you did @Karnage\n\nnostr:nevent1qqsy3pmskp8tv6dcuyvkj9vsdmgp4jyrqdzcpraxq4kl9c9h6u9yukcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygqmcu9qzj9n7vtd5vl78jyly037wxkyl7vcqflvwy4eqhxjfa4yzypsgqqqqqqs648qla",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4f98b88c98be48e2b71b33bf77c1c778fa16e56ce052749b506c8e8bc30c777f",
+  "sig": "e6d42527f7410bf2e21e81c76ecaef772243ef30446760106e709d1e264d0e440fc3b4a7e78b68e5cc29c36fdd2b551080c5d0c918c1197aac4791b2c9aceca1",
+  "published": 1
+}

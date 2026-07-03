@@ -1,0 +1,27 @@
+{
+  "content": "Took Whiskers out in the morning around 7 but he didn't want to go out it was a short pee break\n\nFairly sunny but windy day.\n\nI found a relay bug in the afternoon (was showing up in the native application), fixed that and updated the code\n\nthat's about it.\n\nKiyomi was working on some videos in the afternoon in the kitchen (3-4 hours)\n\nGave Whiskers medicine in the morning and evening.\n\nThat's about it.",
+  "created_at": 1782619872,
+  "id": "38c3c26f0ac98b27ace43d6590bb683a9997d57afa70ad92fcd6608791e4ab9d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7717e1e499edee6cc7e7b23ac20459a9a824d43ea208e921ee4034ee4532da7ca3b3417f8fbb8f139569661c306817b634089744c637515b2b22997a26ca30ca",
+  "tags": [
+    [
+      "d",
+      "builder-journal---saturday-june-27-2026"
+    ],
+    [
+      "title",
+      "Builder Journal - Saturday, June 27, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "published": 0
+}

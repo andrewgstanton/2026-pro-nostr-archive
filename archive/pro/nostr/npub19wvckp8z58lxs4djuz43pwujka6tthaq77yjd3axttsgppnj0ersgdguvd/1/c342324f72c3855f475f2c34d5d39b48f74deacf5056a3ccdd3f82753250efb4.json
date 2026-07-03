@@ -1,0 +1,27 @@
+{
+  "content": "Hi veritias,\n\ncloned your repo and running the basic docker build w/ no AI\n\nReveres-MacBook-Pro-Andrew:posterchanai andrew$ docker compose --profile cpu   up -d --build\n[+] Running 0/0\n ⠋ postgres Pulling                                                        0.0s \nerror getting credentials - err: exec: \"docker-credential-desktop\": executable file not found in $PATH, out: ``\n\nDo I need to install docker-credential-desktop also ? \n\nI am also running a very old Mac (Intel chip)\n\n- Andy S.",
+  "created_at": 1782583981,
+  "id": "c342324f72c3855f475f2c34d5d39b48f74deacf5056a3ccdd3f82753250efb4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "714da222e63f9c2e6217b5d52d30fa648241aed1de6b551b5b5b87fb3979b9b058aeb119fd3000b4a97d9141deb76c5c0d82fcfb3e4ed637dff8cbb27304b629",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

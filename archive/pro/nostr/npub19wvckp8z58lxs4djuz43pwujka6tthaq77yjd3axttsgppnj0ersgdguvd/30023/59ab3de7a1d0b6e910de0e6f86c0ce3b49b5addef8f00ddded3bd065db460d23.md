@@ -1,0 +1,1 @@
+This is indeed an article -- I'm posting this on poster.place -- thanks Veritas!

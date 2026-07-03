@@ -1,0 +1,37 @@
+{
+  "content": "I get the same error\n\n---\n\nReveres-MacBook-Pro-Andrew:posterchanai andrew$ docker compose --profile nostr up -d --build\n[+] Running 0/0\n ⠋ postgres Pulling                                                                                                            0.0s \nerror getting credentials - err: exec: \"docker-credential-desktop\": executable file not found in $PATH, out: ``",
+  "created_at": 1782584307,
+  "id": "e2b0542ec649dd5caae5206f7cf34939283df14de08f0f6441e409a305533ef0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8724d22e3752968fab32d078d5904a0008dddf36bd14dd4f4c6270f0704be62db53eab0a43d44b247d6a1a89697e66ec277ff76166958abdd42af47ebf883dec",
+  "tags": [
+    [
+      "e",
+      "76c9a89329dd485a0f081dd110e87b02a45e7052bc77aee35fa039fd125af50e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "505dac671f3e24166f63b4331c77fb0d839420f61bb70b505c678fbc46a7ac07",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

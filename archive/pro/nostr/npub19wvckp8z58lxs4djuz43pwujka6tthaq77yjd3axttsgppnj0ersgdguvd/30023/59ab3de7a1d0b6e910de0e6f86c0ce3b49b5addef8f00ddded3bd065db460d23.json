@@ -1,0 +1,29 @@
+{
+  "content": "This is indeed an article -- I'm posting this on poster.place -- thanks Veritas!",
+  "created_at": 1782580170,
+  "id": "59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "950fa5ad12f26e17db542f57050d41daaeb5e0942cf2d7c5c94ebe6ba2958c1ba363195de3564004208eca35a98fdc7c7970c91d7b1965469f01f3c390908609",
+  "tags": [
+    [
+      "d",
+      "my-first-article-on-poster-place-rlynp"
+    ],
+    [
+      "title",
+      "My first article on Poster.Place"
+    ],
+    [
+      "published_at",
+      "1782580170"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

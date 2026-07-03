@@ -1,0 +1,17 @@
+{
+  "content": "giving poster.place a spin \n\nNice you can save drafts!",
+  "created_at": 1782578588,
+  "id": "118671b1f396b4fcf2aec11fe683d4c53cd63d45e6295d58bf45e9e125cd8670",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f18a3890b0701aead374fc98c0d738bd674ff7df134d7f2712e0dafecd997156061103b3c03cc7c94ed3859b3d54dc221c0aaa8bcef07c3237e26c9c6ac3f30a",
+  "tags": [],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

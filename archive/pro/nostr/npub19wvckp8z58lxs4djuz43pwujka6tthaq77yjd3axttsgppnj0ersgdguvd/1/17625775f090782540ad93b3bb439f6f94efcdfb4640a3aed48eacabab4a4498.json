@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1782604524,
+  "tags": [
+    [
+      "e",
+      "f3c1b14bc37c5cfdbb24302f64a56aa960ae926270d4ebd3ab6a5b5efa2e777f",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "572aa88414c6b1443082fe6d6a70b0a5a132355e2677c6723f2a0200e266a569",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "This is really great advice !!\n\nnostr:nevent1qqs08sd3f0phch8ahvjrqtmy5442jc9wjf38p48t6w4k5k67lgh8wlcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygzh925gg9xxk9zrpqh7d448pv995yer2h3xwlr8y0e2qgqwye49dypsgqqqqqqsjqhduw",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "17625775f090782540ad93b3bb439f6f94efcdfb4640a3aed48eacabab4a4498",
+  "sig": "4e2164b8058321c6e57bc4da57b1d3c77468ae84bf19457df96d24c28cc419c326ba646fa40e5ec2a8e6eda6dda68827370f4bbb10102104473085921e858f45",
+  "published": 1
+}

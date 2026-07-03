@@ -1,0 +1,36 @@
+{
+  "content": "Checking …",
+  "created_at": 1782715773,
+  "id": "2320f3fdf14642e36a4af3e7f6d1d654a5259b094c7bbb8688da40baac34b129",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d87d62a217d8cbda10e5b49e3559a2eda6e806c69e3b6a2150adb8c20656b161aba7303f04339335f1c2d05db36968ec18981292524a74747580b87afdfcbe92",
+  "tags": [
+    [
+      "e",
+      "fdbab23d07b329e499776382c8e80bc2bb7c71d3cef445ed5b573e136830b203",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "ec58a5305acb9a3eff627ec147b8c47b15e79ae6b628d5ef1ab57a517f1f936f",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

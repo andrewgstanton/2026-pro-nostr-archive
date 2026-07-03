@@ -1,0 +1,28 @@
+{
+  "content": "Indeed!",
+  "created_at": 1782597585,
+  "id": "ae4e847e36d6357a908ee8f2be8fbdb9456080299bfbd03bdf04975ec6c49748",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "386e10a144227fe1b8884137e2c8b1971e6387eebac03cf488f3bd3dbdae82a20dfaab34e797f6f0b986e6f6c78b4c3494f772d513160eed74040079a9baf003",
+  "tags": [
+    [
+      "e",
+      "5ba39b62e7f47f75cbbd5022ecd37e350b15c39117168b1aa00d243052925757",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}
