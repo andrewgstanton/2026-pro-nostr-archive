@@ -1,0 +1,32 @@
+{
+  "content": "Spot on!\n\nnostr:nevent1qqsqqq844utlh5pn8nx8ayj7qlemtcw4ptl36edkqkxx4xncxlurc7qpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqske52mx",
+  "created_at": 1782875860,
+  "id": "5165953f7ba7071bcf38c74c4246cd1fe609af76b4ae3a910b8a1786e1dcec21",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0894bbeb21c3d796c5a7327cede7dd2dfc3134dce95c49327bc5b575e1ff94a45a2b2eed3516540661af07d070390aa592d60e7124700a433c1986e299676ac7",
+  "tags": [
+    [
+      "e",
+      "0000f5af17fbd0333ccc7e925e07f3b5e1d50aff1d65b6058c6a9a7837f83c78",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,24 @@
+{
+  "content": "logged in to the nostr VM (via nostrhub.io)\n\nVery cool @jaredlogan",
+  "created_at": 1782873933,
+  "id": "3fe53c55964068cfb7d70b69982a3b78fb35fc89f2c682615b9958f61510143b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "308996869373c580db11a6347f0034048510cfdce731abf565e22ebc36a77d52843baf6aab829fd13ac769ac5e97ecab0b919338053326f6f042e3baf9ae6d36",
+  "tags": [
+    [
+      "client",
+      "nostrVM",
+      "31990:291c75d937a45f66a1209f8ea6611df7448c59b3526520c66ca2cdcd37f1bfbe:nostrVM",
+      "wss://relay.nsite.lol"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

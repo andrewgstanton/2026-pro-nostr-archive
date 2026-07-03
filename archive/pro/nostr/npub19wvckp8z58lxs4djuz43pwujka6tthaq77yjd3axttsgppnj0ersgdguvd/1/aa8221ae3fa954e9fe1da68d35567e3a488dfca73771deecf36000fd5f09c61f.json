@@ -1,0 +1,39 @@
+{
+  "id": "aa8221ae3fa954e9fe1da68d35567e3a488dfca73771deecf36000fd5f09c61f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1783111183,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1783111183"
+    ],
+    [
+      "published_at",
+      "1783111183"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "content": "I published a new article today that explores the question that eventually led me to build Continuum.\n\nFor years, my digital life felt like a series of visits. Facebook. LinkedIn. X. WhatsApp. Nostr. Each knew a different part of me, but none of them ever felt like home.\n\nThe article is a short companion to Chapter 1 of Building Continuum. It tells the same story from a different angle and asks a simple question:\n\nWhat if your digital home wasn't an application?\n\nSometimes a five-minute article is enough to introduce an idea. Sometimes it takes a book to explore where that idea leads.\n\n#Continuum #LocalFirst #Nostr",
+  "sig": "3bc71ded9bbacdb284ab8749b8be10c7d9ba56917968d03dc6ea06441f203e02f884b931e3a0d35b8f6c94e45b91cef29b69b0488300346b72da0201ca9b79e8",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
