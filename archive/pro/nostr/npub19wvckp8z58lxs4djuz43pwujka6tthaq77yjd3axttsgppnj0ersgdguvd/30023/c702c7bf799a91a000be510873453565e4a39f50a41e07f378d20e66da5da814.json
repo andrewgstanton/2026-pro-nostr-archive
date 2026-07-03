@@ -1,0 +1,56 @@
+{
+  "kind": 30023,
+  "created_at": 1783122372,
+  "tags": [
+    [
+      "d",
+      "building-continuum--the-wardrobe"
+    ],
+    [
+      "title",
+      "Building Continuum — The Wardrobe"
+    ],
+    [
+      "published_at",
+      "1783122372"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum."
+    ],
+    [
+      "display_date",
+      "2026-07-03"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-03-building-continuum-wardrobe.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "sovereign-publishing"
+    ],
+    [
+      "e",
+      "6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102",
+      "edit"
+    ]
+  ],
+  "content": "For years, my digital life felt like a series of visits.\n\nI never really left Facebook when I joined LinkedIn, and  I didn't leave LinkedIn when I started using X. Later I found myself spending time on WhatsApp, Nostr, and countless other services.\n\nI wasn't moving from one place to another; I was simply collecting more places to visit.\n\nEach service knew a different part of me. LinkedIn knew my professional life. Facebook knew my friends, writing, and conversations. X captured thoughts that quickly disappeared into the stream. WhatsApp held private conversations.\n\nNo single place reflected who I actually was.\n\nThen I discovered Nostr.\n\nFor the first time, something felt fundamentally different.\n\nI wasn't creating yet another account owned by another company.\n\nI was bringing my identity with me.\n\nI remember thinking:\n\n*\"Maybe this is different.\"*\n\nAnd it was.\n\nFor a while, I was perfectly happy using Primal.\n\nBut eventually I realized I was experiencing the same frustration I'd had everywhere else.\n\nAlthough I could move between Nostr clients, every client still presented a different view of my digital life. Some conversations were there. Others weren't. Threads were incomplete. One client would surface something another never showed me.\n\nThe protocol gave me ownership of my identity.\n\nBut I still didn't have a place that truly felt like home.\n\nThat was the moment the real question appeared.\n\nNot:\n\n*\"Which client should I use?\"*\n\nBut:\n\n*\"What if my digital home shouldn't be a client at all?\"*\n\nContinuum began with that question.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814",
+  "sig": "95d7c91c503ebc250a0b588e54bf612f7aed574a051b10cba7b8e87f4d07df4af30aee65ce72fd5b9f9bd873b66a2ae861e5f86bfe873dc0ea804e516e37be5d",
+  "published": 1
+}
