@@ -1,0 +1,27 @@
+{
+  "content": "Doing more work on trying to get remote signing working (Bunker url)\n\nI had thought to integrate it w/ the Continuum Extension but it actually doesn't make since\n(can generate the URL in Continuum)\n\nThat's about it.",
+  "created_at": 1782968444,
+  "id": "f552382ac64c15228192636533bae71de52dc150ad829d4fe6c51102112bdca0",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fd3bd0be5673ed0d6aaf801f5906f88882ad28d01a85d9020275de84e2092b921d3b75f81b1b37592c9a2e1777531f4188eaff044db86fa39ce84a90503d8aa3",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-june-28-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, June 28, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

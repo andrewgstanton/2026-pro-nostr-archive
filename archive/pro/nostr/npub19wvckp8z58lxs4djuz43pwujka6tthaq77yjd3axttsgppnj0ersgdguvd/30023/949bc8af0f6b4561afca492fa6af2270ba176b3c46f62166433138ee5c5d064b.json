@@ -1,0 +1,27 @@
+{
+  "content": "Today morning trading -- did $666.00 in gains today.  seems like a lot but remember, some of this because I'm using boxing.\n\nIn the afternoon I did more work on the bunker service still running into an issue with some of the methods..\n\nI have been spending several nights looking at this.",
+  "created_at": 1782968658,
+  "id": "949bc8af0f6b4561afca492fa6af2270ba176b3c46f62166433138ee5c5d064b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6f10a5dc1d33ecbd152c8c16019791e7615998a57e2b207bcc0b201490b018f8ddac4052d079ae59382c3676d382619dc3d0ddfbc008327a8ee61094d4e72d79",
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-june-29-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, June 29, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1783107469,
+  "tags": [
+    [
+      "d",
+      "building-continuum--the-wardrobe"
+    ],
+    [
+      "title",
+      "Building Continuum — The Wardrobe"
+    ],
+    [
+      "published_at",
+      "1783107469"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-03-building-continuum-wardrobe.png"
+    ],
+    [
+      "e",
+      "ebb40cfcbb6785ea57418703429cde6757131078c3aa83b7952473f8e3f193b8",
+      "edit"
+    ]
+  ],
+  "content": "For years, my digital life felt like a series of visits.\n\nI never really left Facebook when I joined LinkedIn, and  I didn't leave LinkedIn when I started using X. Later I found myself spending time on WhatsApp, Nostr, and countless other services.\n\nI wasn't moving from one place to another; I was simply collecting more places to visit.\n\nEach service knew a different part of me. LinkedIn knew my professional life. Facebook knew my friends, writing, and conversations. X captured thoughts that quickly disappeared into the stream. WhatsApp held private conversations.\n\nNo single place reflected who I actually was.\n\nThen I discovered Nostr.\n\nFor the first time, something felt fundamentally different.\n\nI wasn't creating yet another account owned by another company.\n\nI was bringing my identity with me.\n\nI remember thinking:\n\n*\"Maybe this is different.\"*\n\nAnd it was.\n\nFor a while, I was perfectly happy using Primal.\n\nBut eventually I realized I was experiencing the same frustration I'd had everywhere else.\n\nAlthough I could move between Nostr clients, every client still presented a different view of my digital life. Some conversations were there. Others weren't. Threads were incomplete. One client would surface something another never showed me.\n\nThe protocol gave me ownership of my identity.\n\nBut I still didn't have a place that truly felt like home.\n\nThat was the moment the real question appeared.\n\nNot:\n\n*\"Which client should I use?\"*\n\nBut:\n\n*\"What if my digital home shouldn't be a client at all?\"*\n\nContinuum began with that question.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "8c9ab890926ed59bf8bb2a1e0375d0c8a731b75f1bb78a836b1ed73009649f32",
+  "sig": "f2a93b03ef0541aeba6f414785f4a7d119e82d40893739dd48e4d7fca6a6f948b616ebda3239230f5b1103501b67aa22079434aad51bcc1ab5f01887699433b0",
+  "published": 0
+}

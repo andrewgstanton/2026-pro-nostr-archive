@@ -1,0 +1,62 @@
+{
+  "content": "For years, my digital life felt like a series of visits.\n\nI never really left Facebook when I joined LinkedIn, and  I didn't leave LinkedIn when I started using X. Later I found myself spending time on WhatsApp, Nostr, and countless other services.\n\nI wasn't moving from one place to another; I was simply collecting more places to visit.\n\nEach service knew a different part of me. LinkedIn knew my professional life. Facebook knew my friends, writing, and conversations. X captured thoughts that quickly disappeared into the stream. WhatsApp held private conversations.\n\nNo single place reflected who I actually was.\n\nThen I discovered Nostr.\n\nFor the first time, something felt fundamentally different.\n\nI wasn't creating yet another account owned by another company.\n\nI was bringing my identity with me.\n\nI remember thinking:\n\n*\"Maybe this is different.\"*\n\nAnd it was.\n\nFor a while, I was perfectly happy using Primal.\n\nBut eventually I realized I was experiencing the same frustration I'd had everywhere else.\n\nAlthough I could move between Nostr clients, every client still presented a different view of my digital life. Some conversations were there. Others weren't. Threads were incomplete. One client would surface something another never showed me.\n\nThe protocol gave me ownership of my identity.\n\nBut I still didn't have a place that truly felt like home.\n\nThat was the moment the real question appeared.\n\nNot:\n\n*\"Which client should I use?\"*\n\nBut:\n\n*\"What if my digital home shouldn't be a client at all?\"*\n\nContinuum began with that question.",
+  "created_at": 1783110725,
+  "id": "6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "425220fd71a8e3b1f8edec3c1a1f3258840992f112f0216d04ab4b81233b0f64d4c1b36ee993b9cd604f939a06a216f8719979ea5b0ddcb33c37ca5b30b2f14a",
+  "tags": [
+    [
+      "d",
+      "building-continuum--the-wardrobe"
+    ],
+    [
+      "title",
+      "Building Continuum — The Wardrobe"
+    ],
+    [
+      "published_at",
+      "1783110725"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum."
+    ],
+    [
+      "display_date",
+      "2026-07-03"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/25edef6dc6f5137d1378434b5581c18fff14bc5907f0cd832c623690b57c7b0e.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "sovereign-publishing"
+    ],
+    [
+      "e",
+      "afe04e5c22cf5e1f5c917795e0590c1f4de0e1ef15220534f80fdac71fae59e0",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
