@@ -1,0 +1,32 @@
+{
+  "content": "7/3/2026 - \n\nToday I chose to back Continuum's Media Library with Cloudflare R2 instead of Blossom.\n\nThat isn't a criticism of Blossom. \n\nI still think Blossom is an excellent protocol for Nostr media and expect to support it in Continuum as well.\n\nFor my own publishing workflow it gives me:\n\n• A stable URL under my own domain (media.mycontinuum.xyz)\n\n• Immediate uploads without waiting for a Git deployment\n\n• Generous free hosting for my current needs\n\n• No additional infrastructure to maintain\n\n• Storage that isn't tied to a particular Nostr service\n\n• The flexibility to organize and manage media however I choose\n\nMost importantly, I wanted the storage backend to be interchangeable.\n\nToday it's Cloudflare R2.\n\nTomorrow it could be Blossom, S3, a local server, or something else entirely.\n\nThe editor shouldn't care where an image lives. It should simply upload the file and return a URL.\n\nThat's the philosophy behind Continuum.\n\nOwn your identity, your content and your media.\n\nThe provider is an implementation detail.\n\n#Continuum #MediaLibrary",
+  "created_at": 1783145563,
+  "id": "18d93de37e7ede6f64ad54cbc496080965feb83a737fdd2cc8905f5f29dd37a1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b0526b52f4be89461fe84edbe7a6dd71d2d35f29622e226f58a474cdb00c29a951767046f3ac8e0c58a618113acd97f79da3ebce56452ed1409d31d5ebf63305",
+  "tags": [
+    [
+      "d",
+      "note-1783144866"
+    ],
+    [
+      "published_at",
+      "1783145563"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "9c7d2bc3acaf5961a5030131cc948986911765c8852d6216f23777832f56816a",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
