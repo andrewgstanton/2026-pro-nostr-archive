@@ -1,0 +1,64 @@
+{
+  "kind": 30023,
+  "created_at": 1783148091,
+  "tags": [
+    [
+      "d",
+      "sovereignty-isnt-really-about-self-hosting"
+    ],
+    [
+      "title",
+      "Sovereignty Isn't  Really About Self-Hosting"
+    ],
+    [
+      "published_at",
+      "1783148091"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Software sovereignty isn't just about self-hosting—it's about preserving the freedom to change infrastructure without rewriting your application. Using Continuum's migration from GitHub Pages to Cloudflare Pages as a real-world example, this article explores why interchangeable services matter more than any single provider and argues that true ownership comes from controlling your namespace and your ability to move your data."
+    ],
+    [
+      "display_date",
+      "2026-07-03"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6-friday.jpg"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "Architecture"
+    ],
+    [
+      "t",
+      "OpenFields"
+    ],
+    [
+      "e",
+      "2c7fb9e807cd89e76661200a087a45a0b19394d0abc77d9d124f1cd566749014",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Friday, July 3, 2026\n\nOne of the interesting things that happened today was completely unplanned.\n\nI migrated Continuum's archive service from GitHub Pages to Cloudflare Pages.\n\nIt took maybe 1 or 2 hours (at most)\n\nNot because I rewrote Continuum, or because I redesigned the archiving system\n\nbut, simply because I changed the deployment target.\n\nThe articles didn't change, nor did the archive structure\n\nOnly the infrastructure changed.\n\nWhy ?  \n\nBecause Github pages was running extra build scripts every time I committed an update\n( and it causeed the pages to stop rendering even though all the content was uploaded properly to github)\n\n![](https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-03-at-11-40-05-pm.png)\n\nThat made me stop and think about what I've really been trying to build over the past year.\n\n## What Does \"Sovereign\" Really Mean?\n\nSometimes people equate sovereignty with self-hosting.\n\nSometimes they equate it with decentralization.\n\nThose are valuable goals.\n\nBut I don't think they're the whole story.\n\nTo me, sovereignty is about preserving choice.\n\nIf replacing one provider requires rewriting your software, you probably weren't very sovereign to begin with.\n\nIf changing infrastructure is simply changing an implementation detail, you've retained control.\n\n## Providers Come And Go\n\nToday I happen to be using:\n\n* Cloudflare Pages\n* Cloudflare R2\n\nTomorrow I may decide to:\n\n* Self-host Blossom.\n* Move media to Amazon S3.\n* Run my own object storage.\n* Deploy somewhere that doesn't even exist today.\n\nNone of those decisions should require redesigning Continuum.\n\nThe application should simply talk to a publishing media or archiving service.\n\nThe provider itself becomes interchangeable.\n\n## Designing For Change\n\nThat's really what Continuum has always been about all along.\n\nNot locking users into:\n\n* one archiving service, one storage provider or one deployment platform\n\nInstead, each of those becomes replaceable.\n\nIronically, today's migration strengthened my confidence in that philosophy.\n\nI didn't have to rebuild Continuum.\n\nI simply pointed it somewhere else.\n\nThat's exactly the kind of flexibility I want users to have.\n\n## A Better Definition\n\nPerhaps I've been using the wrong words.\n\nInstead of saying:\n\n> Own your data.\n\nMaybe the better phrase is:\n\n> Own your ability to move your data.\n\nOr perhaps even:\n\n> Own your namespace, not your provider.\n\nProviders change.\n\nTechnology changes.\n\nCompanies come and go.\n\nArchitecture that preserves freedom to move—that's much harder to take away.\n\nTo me, that's what software sovereignty really means.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "22cc473db735bc1f81565a28048f22085ccaedc7417776018f1c5f3a1bf40dbc",
+  "sig": "4ad5d7cdb05919ca490bd8be30d7362f57283b201adc57334c0902cc9eb427735773fdf1d7ffbab864875194936794d7275c15fd1e35821984cca159d38ef044",
+  "published": 0
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Andrew G. Stanton - July 3, 2026\n\nFor the past week I've been thinking about one small but surprisingly important problem.\n\nWhere should Continuum store images?\n\nAt first glance, this doesn't seem like a difficult question. Plenty of services already host images. \n\nNostr clients commonly use Blossom servers. There are public image hosts. Cloud storage providers are everywhere.\n\nBut Continuum has never really been about choosing a particular service.\n\nIt's about making services *interchangeable.*\n\n## Images Are Part of Publishing\n\nWhen writing an article, adding an image should feel natural.\n\nUpload, insert, then publish\n\nThe author shouldn't have to think about where the file is stored or how it gets there.\n\nThat's the software's responsibility.\n\n## The First Backend\n\nFor the first implementation, I chose Cloudflare R2.\n\nNot because it's the only solution.\n\nNot because it's the most decentralized.\n\nSimply because it solved the problem I had today.\n\nIt provides:\n\n* Instant uploads.\n* Stable URLs under my own domain.\n* Generous free hosting for my current needs.\n* No additional infrastructure to maintain.\n* Storage completely independent of Git deployments.\n\nAn uploaded image immediately becomes available at a URL like:\n\n`https://media.mycontinuum.xyz/2026/pro/nostr/<npub>/images/...`\n\nNo Git commit, deployments, no waiting.\n\n## The Backend Is An Implementation Detail\n\nThe interesting part isn't Cloudflare.\n\nThe interesting part is that the editor doesn't know—or care—which storage provider is being used.\n\nToday the backend happens to be R2.\n\nTomorrow it could just as easily be:\n\n* Blossom\n* Amazon S3\n* A self-hosted object store\n* Local storage\n* Something that hasn't been invented yet\n\nThe publishing workflow stays exactly the same.\n\nUpload a file.\n\nReceive a URL.\n\nContinue writing.\n\n## More Than Image Hosting\n\nThe first version of Continuum Media already includes a small media library.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-03-media-library.png\n\nImages can be:\n\n* Uploaded\n* Viewed\n* Deleted\n* Organized with metadata\n* Synchronized with the underlying storage\n\nInstead of embedding information directly into directory structures, image metadata lives in a simple `index.json` file.\n\nThat makes it easy to add tags and additional information over time without changing the storage layout itself.\n\n## A Foundation\n\nThis isn't intended to compete with existing media hosting services.\n\nIt's intended to provide a foundation.\n\nJust as Continuum separates identity from applications, it should also separate media management from any single hosting provider.\n\nThe storage backend becomes another interchangeable service.\n\nThat's a much more interesting problem to solve than simply uploading images.\n\nBecause in the end, Continuum isn't really about Cloudflare.\n\nOr Blossom.\n\nOr any particular technology.\n\nIt's about building software where your content, your identity, and now your media remain under your control—even when the underlying services change.\n\nThe goal isn't to make Cloudflare R2 permanent.\n\nThe goal is to make the storage backend replaceable.\n\nOwn your identity, your content and your media\n\nThe provider is simply an implementation detail.",
+  "created_at": 1783148893,
+  "id": "e652030ead7ae358f7f7ae8a51222133380a48b16170005eee9db563d392d77d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f6201f922d6421589c16ee4fc35d1e993983895992c102949c4a76f4785b3a9482cdda94169ac8e127146cb203049942cfa04fa89020bf4f0ab82d477deda84d",
+  "tags": [
+    [
+      "d",
+      "continuum-media-owning-your-images-without-owning-the-infrastructure"
+    ],
+    [
+      "title",
+      "Continuum Media: Owning Your Images without Owning the Infrastructure"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

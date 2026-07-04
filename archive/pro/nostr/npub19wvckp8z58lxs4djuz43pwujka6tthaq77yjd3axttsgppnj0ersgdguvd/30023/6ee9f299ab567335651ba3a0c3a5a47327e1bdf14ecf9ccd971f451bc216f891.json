@@ -1,0 +1,31 @@
+{
+  "content": "Andrew G. Stanton - Friday, July 3, 2026\n\nOne of the interesting things that happened today was completely unplanned.\n\nI migrated Continuum's archive service from GitHub Pages to Cloudflare Pages.\n\nIt took maybe 1 or 2 hours (at most)\n\nNot because I rewrote Continuum, or because I redesigned the archiving system\n\nbut, simply because I changed the deployment target.\n\nThe articles didn't change, nor did the archive structure\n\nOnly the infrastructure changed.\n\nWhy ?  \n\nBecause Github pages was running extra build scripts every time I committed an update\n( and it causeed the pages to stop rendering even though all the content was uploaded properly to github)\n\nThat made me stop and think about what I've really been trying to build over the past year.\n\n## What Does \"Sovereign\" Really Mean?\n\nSometimes people equate sovereignty with self-hosting.\n\nSometimes they equate it with decentralization.\n\nThose are valuable goals.\n\nBut I don't think they're the whole story.\n\nTo me, sovereignty is about preserving choice.\n\nIf replacing one provider requires rewriting your software, you probably weren't very sovereign to begin with.\n\nIf changing infrastructure is simply changing an implementation detail, you've retained control.\n\n## Providers Come And Go\n\nToday I happen to be using:\n\n* Cloudflare Pages\n* Cloudflare R2\n\nTomorrow I may decide to:\n\n* Self-host Blossom.\n* Move media to Amazon S3.\n* Run my own object storage.\n* Deploy somewhere that doesn't even exist today.\n\nNone of those decisions should require redesigning Continuum.\n\nThe application should simply talk to a publishing media or archiving service.\n\nThe provider itself becomes interchangeable.\n\n## Designing For Change\n\nThat's really what Continuum has always been about all along.\n\nNot locking users into:\n\n* one archiving service, one storage provider or one deployment platform\n\nInstead, each of those becomes replaceable.\n\nIronically, today's migration strengthened my confidence in that philosophy.\n\nI didn't have to rebuild Continuum.\n\nI simply pointed it somewhere else.\n\nThat's exactly the kind of flexibility I want users to have.\n\n## A Better Definition\n\nPerhaps I've been using the wrong words.\n\nInstead of saying:\n\n> Own your data.\n\nMaybe the better phrase is:\n\n> Own your ability to move your data.\n\nOr perhaps even:\n\n> Own your namespace, not your provider.\n\nProviders change.\n\nTechnology changes.\n\nCompanies come and go.\n\nArchitecture that preserves freedom to move—that's much harder to take away.\n\nTo me, that's what software sovereignty really means.",
+  "created_at": 1783147366,
+  "id": "6ee9f299ab567335651ba3a0c3a5a47327e1bdf14ecf9ccd971f451bc216f891",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d3b80284e529cc396eac68f2e2caf3d974d56ce2aa73f3ae56e8459423882e213f1abebb185d0700092e57b864ad2cae645a4b85b1f2431860f4816992f40a86",
+  "tags": [
+    [
+      "d",
+      "sovereignty-isnt-really-about-self-hosting"
+    ],
+    [
+      "title",
+      "Sovereignty Isn't  Really About Self-Hosting"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-03"
+    ]
+  ],
+  "published": 0
+}
