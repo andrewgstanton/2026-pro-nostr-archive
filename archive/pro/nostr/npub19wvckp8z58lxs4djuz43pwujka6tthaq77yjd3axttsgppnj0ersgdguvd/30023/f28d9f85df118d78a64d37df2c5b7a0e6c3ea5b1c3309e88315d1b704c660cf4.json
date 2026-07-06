@@ -1,0 +1,35 @@
+{
+  "content": "No trading day.  Good interview w/ Philip Charter (\"Totally Human Writer\" -- set up the video call earlier in the week.\n\nwe talked for almost an hour.\n\nAfterward I sent him a specific request based on what he shared, I don'tknow if I will hear back from him, but here is what I sent (I did have Dr. C's help):\n\n---\n\nHi Phil,\n\nThanks again for taking the time to speak with me this morning. I really enjoyed our conversation.\n\nI've been thinking about what you said regarding making the objective more concrete.\n\nOne thing that struck me after our call is that I don't think my problem is that the vision for Continuum is too big. Rather, I think I'm trying to communicate too much of that vision all at once.\n\nRather than trying to explain all of Continuum, I'd like to focus on one measurable goal.\n\nMy goal is to get the first 20 active users of Continuum. I'd like your help getting there.\n\nBy \"active users,\" I mean people who genuinely incorporate Continuum into their weekly workflow—not just people who download it and never come back.\n\nI'm intentionally not prescribing the strategy. What I'd appreciate is your help understanding why Continuum would matter to those users, refining how I communicate its value, and developing a plan to reach them.\n\nI also wanted to ask about Building Continuum. I actually wrote the book before we met. Originally, I saw it as a way to onboard people into the project. After our conversation, though, I'm wondering whether that's the right role for it, or whether the book should instead deepen someone's understanding after they've already started using Continuum. I'd really appreciate your perspective on how it fits into the overall strategy.\n\nI'd welcome your perspective as someone who actually uses Continuum during the process. I don't expect you to become a power user, but I think experiencing the product firsthand would lead to much more grounded feedback than simply discussing it in the abstract.\n\nUltimately, I think what I need most is someone who can help me bridge the gap between a long-term vision and a practical first step that resonates with real users.\n\nIf that sounds like the right kind of engagement, I'd love to continue the conversation and hear how you typically work with founders on projects like this.\n\nThanks again,\n\nAndrew\n\n\n---\n\nI also got inspired to write a few articles and found some issues with the archiving which led me to switch from Github Pages to Cloudflare Pages, and also discovered Cloudflare has free media hosting, which i also set up, and then over the next couple of days built a media Service with it:\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-03-at-10-45-30-pm.png\n\n\n----",
+  "created_at": 1783301277,
+  "id": "f28d9f85df118d78a64d37df2c5b7a0e6c3ea5b1c3309e88315d1b704c660cf4",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "abc885791557617cc74f79684265d7f4e53a5a3a274cd7302826477ada04b88afa5a802d5b9174ed172b07422d6d1036864e47b5eaecb1343406d1c00da8e211",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-july-3-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, July 3, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-03"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6-friday.jpg"
+    ]
+  ],
+  "published": 0
+}

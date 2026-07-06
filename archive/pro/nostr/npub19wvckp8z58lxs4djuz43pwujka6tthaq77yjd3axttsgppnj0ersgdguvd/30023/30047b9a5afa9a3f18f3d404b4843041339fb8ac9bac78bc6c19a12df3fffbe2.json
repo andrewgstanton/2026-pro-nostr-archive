@@ -1,0 +1,31 @@
+{
+  "content": "# Digital Independence Day\n\nToday, America celebrates its 250th birthday.\n\nTwo hundred and fifty years ago, a group of ordinary people signed a document declaring that political power should not be concentrated in the hands of a distant authority.\n\nWhether you agree with every decision our nation has made since then is almost beside the point.\n\nThe Declaration of Independence was ultimately about one thing:\n\nWho should be in control?\n\nThat question hasn't gone away.\n\nIt has simply taken on a different form.\n\n## The Digital World\n\nToday, much of our lives exist inside software.\n\nOur identities, writing, photos, relationships; our memories.\n\nIncreasingly, they're all entrusted to platforms that we don't control.\n\nIf the platform changes, we adapt.\n\nIf the platform disappears, we scramble.\n\nIf the rules change, we usually don't have much say in the matter.\n\nFor the last year or so (ever since starting Continuum), I've talked about \"digital sovereignty\", but I have to admit something:  I think I was imprecise.\n\n## What Sovereignty Really Means\n\nWhen people hear the word *sovereignty*, they often think it means self-hosting everything.\n\nRun your own servers.\n\nOwn every piece of hardware.\n\nNever trust anyone else's infrastructure.\n\nThere's certainly value in that approach.\n\nBut I don't think that's actually the goal.\n\nEarlier this week I migrated Continuum's archive from GitHub Pages to Cloudflare Pages.\n\nThen I built the first version of a Media Library using Cloudflare R2.\n\nA year ago, I might have worried that somehow I was compromising my principles.\n\nInstead, I realized something.\n\nThe providers changed.\n\nThe architecture didn't.\n\nThat wasn't a failure of sovereignty.\n\nIt was evidence that the architecture was working exactly as intended.\n\n## Architecture Matters More Than Infrastructure\n\nTechnology changes, companies will come and go.\n\n(Anyone remember MySpace ?)\n\nHosting providers and protocols evolve.\n\nNone of that should require rebuilding the software itself.\n\nIf I decide next year that I want to move from Cloudflare R2 to Blossom, Amazon S3, or my own object storage, I should be able to do that, *easily*.\n\nMy Media Library shouldn't care, nor should my article editor; the author certainly shouldn't care.\n\nChanging infrastructure should feel like changing a component, not rebuilding the house.\n\nTo me, that's a much more useful definition of software sovereignty.\n\n## Independence\n\nThe founders didn't create a nation that would never change.\n\nThey created a framework that could survive change.\n\nGood software should do the same.\n\nPerhaps digital independence isn't about owning every server.\n\nPerhaps it's about building systems where no server becomes indispensable.\n\nWhere your identity, content or media isn't trapped and \nwhere changing providers doesn't require starting over.\n\nThe more I work on Continuum, the more I think that's the real objective.\n\nNot independence from technology.\n\nIndependence from dependency.",
+  "created_at": 1783206436,
+  "id": "30047b9a5afa9a3f18f3d404b4843041339fb8ac9bac78bc6c19a12df3fffbe2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a6fa0f338c07a8b0852f63c0c7d6753c8f844febfefd0b96240c4de90bda5b6cf2b0859f4279fbac5d197fb4a8d2fa4f759f32f91d8f7f865b76da0db3023881",
+  "tags": [
+    [
+      "d",
+      "digital-independence-day"
+    ],
+    [
+      "title",
+      "Digital Independence Day"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-04"
+    ]
+  ],
+  "published": 0
+}

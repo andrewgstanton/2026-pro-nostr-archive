@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783300756,
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-july-2-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, July 2, 2026"
+    ],
+    [
+      "published_at",
+      "1783300756"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-02"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5-thursday.jpg"
+    ],
+    [
+      "e",
+      "5bfbdac935a3ba0504b4f856ccf6f8ff0749678861cfc04879b8573ccd9a5553",
+      "edit"
+    ]
+  ],
+  "content": "Last trading day before the long July 4 weekend (tomorrow is a bank holiday)\n\nLike yesterday a good trading day -- about $300 in gains, as usual put the gains int Bitcoin\n\nI didn't do anything new in Continuum or write anything profound.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "35db25db435f7bef051e270f6fe3e529703356115bb1733d84f2b4d8e9f5705a",
+  "sig": "66c66403559aedadf6785f7581244e7bcb3c73e2d440276d455d98f456f8ac4e4d80cd928786cc7feb7169d0908f2901269253379f3f8af8dd043476dca4eb2e",
+  "published": 0
+}

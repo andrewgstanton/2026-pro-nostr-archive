@@ -1,0 +1,35 @@
+{
+  "content": "Today was quiet -- up about 8 and Kiyomi changed his diapers in the morning.\n\nFoggy morning today and all day, a little cold\n\nRead a few sunday reflections from \"Mountain Vicar\" whih i have been doing last few Sundays.\n\nHis pieces really seem to be helping me stay anchored in scripture (\"Mountain Vicar\" is an NPUB on Nostr)\n\nKiyomi made a vew nice brunch (eggs + a some other things) around 11:30.\n\nWas able to complete creating new YouTube Channel \"BuildingContinuum\" and taped, edited and uploaded my first two videos for the channel -- \"Intro\", and \"Chapter 1\", harder than I anticipated probably spent an hour total for each one (probably 2 hours for Chapter 1, \n\nAfter I did those I updated mycontinuum.xyz to include a separate index page for Building Continuum and also referenced the new YouTube Channel -- Here's what it looks like now:\n\n---\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-05-at-6-52-16-pm.png",
+  "created_at": 1783302829,
+  "id": "8932acfd2619cc999f82c4e2152ae8e9a050faac48b6fe9476cd209580692cf2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "726d8d6395febc24e00388ffc982bb27de388d96a6d05450b0ce14e6355725951fa0f59956dc61a8b345ac70827342e1a9fcda89814ab71942feac74fa0ad186",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-july-5-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, July 5, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-06"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1-sunday.jpg"
+    ]
+  ],
+  "published": 0
+}

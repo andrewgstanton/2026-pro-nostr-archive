@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783302251,
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-july-1-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, July 1, 2026"
+    ],
+    [
+      "published_at",
+      "1783302251"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-01"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4-wednesday.jpg"
+    ],
+    [
+      "e",
+      "e8dd8ff67480252609e48cecbb6d706ec43ca80e3de198899e914b4385157495",
+      "edit"
+    ]
+  ],
+  "content": "Can't believe it's already July.  \n\nToday traded in the morning from about 8 to noon (3-4 hours).  I did 368 in gains.\n\nR&L plumbing was starting this afternoon (1:30-2:00 PM to turn off the water so Ramon (plumber from Axion) could install new valves and the faucet from Moen which I ordered from Amazon Monday night\n\n(hoping the faucet arrives today before Ramon comes -- \n\n(and it did arrived about 1:00 PM - whew)\n\nWater shutoff took a while (to drain the water completely once turned off -- probably about 45 minutes or so before Ramon and his assistant Raul could start.\n\nDid good work installing the valves and the new faucet -- huge relief but wow expensive -$779\n\n(and R&L will charge separately from the water shutoff -- ugh\n\nmore bills ugh\n\nThe were finished about 4:30 PM - I was pretty tired and didn't want to do anything more today\n\nHad the last of the curry Kiyomi made a few nights ago.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5ba1f6353973d693c53fd6567a78338ef716a65416fd8f25b242d62690022bc4",
+  "sig": "b775dc7dd97e77a48ac32aa7d61c733bc18cd71c9a69c569aec4a3fcb24ef64ab384cf3168f032c618a94392adaaa5d57470a1df8e2afde6d351e1505a5cca79",
+  "published": 0
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Andrew G. Stanton - July 4, 2026\n\n## What If...\n\nImagine opening your local archive and seeing something very different from another timeline.\n\nInstead, imagine seeing a landscape built entirely from your own work.\n\nNot someone else's algorithm.\n\nNot trending topics, or engagement metrics.\n\nYour writing, conversations, media, ideas - everything connected together.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-your-continuum-universe.jpg\n\n*Concept: Your Continuum Universe — an interactive view of your writing, conversations, media, and relationships. Every node represents something you've created, saved, or connected with.*\n\nPerhaps this view isn't the only way to explore your data.\n\nPerhaps it's simply one lens.\n\n## Different Views, Same Data\n\nOne thing I've learned while building Continuum is that the underlying relationships don't change.\n\nOnly the way we choose to explore them.\n\nThe same local database might be viewed in several different ways.\n\n### Timeline\n\nSometimes you simply want to see how your ideas evolved over time.\n\n![Concept: Timeline View](timeline-view.png)\n\n*A chronological view showing how articles, conversations, and projects influenced one another.*\n\n### Garden\n\nIdeas don't just accumulate.\n\nThey grow.\n\nSome branches flourish.\n\nOthers become dormant.\n\nNew ideas emerge from older ones.\n\n![Concept: Garden View](garden-view.png)\n\n*An organic visualization where topics branch, merge, and evolve over time.*\n\n### Galaxy\n\nSome ideas naturally become centers of gravity.\n\nArticles, notes, conversations, and media begin orbiting around them.\n\n![Concept: Galaxy View](galaxy-view.png)\n\n*Clusters form naturally based on relationships rather than folders or categories.*\n\n### Media\n\nImages aren't just files.\n\nThey're part of your publishing history.\n\nImagine clicking an image and immediately seeing every article, note, or draft where it appears.\n\n![Concept: Media Relationships](media-view.png)\n\n*Every image becomes another connected piece of your personal archive.*\n\n## Your Continuum\n\nOne thing that's important to me...\n\nThis isn't about *my* data.\n\nIt isn't meant to become a monument to myself.\n\nEvery author...\n\nEvery builder...\n\nEvery researcher...\n\nEvery journalist...\n\nEvery creator...\n\n...has their own Continuum.\n\nThe visualizations should look different for every person because every person's work is different.\n\nContinuum isn't trying to generate pretty graphs.\n\nIt's trying to help people discover relationships that already exist inside their own digital history.\n\nThat's a very different goal.\n\n...",
+  "created_at": 1783223694,
+  "id": "3b3992b95d10c0144a27a3b8740b5b73aa9bd09d933be3d73087ec3c7554cb9e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b6ab9f17ef5bb6aa7a64c1b21bf2343e8c85a6b7121ebdf2e01ae3185c035651c9a70038fb047f3acbd36422d49101e29ac12d098b9dd966f91833ab1e7e73b4",
+  "tags": [
+    [
+      "d",
+      "beyond-the-timeline---a-vision-for-your-continuum"
+    ],
+    [
+      "title",
+      "Beyond the Timeline - A Vision for YOUR Continuum"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,62 @@
+{
+  "content": "*Andrew G. Stanton – July 4, 2026*\n\nOver the past few weeks I've been thinking less about storing information and more about remembering relationships.\n\nContinuum already stores identities, notes, articles, drafts, profile metadata and media (metadata) locally.\n\nThat's useful.\n\nBut as the amount of content grows, another question becomes far more interesting.\n\n> **How are these things connected?**\n\nThis week that question led to what initially looked like a small enhancement to Continuum's media library.\n\nIt turned out to be something much more significant.\n\n## More Than a Media Library\n\nEvery uploaded image in Continuum can now answer a simple question:\n\n> **Where is this image used?**\n\nIf an image appears in a published article, a note, or even my profile metadata, Continuum can tell me.\n\nInstead of manually searching through articles or trying to remember where I embedded a particular image, I simply ask the software.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-04-at-3-31-36-pm.png\n\nClicking **Used In** expands a list of every matching reference.\n\nEach result links directly back to the original article or note.\n\nWhat began as a media library is gradually becoming something else.\n\nIt's beginning to understand the relationships between the content it manages.\n\n## Protecting Published Content\n\nKnowing those relationships immediately makes the software safer.\n\nIf an image is referenced by published content, Continuum marks it as **in use**.\n\nInstead of allowing me to accidentally delete the file, the interface prevents it.\n\n```\nDelete — In Use\n```\n\nA simple feature.\n\nBut an important one.\n\nThe software isn't simply managing files anymore.\n\nIt's protecting the relationships between those files and the content that depends on them.\n\n## Local Knowledge\n\nOne of the more interesting aspects of this feature is that none of these relationships are part of the Nostr protocol.\n\nNostr stores the article.\n\nToday, Cloudflare R2 happens to store the image.\n\nContinuum simply learns that the two are connected.\n\nThat relationship belongs to me.\n\nIt isn't something that needs to be published or something that requires a new NIP\n\nIt's simply local knowledge that Continuum builds while managing my own archive.\n\nThe storage backend is almost beside the point.\n\nToday it's Cloudflare R2.\n\nTomorrow it could be Blossom, Amazon S3, a self-hosted object store, or something else entirely.\n\nThe relationship remains the same.\n\n## Building Relational Memory\n\nToday the relationship is straightforward.\n\n```\nImage\n    ├── Article\n    ├── Note\n    └── Profile Metadata\n```\n\nThe image is no longer just an object sitting in storage.\n\nIt has context, history and relationships.\n\nOnce those relationships exist, entirely new questions become possible.\n\n* Where is this image used?\n* Can I safely delete it?\n* Which images have never been used?\n* Which article used this header image?\n* Which profile still references this avatar?\n\nThose aren't questions about storage.\n\nThey're questions about memory.\n\n## Beyond Images\n\nAlthough this week's work focused on images, the underlying idea is much broader.\n\nThe same approach could eventually apply to many different kinds of content.\n\nImagine asking questions like:\n\n* Which articles reference this article?\n* Which notes mention this identity?\n* Which drafts quote published work?\n* Which links appear throughout my archive?\n* Which conversations have I participated in?\n\nEach of those is really asking the same question:\n\n> **What is this connected to?**\n\nOnce Continuum begins remembering relationships instead of simply storing objects, entirely new ways of exploring your own content become possible.\n\n## A Different Kind of Memory\n\nOne thing I've noticed while building Continuum is that the most useful features aren't always the biggest ones.\n\nSometimes they're the ones that quietly remove uncertainty.\n\nI no longer have to wonder whether an image is safe to delete or have to remember which article used a particular header image.\n\nContinuum remembers that for me.\n\nThat's a subtle shift.\n\nInstead of simply storing my content, it's beginning to accumulate knowledge about my content.\n\nNot knowledge that belongs on the network or knowledge that needs to be published.\n\nJust knowledge that helps me work more effectively.\n\nThat's what I mean by **relational memory**.\n\nIt's not about remembering more.\n\nIt's about remembering how everything fits together.",
+  "created_at": 1783225021,
+  "id": "f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ab81da06312096c092afba01c6a30fd14fa9fd20cd4f43450b68ca6d34c16062d0f78117a8ba548e5d0a1a187ac496f9a1fa16b5172ff1c85c59d9101987db07",
+  "tags": [
+    [
+      "d",
+      "relational-memory"
+    ],
+    [
+      "title",
+      "Relational Memory"
+    ],
+    [
+      "published_at",
+      "1783225021"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Continuum's media library has taken a step beyond simple file management. By tracking where each image is used across articles, notes, and profile metadata, it can protect published content, prevent accidental deletions, and surface relationships that would otherwise be hidden. This is the beginning of what I call relational memory—software that remembers not just what you've created, but how everything you've created fits together."
+    ],
+    [
+      "display_date",
+      "2026-07-04"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ],
+    [
+      "t",
+      "relational-memory"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "relational-graphs"
+    ],
+    [
+      "e",
+      "1ff3d75658c894c6a8b90833814acd7b6a5503fb7b679bb48ed2f3beea61f41e",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
