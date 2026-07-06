@@ -1,0 +1,74 @@
+{
+  "id": "e3aa029592fc781a5eccb23b20a5468f0458b83ca314a920bb736007ad42e3dd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1783205021,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e3e5ebb8e337bc015ba20bfe62fd53541f0d5f4ac547e490edd74497e93d0fff",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Just awful.  We have to build more sovereign tools and educate others why data and financial sovereignty are so important.",
+  "sig": "75e6d943649d5c9a5732e64eaee5026b19e24177828cd4650e9eb03dc2275d31c64547f7c6745b3378591acfae9a6697a51c7a4615ebc79c31c4b1bea5423551",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

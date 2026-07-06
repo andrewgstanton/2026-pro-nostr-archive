@@ -1,0 +1,30 @@
+{
+  "content": "wow.  Just wow.",
+  "created_at": 1783192446,
+  "id": "a71795c29f84c4167f8df469557558a75047ee0342c96898774b247df20b43c5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6a304b94bbbe6d09a0979c6f5a4561c73b36c259829125568a0000cfe2f49e410544aea38f11a16f9c0a2d5c6407e4d8a747be2232d0f93d462d3f593c86df6e",
+  "tags": [
+    [
+      "e",
+      "34a16c629c965cbdc530abed18e72b57f87f70a3fb9f02a68db7d837bcf23bd7",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8"
+    ],
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

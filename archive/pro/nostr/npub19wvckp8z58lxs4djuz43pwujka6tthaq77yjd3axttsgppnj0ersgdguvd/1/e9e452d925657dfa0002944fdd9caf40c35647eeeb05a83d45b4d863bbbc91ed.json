@@ -1,0 +1,30 @@
+{
+  "content": "Yes fight back, but not by asking permission to protest from the current regime.\r\n\r\nFight back by building our own sovereign tools.\n\nnostr:nevent1qqsw8e0thr3n00qptw3qhlnzl4f4g8cdta9v23lyjrkaw3yhay7sllcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygzsm98u9kzcp35zkpc62shck8335gqtq5yt4w26xwl0pp2a72qavvpsgqqqqqqs35u9wg",
+  "created_at": 1783285039,
+  "id": "e9e452d925657dfa0002944fdd9caf40c35647eeeb05a83d45b4d863bbbc91ed",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9810f571cd87c112d02fa309d5703f9e99bac1a530a6afbc07ce23f933a79b371b108bbb6384a35261c938c192ab26fe67d8b928d15fe10249bd9f8b1c4dda18",
+  "tags": [
+    [
+      "e",
+      "e3e5ebb8e337bc015ba20bfe62fd53541f0d5f4ac547e490edd74497e93d0fff",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

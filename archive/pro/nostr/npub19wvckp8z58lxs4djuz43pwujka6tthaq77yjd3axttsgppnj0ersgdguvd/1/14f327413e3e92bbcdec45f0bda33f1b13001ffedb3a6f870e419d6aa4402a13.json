@@ -1,0 +1,26 @@
+{
+  "content": "AMEN!!!!",
+  "created_at": 1783204768,
+  "id": "14f327413e3e92bbcdec45f0bda33f1b13001ffedb3a6f870e419d6aa4402a13",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3a3c8effab35b93ec1e8e7e41e6587bb6e92d41ec96e87d27c6a74405754c350ebf325c1d44e82430cfb8d067254963b24fcdd76ca94aea2404d66889a4372ff",
+  "tags": [
+    [
+      "e",
+      "e9034f9062ae5d437fa846cfb3f1e596a3be26358541e4881f6c2f0c4e434bd7",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
