@@ -1,0 +1,10 @@
+{
+  "kind": 0,
+  "created_at": 1783383424,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "content": "{\"name\": \"Akamaister\", \"about\": \"Andrew G. Stanton (Akamaister)\\nBuilder \\u00b7 Writer \\u00b7 Bitcoin-aligned systems\\n\\nFounder & Fractional CTO.\\nI build durable software and publishing systems rooted in conviction, sovereignty, and long-term thinking.\\n\\nFollowing Jesus.\\nBuilding with proof of work, not proof of hype.\\nStill building.\\n\\nPrimary work\\nMyContinuum \\u2014 sovereign publishing & identity\\nhttps://mycontinuum.xyz\\n\\nBook\\nBuilding Continuum\\nhttps://mycontinuum.xyz/books/building_continuum/\\n\\nYouTube\\nBuilding Continuum (Author Reading)\\nhttps://youtube.com/@BuildingContinuum\\n\\nArchive (RSS)\\nhttps://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml\\n\\nNostr\\nnpub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\\n\\nVerify Tool:\\n\\nhttps://nostr.mycontinuum.xyz/e/verify.html\\n\\nPGP fingerprint\\nB480 CC98 7E0B AA6D 5962 EBAA BF2E 7F14 860D 3FB0\\nFull key:\\nhttps://andrewgstanton.com/pgp\\n\\n\\nLast generated: 2026-07-06 5:20 PM PST\", \"picture\": \"https://blossom.primal.net/22788e3df9f51e3aed92063205e69a87181a070be1ff1d6f1674512c9092c6c2.jpg\", \"banner\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-akamaister-banner.jpg\", \"website\": \"https://andrewgstanton.com\", \"nip05\": \"andrewgstanton@primal.net\", \"lud16\": \"andrewgstanton@primal.net\"}",
+  "tags": [],
+  "id": "bcca4108f2a8b8ef76a8a863557d920568bc58c20c1ba47338b3806319bdfa89",
+  "sig": "3839ef545698821fa1a5f50b776997387acd441d94f2ab1e07ef5523e734851b33812316c764b9e1f15c2d0a07d613136f1113afe6d0c249c40984b1b22b0003",
+  "published": 1
+}
