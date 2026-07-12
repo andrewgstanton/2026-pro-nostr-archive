@@ -1,0 +1,23 @@
+{
+  "id": "1ba6fdb0398f26627f95790bc159b265919e7b18355644bf0d0dfd907fb0f7a4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1783393759,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Testing a new note ",
+  "sig": "4dacd65b8da8844649e2b3396b92c2d844d1fa51a3def533ddd2643bbdaebebb4233d8a55937a6b8877d2dc2517e5b58d05b50f94935724ff16c1625e6f8ed38",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

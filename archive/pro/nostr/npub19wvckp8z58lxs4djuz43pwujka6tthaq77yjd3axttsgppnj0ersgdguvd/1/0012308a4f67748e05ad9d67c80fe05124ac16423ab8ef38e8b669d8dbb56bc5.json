@@ -1,0 +1,23 @@
+{
+  "id": "0012308a4f67748e05ad9d67c80fe05124ac16423ab8ef38e8b669d8dbb56bc5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1783395695,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Another test ",
+  "sig": "44ed10ea88dc38ab5747d2c7e407bb6fe38daf7bdb6bbdab6948d66ac48cb9bcea83692406b759213fd13c38b363668e60b969ec3b7ac92345c807f978e5a462",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

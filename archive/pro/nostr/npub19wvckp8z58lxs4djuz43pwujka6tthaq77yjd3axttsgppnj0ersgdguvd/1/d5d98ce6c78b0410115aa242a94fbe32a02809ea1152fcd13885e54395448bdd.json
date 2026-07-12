@@ -1,0 +1,27 @@
+{
+  "content": "I wrote this about two months after starting Continuum. \n(about 1 year ago) \n\nReading it today, it's interesting to see what has changed—and what hasn't.\n\nAt the time I thought Continuum was primarily a sovereign publishing and identity framework.\n\nToday I think of it as something broader: a local-first home for our digital lives.\n\nSome ideas were there from the beginning. Others—relationship memory, media libraries, version history, and local AI—didn't emerge until much later.\n\nI wouldn't rewrite this article. I think it's valuable as a snapshot of how the project was evolving.\n\nnostr:naddr1qvzqqqr4gupzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsq8pdvdhkuarfde6h2mfdw35x2ttxd9e8xapdxccz6erp09espd5ngf",
+  "created_at": 1783320140,
+  "id": "d5d98ce6c78b0410115aa242a94fbe32a02809ea1152fcd13885e54395448bdd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ff5e894b420bff93024c887bbc4dd44bc31ecd79304f84bb1d12c563955d9533b1a0319cb2438506ddfd1efea5f3c9d32a7c30d29d6d3dfacccffcfde3c30b1b",
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:-continuum-the-first-60-days",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://relay.damus.io/",
+      "Akamaister"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

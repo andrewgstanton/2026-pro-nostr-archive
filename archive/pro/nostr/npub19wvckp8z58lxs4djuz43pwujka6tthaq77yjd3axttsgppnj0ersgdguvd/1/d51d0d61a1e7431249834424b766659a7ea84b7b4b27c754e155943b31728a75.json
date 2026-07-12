@@ -1,0 +1,46 @@
+{
+  "content": "**Local Version History Comes to Continuum**\n\nAndrew G. Stanton – July 7, 2026\n\nOne of the more interesting things about Nostr is that not all events behave the same way.\n\n- Profiles (kind:0) are replaceable by design.\n\n- Articles (kind:30023) are parameterized replaceable events identified by a d tag.\n\nTraditional notes (kind:1) are different. They aren't replaceable at all.\n\nEvery edit is simply another event.\n\nContinuum has started taking advantage of those differences.\n\nToday I added local version history for:\n\nProfiles\nArticles\nContinuum-authored notes\n\nFor profiles and articles, the relationship already exists within the protocol itself.\n\nFor notes, Continuum uses a local convention: edited notes preserve a shared d tag so they can be grouped together as revisions of the same piece of writing.\n\nOther Nostr clients simply see independent kind:1 notes.\n\nContinuum understands the relationship between them.\n\nEvery authored revision is preserved locally before the current state moves forward.\n\nFor notes and articles, previous revisions are available directly from the viewer through a collapsible Versions section.\n\nFor profiles, previous revisions can now be loaded directly into the dashboard itself, allowing older profile states to be viewed without leaving the page.\n\nNothing is overwritten.\n\nNothing is lost.\n\nUnder the hood, Continuum now maintains three distinct layers of memory:\n\nnostr_events — current local state\nnostr_events_history — local revision history\nGit archives — long-term preservation and recovery\n\nMost Nostr clients focus on the latest event.\n\nContinuum is beginning to preserve the path that led there.\n\n#Continuum #Nostr #LocalFirst #DigitalPreservation #RelationalMemory",
+  "created_at": 1783486035,
+  "id": "d51d0d61a1e7431249834424b766659a7ea84b7b4b27c754e155943b31728a75",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "32c351a13ce4e7914fe7c724006f4250f8635b7eb83d05099a282f37c978b243d810ea8311fe705a59f4d0d6c50fd145ad2a154b1ca963454368414080db89ab",
+  "tags": [
+    [
+      "d",
+      "note-1783486035"
+    ],
+    [
+      "published_at",
+      "1783486035"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalpreservation"
+    ],
+    [
+      "t",
+      "relationalmemory"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

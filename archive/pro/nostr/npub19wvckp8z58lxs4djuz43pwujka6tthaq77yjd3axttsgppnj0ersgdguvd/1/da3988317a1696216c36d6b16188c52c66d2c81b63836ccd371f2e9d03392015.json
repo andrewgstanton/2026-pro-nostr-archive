@@ -1,0 +1,36 @@
+{
+  "content": "Muito obrigado!",
+  "created_at": 1783321294,
+  "id": "da3988317a1696216c36d6b16188c52c66d2c81b63836ccd371f2e9d03392015",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "21ac0a2c882a0262f48165f2b63918aa888d495fbc5e444749d4ca47c1a4110a9f5f6594211a03d912321785139ba4a240901fa2ae02a7c6dbfe8e4c5619ff98",
+  "tags": [
+    [
+      "p",
+      "22305f795a15e408f87fd9fe47a3b0e21b5391fcf620ab44a0466d9854e7b617",
+      "",
+      "cypherpunkbtcbr"
+    ],
+    [
+      "e",
+      "e3aa029592fc781a5eccb23b20a5468f0458b83ca314a920bb736007ad42e3dd",
+      "wss://relay.damus.io/",
+      "root",
+      ""
+    ],
+    [
+      "e",
+      "ed402f65991807a3085438babd396446c2070ff9657389dfb021ee7c0325af72",
+      "",
+      "reply",
+      "22305f795a15e408f87fd9fe47a3b0e21b5391fcf620ab44a0466d9854e7b617"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}

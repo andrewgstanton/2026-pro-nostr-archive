@@ -1,0 +1,31 @@
+{
+  "content": "**Every Version Matters**\n\nAndrew G. Stanton – July 6, 2026\n\nMost software only remembers the latest version of your work.\n\nEdit a note? The previous version disappears.\n\nUpdate an article? The old one is gone.\n\nChange your profile? Only the newest metadata survives.\n\nThat works fine if your application is only concerned with the present.\n\nContinuum is beginning to take a different approach.\n\nEvery time I create or edit one of my own replaceable Nostr events, Continuum now preserves a local copy before moving forward. Those historical versions become part of my local archive—not just the latest state.\n\nHere's what that looks like today:\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-06-at-11-01-05-pm.png\n\nThis isn't about undo.\n\nIt's about memory.\n\nEach revision remains a signed Nostr event with its own event id and timestamp. The current version is still the latest replaceable event on the network, but locally I can see how that note evolved over time.\n\nEventually this will expand beyond notes:\n\nArticles\nProfile metadata\nSide-by-side comparisons\nRestore an earlier revision by creating a new version\n\nNotice that last point.\n\n\"Restoring\" doesn't rewrite history. It creates a brand new event whose content comes from an earlier revision. The history remains intact.\n\nThat's a subtle but important distinction.\n\nGit works the same way.\n\nHistory isn't erased.\n\nIt's extended.\n\nMost social clients focus on the latest event.\n\nContinuum is beginning to focus on something different:\n\nthe history of your thinking.\n\n#Continuum #Nosr #DigitalPreservation #LocalFirst #RelationalMemory",
+  "created_at": 1783404167,
+  "id": "42aea91262ae54b4e805e005be9a4d8a2bc406608de3fb479b256570248a91d7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e04eae79b66a815dc4accab10a834d414e772835a0f9c6ae26bf09f7000b8871cae4228d75f0f8087167f5aae2ad6ad1a989c7c9fd5fb54ca341bccb38840814",
+  "tags": [
+    [
+      "d",
+      "note-1783403941"
+    ],
+    [
+      "published_at",
+      "1783404167"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "202e66e113a9a33842e5e28ea3a081adad1c6ea819f077cf4e16939553c82d0a",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

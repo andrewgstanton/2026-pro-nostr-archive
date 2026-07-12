@@ -1,0 +1,96 @@
+{
+  "content": "Hi nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq37amnwvaz7tmwdaehgu3dwfjkccte9ejx2un9ddex7umn9ekk2tcqyqlhwrt96wnkf2w9edgr4cfruchvwkv26q6asdhz4qg08pm6w3djg3c8m4j \n\nThought you might like this -- this was taken at the 2025 Bitcoin Conference in Las Vegas.  (My first Bitcoin Conference).  \n\nI came back this year and we met briefly also back in April.\n\nI had just registered my domain mycontinuum.xyz and had just started building Continuum.  I had been on Nostr for maybe about 3 weeks at this point.\n",
+  "created_at": 1783824179,
+  "id": "ec08c37222133acab79d5e445e05d8280388852cf6c95d45a76b24411c46b573",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f134bf9d69c48f2412e9e0ad7c6c3cf21f3f58a2a10ffde4e3fd255c1076ccca9ccbdf04b54012d4b6e4505ecc18e9ec8f85ba305843f184c0ff7fddc24c633f",
+  "tags": [
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nos.lol/",
+      "mention"
+    ],
+    [
+      "e",
+      "e1238f794c12fd9022d2c8c07459349955c5f5af862525a8202e4f07876c15db",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nos.lol/",
+      "mention"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

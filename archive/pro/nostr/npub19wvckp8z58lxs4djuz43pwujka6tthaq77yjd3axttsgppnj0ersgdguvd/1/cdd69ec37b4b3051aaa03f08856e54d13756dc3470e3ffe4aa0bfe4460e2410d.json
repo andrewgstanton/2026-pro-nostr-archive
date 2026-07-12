@@ -1,0 +1,78 @@
+{
+  "id": "cdd69ec37b4b3051aaa03f08856e54d13756dc3470e3ffe4aa0bfe4460e2410d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1783486629,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d8cd74f6f47045cb50fbd58b757e6a0a64503971d990809cfd449f7336429ab8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "That is what I love to see!!\n\n",
+  "sig": "e5f40564eb14ed786bd98cabd1e9f8c7196c7876297f3e65dfdad863d3faf7293dbf5a54a21826981d29e5d2d864d32ae344e93f0019d3270c2c708d6ec87d11",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}
