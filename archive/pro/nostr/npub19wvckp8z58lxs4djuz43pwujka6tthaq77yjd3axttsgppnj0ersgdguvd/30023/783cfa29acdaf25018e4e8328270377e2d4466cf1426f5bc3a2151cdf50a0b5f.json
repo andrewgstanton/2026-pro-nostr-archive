@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783461319,
+  "tags": [
+    [
+      "d",
+      "2026-07-07-test"
+    ],
+    [
+      "title",
+      "2026-07-07 test"
+    ],
+    [
+      "published_at",
+      "1783461319"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "test"
+    ],
+    [
+      "t",
+      "test"
+    ],
+    [
+      "e",
+      "fa2fbaac6ee601dc71dd3b6b3c1564ce0bb9d3890e328d4fc04b0cf7700fe86a",
+      "edit"
+    ]
+  ],
+  "content": "test\ntest1\ntest2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "783cfa29acdaf25018e4e8328270377e2d4466cf1426f5bc3a2151cdf50a0b5f",
+  "sig": "716692a04a3023d311772c3cb23af8a140b7c4e0e4fced8c1fbc91c3071ffa4eeb2c05d03b6605ae09b4827fae5005e1a8907302280dcfd2e5799c16965c792e",
+  "published": 0
+}

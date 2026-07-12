@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783808151,
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-july-5-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, July 5, 2026"
+    ],
+    [
+      "published_at",
+      "1783808151"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-06"
+    ],
+    [
+      "image",
+      "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1_sunday.jpg"
+    ],
+    [
+      "e",
+      "8932acfd2619cc999f82c4e2152ae8e9a050faac48b6fe9476cd209580692cf2",
+      "edit"
+    ]
+  ],
+  "content": "Today was quiet -- up about 8 and Kiyomi changed his diapers in the morning.\n\nFoggy morning today and all day, a little cold\n\nRead a few sunday reflections from \"Mountain Vicar\" whih i have been doing last few Sundays.\n\nHis pieces really seem to be helping me stay anchored in scripture (\"Mountain Vicar\" is an NPUB on Nostr)\n\nKiyomi made a vew nice brunch (eggs + a some other things) around 11:30.\n\nWas able to complete creating new YouTube Channel \"BuildingContinuum\" and taped, edited and uploaded my first two videos for the channel -- \"Intro\", and \"Chapter 1\", harder than I anticipated probably spent an hour total for each one (probably 2 hours for Chapter 1, \n\nAfter I did those I updated mycontinuum.xyz to include a separate index page for Building Continuum and also referenced the new YouTube Channel -- Here's what it looks like now:\n\n---\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-05-at-6-52-16-pm.png",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4aea93d90004c794cca5d1bfa1a587ed1bd2e6716f6cd3e1a1b9938cbd45e8e8",
+  "sig": "762bc73f3c26518d1df88f8e37b2d5e4e992f1e42e313a2c4dd1ae8dc630988356e3889ea3cb06c1a34270b53234721324b2e5f3cbde85ef75c67455c4e24cb0",
+  "published": 0
+}

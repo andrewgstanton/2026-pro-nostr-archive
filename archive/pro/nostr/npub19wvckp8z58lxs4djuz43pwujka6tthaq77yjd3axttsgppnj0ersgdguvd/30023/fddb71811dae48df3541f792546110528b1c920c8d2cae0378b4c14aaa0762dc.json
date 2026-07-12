@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783462915,
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-july-6-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, July 6, 2026"
+    ],
+    [
+      "published_at",
+      "1783462915"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-06"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2-monday.jpg"
+    ],
+    [
+      "e",
+      "9a2dda8e842e9039d5d23017641814280b2f58ae7d2326ee0f4abd7bb3269283",
+      "edit"
+    ]
+  ],
+  "content": "Decent morning trading -- 169 in gains\n\nIn the afternoon (about 3 or 4 PM) I started working on event history\n\n(this is different than the archive because it's a local table - nostr_events_history)\n\nVery happy so far with the progress\n\nFor a while (a few hours) I was trying to figure out how best to add the events to the history table but settled on at the end of inserting an event to the (regular db - nostr_events)\n\nThis allows me to view previous versions of articles, notes (and also profiles)\n\nPosted a note to that effect at the end of the day (about 10:00 PM)\n\n(going forward, when I created/edit an article, profile or note I will have it also backed up to nostr_events_history so I can see version history\n\nThis is different then the archive -- those are on git",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "fddb71811dae48df3541f792546110528b1c920c8d2cae0378b4c14aaa0762dc",
+  "sig": "8aaf1475c945448bcb93acfa956c625f21447f4588e21360b69892cad0b78ea77ab41f428a13dbb3777c574d91721bb19ca21caf56f35a81ff8f7c6cea77344d",
+  "published": 0
+}

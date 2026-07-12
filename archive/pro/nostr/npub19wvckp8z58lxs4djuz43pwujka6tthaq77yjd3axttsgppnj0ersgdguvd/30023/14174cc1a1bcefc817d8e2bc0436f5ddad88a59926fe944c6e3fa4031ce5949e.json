@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783384112,
+  "tags": [
+    [
+      "d",
+      "test"
+    ],
+    [
+      "title",
+      "testing article backup to history"
+    ],
+    [
+      "published_at",
+      "1783384112"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "test"
+    ],
+    [
+      "t",
+      "test"
+    ],
+    [
+      "e",
+      "016ae650a01dc1ef0df5ff7684181630e468a5b96c4f16909153f52edafa24a2",
+      "edit"
+    ]
+  ],
+  "content": "testing article backup to history",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "14174cc1a1bcefc817d8e2bc0436f5ddad88a59926fe944c6e3fa4031ce5949e",
+  "sig": "9cf5a1546759958f1670c436468984a0a83ef486644e8e876c2944d3e7bf06ea601ee0ae26f8760515f5bb07f291272828320e089f832817ee68e23ab2783f5d",
+  "published": 0
+}

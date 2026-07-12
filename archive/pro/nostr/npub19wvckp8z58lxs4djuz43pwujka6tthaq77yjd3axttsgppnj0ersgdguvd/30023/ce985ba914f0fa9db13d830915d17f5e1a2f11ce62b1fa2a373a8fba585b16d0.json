@@ -1,0 +1,59 @@
+{
+  "content": "Andrew G. Stanton - July 4, 2026\n\n## What If...\n\nImagine opening your local archive and seeing something very different from another timeline.\n\nInstead, imagine seeing a landscape built entirely from your own work.\n\nNot someone else's algorithm.\n\nNot trending topics, or engagement metrics.\n\nYour writing, conversations, media, ideas - everything connected together.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-your-continuum-universe.jpg\n\n*Concept: Your Continuum Universe — an interactive view of your writing, conversations, media, and relationships. Every node represents something you've created, saved, or connected with.*\n\nPerhaps this view isn't the only way to explore your data.\n\nPerhaps it's simply one lens.\n\n## Different Views, Same Data\n\nOne thing I've learned while building Continuum is that the underlying relationships don't change.\n\nOnly the way we choose to explore them.\n\nThe same local database might be viewed in several different ways.\n\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-different-views.jpg\n\n### Timeline\n\nSometimes you simply want to see how your ideas evolved over time.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-timeline-view.jpg\n\n*A chronological view showing how articles, conversations, and projects influenced one another.*\n\n### Garden\n\nIdeas don't just accumulate.\n\nThey grow.\n\nSome branches flourish.\n\nOthers become dormant.\n\nNew ideas emerge from older ones.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-garden-view.jpg\n\n*An organic visualization where topics branch, merge, and evolve over time.*\n\n### Galaxy\n\nSome ideas naturally become centers of gravity.\n\nArticles, notes, conversations, and media begin orbiting around them.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-galaxy-view.jpg\n\n*Clusters form naturally based on relationships rather than folders or categories.*\n\n### Media\n\nImages aren't just files.\n\nThey're part of your publishing history.\n\nImagine clicking an image and immediately seeing every article, note, or draft where it appears.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2026-07-04-media-view.jpg\n\n*Every image becomes another connected piece of your personal archive.*\n\n## Your Continuum\n\nOne thing that's important to me...\n\nThis isn't about *my* data.\n\nIt isn't meant to become a monument to myself.\n\nEvery author, builder, researcher, journalist ...\n\nEvery creator ...\n\n\n...has their own Continuum.\n\nThe visualizations should look different for every person because every person's work is different.\n\nContinuum isn't trying to generate pretty graphs.\n\nIt's trying to help people discover relationships that already exist inside their own digital history.\n\nThat's a very different goal.\n\n...",
+  "created_at": 1783824944,
+  "id": "ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eaa8560d603253278cdd2dd7b72459d7b6c38b54ddb69602bf05d6f7433d4e9ebc757b1b730bda3e458b92cc4aad05c7ac9ee436b188d464e6a24d6415305e53",
+  "tags": [
+    [
+      "d",
+      "beyond-the-timeline---a-vision-for-your-continuum"
+    ],
+    [
+      "title",
+      "Beyond the Timeline - A Vision for YOUR Continuum"
+    ],
+    [
+      "published_at",
+      "1783824944"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-04"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ],
+    [
+      "t",
+      "conttinuum-vision-concepts"
+    ],
+    [
+      "t",
+      "relationship-views"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "your-continuum"
+    ],
+    [
+      "e",
+      "70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

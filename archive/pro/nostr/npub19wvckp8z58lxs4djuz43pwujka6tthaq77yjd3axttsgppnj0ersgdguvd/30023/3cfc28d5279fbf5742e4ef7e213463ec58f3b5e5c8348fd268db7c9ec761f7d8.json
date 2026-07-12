@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1783484993,
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-july-6-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, July 6, 2026"
+    ],
+    [
+      "published_at",
+      "1783484993"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-06"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2-monday.jpg"
+    ],
+    [
+      "e",
+      "fddb71811dae48df3541f792546110528b1c920c8d2cae0378b4c14aaa0762dc",
+      "edit"
+    ]
+  ],
+  "content": "Decent morning trading -- 169 in gains\n\nIn the afternoon (about 3 or 4 PM) I started working on event history\n\n(this is different than the archive because it's a local table - nostr_events_history)\n\nVery happy so far with the progress\n\nFor a while (a few hours) I was trying to figure out how best to add the events to the history table but settled on at the end of inserting an event to the (regular db - nostr_events)\n\nThis allows me to view previous versions of articles, notes (and also profiles)\n\nPosted a note to that effect at the end of the day (about 10:00 PM)\n\n(going forward, when I created/edit an article, profile or note I will have it also backed up to nostr_events_history so I can see version history\n\nThis is different then the archive -- those are on git\n\n--\n\nAlso today -- Kiyiomi made chicken tandoori curry w/ saffron rice and banana bread !\n\nvery very delicious!",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "3cfc28d5279fbf5742e4ef7e213463ec58f3b5e5c8348fd268db7c9ec761f7d8",
+  "sig": "532666e1821319076ffcb8133d3678fe274a6556f5b4b567965524ad862e7bf3cc801964187b60dd531346787d16409edf63460bd3c4232b9b319d4ac2ab4ead",
+  "published": 0
+}

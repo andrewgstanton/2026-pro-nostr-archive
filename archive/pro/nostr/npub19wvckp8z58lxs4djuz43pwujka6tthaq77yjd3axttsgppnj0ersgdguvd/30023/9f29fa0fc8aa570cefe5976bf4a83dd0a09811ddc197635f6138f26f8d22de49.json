@@ -1,0 +1,31 @@
+{
+  "content": "Decent morning trading -- 169 in gains\n\nIn the afternoon (about 3 or 4 PM) I started working on event history\n\n(this is different than the archive because it's a local table - nostr_events_history)\n\nVery happy so far with the progress\n\nFor a while (a few hours) I was trying to figure out how best to add the events to the history table but settled on at the end of inserting an event to the (regular db - nostr_events)\n\nThis allows me to view previous versions of articles, notes (and also profiles)\n\nPosted a note to that effect at the end of the day (about 10:00 PM)",
+  "created_at": 1783462419,
+  "id": "9f29fa0fc8aa570cefe5976bf4a83dd0a09811ddc197635f6138f26f8d22de49",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f9e1d742560ab9780356933733b4dc43f59be215703caef030bf9e625ac1902b79530a98cab073d4ddc6861dd0dfa727beaec6296a352c0c0ff0680f8842c8e3",
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-july-6-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, July 6, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-06"
+    ]
+  ],
+  "published": 0
+}

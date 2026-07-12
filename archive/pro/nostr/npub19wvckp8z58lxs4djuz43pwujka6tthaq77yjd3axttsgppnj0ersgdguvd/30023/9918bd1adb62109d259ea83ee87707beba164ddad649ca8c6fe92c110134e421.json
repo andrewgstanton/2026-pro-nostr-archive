@@ -1,0 +1,35 @@
+{
+  "content": "traded until about 1 PM \n\non and off it was choppy today\n\nEnded up w/ $129 in gains.\n\nMost were in AMD and PANW (palo alto networks)\n\nas usual 10% converted to BTC and sent to ledger\n\nAbout 2 or 3 PM, continued working on the event versioning (for articles and profiles), looks really great!",
+  "created_at": 1783485415,
+  "id": "9918bd1adb62109d259ea83ee87707beba164ddad649ca8c6fe92c110134e421",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "92dc018eef0848f0efeed3d4d99b56300f7f0f55cc70517818bbcd45395686cc7ddd7197deb23194582b9f5dae71f508260c8c001321037d3a7658f01528b8ac",
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-july-7-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, July 7, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "20206-07-07"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/3-tuesday.jpg"
+    ]
+  ],
+  "published": 0
+}
