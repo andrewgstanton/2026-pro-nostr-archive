@@ -1,0 +1,34 @@
+{
+  "content": "What men don’t say ",
+  "created_at": 1784234115,
+  "id": "a49db7d254a26c3bd31ccb7340cf6d3102ddd8da0c808098e5383188a7c765b9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fd3e5173b7f96a9a4d6c83ada206cec2aae2b66e13dfc845e65d05b509456bff56e6bfcefdb55b129b17da8144b6eec8d38f60af98dd79c0c04c6b3b4daffae8",
+  "tags": [
+    [
+      "e",
+      "b6620a5bdf4323b075de42bf1f1d537619dbe7cd0320fcb2f13cf4aea0916363",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

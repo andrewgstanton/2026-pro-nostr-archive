@@ -1,0 +1,31 @@
+{
+  "content": "Not much has changed 🙂\n\nnostr:nevent1qqsfdksz4vsawsuy7spl92tw8swknnqhl5g90s0lhjklhl54y9n93wspzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygptnx9sfc4ple59tvhq4vgthy4hwj6alg8h3ynv0fj6uzqgvun7gupsgqqqqqqs3dme4d",
+  "created_at": 1783877528,
+  "id": "6eaea08cce7ef88167678c2b494e87eac7bf42d1b5552db3d6990fdf9a1c7ff2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "40c7fa72f6e87d1bf24616db46c0966ca007a4e409a044122ee2b88c223cf36e22eebc8187a66d0d08aa26e0812888c5195933000ce203ceac64a1a2a96ed29b",
+  "tags": [
+    [
+      "e",
+      "96da02ab21d74384f403f2a96e3c1d69cc17fd1057c1ffbcadfbfe95216658ba",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://offchain.pub"
+  ],
+  "published": 1
+}

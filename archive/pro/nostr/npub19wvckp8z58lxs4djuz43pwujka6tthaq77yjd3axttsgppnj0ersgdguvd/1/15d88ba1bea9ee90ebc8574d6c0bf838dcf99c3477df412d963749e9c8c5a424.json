@@ -1,0 +1,34 @@
+{
+  "content": "I was wondering about this too I. ",
+  "created_at": 1784184509,
+  "id": "15d88ba1bea9ee90ebc8574d6c0bf838dcf99c3477df412d963749e9c8c5a424",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6c1952a6aab543af42636719c0eb0ebb4b60855ac01a4fb0eaef23bd06bcb86edf9abf4a429a1654cdd332fa40e6020af82f6bb9785f75378ad80708eb1b5a5a",
+  "tags": [
+    [
+      "e",
+      "4b8513efe57d553a4c061992f9bbbf87136cadbbb9adb40eebf3f38b4c6d62be",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://relay.snort.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,95 @@
+{
+  "content": "Yes!  \n\nHere's a recent article where I talk about some of the ideas I have around the concept of \"Relational Memory\"\n\n\nhttps://primal.net/e/ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0",
+  "created_at": 1783826765,
+  "id": "982d199a7eea7bc3f54a6d9114c50f9497e6bb8d2f50693add7607e4d4927319",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "be10bcdf363010cdff363ab5fb2291aaad6751cc089d67cef84e8be5cd7a407f423af41d5c02764b12c7b813c55381126c6a930435ab8b491caa3dac1a867ca4",
+  "tags": [
+    [
+      "e",
+      "e1238f794c12fd9022d2c8c07459349955c5f5af862525a8202e4f07876c15db",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "2b2c3a384b6e980f8c15443b863b34f6d0a620cda8602e8d13e6c1caec529df1",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nos.lol/"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}
