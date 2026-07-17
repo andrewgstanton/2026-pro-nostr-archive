@@ -1,0 +1,84 @@
+{
+  "kind": 30023,
+  "created_at": 1784271603,
+  "tags": [
+    [
+      "d",
+      "why-trading-still-matters-—-and-what-most-people-get-wrong"
+    ],
+    [
+      "title",
+      "Why Trading Still Matters — And What Most People Get Wrong"
+    ],
+    [
+      "published_at",
+      "1784271603"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work."
+    ],
+    [
+      "display_date",
+      "2025-05-26"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/why-trading-still-matters.jpg"
+    ],
+    [
+      "t",
+      "trading"
+    ],
+    [
+      "t",
+      "equities"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "proof of work"
+    ],
+    [
+      "t",
+      "financial sovereignty"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "markets"
+    ],
+    [
+      "t",
+      "conviction"
+    ],
+    [
+      "t",
+      "mindset"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "e",
+      "9c2e78bf0d50c72cea4239a19d4fc1b1c0f976ab8b0720cc4a5d4bf30fa72d8f",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - May 26, 2025\n\n**Why Trading Matters (And Why It’s Not a Zero-Sum Game)**\n\nThere’s a common belief — even in some Bitcoin circles — that short-term trading is just gambling. That it’s a zero-sum game where one trader’s win is another’s loss.\n\nI get it. The noise is real. So is the wreckage from over-leveraged bets and mindless speculation.\n\nBut that’s not the whole story.\n\nRecently, someone I worked with in 2023 and 2024 — a former mortgage broker — invited me to join an “investment club” that sends buy/sell signals through WhatsApp.\\\nJust follow the messages. Don’t think. Don’t learn. Just click and hope.\n\n**That’s not trading.**\\\nThat’s waiting on an oracle and outsourcing your judgment. It’s faith in hype, not process. It’s anti-skill.\n\nAnother friend told me my approach — aiming for consistent, small intraday gains — sounded *boring*. But here’s what I told him:\n\n> If I trade a $100 stock ten times in a day for a $1–2 gain each time, I’ve made the same as someone waiting around for that one 10% spike.\\\n> But I’ve done it with discipline, risk control, and real engagement. That’s not boring. That’s working.\n\nThese days, I only trade **equities**. No crypto. No forex.\n\nWhy? Because equities are productive assets tied to real businesses in a real economy.\\\nThey aren’t my end goal — Bitcoin is.\\\nBut equities offer a stable, regulated environment to extract short-term gains without feeding the casino culture of leveraged altcoins or hypervolatile FX pairs.\n\nAnd forex? You're just trading one melting ice cube for another — flipping between fiat currencies that are backed by nothing but promises and policies.\\\nIt's like playing musical chairs with pieces of paper while the music gets faster.\\\nI’ve done it. I understand it. But it no longer feels congruent with my Bitcoin ethos.\n\n**It’s not about purity. It’s about alignment.**\\\nIf I’m going to trade, I want the process to reflect the same principles that drew me to Bitcoin: transparency, discipline, and long-term thinking.\n\nReal trading is:\n\n* **Dynamic, not zero-sum.**\\\n  While some instruments are win/lose, markets as a whole reward liquidity, attention, and adaptability. Traders contribute to price discovery.\n\n* **A funding mechanism for conviction.**\\\n  I don’t trade just to make money — I trade to build. My equity gains fund my Bitcoin stacking, my open-source work, my writing, my peace of mind.\n\n* **A craft, not a shortcut.**\\\n  The edge is earned. Over time. In silence. With scars.\n\nI’m not here to follow someone’s signals.\\\nAnd I’m not chasing that one moonshot.\n\nThis is daily work.\\\nThis is Proof of Work.\n\n***\n\n**Postscript:**\\\nThis week? No red days. A green week — around $300.\\\nNot a huge number. And that’s okay.\\\nBecause I wasn’t just trading.\n\nI was writing. Building. Launching tools. Finishing a 5-part series.\\\nSome weeks, the return isn’t measured in dollars. It’s measured in direction.\n\nSmall trades. Strong conviction. Deep alignment.\n\nThat’s Proof of Work, too.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6f9f011a4ed5e7f1989e3af20563a5834a96bba0e6a7eabf67323401a95e6794",
+  "sig": "707151207f13e32619cca7f653848c91c8f405b9060bfaa69e77d3180eeb9c7e32e3ac37b92b100a16dd9fd74e774998ffc55f76326a2770a50c77f6c712a08e",
+  "published": 1
+}
