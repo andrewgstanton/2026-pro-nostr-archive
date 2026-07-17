@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1784272839,
+  "tags": [
+    [
+      "d",
+      "note-1783486035"
+    ],
+    [
+      "published_at",
+      "1784272839"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "c74ab529fa6dece332e03beb79d017ebc8182fb454ef5ebb9760a4535bbbbb9f",
+      "edit"
+    ]
+  ],
+  "content": "**Local Version History Comes to Continuum**\n\nAndrew G. Stanton – July 7, 2026\n\nOne of the more interesting things about Nostr is that not all events behave the same way.\n\n- Profiles (kind:0) are replaceable by design.\n\n- Articles (kind:30023) are parameterized replaceable events identified by a d tag.\n\nTraditional notes (kind:1) are different. They aren't replaceable at all.\n\nEvery edit is simply another event.\n\nContinuum has started taking advantage of those differences.\n\nToday I added local version history for:\n\nProfiles\nArticles\nContinuum-authored notes\n\nFor profiles and articles, the relationship already exists within the protocol itself.\n\nFor notes, Continuum uses a local convention: edited notes preserve a shared d tag so they can be grouped together as revisions of the same piece of writing.\n\nOther Nostr clients simply see independent kind:1 notes.\n\nContinuum understands the relationship between them.\n\nEvery authored revision is preserved locally before the current state moves forward.\n\nFor notes and articles, previous revisions are available directly from the viewer through a collapsible Versions section.\n\nFor profiles, previous revisions can now be loaded directly into the dashboard itself, allowing older profile states to be viewed without leaving the page.\n\nNothing is overwritten.\n\nNothing is lost.\n\nUnder the hood, Continuum now maintains three distinct layers of memory:\n\nnostr_events — current local state\nnostr_events_history — local revision history\nGit archives — long-term preservation and recovery\n\nMost Nostr clients focus on the latest event.\n\nContinuum is beginning to preserve the path that led there.\n\n#Continuum #Nostr #LocalFirst #DigitalPreservation #RelationalMemory",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "1ee70a182b2ea5f086bce97d71dd4e3002c1f3eaa824af688bc618257586aca1",
+  "sig": "94608475e2e03714f1e8c88fc642f9ce2a6d513ac6c021acaa0dbdabe9aa396f8c020d18b352a0aab79191f8dec69d96a83cc27a76e089e18814f28176d32d7b",
+  "published": 1
+}
