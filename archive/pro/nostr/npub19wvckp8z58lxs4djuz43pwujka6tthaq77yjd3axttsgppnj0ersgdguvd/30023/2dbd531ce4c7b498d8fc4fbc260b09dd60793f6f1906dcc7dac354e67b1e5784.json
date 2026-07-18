@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784397679,
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-july-12-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, July 12, 2026"
+    ],
+    [
+      "published_at",
+      "1784397679"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-12"
+    ],
+    [
+      "e",
+      "9b20efdba170c8aeaa5322c8ea531bf7abdf922d6319b8b3a7dd61b8eee0dbd3",
+      "edit"
+    ]
+  ],
+  "content": "Relaxing day for the most part\n\nDidn't really do a lot for Continuum or anything else for that matter\n\n\nusual taking Whiskers out, giving him meds, etc..\n\nI still have not receved the rents for my texas properties so I'm getting ansy about it all",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "2dbd531ce4c7b498d8fc4fbc260b09dd60793f6f1906dcc7dac354e67b1e5784",
+  "sig": "d841d0ee3f1e5670c67cef395c61b303a9a7e3971af59cf088bd05041c8d97bba4d236df1da63590156ed7196590911db459dba075249ffa3fe9a1d0e4866f4d",
+  "published": 0
+}

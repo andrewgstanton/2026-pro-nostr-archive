@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784399294,
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-july-15-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, July 15, 2026"
+    ],
+    [
+      "published_at",
+      "1784399294"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-15"
+    ],
+    [
+      "e",
+      "1469dd9c330a627e66ba0089663294a4a32606886d7943c07e6a04dfc695f419",
+      "edit"
+    ]
+  ],
+  "content": "Trading in the morning as usual and sent my 10% gains into BTC (via Coinbase)\n\nBut I will have to wait until this Friday to transfer the BTC to Ledger since I have still some holds on the friday (7/10 and monday (7/13) deposits.\n\nNo response from Phil Charter yet.\n\n\nThe \"shark tank\" exercise was still very helpful last night though",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5f7860041f71d5a100cf63f12e4a21801a12264c373a2abef86a0636357a8356",
+  "sig": "7b8055e548878ad9fdda1e081fe5827e360c375f478d43946c7d8ae60b6c47de8d7fb97b6a98c58f2671c4f622bc05be0568bb8526502de4dc0cc100dea08a2d",
+  "published": 0
+}

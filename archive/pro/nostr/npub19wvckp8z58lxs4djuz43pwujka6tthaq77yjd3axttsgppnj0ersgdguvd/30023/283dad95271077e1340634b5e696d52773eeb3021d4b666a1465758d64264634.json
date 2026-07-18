@@ -1,0 +1,31 @@
+{
+  "content": "Trading in the morning as usual and it was a good day -- 300+ in gains\n\n(mostly covering shorts w/ AMD -- big gap down\n\nin the afternoon all my holds cleared and I was able to transfer BTC from coinbase to Ledger\n\nI'm actually back up (in terms of total BTC) higher than last Sept \n\n(but this includes Kiyomi's BTC also)\n\nI found a bug when saving history events -- the \"raw_json\" was not getting captured for the event and I fixed that (probably 3-4 hours of work in the afternoon)\n\nI go thruogh phases where I feel really good, and then feel like crap)\n\ntoday pretty good.\n\nThough in the late evening I changed Whiskers diaper before letting him drink and in the morning blankets were a little wet (Kiyomi discovered about 2 or 3 in the morning)\n\nUgh.\n\nSo I really have to be diligent to make sure Whiskers drinks and pees before chaning his diapers\n\nI watched a couple of movies (that i'd seen before - Close and Beekeeper -- Beekeeper actually on prime)",
+  "created_at": 1784400178,
+  "id": "283dad95271077e1340634b5e696d52773eeb3021d4b666a1465758d64264634",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "cd6590e03e481f18667a0d40d9e1de572e8ef6bc4d209cd3f7c208d743bab710c3a774af8bbce60a18a5a7447648bb55ada0ca72757d9b4e8da0da3c6142efaa",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-july-17-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, July 17, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-17"
+    ]
+  ],
+  "published": 0
+}

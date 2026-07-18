@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784395957,
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-july-11-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, July 11, 2026"
+    ],
+    [
+      "published_at",
+      "1784395957"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-11"
+    ],
+    [
+      "e",
+      "47336ef3551279e32746ae0bbb563352ff3e726e9397245d9e48a20ee00bf78c",
+      "edit"
+    ]
+  ],
+  "content": "Did more work in the media library and built tools to backfill media references for all articles\n\nrefactored media tools somewhat and fixed a few bugs in the media items",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "2e0151330e950a09ba623507f35e106a125b0357fdad60c6020e2909ce4201d4",
+  "sig": "9ce89272b08a4a9f1f1a8df256deccfb15815df5627d2ce136d469163fa3fedfe27207035c316b2304419a7ee98d8fee8d6f97458d62996c1ba7c331929cf88f",
+  "published": 0
+}

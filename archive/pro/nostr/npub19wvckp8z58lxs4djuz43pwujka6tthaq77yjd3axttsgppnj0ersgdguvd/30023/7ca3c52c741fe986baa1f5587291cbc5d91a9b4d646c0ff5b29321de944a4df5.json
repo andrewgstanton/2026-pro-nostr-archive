@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784395904,
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-july-10-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, July 10, 2026"
+    ],
+    [
+      "published_at",
+      "1784395904"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-10"
+    ],
+    [
+      "e",
+      "68faabb60194c2903a29c4e13ccce709f65674d15baf3e942725c48b3c689d4d",
+      "edit"
+    ]
+  ],
+  "content": "usual pattern\n\ntrading in the morning and some work w/ Continuum, though the last few days I haven't really posted much or done any more work\n\nSent 100 for BTC-Savings and the rest for BTC-BPV but couldn't transfer today I had holds put on several transfers (today and Monday also)\n\nugh\n\nIn the afternoon did more work to consolidate all the media references in my library\n\ncreated migration media item references",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "7ca3c52c741fe986baa1f5587291cbc5d91a9b4d646c0ff5b29321de944a4df5",
+  "sig": "1be7404ae2058762aac4a19ec61851da788b0fd7ed55c7fdeb3c3d17120c2ba6218cc65d0340003eae435dbd3685570531ad68b726b394a880dacf13b501010a",
+  "published": 0
+}

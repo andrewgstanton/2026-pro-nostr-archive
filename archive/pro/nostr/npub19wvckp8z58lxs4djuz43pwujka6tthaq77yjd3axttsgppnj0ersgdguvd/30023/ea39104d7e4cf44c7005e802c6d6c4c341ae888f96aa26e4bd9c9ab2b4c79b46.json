@@ -1,0 +1,27 @@
+{
+  "content": "As usual, \n\ntrading for 3-4 hours in the morning, and then in the afternoons working on Continuum\n+ brainstorming w/ Dr. C\n\nThis afternoon, I upgraded the Media Library to include all images (both uploaded and referenced in the articles + notes)\n\nLots of infrastructure work behind the scenes.",
+  "created_at": 1784395246,
+  "id": "ea39104d7e4cf44c7005e802c6d6c4c341ae888f96aa26e4bd9c9ab2b4c79b46",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "10742449f8433aedaf7a7aa8aa4e2acd86fb53a20e63f93e76819506577c0a01252f24ed483181f065db38081df5fb9d27f311609cd47e4d3782e7fd13bfae35",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-july-9-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, July 9, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

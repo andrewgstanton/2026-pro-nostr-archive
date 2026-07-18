@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784395920,
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-july-9-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, July 9, 2026"
+    ],
+    [
+      "published_at",
+      "1784395920"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-09"
+    ],
+    [
+      "e",
+      "25c8fd4089070ee891cf53194a05fd4be51f134499c5100ea31d1fa66fca7f08",
+      "edit"
+    ]
+  ],
+  "content": "As usual, \n\ntrading for 3-4 hours in the morning, and then in the afternoons working on Continuum\n+ brainstorming w/ Dr. C\n\nThis afternoon, I upgraded the Media Library to include all images (both uploaded and referenced in the articles + notes)\n\nLots of infrastructure work behind the scenes.\n\nI created a migration - media items for storing media (big push for using sql to store meda data for media instead of using json files",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "c56ee224538f399d1c1613e6ce0981de36fb692a244fc04ba369098e668061be",
+  "sig": "14929d9e2146a56887509ef3ba8b2ee82d8b9582aa3bbfeb699833e04a384d7c0449f170d02e968b1448b2f3277b5065fcd7a4e7ca991dbd7a777d61ae28c9f1",
+  "published": 0
+}

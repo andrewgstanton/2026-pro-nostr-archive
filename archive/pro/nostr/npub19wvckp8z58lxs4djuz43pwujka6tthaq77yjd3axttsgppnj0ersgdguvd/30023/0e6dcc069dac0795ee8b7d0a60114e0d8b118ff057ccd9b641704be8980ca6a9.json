@@ -1,0 +1,31 @@
+{
+  "content": "More trading in the morning and did more work in Continuum in the afternoon\n\nMost of the time this week in the evenings was spent brain storming w/ ChatGPT\n\nI did end up fixing a few bugs in the event history behavior this afternoon added a few more routes for displaying event json for historical events\n\nNo pending deposits for the rentals from Texas (yet) - ugh. \n\nSo now I'm late for 4 mortgages (4 texas properies -- Rosedale, allencrest, wagner lee, ransom island)\n\nbut I pray they will come through so I can at least pay some of those mortgages in the next few days",
+  "created_at": 1784399604,
+  "id": "0e6dcc069dac0795ee8b7d0a60114e0d8b118ff057ccd9b641704be8980ca6a9",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "897696b9beeb4debadea8ec917937451f2441ffca21ec8fb80f1869d52f88e645d97a4185a0fad78aad4c2d06ca8fdac1ffe0fb539fe5dcf1c41e3b25072787d",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-july-16-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, July 16, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-16"
+    ]
+  ],
+  "published": 0
+}

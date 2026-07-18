@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784399277,
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-july-13-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, July 13, 2026"
+    ],
+    [
+      "published_at",
+      "1784399277"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-13"
+    ],
+    [
+      "e",
+      "825886c85302f31ff06cf401495f7118e3d2052446a08cb1344efdb22fbfb1ef",
+      "edit"
+    ]
+  ],
+  "content": "good trading morning,\n\nusual routine -- 7 - noon trading\n\nNo Continuum work in the afternoon\n\nI actually sent a follow-up email to Phil Carter about his proposed work from last week.\n\n(he responded at the end of the week).\n\n---\n\nHi Phil,\n\nThanks again for putting this proposal together. I've been thinking about it over the past week and I agree that focusing on an initial group of active users is probably the right objective for Continuum at this stage.\n\nBefore moving forward, I wanted to clarify a few things around expectations and success criteria.\n\nThe biggest question for me is what exactly constitutes the \"20 users\" target. Are we talking about signups, installations, people who try Continuum once, or users who incorporate it into a meaningful workflow and continue using it regularly?\n\nFor me, there is a pretty significant difference between:\n\n-   someone expressing interest\n-   someone installing Continuum\n-   someone successfully completing onboarding and trying a workflow\n-   someone returning regularly and continuing to use it\n-   someone actively participating in the beta process and providing feedback that influences development\n\nMy interest is very much in the last two categories — people who are genuinely finding value in Continuum, using it regularly, and participating in the beta process by providing meaningful feedback that influences development.\n\nI completely understand that outcomes like this can't be guaranteed, especially with an early-stage product. I'm mostly trying to understand how you think about success for an engagement like this and how you define the target we're working toward together.\n\nI'd also love to hear a little more about what your work looked like with White Noise and 21 Pulse. Was the focus primarily on outreach, community building, onboarding, founder positioning, user interviews, or something else?\n\nFrom my side, what level of involvement would you expect operationally during those two months? Should I anticipate producing content regularly, doing outreach myself, participating in onboarding calls, making product changes in response to feedback, or something different?\n\nCould you also elaborate on the expected deliverables? For example:\n\n-   a written launch plan\n-   outreach templates\n-   onboarding materials\n-   user interview processes\n-   messaging guidance\n-   success metrics\n\nFinally, I'd be interested in hearing whether you already have an initial hypothesis about who Continuum's first cohort of users should be. Existing Nostr users, writers, developers, Bitcoiners, small businesses, or perhaps a different group entirely?\n\nOne other point I'd like to better understand is the level of interaction during the engagement itself. The proposal mentions DM availability and a monthly call, but I'd appreciate a bit more detail on what the collaboration typically looks like in practice over those two months.\n\nAssuming you're still available to begin this week as mentioned in your email, I'd be happy to continue the conversation. That said, if you're still particularly pressed for time this summer, I'd also be perfectly happy to revisit this in September when schedules may be a bit less hectic on both sides.\n\nThanks again,\n\nAndrew\n\nI actually didn't do any more work in Continuum today.  Found out the BTC purchased on Coinbase and also Friday) could not transfer -- hold put on through Thursday and Friday (of this week respectively) ugh\n\n---\n\nI also spent some time fixing/recoving some missing images discovered in the media library (3 from last year - 2025)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "9fdb8cb8bf85c43d5a7de503346bea65b07d9c45dedff702fbd67d97b376a37c",
+  "sig": "718c7915f7dd70ca74eb8588e539b7e5a455748d5155744c7f3812fa8d0d4ac93a5864ac5b5447967f6445c6e0282b7b7a73ac4a5d63c8c1f8f8f520ce27a825",
+  "published": 0
+}

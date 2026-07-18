@@ -1,0 +1,27 @@
+{
+  "content": "Did more work in the media library and built tools to backfill media references for all articles\n\nrefactored media tools somewhat",
+  "created_at": 1784395713,
+  "id": "47336ef3551279e32746ae0bbb563352ff3e726e9397245d9e48a20ee00bf78c",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0ee1ddb2941fab0df02a81d9f545197c203b9b96602ada6911d5e76855c1385f543dc3fc41607087ac8bfe47b264379f1cd928a3b1ecdc851264dc77f8c6d3ba",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-july-11-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, July 11, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}
