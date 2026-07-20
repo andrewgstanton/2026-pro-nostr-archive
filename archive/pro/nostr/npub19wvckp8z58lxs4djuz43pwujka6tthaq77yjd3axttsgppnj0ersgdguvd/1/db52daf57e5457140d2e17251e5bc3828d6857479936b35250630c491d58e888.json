@@ -1,0 +1,29 @@
+{
+  "content": "Yes I certainly can.",
+  "created_at": 1784344197,
+  "id": "db52daf57e5457140d2e17251e5bc3828d6857479936b35250630c491d58e888",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6995acedb08cc25a76d47ba0625dc49d06a25748511e8c0fb667dd327b0c8be6abb77fa2b16527eb92570cebf5f15f40f347701b09d3bdcfa1a3149bc61cd348",
+  "tags": [
+    [
+      "p",
+      "a012dc823bcf80d5eadf4b6683035634bc40f1b0a52b958278b6bbc96458a70d",
+      "wss://relay.primal.net/",
+      "Crox Road"
+    ],
+    [
+      "e",
+      "7f47b8fb7c2bcef0f4f1d00fefe98c88ac2f95f3655efa9e47e1aedb98e2ddcc",
+      "wss://relay.primal.net/",
+      "root",
+      "a012dc823bcf80d5eadf4b6683035634bc40f1b0a52b958278b6bbc96458a70d"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "published": 1
+}
