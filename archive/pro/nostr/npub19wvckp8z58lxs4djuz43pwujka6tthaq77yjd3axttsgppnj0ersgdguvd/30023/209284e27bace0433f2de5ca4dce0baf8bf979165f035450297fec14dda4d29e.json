@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784497857,
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-july-19-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, July 19, 2026"
+    ],
+    [
+      "published_at",
+      "1784497857"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-19"
+    ],
+    [
+      "e",
+      "6f263a4db18abdae02fa8fe2712bc49e74d560253e85c6893d530fb6c33b3ca0",
+      "edit"
+    ]
+  ],
+  "content": "Successfully built full releases \n\nHad to agree to apple's agreement -- initially I got this message:\n\n(really irritating)\n\n==> Submitting DMG for notarization... Conducting pre-submission checks for Continuum-v1.6.8.2-release-78-ga0c5467.dmg and initiating connection to the Apple notary service... Error: HTTP status code: 403. A required agreement is missing or has expired. This request requires an in-effect agreement that has not been signed or has expired. Ensure your team has signed the necessary legal agreements and that they are not expired.\n\n--\n\nbut anyway, I'm writing this note in the native build\n\nalso I was able to clear/restore workspace from the backup (exported from the docker version)\n\n---\n\nStill need to finish the work trial for mercor really don't want to do the AI interview\n\n--- \n\nWell , I finished the trial the AI interview \"sucked\" (i felt).  My prompt and response was very weak (did not cause the model to illicit hate speech)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "209284e27bace0433f2de5ca4dce0baf8bf979165f035450297fec14dda4d29e",
+  "sig": "9a3539809a58fd25b8ccb59c77242247ce0531b55c8fbe29e6250376fddd5f6f63f6926d6978baa5b8a6c6b96141930aec76bd4fccb64b672b1de417788a1dcd",
+  "published": 0
+}

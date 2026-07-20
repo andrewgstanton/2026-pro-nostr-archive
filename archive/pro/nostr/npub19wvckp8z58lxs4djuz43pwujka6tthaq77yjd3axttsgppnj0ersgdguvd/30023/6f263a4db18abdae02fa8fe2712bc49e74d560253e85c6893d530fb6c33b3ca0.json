@@ -1,0 +1,31 @@
+{
+  "content": "Successfully built full releases \n\nHad to agree to apple's agreement -- initially I got this message:\n\n(really irritating)\n\n==> Submitting DMG for notarization... Conducting pre-submission checks for Continuum-v1.6.8.2-release-78-ga0c5467.dmg and initiating connection to the Apple notary service... Error: HTTP status code: 403. A required agreement is missing or has expired. This request requires an in-effect agreement that has not been signed or has expired. Ensure your team has signed the necessary legal agreements and that they are not expired.\n\n--\n\nbut anyway, I'm writing this note in the native build\n\nalso I was able to clear/restore workspace from the backup (exported from the docker version)\n\n---\n\nStill need to finish the work trial for mercor really don't want to do the AI interview",
+  "created_at": 1784487175,
+  "id": "6f263a4db18abdae02fa8fe2712bc49e74d560253e85c6893d530fb6c33b3ca0",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8b510076c967f8e7bd57883c8191602630980bb0021af89d53269a41a7106184500f4b8f3516bd938e0f6b8b07819df5c653811850b4e0585ad138ccd657cbaf",
+  "tags": [
+    [
+      "d",
+      "builders-journal---sunday-july-19-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, July 19, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-19"
+    ]
+  ],
+  "published": 0
+}
