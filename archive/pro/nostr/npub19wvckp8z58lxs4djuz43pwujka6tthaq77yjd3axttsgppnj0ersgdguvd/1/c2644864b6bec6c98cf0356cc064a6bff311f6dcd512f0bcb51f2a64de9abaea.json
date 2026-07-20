@@ -1,0 +1,30 @@
+{
+  "content": "THIS IS SO TRUE Ben!!\r\n\r\n\"You don't need permission and you definitely don't need to pay the price of a house to learn from someone who talks about doing things for a living instead of doing them.\"\n\nnostr:nevent1qqsfjxzm504q3hm6z57aa4agq58kemwn934afh6kqwpfyr489y0nf4qpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9yfk7f4234w9m20484cvgxs3h2p94kdhst2rhrntl4fw4td39lfvpsgqqqqqqsat78zg",
+  "created_at": 1784525042,
+  "id": "c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1121d854067867c1c0b654ac3195c22ae4b93dab8ca26b4d8ce727b1405b41c9ee13758a795a2112c0eb2a158da5a9ccfd5f88a7981825c7d093fddbb42d06c6",
+  "tags": [
+    [
+      "e",
+      "99185ba3ea08df7a153dded7a8050f6cedd32c6bd4df560382920ea7291f34d4",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
