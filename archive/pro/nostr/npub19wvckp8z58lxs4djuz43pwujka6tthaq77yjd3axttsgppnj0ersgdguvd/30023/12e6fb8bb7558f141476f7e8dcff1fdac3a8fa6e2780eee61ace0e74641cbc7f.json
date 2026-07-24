@@ -1,0 +1,27 @@
+{
+  "content": "trading (about 60 in gains) -- it's been a slow week apparently.\n\nIn the afternoon and evening, continued working on the Feeds and got them wrapped up\n\nThe screenshot looks like this:\n\nhttps://tinyurl.com/28skgyr7",
+  "created_at": 1784863590,
+  "id": "12e6fb8bb7558f141476f7e8dcff1fdac3a8fa6e2780eee61ace0e74641cbc7f",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0b29f3e044e3c0fdce923e735a56ae831950120454014ab30f7e8a9a82c20376f0dc85b798e4f2dd78ca09d7e0daa33adb390f554c0981d0dae197917dc13210",
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-july-21-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, July 21, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 0
+}

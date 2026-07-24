@@ -1,0 +1,31 @@
+{
+  "content": "I was pretty tired from the marathon work Monday and Tuesday nights for the Feed work \n\nThis week trading has been slow and I think it's because the market has gone done\n\nI'm up about 150 in gains for the week so far.\n\nOnly about 30 in gains today sent to coinbase\n\nLike last week I have two deposits (Monday's and Yesterday's deposits that are on hold\n(so I can't transfer the BTC equivalent out)\n\nSo annoying.  Coinbase already took the money.\n\nMonday's will clear Friday (4/24,a nd yesterday's will clear sat (4/25).\n\nAlso yesterday, \"Laser\" decided to change his npub:\n\nseems a little drastic.  In the evening, he had scrubbed his profile.  \n\nI asked him to let me know about his new handle but he hasn't posted it.\n\nJust ... very weird but he was kind of weird well I guess we all are here.\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-23-at-8-34-47-pm.png",
+  "created_at": 1784864321,
+  "id": "e1ff5a2a5c2cee28aa9c69c85e727d671f8f572b0b5ab9e5c1220c489bce0644",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3191b491003d1bec05d5f15af95ca98a834f804be781018c37316df06c2bb949a642c34b0318ac095849833521b259802185aec0c0c99083ebabda4bc6146375",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-july-22-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, July 22, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-22"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1784863638,
+  "tags": [
+    [
+      "d",
+      "builders-journal---tuesday-july-21-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Tuesday, July 21, 2026"
+    ],
+    [
+      "published_at",
+      "1784863638"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-07-21"
+    ],
+    [
+      "e",
+      "12e6fb8bb7558f141476f7e8dcff1fdac3a8fa6e2780eee61ace0e74641cbc7f",
+      "edit"
+    ]
+  ],
+  "content": "trading (about 60 in gains) -- it's been a slow week apparently.\n\nIn the afternoon and evening, continued working on the Feeds and got them wrapped up\n\nThe screenshot looks like this:\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-21-at-9-34-18-pm.png",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "fe46cb7fc31bf559ec6111517835af28f464b2bc37ff9772e57d5e8186e08db4",
+  "sig": "baa14de88dd518f0788750d2313b9e0325be1bc07539ead5e105e6d096b1a6beeb1f4b84f2afbe47003fc8265110682579c6ee2b7982ec53e5339bcc7dcfc904",
+  "published": 0
+}
