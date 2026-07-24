@@ -1,0 +1,33 @@
+{
+  "content": "Why do u think this is ?",
+  "created_at": 1784861769,
+  "id": "4e1e334eff1d718ed0208ba81b9f2c5f3d82dd4abc5690da9472774c4f6b1224",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "09806749c6708309e654a4dbf4cfb152ccb4470c7c34dd446c744499a9a4fb5818548baa3f893e83b1f9aa685ad9272c0a648eb13c94bea42caf3c8780432343",
+  "tags": [
+    [
+      "e",
+      "041484efd11b5a0765ef96bdf5564afa7797aec5283e46db4cb2cbc7385d1da8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,82 @@
+{
+  "content": "I understand why you’d do this. If 10,000 follows represent only 50 real relationships, the graph has stopped reflecting the life behind it.\n\nBut it also exposes an important problem: moving to a new npub isn’t merely generating another key. It can mean severing history, trust, and relationships, then hoping the right people find you again.\n\nThis is something I want Continuum to account for: preserving continuity across identities without carrying forward a social graph you no longer want. The keys may change, but the person, history, and meaningful relationships shouldn’t have to disappear.\n\nI’d suggest posting a final pinned note from the old account along these lines:\n\nOld npub → npub...\nNew npub → npub...\n\n\"This old npub is being deactivated. Please follow me at the new npub.\"\n\n---\n\nThat would give people a clear, verifiable connection between the identities rather than leaving everyone to rediscover you by chance. \n\nPlease keep connected—and let me know your new npub when you make the move!!! Always enjoyed interacting w/ your content\n\nBy the way, 3 years (teaching English and building websites) living in Japan (Nagoya).  My wife is Japanese.\n\nありがとう\n\n\n",
+  "created_at": 1784765998,
+  "id": "46829746de82d51be0fd0d95149545789355dd42bb08786e765d0e1e8154cc64",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "95117fd9967d717600bb92482afc6d5dc044584b0da56e806d4091a3102d37ac87c180b3a3a85b91370edfc44ab4e3f109f51459a67d9b88e9e94471e169aa82",
+  "tags": [
+    [
+      "e",
+      "cb09eeeae13232f788717db88ac69991bafb3c850dbc27f8a3d547d6a03eeca3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

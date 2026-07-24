@@ -1,0 +1,77 @@
+{
+  "id": "1015277ef23af3b87e00dfb7aa55e6329a6d4c1249ab9110aea697f53ce3b85b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1784588504,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "57462ca89f6ace0054963d44f81edee91ec25247a561c9b29b7ebebd3043e397",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e83b66a8ed2d37c07d1abea6e1b000a15549c69508fa4c5875556d52b0526c2b"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "it was worth it.  Great pic!",
+  "sig": "211fed82ba84ce57f826841527b8001489c7de497e5f48843ff02a67588e5aacf25f0e40605eda8c11eeb34202052e51fb34d1c262eb35be356a42663fcbd009",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Yes, but almost no one will see this as \"surveilance\", but as \"safer streets\"\n\nnostr:nevent1qqszm92xv93z95t6jncpdud3h9zlzxug253xu88vjrd8yhctd99hgcspzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygz5vzgys2zd9g23er0kyh6qcwyaggldq4lua7f8mwyf2mfgug46qvpsgqqqqqqscjtxae",
+  "created_at": 1784682921,
+  "id": "5297d72ee7c8766593b92914c4d9a6cd523f3bdc6e4ea61857acb88236e29dc5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "dde0c8e4dcc75af95d4fd1e5556b1df60715f62ccf58953e6442bec69863e8ac1f2f1fc5383b24b74e252ff338698c7018e5b076d21044f756a7ec4b85823156",
+  "tags": [
+    [
+      "e",
+      "2d9546616222d17a94f016f1b1b945f11b8855226e1cec90da725f0b694b7462",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

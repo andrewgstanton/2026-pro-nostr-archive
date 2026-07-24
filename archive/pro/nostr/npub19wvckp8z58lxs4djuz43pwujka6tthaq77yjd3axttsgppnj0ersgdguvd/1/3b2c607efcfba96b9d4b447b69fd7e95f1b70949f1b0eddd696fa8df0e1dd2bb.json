@@ -1,0 +1,32 @@
+{
+  "content": "**July 21, 2026**\n\nBuilt quite a lot into Continuum’s Feeds over the past 24 hours.\n\n\nNostrVerse gives me a broader view across everyone Continuum has discovered.\n\nFollowing shows recent notes, reposts, and articles from my complete Nostr follow list.\n\nCurated gives me a focused feed made from people I deliberately choose—not simply everyone I follow.\n\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-21-at-9-34-18-pm.png\n\n\nAll three use the same coherent interface, can refresh from relays, retain events locally, and remain browsable even when Continuum is offline.\n\nThis is what I mean when I say Continuum is not merely another Nostr client. It lets me create different lenses through which to see the same growing body of locally retained history—without surrendering that history to whichever client or platform I happen to use today.\n\n\nStill building. But yes, this is beginning to look rather slick. 😇\n\n\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #BuildInPublic",
+  "created_at": 1784695085,
+  "id": "3b2c607efcfba96b9d4b447b69fd7e95f1b70949f1b0eddd696fa8df0e1dd2bb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c3f957d6b1e7a4277deec1a968097506177425a75b2bde4edc9f9db608aec419139ef818043ac7024b3130b67adf48f2711fdaedd2cf74d7949c79c649d9668d",
+  "tags": [
+    [
+      "d",
+      "note-1784694839"
+    ],
+    [
+      "published_at",
+      "1784695085"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "2b2971118d19aa068090a0c9745af66a71631022e2904923b64b35eb35cc8e24",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

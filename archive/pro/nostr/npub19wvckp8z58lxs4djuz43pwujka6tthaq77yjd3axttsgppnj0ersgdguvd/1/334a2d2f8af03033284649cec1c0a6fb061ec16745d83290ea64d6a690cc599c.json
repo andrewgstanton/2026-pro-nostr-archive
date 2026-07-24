@@ -1,0 +1,33 @@
+{
+  "content": "Yes do the reverse be in fiat ti accumulate bitcoin!",
+  "created_at": 1784790802,
+  "id": "334a2d2f8af03033284649cec1c0a6fb061ec16745d83290ea64d6a690cc599c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "93abd485251e7d2d8d697d66f190867a949748d01f41ba01174f1a3c06294e43e5196959bae263328d4ae79d56b0358470408185353226d12fdcccaf34620490",
+  "tags": [
+    [
+      "e",
+      "2d9f40bed2996a4a873682693004ce7f1b0e2868214c92a9606384f975761931",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "228056c3400fb707ec673aa5c7a0ad73095ffe592c561765e9acf6bc08cb2578",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

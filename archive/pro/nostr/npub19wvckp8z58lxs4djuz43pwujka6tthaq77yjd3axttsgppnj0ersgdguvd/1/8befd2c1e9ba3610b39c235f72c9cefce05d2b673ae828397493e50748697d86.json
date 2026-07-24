@@ -1,0 +1,43 @@
+{
+  "content": "**July 21, 2026**\n\nBuilt quite a lot into Continuum’s Feeds over the past 24 hours.\n\nCurated gives me a focused feed made from people I deliberately choose—not simply everyone I follow.\n\nFollowing shows recent notes, reposts, and articles from my complete Nostr follow list.\n\nNostrVerse gives me a broader view across everyone Continuum has discovered.\n\nAll three use the same coherent interface, can refresh from relays, retain events locally, and remain browsable even when Continuum is offline.\n\nThis is what I mean when I say Continuum is not merely another Nostr client. It lets me create different lenses through which to see the same growing body of locally retained history—without surrendering that history to whichever client or platform I happen to use today.\n\nStill building. But yes, this is beginning to look rather slick. 😇\n\n\n\n#Continuum #Nostr #LocalFirst #DigitalSovereignty #BuildInPublic",
+  "created_at": 1784694839,
+  "id": "8befd2c1e9ba3610b39c235f72c9cefce05d2b673ae828397493e50748697d86",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "339eec2219f8cd40258641219c803fb8fcf25937d4c4c95b37c2e9100a36093b21aa318bbcb262111cf9e205255597d9531d1e26a6617068ee84bb8d744aa669",
+  "tags": [
+    [
+      "d",
+      "note-1784694839"
+    ],
+    [
+      "published_at",
+      "1784694839"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "localfirst"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ]
+  ],
+  "published": 0
+}

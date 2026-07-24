@@ -1,0 +1,29 @@
+{
+  "content": "Hi Derek,\r\n\r\nWould I be able to use a browser extension (so I don't have to share my nsec or bunker url)\r\n\r\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-21-at-9-45-32-pm.png",
+  "created_at": 1784695752,
+  "id": "d999b96163a566b75944432a2ff06d1e20b97bff8aa98496fe831efcfde9be09",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d8a926a5c13626b3b0e6fbd156d56901e12fa6a7e129c5b59d37526f54d765bf0f074f109bc7d39742749f2d1d99c082ed61c1139a6b6bf38a91577caca84fb4",
+  "tags": [
+    [
+      "e",
+      "6463a045449b49feb20b36e503385f12299935a1e7d227dfeecc0edae79ab152",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

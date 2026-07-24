@@ -1,0 +1,33 @@
+{
+  "content": "Actually well said Laser!!!\n\n\n\n",
+  "created_at": 1784771031,
+  "id": "d7e282cca1fdd009af56d5be964a420a6fb69887f8fda34834c444c58c483959",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fb89ffa0b79791b9acdcae822c6d63f160a6ffd9feef7d0e28de27c51c2b3b8adffce5a466666d3b23767997a19f41c59ebd905a8186ec21b5585f1ecbf9eb9b",
+  "tags": [
+    [
+      "e",
+      "887d5f3e2ab7fffa68b31d36e5c9d19e9978f303c84cc59c77275e3f93d6bab6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}
