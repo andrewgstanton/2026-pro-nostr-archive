@@ -1,0 +1,31 @@
+{
+  "content": "Very well said, especially\r\n\r\n\"The measure of character is what you say when someone can't defend themselves.\"\n\nnostr:nevent1qqsgqzrdsqvcttr5q4lw3ju8vjz3emk6kawrjf9aq0ps54e8s6s76zgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqstj892z",
+  "created_at": 1785022753,
+  "id": "05dc3495f1bf7766ca7a6e02f843ed67076f496cbfbd2b8d4e4738a7f2a79603",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7375ac4a5672cdade9290f55d0473ea7cb933adfb49949cb61b2b72f4bafa218c7ba3874210e1f45c1f4de3676e84d940819d0a74dd9c4b9f71638ee8c5da1a7",
+  "tags": [
+    [
+      "e",
+      "80086d801985ac74057ee8cb8764851ceedab75c3924bd03c30a572786a1ed09",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

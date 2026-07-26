@@ -1,0 +1,33 @@
+{
+  "content": "Spot on!!",
+  "created_at": 1784914719,
+  "id": "df5c052010318ca65ba67a1d43562cd44018f5080dfae07a5842787e67fcf343",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d565bf15e0e223bf67d09b3a82409267487018ace3cc0d9114366bc5d93db1591ab89e4a96bdff73e7dffeafcd3e5b3a9a4151dc9345d7e474254572c792395d",
+  "tags": [
+    [
+      "e",
+      "fbd7ec75b961ab07d84356cbcb85fc333cc13df42d4c82673a1784b47042ad68",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.mostr.pub"
+  ],
+  "published": 1
+}

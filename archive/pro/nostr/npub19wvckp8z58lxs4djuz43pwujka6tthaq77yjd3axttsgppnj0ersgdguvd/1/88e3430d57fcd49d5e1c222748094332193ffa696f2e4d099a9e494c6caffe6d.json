@@ -1,0 +1,39 @@
+{
+  "content": "Just wondered what specifically prompted you to highlight this?\n\n",
+  "created_at": 1784867735,
+  "id": "88e3430d57fcd49d5e1c222748094332193ffa696f2e4d099a9e494c6caffe6d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f6a6ce03c85168ad199c3249d51278fb7cc8be23bfdc077d92239bcac082efcfda801f0a1af2e5e792821b223803d8497bd68ea2230963d48480a0c06b929175",
+  "tags": [
+    [
+      "e",
+      "041484efd11b5a0765ef96bdf5564afa7797aec5283e46db4cb2cbc7385d1da8",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "00421c9fb2c662b77d2b397915aac2224e94d5f5d3fedb5da91cc7a17838314f",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.mostr.pub"
+  ],
+  "published": 1
+}

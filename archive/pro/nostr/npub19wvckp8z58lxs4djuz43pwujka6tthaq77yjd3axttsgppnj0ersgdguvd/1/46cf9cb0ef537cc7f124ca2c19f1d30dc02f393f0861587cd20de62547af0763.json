@@ -1,0 +1,47 @@
+{
+  "content": "** Announcing the Continuum Identity Workspace **\n\nJuly 26, 2026\n\n---\n\nEvery time you install a new browser signer or move to a different bunker service, you have to set up your Nostr identities again.\n\nUse Chrome and Safari? You will need to import the same private keys into two different tools. Have several identities? You must repeat that process for every identity—and remember which keys are stored where.\n\nContinuum Identity Workspace solves this by keeping all your identities and private keys together in one local, portable workspace.\n\nImport an identity once. Then install Continuum Signer in your preferred browser and use that identity with your favorite Nostr apps. You can log in, post, react, and sign events normally, while your private keys remain in the Continuum workspace—not in the browser’s local storage or a remote bunker service.\n\nContinuum Signer is already open-source software and is available in the public mycontinuum.xyz repository. It works with Chrome, Brave, and Safari, although the Safari version has not yet been packaged for easy public installation.\n\nI will also be releasing Continuum Identity Workspace as open-source software in the next few days. This functionality is already included in the full Continuum application, which is currently available as a native application for Windows and macOS, through Docker, or as a Python application.\n\nTogether, Continuum Identity Workspace and Continuum Signer provide an open-source way to keep your Nostr identities in one local, portable workspace and use them across supported browsers and apps.\n\nThe extension still needs to be installed in each browser you want to use—but it is only a bridge. It does not store or manage your private keys in the browser. You do not have to copy your keys into it.\n\nChange browsers. Change Nostr clients. Keep your identities and keys in one place.\n\n** Your identities stay in Continuum **\n\n** 1. Log in through Safari (primal.net) **\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/safari-login-screen-1-screen-shot-2026-07-25-at-3-32-36-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/safari-login-screen-2-screen-shot-2026-07-25-at-3-37-41-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/safari-login-screen-3-screen-shot-2026-07-25-at-3-33-04-pm.png\n\n\n** 2. Login in through Chrome (primal.net) **\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/chrome-login-screen-1-screen-shot-2026-07-25-at-3-34-18-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/chrome-login-screen-2-screen-shot-2026-07-25-at-3-34-31-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/chrome-login-screen-3-screen-shot-2026-07-25-at-3-34-40-pm.png\n\n** 3. Login in through Brave (primal.net) **\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/brave-login-screen-1-screen-shot-2026-07-25-at-3-35-05-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/brave-login-screen-2-screen-shot-2026-07-25-at-3-35-14-pm.png\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/brave-login-screen-3-screen-shot-2026-07-25-at-3-35-23-pm.png\n\nNote: Primal calls this “Browser Extension” login. In these examples, the request is handled by Continuum Signer, which connects the browser to the identity stored in my local Continuum Identity Workspace. The private key is not stored in Safari, Chrome, or Brave's local storage.\n \n\nOne local workspace. All your Nostr identities. Any supported browser. Open source.\n\n#Continuum #Nostr #NostrIdentity #OpenSource #DigitalSovereignty",
+  "created_at": 1785021583,
+  "id": "46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a8d9bb83ed9c336bee3a05edb93caecd5d78f4d547f1f5b5991cf1f865632882031519d9d6693b5051779abab4880d242dba7f448b2085eef47d958d7af4650",
+  "tags": [
+    [
+      "d",
+      "note-1785021583"
+    ],
+    [
+      "published_at",
+      "1785021583"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "nostridentity"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

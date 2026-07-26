@@ -1,0 +1,30 @@
+{
+  "content": "AMEN!!\n\nnostr:nevent1qqsryfqexgwcq33svdzl6crnulsq7qq20xha2xcunpa6f68eu3d2n5cpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqswkcy4p",
+  "created_at": 1784874883,
+  "id": "066b6bf1d2191c07df60e9c9480ca9b779a3b148ce8ff0a666da43136ed02cd4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "853e97711e2a4d61db5974b2b56ef3824ae51d4f0b7bc2126cdfefec890aba0112c392b079294a87c1877a9fc713ce4e15d03b5813787401da9e90367f49a204",
+  "tags": [
+    [
+      "e",
+      "322419321d8046306345fd6073e7e00f000a79afd51b1c987ba4e8f9e45aa9d3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

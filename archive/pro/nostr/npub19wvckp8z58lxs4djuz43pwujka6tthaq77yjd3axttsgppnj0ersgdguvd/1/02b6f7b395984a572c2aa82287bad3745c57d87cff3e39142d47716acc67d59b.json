@@ -1,0 +1,16 @@
+{
+  "content": "hello",
+  "created_at": 1785012674,
+  "id": "02b6f7b395984a572c2aa82287bad3745c57d87cff3e39142d47716acc67d59b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2d1fb4809e57174c3a8e16a78204dcdb751c960fd38c9d3250b16fffb2dad644dc2a3b34347f3619461ff5c6901e237afb703b48a21b0c5cbd8580ceea7e2318",
+  "tags": [],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.mostr.pub",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

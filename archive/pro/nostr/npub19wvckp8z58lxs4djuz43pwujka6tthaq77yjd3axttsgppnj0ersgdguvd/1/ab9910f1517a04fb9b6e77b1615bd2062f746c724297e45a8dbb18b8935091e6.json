@@ -1,0 +1,29 @@
+{
+  "content": "I did Fuji in 2000. (I was 35 at the time).  It was very remarkable.",
+  "created_at": 1784874834,
+  "id": "ab9910f1517a04fb9b6e77b1615bd2062f746c724297e45a8dbb18b8935091e6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2b557ad1c39da025be99f4252ba823f56ba14e27686a398bec75ef8ecfc553a2e0969739583a81e3be085a5384fcf35dd6cdbc2f6660fca1f0cd9aebc4c39ae0",
+  "tags": [
+    [
+      "e",
+      "640181ddfff0c52da17186486cf884133998a34f1c2ff230133f3a6fb618b0d5",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.primal.net"
+  ],
+  "published": 1
+}

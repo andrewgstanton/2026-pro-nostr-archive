@@ -1,0 +1,33 @@
+{
+  "content": "Looks like I found you Laser !  \n\nOut of curiosity how easy was it to get the new npub using your nip 5 address\n\n",
+  "created_at": 1784868098,
+  "id": "b5e9ebd57c9dcdcb64074ddc7d84417e95bf8e46f060da6e491091875ddfdb92",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "93c4cf6cf6ddad4de7c1dfac81098452c0398928bccca45941e1f0e6e6bbb4af6cd83d33bf152abc959feee9da97d87e1660e3b62b1511bf9aa2b4186fe24b0f",
+  "tags": [
+    [
+      "e",
+      "00002c39f27d3e1f423159a9108712c052a8e3100e6399cbfcdfacc5e4318055",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.mostr.pub"
+  ],
+  "published": 1
+}

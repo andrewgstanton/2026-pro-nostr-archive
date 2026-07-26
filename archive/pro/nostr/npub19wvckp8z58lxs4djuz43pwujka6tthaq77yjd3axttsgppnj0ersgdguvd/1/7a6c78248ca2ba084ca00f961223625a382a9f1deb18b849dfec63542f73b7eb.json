@@ -1,0 +1,30 @@
+{
+  "content": "This is very encouraging!  (been building Continuum since my 60th birthday)\r\n\r\n(now 61)\n\nnostr:nevent1qqs96ax5chze82u4fam6dg20xpgr5dhlm32qtdfnvjk5xt6qwytuuwspzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqssw98jd",
+  "created_at": 1784875174,
+  "id": "7a6c78248ca2ba084ca00f961223625a382a9f1deb18b849dfec63542f73b7eb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c63076f388303a57d763ef5f8342d48760caf48f1d01267b013324a636ffe1cebd60a039f7a37f1b0b8f8a3638c615d4da7a2b01875a75072bbc70b58f5a83c9",
+  "tags": [
+    [
+      "e",
+      "5d74d4c5c593ab954f77a6a14f30503a36ffdc5405b53364ad432f407117ce3a",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

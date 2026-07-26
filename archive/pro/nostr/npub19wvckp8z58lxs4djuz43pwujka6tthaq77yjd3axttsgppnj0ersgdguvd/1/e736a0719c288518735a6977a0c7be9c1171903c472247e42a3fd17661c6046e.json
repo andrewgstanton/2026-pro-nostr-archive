@@ -1,0 +1,30 @@
+{
+  "content": "I especially liked:\r\n\r\n\"The empty tomb isn’t a vibe someone made up to feel better.\"\r\n\r\nand \"Mocking this costs nothing.  Investigating it costs your whole framework.\"\r\n\r\nAmen brother!\n\nnostr:nevent1qqsd7dzprdtnpu5dx9l7jsp07vr043el2qm62z92sd9z29y0shyt93gpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqsszrr89",
+  "created_at": 1784874080,
+  "id": "e736a0719c288518735a6977a0c7be9c1171903c472247e42a3fd17661c6046e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "10ee53dd4dd1557fa1779e5d2db28c5fbcd5442800cbd1d3813d480adc5e047ad9cdc99f1424ffabbafa1e474b24941b26b4a65b4ac6f491de255f13a5cf0821",
+  "tags": [
+    [
+      "e",
+      "df34411b5730f28d317fe9402ff306fac73f5037a508aa834a25148f85c8b2c5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

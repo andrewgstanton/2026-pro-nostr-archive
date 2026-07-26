@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "created_at": 1784874071,
+  "tags": [
+    [
+      "e",
+      "df34411b5730f28d317fe9402ff306fac73f5037a508aa834a25148f85c8b2c5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I especially liked:\r\n\r\n\"The empty tomb isn’t a vibe someone made up to feel better.\"\r\n\r\nand \"Mocking this costs nothing.  Investigating it costs your whole framework.\"\r\n\r\nAmen brother!\n\nnostr:nevent1qqsd7dzprdtnpu5dx9l7jsp07vr043el2qm62z92sd9z29y0shyt93gpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksyg9dc9868t2epptdmzuqs9wnvlmurennttgqlkv2smgq97lfldf4uypsgqqqqqqsszrr89",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "006f986553c1d2975634aa85a74184fe1fb1ff32b46737f2a0e40ca16bd867e0",
+  "sig": "d6504a90aa109c7b03ae761f3d2867f9246b8faeba231a27d01ad741000b27035247b9f0e52935b817cd6cf3b6d09246361e99645e8549f50ce801b55b0f5524",
+  "published": 1
+}
