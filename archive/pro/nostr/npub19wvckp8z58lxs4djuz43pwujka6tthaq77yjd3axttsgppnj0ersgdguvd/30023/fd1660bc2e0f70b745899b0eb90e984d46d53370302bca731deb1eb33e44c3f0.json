@@ -1,0 +1,52 @@
+{
+  "kind": 30023,
+  "created_at": 1785650782,
+  "tags": [
+    [
+      "d",
+      "chaos-job-galatians-and-coldcard"
+    ],
+    [
+      "title",
+      "Chaos, Job, Galatians... and Coldcard"
+    ],
+    [
+      "published_at",
+      "1785650782"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-01"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ],
+    [
+      "t",
+      "coldcard"
+    ],
+    [
+      "t",
+      "suffering"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "e",
+      "252ac87e16909894a6b1a2cf3b04de2f8005e6073c8d93898a393eb6f9671ffe",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 1, 2026\n\nFor the past day or so I've been thinking about Coldcard.\n\nEver since reports began circulating Thursday night (July 30) that large amounts of Bitcoin had apparently been drained from wallets, I've found myself coming back to the same question over and over again.\n\nNot so much the technical details.\n\nThe people.\n\nMany of them had spent years learning about self-custody. They got their Bitcoin off exchanges, carefully backed up their seed phrases, bought what many considered one of the most secure hardware wallets available, and patiently accumulated sats over a long period of time.\n\nThen, seemingly overnight, chaos.\n\nI've been reading reactions from across the Bitcoin community. Some are angry. Some are heartbroken. Some are trying to understand what actually happened. Others are already proposing better ways to secure Bitcoin in the future.\n\nAs I've been following the discussion, I've found myself thinking less about hardware wallets and more about people.\n\nThen this morning, at our men's breakfast, we happened to be discussing Galatians 6:7.\n\n> *\"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.\"*\n\nI couldn't help thinking about Coldcard.\n\nHow does that verse apply to people who honestly tried to do everything right?\n\nThat's when *Job* came to mind.\n\nJob didn't suffer because he ignored wisdom. In fact, one of the striking things about the book is that it refuses to reduce suffering to a simple equation. His friends wanted a simple explanation. God never gave them one.\n\nMaybe that's why this Coldcard story has affected me more than I expected.\n\nIf the reports are accurate, many of the people affected weren't gamblers or speculators. They weren't chasing yield or trying to get rich overnight. They were trying to be responsible. They followed what many considered best practices.\n\nYet some apparently lost everything.\n\nHow is that fair?\n\nThat's the question I've been wrestling with all day.\n\nI don't think Galatians 6:7 is wrong.\n\nNor do I think the book of Job contradicts it.\n\nI think they belong together.\n\nGalatians reminds us that our choices matter. Job reminds us that faithful people **still suffer.**\n\nBoth are true.\n\nIronically, all of this has strengthened my conviction about Bitcoin rather than weakened it.\n\nNot because Bitcoin is perfect.\n\nRather because Bitcoin has never promised to eliminate uncertainty.\n\nIt gives us tools to reduce trust, verify independently, and build more resilient systems. Multisig, open source software, independent verification, and defense in depth all acknowledge something important:\n\nChaos is real.\n\nPerhaps the goal isn't to eliminate it.\n\nPerhaps the goal is to learn how to live—and build—faithfully within it.\n\nI'm still thinking about that.**",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "fd1660bc2e0f70b745899b0eb90e984d46d53370302bca731deb1eb33e44c3f0",
+  "sig": "2e57eb8c1d65d1067bbd43b11379a167abcee32b42c29a310add40fce78cecfe842b5b7d9f6b60f156dd28929f89099115ddb452464412fc140365a560e6b9f8",
+  "published": 0
+}
