@@ -1,0 +1,73 @@
+{
+  "id": "af83349a3d8f0f10e65545dc1719f5f558b113bd1a2b22e94acec05554f2eabf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785045774,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://eden.nostr.land/",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "This note created w/ Continuum Identity Workspace / Continuum Signer -+ logged in as  nostr:nprofile1qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcpremhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59uqzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8r8wyv6  on Safari",
+  "sig": "938f7b465923b347c904a6b6d8b303a020a7748c5e3fc072b9a3b3f02807d3b3fba84a7d7fa0d5d98981dfdb61cdfc4cd95ba622dcb4eb6c4b67b57d771507bb",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

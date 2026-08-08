@@ -1,0 +1,38 @@
+{
+  "id": "6066ca9e933a0eabcf1f9fd12f0e146f2931f2b8c81be3bd838be99d3bebe5ff",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785029260,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "bebc8d03258c6bb5a6918383768e4ee43b9fc000fd1a2c74746566555d9ca9d7",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I can certainly look into this using a variation of bloom /hanami ",
+  "sig": "e34d796bde24301adcacaf0c4e784fe099258dfb0077ac30286cb502e6b95a7424190e3469e48dbeee23b8b94825606d21e98dd4accf768a30fa1f06e37a77b2",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub"
+  ],
+  "published": 1
+}

@@ -1,0 +1,23 @@
+{
+  "content": "GM everyone!\n\nBeen a while since I posted from Continuum directly.\n\nHope you all are doing well.",
+  "created_at": 1786227730,
+  "id": "ad99a0bf888d7f6ddf2b175bc9fb5a2d208ec0eb247ca0e45bfea9c34a235a58",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f866ed7de21d9f7d0501172e5b02000083932682116a37cd11b615909a27945e18d6488917c7d2d5bc6aad2c00ad5f9737ae5335c975b77c32d9b4a771e71982",
+  "tags": [
+    [
+      "d",
+      "note-1786227730"
+    ],
+    [
+      "published_at",
+      "1786227730"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

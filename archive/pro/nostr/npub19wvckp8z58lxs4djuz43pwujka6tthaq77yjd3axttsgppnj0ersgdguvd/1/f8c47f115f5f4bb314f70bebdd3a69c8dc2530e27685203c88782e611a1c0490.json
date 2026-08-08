@@ -1,0 +1,38 @@
+{
+  "id": "f8c47f115f5f4bb314f70bebdd3a69c8dc2530e27685203c88782e611a1c0490",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785026543,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "8ffaa38ac634ee889872509271d18a5590540bf38b96384df58d7f95412d55ed",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "You can import a workspace you backed up from another machine\n\nServer A-> backup (zip file) put it on a thumb drive \n\nServer B import the zip file\n\nNow server B (running continuum) has the same workspace as Server A\n \nYou would still need to install the signer extension into  each browser (in the new machine)  but you have to that now anyway \n\n\nSyncing  workspaces is something I have thought about though I just want to make sure private keys aren’t exposed \n\nYou could also store your backed up workspace files in encrypted form on a blossom or cloud drive fir syncing if you want \n\nHope this helps \n\n\n",
+  "sig": "6bae1822262cc246d30fbb34aec7000a218060d6b226b7e4e41ee93a59d95d659b1d8e0f4f5cee23af44e559f242ed4ac5fbf4756f24c524382b612128b06dcf",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.mostr.pub"
+  ],
+  "published": 1
+}

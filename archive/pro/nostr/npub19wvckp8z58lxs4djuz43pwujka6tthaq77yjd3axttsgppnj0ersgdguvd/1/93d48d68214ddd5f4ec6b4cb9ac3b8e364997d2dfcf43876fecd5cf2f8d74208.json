@@ -1,0 +1,28 @@
+{
+  "content": "I also have a bunker service that I built into Continuum but it is still somewhat buggy ... theoretically I am supposed to be able to use this bunker url for signing in / logging in\r\n\r\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-25-at-5-47-03-pm.png\r\n\r\nbut when I do it doesn't get any farther than \"connecting\" \r\n\r\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/screen-shot-2026-07-25-at-5-51-12-pm.png",
+  "created_at": 1785027356,
+  "id": "93d48d68214ddd5f4ec6b4cb9ac3b8e364997d2dfcf43876fecd5cf2f8d74208",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5c009aede1daf2e1957ad5fe8c0d951fe71631bc1d76596d89a95583b7062e928b91b7e40e937bbf1953939c88a5a43421df3339221970751f0be5cf34e5560f",
+  "tags": [
+    [
+      "e",
+      "46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

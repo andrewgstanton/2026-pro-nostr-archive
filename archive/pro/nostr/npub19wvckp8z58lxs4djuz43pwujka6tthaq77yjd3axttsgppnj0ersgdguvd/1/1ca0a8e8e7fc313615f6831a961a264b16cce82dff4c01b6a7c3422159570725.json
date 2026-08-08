@@ -1,0 +1,77 @@
+{
+  "id": "1ca0a8e8e7fc313615f6831a961a264b16cce82dff4c01b6a7c3422159570725",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785045643,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://eden.nostr.land/",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "This note created w/ Continuum Identity Workspace / Continuum Signer -+ logged in as nostr:nprofile1qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcpremhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59uqzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8r8wyv6  on Brave",
+  "sig": "20f241190c0d3a3bbdd97c2fa8537d130c9b0dfa3f72fd75e66d53117b5b37c08dc561d5dc7af721e7c00903c5e3a6b2460e458a7381364d1bc7e50330e70f36",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}
