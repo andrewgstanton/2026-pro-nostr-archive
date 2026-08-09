@@ -1,0 +1,35 @@
+{
+  "content": "Quiet day.\n\nWent to Jan Nattulin's Celebration of Life at cornerstone. -- friends were there 1 hour or so for the service and talks, and then some refreshments afterward.  \n\nit was good seeing old friends there from Jan's life and an amazing life.\n\nI really miss him.\n\nThe days since July 24 have been weird I think -- \n\nI launched Continuum Passport (released v0.1.0 on July 31 I think when the coldcard key vulnerability was hitting and I was mostly using my phone (primal mobile) to keep up to date w/ what was going on).",
+  "created_at": 1786246064,
+  "id": "c65156428f290344c63a002fddd75de2999bb92e0555092a706bf6e351801770",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b5b72cf1603a8bae4d4f5d45cf1e75dfcda1be329f275a0252370e5f9616ceaec0f1117d7ddbfd15b96730c6067c22449d2ec2d4619027f55608ba921c3044c6",
+  "tags": [
+    [
+      "d",
+      "saturday-august-8-2026"
+    ],
+    [
+      "title",
+      "Saturday, August 8, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-08"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ]
+  ],
+  "published": 0
+}
