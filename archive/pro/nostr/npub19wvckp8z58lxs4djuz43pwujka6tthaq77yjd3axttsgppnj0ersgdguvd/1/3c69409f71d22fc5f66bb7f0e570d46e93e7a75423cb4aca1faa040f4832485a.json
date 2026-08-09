@@ -1,0 +1,38 @@
+{
+  "content": "let me know I can try the bunker url again see how much farther we get -- would be really cool to get this working then I can basically use my bunker url (on poster.chan at least) WITHOUT using a browser extension (which means I could run continuum from ANYWHERE",
+  "created_at": 1786253826,
+  "id": "3c69409f71d22fc5f66bb7f0e570d46e93e7a75423cb4aca1faa040f4832485a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "32d8fc10c20f2498a23f77c7b645700af7382739b1b0a2a47058427556fcb1543d4970405d160d0df4a62465904b0df7467121bdf8e5ce07076b8c5448eef098",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "663d7a7738320eb38123d77d2db04261eafa9d8878b1542b3a5d36a15ac96378",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

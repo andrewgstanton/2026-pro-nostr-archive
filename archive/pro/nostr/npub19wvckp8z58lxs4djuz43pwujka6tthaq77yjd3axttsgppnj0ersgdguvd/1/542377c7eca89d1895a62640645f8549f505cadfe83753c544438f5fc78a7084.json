@@ -1,0 +1,72 @@
+{
+  "id": "542377c7eca89d1895a62640645f8549f505cadfe83753c544438f5fc78a7084",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785642870,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8ebff8591aa6861a9221c7901c42602e1a967bf9b2a486e5ae9b4e973bc9a55c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Correction (github):\n\nhttps://github.com/andrewgstanton/continuum-passport",
+  "sig": "2d03160020f15a96c3fd5ca7afbb2f4cf9a4aab09add61005d3dddc37a02c005529e80bc556e99d402ddaf292a874b5f9a11af1e781ff58b0e0ccd91830fd76b",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

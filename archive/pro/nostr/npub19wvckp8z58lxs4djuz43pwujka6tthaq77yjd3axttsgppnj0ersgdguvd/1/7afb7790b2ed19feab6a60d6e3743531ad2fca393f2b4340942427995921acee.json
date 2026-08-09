@@ -1,0 +1,30 @@
+{
+  "id": "7afb7790b2ed19feab6a60d6e3743531ad2fca393f2b4340942427995921acee",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785644889,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0000956f30c8de5974ac77390d673d28001d8fcbed6bdec8802e02e74d3d09af",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Gremlins in your keyboard or maybe you are just really pissed off (understandably so)",
+  "sig": "7004bf1d90e9c031051a4aeb392918b414bb158860eeb15759013bbe17e3c1f7f1f22e31b4035812f340184a58eb168ed75e3ea955c8747de9526a21d0706825",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

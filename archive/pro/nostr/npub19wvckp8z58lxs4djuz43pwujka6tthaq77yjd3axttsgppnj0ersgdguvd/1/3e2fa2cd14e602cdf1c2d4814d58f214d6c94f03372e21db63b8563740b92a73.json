@@ -1,0 +1,30 @@
+{
+  "id": "3e2fa2cd14e602cdf1c2d4814d58f214d6c94f03372e21db63b8563740b92a73",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785590798,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cfb5b99f41c725f084510a212c744d3e6491d25e0a8c6684ec7e6597f63731cb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "db506a8997fdddca7c82f00368f799ba05d4e923fe217e0de26e72fbafb18763",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Truer words couldn’t be said \nnostr:nevent1qqsvlddenaquwf0ss3gs5gfvw3xnuey36f0q4rrxsnk8uevh7cmnrjc8efk7r",
+  "sig": "7231d500eaa15bb572d75ef9e1c36638975972aeceea9352a4c462a56d474f02293b2434147abc465b062ed9e2cd7e2c1d931896014aa05b032bc2073546a4ca",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

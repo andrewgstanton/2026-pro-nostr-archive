@@ -1,0 +1,72 @@
+{
+  "id": "81ae75cb1e662b61ae234a350304eab2ffb114dad57f16d8cecfae6d9a365267",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785694928,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "632207e265c7de353188dc9e50a61a4ba12b4c1355f1f9bd6331f2340c3982e6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "04c915daefee38317fa734444acee390a8269fe5810b2241e5e6dd343dfbecc9"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "What led you to conclude it was the best? Honestly curious.\n\n",
+  "sig": "7965fc7cb2cb44a078dd4d3d62ee7e6432ec2a6049ac8c44a0a6f9075f6d4d327108d933f8c718a33ad298d72dc3423e02ef6c0f5186c97193a50fae06948c21",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

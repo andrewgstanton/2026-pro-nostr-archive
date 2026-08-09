@@ -1,0 +1,92 @@
+{
+  "id": "7aca53ce3af08d985d2209bc89be071031756bf28e46e38f05682945f5b6a87d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785646598,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f95e3ff21fd4e73c80da48ff023cef00cb3161622296d6856375e06ed1abe533",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "282177e16daf6c402030f181678d7f4cebe9c34c883b2c57d9edd8ead10d7f25",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://purplepag.es/"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "I agree ... no chance.  ",
+  "sig": "adbf4de4b76daa0b5af1998b7594287751475b752f6b3701367493712dc36fb08c577477d6e81f42feba05a86852b2e7ec955e396f61e6e25316d7db70999ffe",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

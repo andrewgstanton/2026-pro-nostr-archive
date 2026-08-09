@@ -1,0 +1,36 @@
+{
+  "id": "2dd13af60efbac1e47e42a39def3fe1ad6f2feaff850c0e8113fe6be8336e59c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785628300,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "41970718928af840f0aaa37ab6c8c0e5c12423d86e3d798a3c768aa6e57b4b79",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "aebd0f44d806274fb489cba70ba766c825f924c1afa77308baf857e5841471eb",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "181123d351352c2f943fce62b3fe2d9a2a5a58b733e8af0ba7af2d8a98310aab",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Vielen Dank! Ich habe euren YouTube-Kanal gerade abonniert. Ich lerne Deutsch und habe mir schon euer neuestes Video angesehen. Ich habe nicht jedes Wort verstanden, aber die Hauptidee habe ich verstanden. 😊",
+  "sig": "c2316657c7e8391491ead737a24cfdbd98df39dc0786450e9f328e12d0e674e327beb5e3f2ce87629518a5196a1a5f7918a53af5d5e1a67f2c4c1ccb6c6f25a2",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

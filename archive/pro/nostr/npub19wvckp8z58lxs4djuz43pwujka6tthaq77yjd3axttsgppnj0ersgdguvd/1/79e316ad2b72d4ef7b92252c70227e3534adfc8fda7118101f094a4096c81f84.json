@@ -1,0 +1,76 @@
+{
+  "id": "79e316ad2b72d4ef7b92252c70227e3534adfc8fda7118101f094a4096c81f84",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785695054,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "632207e265c7de353188dc9e50a61a4ba12b4c1355f1f9bd6331f2340c3982e6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "04c915daefee38317fa734444acee390a8269fe5810b2241e5e6dd343dfbecc9"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "What led you to conclude it was the best? Honestly curious.\n\nA related question I've been asking myself this week is: how do we really know something is secure when almost none of us are capable of auditing the firmware, hardware, compiler toolchain, secure element, entropy generation, supply chain, and manufacturing process ourselves?\n\nMaybe one of the biggest lessons from all of this is that we shouldn't have to trust any single vendor.",
+  "sig": "296b0d4489a9cbd1a6a77f1f6b098a1b44d6bea34751ea4d691cd4f4fb76c8455700654ff1a476578134f3fd71ee0d24af85f2acd5df7a387c0e6f2814a2e916",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

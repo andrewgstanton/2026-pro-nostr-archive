@@ -1,0 +1,30 @@
+{
+  "id": "73daa0c9fcc898896df43f971f243043d188b2ea8e5c6d91e4b4078e9e11bc72",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785728578,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:16f1a0100d4cfffbcc4230e8e0e4290cc5849c1adc64d6653fda07c031b1074b:resign-nvk",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "16f1a0100d4cfffbcc4230e8e0e4290cc5849c1adc64d6653fda07c031b1074b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I agree also",
+  "sig": "ab2f1bb3c516d55cbb2053dba52e678f1e09e9a7e5904769f0c7224a4c3d99d2ee981b07222a482000522225a99a3576c26df9901923e599a2041b4e23e272bd",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

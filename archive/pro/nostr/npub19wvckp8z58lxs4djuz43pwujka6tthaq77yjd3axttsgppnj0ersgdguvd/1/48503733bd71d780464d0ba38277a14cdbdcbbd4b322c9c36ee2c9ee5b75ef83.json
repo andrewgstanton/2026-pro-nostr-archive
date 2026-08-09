@@ -1,0 +1,87 @@
+{
+  "id": "48503733bd71d780464d0ba38277a14cdbdcbbd4b322c9c36ee2c9ee5b75ef83",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785550418,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8ebff8591aa6861a9221c7901c42602e1a967bf9b2a486e5ae9b4e973bc9a55c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "imeta",
+      "url https://blossom.primal.net/5bafc9a4a3eb44a9b09fee5a7a8cda7d3688d7838ac6724c5725af2cce215c25.png",
+      "m image/png",
+      "dim 3188x1836",
+      "service nip96"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "By the way I am using \"Contiuum Passport\" to login to primal (and to post this note)\n https://blossom.primal.net/5bafc9a4a3eb44a9b09fee5a7a8cda7d3688d7838ac6724c5725af2cce215c25.png ",
+  "sig": "9a6188865127ad82deda79d47192355c7ab9a630a16d49bdf057ad0d0c449adfa5c120107756bd6a4f830a88b45c484175c768e6e9b84667917692fa96b8efa6",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

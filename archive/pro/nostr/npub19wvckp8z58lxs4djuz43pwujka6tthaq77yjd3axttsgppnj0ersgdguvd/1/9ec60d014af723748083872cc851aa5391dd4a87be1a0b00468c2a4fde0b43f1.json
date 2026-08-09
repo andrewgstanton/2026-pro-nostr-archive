@@ -1,0 +1,31 @@
+{
+  "id": "9ec60d014af723748083872cc851aa5391dd4a87be1a0b00468c2a4fde0b43f1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786290600,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d757cb017f0e0afb31721389ee4ec47e331d743a0967062a8c56806e45c00aaa",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Amen Ben so true!!\n\nThis actually applies to everything: business, religious, your personal life even the recent cokdcard and BIP110 events.\n\nI am still hurting for all those affected by the coldcard heist \n\n\n\n\nnostr:nevent1qqsdw47tq9lsuzhmx9ep8z0wfmz8uvcawsaqjecx92x9dqrwghqq42ssuncgv",
+  "sig": "6d2b34bf1fd1b6cc0fe25b0e1e9663fa59f18be9085925a4a5bbfabe42930c592eede066280b5de67a4a52f49c7106dc88a7b6f105bbed7392b1f89bc0b35f88",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

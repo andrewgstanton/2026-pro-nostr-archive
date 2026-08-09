@@ -1,0 +1,31 @@
+{
+  "id": "f2796cfb9156e0bc9eb7d5d6e950c42dbba74b42b3762e0fdb6432e27aaf4431",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786290953,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8c5d9d9f784713684bb5c87be8bc7df1c9b0656c724f8bf610dacdfb94873d9c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Well said Derek well said!!\n\n",
+  "sig": "efd6f5da148bfbd5da434cc5ce59371aece0cbcd2483e3bddc1fc9587e50d7899f7692bd66ddace65d8e348b7500d53cc7e0d789db9d8ac7c06f4c4e4f91e137",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

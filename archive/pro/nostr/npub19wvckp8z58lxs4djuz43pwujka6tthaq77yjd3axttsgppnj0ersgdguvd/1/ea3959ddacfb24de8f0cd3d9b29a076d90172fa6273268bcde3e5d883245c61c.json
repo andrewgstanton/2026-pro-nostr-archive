@@ -1,0 +1,80 @@
+{
+  "id": "ea3959ddacfb24de8f0cd3d9b29a076d90172fa6273268bcde3e5d883245c61c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785465874,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "16aca258e399f4dc4272383322be6d242cda60e60f597bfbfa3aaedee3e802e3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "d9f2471cc8f33111071bd0de1fef87d783cc4140e0f70ba9298a53b9e07c60f6"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "So the Great Houses have started stockpiling spice now.",
+  "sig": "d4f850d779178a271ff429efc1596561dcbc6f60d51cee9d6d2339daa55dc6b8cbf82cf73801338e4eda568e8b78f232909d2d540dff9241d81aa94f75a59e2d",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

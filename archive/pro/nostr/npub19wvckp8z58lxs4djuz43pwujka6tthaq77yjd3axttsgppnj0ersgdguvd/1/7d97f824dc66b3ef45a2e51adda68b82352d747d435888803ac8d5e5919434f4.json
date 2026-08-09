@@ -1,0 +1,38 @@
+{
+  "content": "Yes -- and I also mistyped the relay (typed www initiall ugh)\n\nanyway here is bunker url:\n\nbunker://2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47?relay=wss%3A%2F%2Frelay.poster.place&relay=wss%3A%2F%2Frelay.damus.io&relay=wss%3A%2F%2Fnos.lol&relay=wss%3A%2F%2Frelay.primal.net&secret=4a1a343f7baa4f428f73e835451b1b27\n\nI finally got farther with Poster’s NIP-46 connection. Continuum received the kind-24133 event through relay.poster.place, but decryption failed:\n\n[bunker] received event from wss://relay.poster.place\n[bunker] event id: b60df91a661a2b3d90d8fe91f303a84bdd1e63b8b461e7f57bdaf6995937b908\n[bunker] sender: cf2f56b5c5fdc79866a740489156c3456d6bbf78c031584e791ffc6e823e5e98\n[bunker] kind: 24133\n[bunker] content: lqkTNXjBrNvs36C/KG/8ABNtDlxbHFfqh8wruWGMwcN6yOtB9Ae1UlNYhAf94Tmal7aw4o1iAqsiD0Lc94byX9g9wlZKTBEtylgcP78xqgAewpTalYqj6UIAljI2Lx4BYgr2wbMbNP5+4Iq6qNU4h51W1bpN+jjU6KV5bLBZoQDxUJHlHI7CawuRKruUZ+r6a6AWZx59l4z0oyKvKABolw==?iv=QeXdAaoYKGAX5m5gCPH2Yg==\n[bunker] tags: [['p', '2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47']]\n[bunker] decrypt/handle failed: ValueError Unsupported NIP-44 version: 150\n\nThe ?iv= format looks like NIP-04, while Continuum is attempting NIP-44 decryption. Does Poster intentionally use NIP-04 for the NIP-46 handshake? Should the signer detect that format and return its response using NIP-04 as well?",
+  "created_at": 1786253354,
+  "id": "7d97f824dc66b3ef45a2e51adda68b82352d747d435888803ac8d5e5919434f4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "125ecc897606f9b86daff5338a9d1d7819ed1617e1f57b35aa16bed73a8959e0fac904a80e0c07551d9467eb6ead404a60c4b61d5e1cbc65662e244e86ea95f4",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fbe1ba46d42355647713d12ca5d23dec0ee36ec0f004e1a8e4f43624e2e485aa",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

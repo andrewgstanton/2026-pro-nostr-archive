@@ -1,0 +1,30 @@
+{
+  "id": "9324398becc3f810e607e681908c1b85f9de399af79aaebf76d2b64070cb004b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785652953,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:clarifying-the-clarity-act",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": " It’s slimy ",
+  "sig": "fb871cf7e66e7f2d748f35e5e45f0eed8ef002354e28a503f94f013308b8ab49584198359d70f9be8763b9d7fc1b7b8a3262a9f53160c8ba6cb3279770ca958d",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

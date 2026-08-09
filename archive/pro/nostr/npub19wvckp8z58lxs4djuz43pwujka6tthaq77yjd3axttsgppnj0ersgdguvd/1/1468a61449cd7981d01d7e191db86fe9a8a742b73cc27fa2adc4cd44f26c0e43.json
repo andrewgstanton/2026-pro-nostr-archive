@@ -1,0 +1,80 @@
+{
+  "id": "1468a61449cd7981d01d7e191db86fe9a8a742b73cc27fa2adc4cd44f26c0e43",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785467390,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c9f113bce149e719634cda1ba1532ed955148ccbdc07f0cea0306089ab30fa9e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "I really like this article especiall these lines:\n\n\"The hyper-optimized algo feeds we find ourselves in are pretending to show us what is relevant, but they are not optimized for us, they are optimized against us. Our nervous system is the training data, our ego and our vices are the knobs to tweak and levers to pull.\n\nEven worse: “the algorithm” creates audience capture without much of an audience. It creates self-censorship and a chilling effect of ungodly proportions, since everyone is trying to satisfy “the algorithm” instead of satisfying their soul.\"\n",
+  "sig": "2b4112d19fe14726f820395e85e33e7b9114baa942ce855f3543f7db2f0476fb70a50e0b784c1e3d84e3981a7f687c9b9d732b3062542ca41a386361d6542696",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

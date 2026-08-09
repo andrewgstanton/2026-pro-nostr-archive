@@ -1,0 +1,98 @@
+{
+  "id": "c1fd995f4e6b3c980264b8072ad0311745957db8ff26dca1afa81cd61697230b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786255502,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "3ef0c496d8c82733acc58b587e89df0a71ab54b04ce62e1fc014d8657d055247",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "imeta",
+      "url https://blossom.primal.net/4c6529c8931c7c31ca47a5dcce756d17a6d1ed62a564b731f33501dac47f7d4d.png",
+      "m image/png",
+      "dim 2786x1584",
+      "service nip96"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Hi  poster.place now is giving me a \"Bad Gateway error\":\n\n https://blossom.primal.net/4c6529c8931c7c31ca47a5dcce756d17a6d1ed62a564b731f33501dac47f7d4d.png ",
+  "sig": "5ce193bab9c43dd728e5157b1e223054d44f2f2aa6b0ba8ff2316147f9c3a699b984a056c84b3972c6abc8f9a4998955988d0164b9c73823102741b972d7ab27",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

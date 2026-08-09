@@ -1,0 +1,86 @@
+{
+  "content": "got as far as connecting, decrypting using NIP-04 and sendina ack:\n\n[bunker] received event from wss://relay.poster.place\n[bunker] event id: 242f76c050c9d0df42ee17c4c720874693d7b2c67a8a2abc94169d3d94119db5\n[bunker] sender: 3493b5ed7210c98975b9869cf877f60e538b94e351758391e40d70b4770e78cc\n[bunker] kind: 24133\n[bunker] content: ECbtdSe4D+ihCzxfRq7YpzJ+4+zBUCfoUGpmfcn8Th2JUP1B0QJTTQ9MLquj7uFfD398+x0k5r7KkeB5MkWnALAgb12QfFbDOlDRfIO3JbpnvW3vlqzWSbsLnaxNCTg5g8VYGNvJ/3e3bWhNplxmzn7s+iv2MK/VsblKdAW0OySz2h5ArS8fad2JgCre3Sk5is2jW3CwhOLuZGqGAkEvew==?iv=wr3PS9QA1Ff5OMxfZjTaVQ==\n[bunker] tags: [['p', '2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47']]\n[bunker] decrypted request using NIP-04\n[bunker] decrypted request: {\n  \"id\": \"rrg6nfcjz\",\n  \"method\": \"connect\",\n  \"params\": [\n    \"2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47\",\n    \"792cf71e209a626e9618e42ce6911e25\"\n  ]\n}\n[bunker] client connected: 3493b5ed7210c98975b9869cf877f60e538b94e351758391e40d70b4770e78cc\n[bunker] sending response...\n[bunker] response plaintext: {\"id\": \"rrg6nfcjz\", \"result\": \"ack\"}\n[bunker] signed event sent: {'kind': 24133, 'created_at': 1786258128, 'tags': [['p', '3493b5ed7210c98975b9869cf877f60e538b94e351758391e40d70b4770e78cc']], 'pubkey': '2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47', 'content': 'Aq7uaYTbyjeKYdpWJl1tsgrNeguT3fomI6jKoowZKu19+52yb+/C4gPeh2v+AxihERt0GHdH1gHGrGKhlYeoLhQgkIiKgjTR6QpcUKpBT4vqTeF4AvXNBvuL/m4CKQ+Bt99+1GXvCQ==', 'id': '89a5bd73db9a14a552947634b4d10b9e8b63e33496f4d138f2fd83f408cb1a5d', 'sig': '35124e682f97503d7097c1680f2eee30ab3ea749a23a616f1272c9e3f10352a05514a45dd1f67f6a0ab0494b6b30e36f6389e49a5a26fd87b364e52e255a37b7'}\n[bunker] response published: {'wss://relay.poster.place': True, 'wss://relay.damus.io': True, 'wss://nos.lol': True, 'wss://relay.primal.net': True}\n[subscribe_forever] NOTICE from wss://relay.poster.place: ['NOTICE', 'keepalive']\n\n...  now it's waiting for the you to send the next message,\n\n...\n\nThis log shows Continuum completed the handshake from its perspective:\n\nReceived Poster’s NIP-04 connect.\nDecrypted it correctly.\nValidated the pubkey and secret.\nCreated and signed the response.\nPublished the response successfully to all four relays.\n\nContinuum should not send anything else spontaneously after \"ack\". Poster must receive that response and send get_public_key. Since it doesn’t, the remaining break is on Poster’s consumption of the response.\n\n\n",
+  "created_at": 1786258417,
+  "id": "028c697f6fa35e5baa8cafca8f3ac1f5ae3993a335107588bd540edabdb49a11",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5b478912b25eec7a7bd4cd967f3a0d3623e6c8f4e17b2a0db92e1bd6284096c206590a5f4fbafc8fd02ce939ca844b19c57ef6c94c6bd91271a32ee36cf18f60",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ea294ac2f5a28e5fddce4c2728dedaa162bf6552e8367517a92e436d5128bba7",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

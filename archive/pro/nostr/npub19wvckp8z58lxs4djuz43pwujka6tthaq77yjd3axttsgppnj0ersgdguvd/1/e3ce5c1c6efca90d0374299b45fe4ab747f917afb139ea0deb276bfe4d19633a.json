@@ -1,0 +1,43 @@
+{
+  "content": "Yes!!",
+  "created_at": 1785590424,
+  "id": "e3ce5c1c6efca90d0374299b45fe4ab747f917afb139ea0deb276bfe4d19633a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "614cf116b7d0b0b630dad17915ea5961768238ce57fc972bea7f556c3cc46d999ad78978fd3c9e24f7438a58e9c57070bf4db76be67ef16572e489f6ba468fdc",
+  "tags": [
+    [
+      "e",
+      "8417e3e953a9c762b87631f8190096d67048be54c4dea2efbf585b706d3bc7f0",
+      "",
+      "root",
+      "f8e6c64342f1e052480630e27e1016dce35fc3a614e60434fef4aa2503328ca9"
+    ],
+    [
+      "e",
+      "c888000bfdca82af82abc26c2934ae11e81bb18fcbeb933f5df6fc71969b5600",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e57357f9c19a1844cb52f7c2fc96546860b2834b97db07c12ce4ea59afc9f8af",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "f8e6c64342f1e052480630e27e1016dce35fc3a614e60434fef4aa2503328ca9",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

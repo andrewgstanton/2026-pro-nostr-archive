@@ -1,0 +1,42 @@
+{
+  "content": "Yes this is more imortant I think",
+  "created_at": 1785560637,
+  "id": "991966288fa62070ed5519eae5ceb68a7081218472e57a88546e11fd079755b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d318720574f84f5676a4fff96894d570aaac4ced4294c923c84366124c038b6299ee43dc7a88ea51bd814574c70ede5a0c0678a83e5c525bd44aa3c1cd260236",
+  "tags": [
+    [
+      "e",
+      "8d264090db26aac383bee054c4e1ba23b488cc0a5e29786b533232884033c09b",
+      "wss://premium.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "0000017bbcde20d52ac39808cbb4eda3002677ac91c2d4a4e22f7722eb96a695",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "fe403ee3a532c9cc893566cddd6043c872fa9261db240127d603d91c026391d9",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

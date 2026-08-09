@@ -1,0 +1,70 @@
+{
+  "content": "OpenSats must answer serious questions about conflicts of interest and insider influence. Prominent Bitcoin figures who helped establish COLDCARD’s credibility also owe users an honest accounting.\n\nReputation cannot substitute for verification—and it cannot become a shield against responsibility when people lose their savings.\n\nI am deliberately not naming specific individuals here. Others have already raised those questions publicly, and it is not my style to attack or denigrate people. But that restraint should not be mistaken for an absence of anger. I feel betrayed by what has happened and by the apparent failure of people and institutions that many Bitcoiners trusted.\n\nFull disclosure: I do not own a COLDCARD, and I was not personally affected. But I do self-custody my bitcoin, and I honestly feel the victims’ pain.\n\nI keep asking myself: What if those had been my funds? What if my savings had been drained through no real fault of my own because the “secure seed” I relied upon was not actually secure enough?\n\nThat possibility should trouble every person who self-custodies—not only those who happened to use this particular device.\n",
+  "created_at": 1785798711,
+  "id": "19d32a38b523c96d6aa363a25d3a4879613bcd421a64c6974304fa2e619598c4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2dca736d1ab5836247cc47337bf736ac1d639125de0e2eb0e673d12424f13efec4f177ddf0e6c474f6a5b23c7744406c6fbd8bba2a94a23d5bcc966f39a8b2f4",
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

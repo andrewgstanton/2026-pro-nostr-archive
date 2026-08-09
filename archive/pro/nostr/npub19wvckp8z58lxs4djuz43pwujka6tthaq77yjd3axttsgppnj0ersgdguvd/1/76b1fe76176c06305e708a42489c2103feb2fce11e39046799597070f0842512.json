@@ -1,0 +1,36 @@
+{
+  "content": "would be nice to be backed by someone nostr:npub1r55pwxcv8gay2tx8zqkq9f24u4usp7au2l2g6834skprsurf960q0qmxk9  if Gates or Soros is backing me on this they didn't get the memo and neither did I!\n\nI get zaps and a few likes.\n\nContinuum Passport is open source. Anyone can inspect the code and verify what it does.\n\npeace",
+  "created_at": 1785642710,
+  "id": "76b1fe76176c06305e708a42489c2103feb2fce11e39046799597070f0842512",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fe86ab510e6936edcc0ee09e820bd57ec6d7e3231b1d92bd0246ccc5470e1958725a3a5e9eef04715785cfa2fe6201896b9e9acf5c6ee13931324665b79588db",
+  "tags": [
+    [
+      "e",
+      "714e68320a22789b236b158c1dad478c459753419ab1d35218b75bb5ab424e80",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1d28171b0c3a3a452cc7102c02a555e57900fbbc57d48d1e3585823870692e9e"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "Relay Outpost"
+    ],
+    [
+      "p",
+      "1d28171b0c3a3a452cc7102c02a555e57900fbbc57d48d1e3585823870692e9e"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

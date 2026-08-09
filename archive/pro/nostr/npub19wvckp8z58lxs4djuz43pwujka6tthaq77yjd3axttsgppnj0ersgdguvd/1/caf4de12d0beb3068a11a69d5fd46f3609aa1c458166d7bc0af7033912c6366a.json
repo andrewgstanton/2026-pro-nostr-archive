@@ -1,0 +1,37 @@
+{
+  "id": "caf4de12d0beb3068a11a69d5fd46f3609aa1c458166d7bc0af7033912c6366a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786249489,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "14754bc6139bbaa4c31940668a214168b81fc3aaced8ee4ce038b54eddba8492",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I can already go there.. logged in a few times using continuum passport * signer works fine I’ll send u a note from there ",
+  "sig": "9cc1a1734532f6113836d22894edd93229963383a38982d3550ad0c16e458b8ffbaea5b17d29e409734ee992d86346ef90e82f0e4ecbb353951209f97f418ec8",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

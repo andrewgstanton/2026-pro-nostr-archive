@@ -1,0 +1,72 @@
+{
+  "id": "dbb1347f73a7780d7ab948b13d78ee18454cb791bd7a2b9f23b7ee72fda11873",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785693888,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "504d0bfa0a419e612b40ac25972b03cecaba547bbc5293a9169c6d7ed53672b8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "\"Blockstream Jade is open source end to end. When something changes, you can see it. Before it hurts you.\"\n\nPerhaps. But people made very similar arguments about Coldcard for years. It was also open source, and many respected voices recommended it for exactly those reasons. I think this week has reminded us that open source is an important property—but it isn't a guarantee. We still need humility, independent verification, and defense in depth.\n",
+  "sig": "52c79bd87098434fc490e7db2c63f88481146efc423cddaf43c737785c71958235da2c7966cd575dd1297184981dfc50df43c3dd861b6daf470b9a4490f1f219",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786256259,
+  "tags": [
+    [
+      "e",
+      "3ef0c496d8c82733acc58b587e89df0a71ab54b04ce62e1fc014d8657d055247",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "OK replying on continuum since I'm trying to test the bunker service making progress now it's a different error:\r\n\r\n[subscribe_forever] NOTICE from wss://relay.poster.place: ['NOTICE', 'keepalive']\r\n[bunker] received event from wss://relay.poster.place\r\n[bunker] event id: b48c890840ff9b61d55066851266f6a9ff0c3a917b1b93d617e8fc22356e95c0\r\n[bunker] sender: 99289649be9b8d1c3faca992b895078241a5856e26b30297e628dd987ac83389\r\n[bunker] kind: 24133\r\n[bunker] content: Ehg+EHSyNpfeyHoQNRguEd/yNq1S/AMfbwsVpgRecvg6QI1REJAQzPGG+MShYyQVSXgzkzmv1nh3eqfqStFFeX1mkuQLdBywwepVoZWCJV3/BzNU8/lD3v3bwChEY/I11nLKyCbifo3lcDn+d+2Iyyf4DtXSog1yib+2YN/fwJmy+pDFS1NApTyUdQCx8aFLDfFZK34+DNsKK3gnBAP58w==?iv=W3uBTIJnFibNkWKqiZF8Sw==\r\n[bunker] tags: [['p', '2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47']]\r\n[bunker] decrypt/handle failed: ValueError Unsupported NIP-44 version: 18",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "0a934ab5d9956d03e1d00f82325e324a54421afa98cd398b6f120130de64c30a",
+  "sig": "53d3895a3629beb6ab8c31c1cefde3cf08e13db8bded66cd856c9276f217d6b783465de056539e9ad37abdf1ba5fd7a5749ef191bd1d8b1e8421b71d202e6f18",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "content": "Hi Verita84,\n\ngoing to hop in the shower I'll check back in about 15 min\n\nTy",
+  "created_at": 1786254116,
+  "id": "1d9e855fb7711b4cf710472971c547650b5535c07f634495c3e9f897ac9f0432",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7fad864a3c06653a49c4510f5a21a6636098d1f270125245cc709e07f1cc5d2471a424ab3bc219f7843dd914a35d95b591de5d9f75f5c2efc1942cda406c2aeb",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "663d7a7738320eb38123d77d2db04261eafa9d8878b1542b3a5d36a15ac96378",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

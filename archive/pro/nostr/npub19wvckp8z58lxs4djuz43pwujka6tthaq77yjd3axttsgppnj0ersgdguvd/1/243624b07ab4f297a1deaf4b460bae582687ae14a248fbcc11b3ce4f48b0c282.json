@@ -1,0 +1,38 @@
+{
+  "content": "I'm in now -- using \"classic\" mode \n\nNext I want to try connecting using my bunker url (( have to run continuum not continuum passport) ..",
+  "created_at": 1786251753,
+  "id": "243624b07ab4f297a1deaf4b460bae582687ae14a248fbcc11b3ce4f48b0c282",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "189ca0a98b73a67a32738d2a1680cb69504a35f9a4cc6098d7f3252b1233b4279a3e6d912b506c0040ceef1b8ca0d2a9f16a626f7a2a346ee42f9341a347382d",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "cbabcc102ad790f58e24d01eecb5e39c9f4f01bb649d45c0faf6c64498db5d7c",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

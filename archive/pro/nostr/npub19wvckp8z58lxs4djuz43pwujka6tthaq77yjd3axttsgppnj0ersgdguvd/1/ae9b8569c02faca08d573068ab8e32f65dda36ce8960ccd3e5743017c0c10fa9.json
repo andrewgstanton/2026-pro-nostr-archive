@@ -1,0 +1,30 @@
+{
+  "content": "Danke sehr !!",
+  "created_at": 1785607332,
+  "id": "ae9b8569c02faca08d573068ab8e32f65dda36ce8960ccd3e5743017c0c10fa9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "027d9296d1353531006076f4025994aa71816f97e366cd45c2a607e4f22b165f4b6d695b3e1464617109353957de1fcfb07a4a6324f36baae917ea9450946f75",
+  "tags": [
+    [
+      "e",
+      "41970718928af840f0aaa37ab6c8c0e5c12423d86e3d798a3c768aa6e57b4b79",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "181123d351352c2f943fce62b3fe2d9a2a5a58b733e8af0ba7af2d8a98310aab",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

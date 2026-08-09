@@ -1,0 +1,38 @@
+{
+  "content": "is it working ?  or still trying ?",
+  "created_at": 1786253683,
+  "id": "940ffc4240a2b5a85dde5ce189ea0f822526a5c7627bedcc17d2947ad5d39f50",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e9e2ae95a6ec67742e4d92adb91bff5f7c2495b6a883ea614bda24f4c1e73090866b33794e21d6a796f22a641725b334c5a9971de477aeb5808ecc103202bbe4",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ad52685d6fc7dc96fe11f6cdf4f55c88a8c5e7e47ecc42d6d19668a738c6f141",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

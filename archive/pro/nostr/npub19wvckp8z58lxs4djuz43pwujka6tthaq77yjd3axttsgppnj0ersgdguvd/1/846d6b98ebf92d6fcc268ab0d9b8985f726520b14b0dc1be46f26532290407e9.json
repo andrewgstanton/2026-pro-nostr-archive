@@ -1,0 +1,37 @@
+{
+  "id": "846d6b98ebf92d6fcc268ab0d9b8985f726520b14b0dc1be46f26532290407e9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786251435,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "b0664ed5157f84ec142373e4764003509e038d79a28fe62960d38b9e57cafb0b",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Nice\n\nBut now I can’t seem to login again not sure why ",
+  "sig": "6a1b298df59f0b132dd03cd4a244720c06bcb26d2b661155cc755e25e05a094a37d2f310af5fb90bccb693d983bf7b369322095290676a8a87b5586d1807fd08",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

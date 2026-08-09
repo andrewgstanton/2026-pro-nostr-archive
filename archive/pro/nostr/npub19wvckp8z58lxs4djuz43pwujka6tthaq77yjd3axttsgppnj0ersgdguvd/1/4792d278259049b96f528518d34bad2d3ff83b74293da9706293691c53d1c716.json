@@ -1,0 +1,38 @@
+{
+  "content": "also, I'm obviously at this point using my browser extension to sign in because the bunker url service is not quite working yet (but much better than anywhere else primal just stops at connectding .. and doesn't give me a clue -- I suspect I'm being strict about NIP-44 and others may or may not support it ?  I'm still learning how this works exactly",
+  "created_at": 1786253548,
+  "id": "4792d278259049b96f528518d34bad2d3ff83b74293da9706293691c53d1c716",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0bc53a1418193cfbcb746de4a74e53f9396740881dda3f763d483faf61b6d79eca597a35ae6b5720feab1f5e375974a57fc348f2af3582c364088d3acf71ee8c",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fbe1ba46d42355647713d12ca5d23dec0ee36ec0f004e1a8e4f43624e2e485aa",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

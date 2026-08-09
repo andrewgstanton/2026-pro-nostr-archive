@@ -1,0 +1,1 @@
+Vielen Dank! Ich habe euren YouTube-Kanal gerade abonniert. Ich lerne Deutsch und habe mir schon euer neuestes Video angesehen. Ich habe nicht jedes Wort verstanden, aber die Hauptidee habe ich verstanden. 😊

@@ -1,0 +1,37 @@
+{
+  "id": "606ce785632d25fa87dc97938ae2cfd25a722d1b48e371f5822e0521b4e9827d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786251569,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "b0664ed5157f84ec142373e4764003509e038d79a28fe62960d38b9e57cafb0b",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes I had to switch to classic and select nip 7 in thedesktip mode „login“ doesn’t detect I’m using g a browser extension — may want to clear that up it was somewhat confusing",
+  "sig": "b7d3388ce97ea127eb1901a69906984ff5cb220cd559323fa2e1a234c57daf1d39770870fd294e45f48c7cc7fbfb94a0ab583ddc85ca90140fb2dcc1b34baa24",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

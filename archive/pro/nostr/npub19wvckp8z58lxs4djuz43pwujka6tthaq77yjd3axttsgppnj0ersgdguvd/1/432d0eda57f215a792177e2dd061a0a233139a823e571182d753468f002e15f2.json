@@ -1,0 +1,30 @@
+{
+  "id": "432d0eda57f215a792177e2dd061a0a233139a823e571182d753468f002e15f2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785565853,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7237671f1ab8effdcdea37ba287da856e863b1b393c1f4465bae15f3e81e48af",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "fa984bd7dbb282f07e16e7ae87b26a2a7b9b90b7246a44771f0cf5ae58018f52",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I was thinking about this a lot actually tonight ",
+  "sig": "2ff34144b9d5ba2cf114c94e057a807eb810d053593d80d2b67766d85d089722b7cf541b03124eed74603a31230ed91b635cd9ddcbe88d039bff903662e0134d",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d6180f4e47f4c93fb1e148f850661690c6d246f76f3c282a1fb47dce957992cb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785591582,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ea2de6fccc6d1a2313fe8a415fb3fefc33634afe05976377ded8477657a90a6f",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "6f45ef2f59c2d5480578124423c0abcf24dc849c0f1c2bc2429ac0ffb72fd772",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "That was really cute !! All kidding aside it’s a really sad day for many.  Wish I could do more.",
+  "sig": "44847a4f7bf487f2ee393c5ef44587f34f78cb328dacd5ecda0147d768d763fc493fc3effee9cabde908167064aa61efd427d821c6a41f89ccf215d53b187229",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

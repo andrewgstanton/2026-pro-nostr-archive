@@ -1,0 +1,30 @@
+{
+  "id": "97210194015c52c6f6c6d227ba236f368b08c77addf499cbb363d47e4e851403",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785609687,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1710b80f21d55b8e31ba6a2a67f65adb3ffd91b46937bcdc24f83e1bef4102ce",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nostrelites.org",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "GM nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqpz4mhxue69uhkummnw3ex2mrfw3jhxtn0wfnszrthwden5te0dehhxtnvdakqv2u0qu :)",
+  "sig": "b070033a9f18efa064286638c6b5ce942719f84a2bb59563b44df42817e235339d18d689a976e9c1c86877b2316d886fe329e9ace3bedafec34499046fd7c4ba",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

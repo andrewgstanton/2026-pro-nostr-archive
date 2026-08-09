@@ -1,0 +1,30 @@
+{
+  "kind": 1,
+  "created_at": 1786293696,
+  "tags": [
+    [
+      "e",
+      "6b8a3c8cff6b579f5f434938965c95bedfe70373a3dd3a4bf1b20b4f17d44b35",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I kind of agree.  I don't like spam either, fixing (or limiting it) is by higher usage for monetary transactions (some of which could \"look like spam\").\r\n\r\nOnward!\n\nnostr:nevent1qqsxhz3u3nlkk4ultap5jwyktj2mahl8qde68hf6f0cmyz60zl2ykdgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygplwuxkt5a8vj5utj6s8tsj8e3wcavc45p4mqmw92qs7wrh5azmyspsgqqqqqqs86l9xq",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "381efb30eca1ddb7f15a6e436b7967374c10f3c0f06917f6a30d5ac604efd2b8",
+  "sig": "99e24ccb2549cf828f305dd1c85d70fc39409eb22df05c03be816c0dc9d121fc5aa4c406f25aa3951c9b7b3a4f98fe3721d03db4543964c28efd39ff17dd93da",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

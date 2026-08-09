@@ -1,0 +1,90 @@
+{
+  "content": "latest error:\n\n[bunker] received event from wss://relay.poster.place\n[bunker] event id: dbfa9f32277c15dfe153b23817033cc5de5916f7cc0d5159244de54b6f8618c9\n[bunker] sender: 4670ee238a6914a063dd276bb550d89ae78726439a45f83a2ecfe18f964711d0\n[bunker] kind: 24133\n[bunker] content: jfk4y81/9MftiMrgz+N+Yy5VquUNHu2wCHI5ImbQxyGuHnZQvv/1KVS6atTEnPpHcl3AYuqtUjEiHGNFS6+GZhcg0q/s8pAAQ+tlYKCblzUhXhQq9+19m2TqR3Cn+mVBjuVnJPWpFyCfCgY+nHM4oC66n3rqYnkK7mMGH+ovBCNIcKZlVZaagIWJmioq0kbbmbUyLY+3K1A3JlAoRbcVCA==?iv=F+TFAHAqtocCAnqaSHgvsw==\n[bunker] tags: [['p', '2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47']]\n[bunker] decrypt/handle failed: ValueError Unsupported NIP-44 version: 141\n",
+  "created_at": 1786256615,
+  "id": "4270735ba7621550d9ec66656cd1703e4bf2182d52a3ffe590f131b57ea7e6fe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "42b832c8ae500e3d3fe0260f2d6adb72cd02784b40fcaea1afa056e4b6160bdd75ca745ab71dfdf4213390cba494c2d002a5a0b1d9676c5224b97c91a4b85843",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "f7a6374efb63e05552225871ec09fb7d9b0b4aa29db145a7978fa06e412cdf56",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "content": "logging out of this sesssion and using bunker url to connecdt ...",
+  "created_at": 1786256000,
+  "id": "e44bf3e6d9aedfa3281cf046ad2671238a8aa7b3bb1fd22816fdfd5e1d16ffde",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "27cefba8ad868b8e5bf12dcfa5983ac971db08aaa7957e1e940785f8280a3dab254552ae298326b603287bfccf84abb3ffc7f10b037bb5f76a97531c38f7668f",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "3ef0c496d8c82733acc58b587e89df0a71ab54b04ce62e1fc014d8657d055247",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

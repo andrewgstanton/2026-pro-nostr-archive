@@ -1,0 +1,38 @@
+{
+  "content": "Hi nostr:npub1fdtthaqujtjcd6yfy7kt0zpkadyl9vvypq00s5nztnmche74d0tqv6uwwr,\n\nI'm in poster.place now.  (logged in via a browser extension)\n\nALL kinds are whitelisted so I should be able to pretty much do anything here \n\nOne thing does poster.chan support NIP-46 ?",
+  "created_at": 1786250231,
+  "id": "d7c2083e079d260f5def25d33a73e77f70d2d22929067072399a3deb8f64cf7b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2aa31b2f1e2ee5092893599573826d4bf5f7ac4ca7a92b02a0d0169e9b634fb5bc9d598e1323d8f8d69d72fbed09bac83af19fa6d3e35a5131b0f3e9f37898d3",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "14754bc6139bbaa4c31940668a214168b81fc3aaced8ee4ce038b54eddba8492",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

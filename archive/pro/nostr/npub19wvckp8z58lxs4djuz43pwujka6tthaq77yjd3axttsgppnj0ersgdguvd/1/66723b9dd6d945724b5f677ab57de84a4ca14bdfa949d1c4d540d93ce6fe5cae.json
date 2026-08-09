@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786255786,
+  "tags": [
+    [
+      "e",
+      "3ef0c496d8c82733acc58b587e89df0a71ab54b04ce62e1fc014d8657d055247",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "why am I seeing a \"bad gateway error\" now ?  I thought it may have been my internet or something but I was able to connect to primal and post from there -- I'm posting from Continuum here ..",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "66723b9dd6d945724b5f677ab57de84a4ca14bdfa949d1c4d540d93ce6fe5cae",
+  "sig": "d6cc9703229f180baf615f8e5c1a13f4ddbf1697c43f4d8cb92471ac3a12116605c3372fd52bbdac62c03fb8ba8d912ea4586e1b62aec9d38711558aae63803a",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
