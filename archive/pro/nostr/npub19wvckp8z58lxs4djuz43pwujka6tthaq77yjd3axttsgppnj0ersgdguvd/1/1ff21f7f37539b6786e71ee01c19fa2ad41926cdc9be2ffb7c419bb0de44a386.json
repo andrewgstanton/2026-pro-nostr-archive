@@ -1,0 +1,30 @@
+{
+  "id": "1ff21f7f37539b6786e71ee01c19fa2ad41926cdc9be2ffb7c419bb0de44a386",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786081348,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f5625206fa22d2bb7c773882d1df132e691bd77fda527d0e8e735869516a4481",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I wrote a very thoughtful note about this a few days ago when temperatures were very high ",
+  "sig": "71df51c6889386459f9b6b648022a3147b867cfb935e9880a92c551b6e5462b69391e29265c383968f8d774167d7ad4277ebd20d8e43870053592725603eed54",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

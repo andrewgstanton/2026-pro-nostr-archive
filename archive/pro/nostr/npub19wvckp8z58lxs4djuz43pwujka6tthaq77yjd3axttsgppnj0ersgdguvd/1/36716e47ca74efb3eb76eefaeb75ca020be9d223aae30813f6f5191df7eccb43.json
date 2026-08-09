@@ -1,0 +1,76 @@
+{
+  "id": "36716e47ca74efb3eb76eefaeb75ca020be9d223aae30813f6f5191df7eccb43",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785784557,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "82995cd710ba73d4dd4be830ef8224c097d9ec5b9ae55eacc13a0f57685835ee",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "This was how I was feeling as well.  I don't know if a like is appropriate or not but your words were very helpful actually\n\nI honestly wish I could do more.  \n\nI don't know what I can to help much",
+  "sig": "340f256305885d9a3091a01ba290741fbe3fd6fce38f61f2b82555316584fb8084d8e3040a61b1ebaeff1b208e66eb25ba85f741a4d29d79450e077eb969f827",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

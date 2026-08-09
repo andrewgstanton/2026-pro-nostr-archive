@@ -1,0 +1,36 @@
+{
+  "id": "ea1f54202fdf41858a7d95b549fa6e8b34be74e8040037799af1b82607d347cd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786083422,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "444301b69016b47466e762e0a3aa67308ca06678ce676a3cf3b7dbc8f0f40aaf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://relay.azzamo.net/",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes Derek!! What happened to them anyway ",
+  "sig": "1ab26abff644973cf78b41bb711c33cb24784823b03959d74862e2c3057306645d35c8532058e12ef1c2292493f8a385aba9e98bb19fc749931ce6c396c6d6e7",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

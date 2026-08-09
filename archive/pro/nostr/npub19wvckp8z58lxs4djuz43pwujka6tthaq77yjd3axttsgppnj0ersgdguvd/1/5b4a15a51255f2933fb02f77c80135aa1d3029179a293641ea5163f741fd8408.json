@@ -1,0 +1,83 @@
+{
+  "id": "5b4a15a51255f2933fb02f77c80135aa1d3029179a293641ea5163f741fd8408",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785799756,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "wss://nostr.bitcoiner.social/",
+      "mention"
+    ],
+    [
+      "e",
+      "5604ccc29b809e8ecee2bc67939071a285e36f73b9b50ba637f201e8264aa6ac",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "I agree nostr:nprofile1qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq3vamnwvaz7tmwdaehgun9d35hgetn9ehhyee0qqswf6z8lxe7985npvls2gv8v7pglrwattqh0addg6nxzm6juhph6mg92esty been thinking very carefully about this.\n\nRecently another influencer (whom I zapped a little ) went on record to continue to promote self custody and shared a discount code for Blockstream Jade. \n\nIt just struck me as a little self serving, but it's not my style to attack or denigrate. \n",
+  "sig": "33f3668927e41dea0c5be75a7b5be5235627b4d625d9197d083b0a0189f859748851399b701373a9e884dc317ba2b4a495304283313e10c67ccf28385c0eafa3",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

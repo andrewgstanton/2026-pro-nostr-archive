@@ -1,0 +1,20 @@
+{
+  "id": "85eb789ede2a6b3b2fec9b7817f3a33076f3ba976968fb23492352ab98455c21",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786175775,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Stay humble. Stack sats. Verify claims. And accept that other people are allowed to be wrong, ourselves included. 😄\n\nGood night all you good people and take care \n\nLove one another ",
+  "sig": "2e0ef5c83f6f72f413e4f3127fc33f4978b08dc0aaad342465977cc9dad5cdc8fb8f8287cb90edb92c0807b39e4aa2f6e0ed5f11ad45ff53e4d62e62c1d8f41d",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

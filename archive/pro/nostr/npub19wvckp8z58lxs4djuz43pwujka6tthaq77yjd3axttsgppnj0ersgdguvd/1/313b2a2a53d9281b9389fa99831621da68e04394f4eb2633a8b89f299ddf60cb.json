@@ -1,0 +1,76 @@
+{
+  "id": "313b2a2a53d9281b9389fa99831621da68e04394f4eb2633a8b89f299ddf60cb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785799942,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8042642fbc9fc513f66cd51ff886d557ce160175c6fcb407fadca0fc2d2c694b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "16f1a0100d4cfffbcc4230e8e0e4290cc5849c1adc64d6653fda07c031b1074b"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "kind of in the same boat.   Most of the people in my life are \"no coiners\" so this doesn't really affect them.  this is akin to like an earthquote happening \"over there\" might have heard it on the news somehwere \n\nbut forget about it and continue on w/ their lives.",
+  "sig": "06bbfa2febd372dfdafe87e393b48e4e72223f616f516a2b1ced250e0dba47721e6b304a04c8ef7ee57066ea9f3717f450f35fd7a028ba1fe402225352360be0",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

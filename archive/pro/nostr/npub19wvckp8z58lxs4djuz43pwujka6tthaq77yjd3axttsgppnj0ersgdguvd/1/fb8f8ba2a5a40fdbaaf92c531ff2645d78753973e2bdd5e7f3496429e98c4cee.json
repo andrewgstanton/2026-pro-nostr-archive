@@ -1,0 +1,30 @@
+{
+  "id": "fb8f8ba2a5a40fdbaaf92c531ff2645d78753973e2bdd5e7f3496429e98c4cee",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785992322,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "000009f73809193da6170d03abdab32282d378f7f8696cbe52f00296226b43fe",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yeah that really is kind of slimy.",
+  "sig": "9a07285f2f77359da627d08e610c23e32fae0984549a130dcf773d19ff946fd6ca7eb79608fec784b208cef1d142efe11f1ed8a4bd8a8ec0433202845e3734de",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

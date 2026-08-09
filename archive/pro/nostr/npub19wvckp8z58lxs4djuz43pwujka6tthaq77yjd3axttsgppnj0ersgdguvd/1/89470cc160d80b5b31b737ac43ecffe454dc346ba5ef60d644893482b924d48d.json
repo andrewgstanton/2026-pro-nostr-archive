@@ -1,0 +1,30 @@
+{
+  "id": "89470cc160d80b5b31b737ac43ecffe454dc346ba5ef60d644893482b924d48d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786083382,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fec5f6e11b31772163a7ae6c279b6b3fb43da2487b5931d9eb012f44cdf6e411",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://relay.azzamo.net/",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I think I encountered a few of these “agenda driven” actors a few months ago I was zapped frequently with lot with almost every post or article I was making g and seemed genuinely interested then encouraged me to sign up for nip  05 service (which I did )\n\nAfter that all that stopped\n\nHe probably spent less in zaps than he got back with that one time nio 05 sale \n\n(It still wasnt a lot \n\nThe entire experience felt slimy to me ",
+  "sig": "c086d72f28a34a552c2ccf09e64d1d6e10cf1532bdf8d16d3d25cf5d7f87a863666ba4d26a0bfc712ac729d9cb4cad48b1fd0833be9a67ad287a200befa961cf",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,114 @@
+{
+  "id": "8e8017ce69a80f3be65ca6134146d0325c6257546a3a23504f22edf6e885a76d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786061017,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "000070502739a858d59e447bb8b6d8cc597b8e73bda1f5cf5add6906f2c7ec32",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "b198bfd19e8fe1b0fb0b129dd9fabf8048e1166403b9825711227f259316dbfd",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "1989034e56b8f606c724f45a12ce84a11841621aaf7182a1f6564380b9c4276b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "04c915daefee38317fa734444acee390a8269fe5810b2241e5e6dd343dfbecc9",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e13490fd23435a3c9b536e18e8309e9fd95475bf72a477b1166f2d4c651a2e63"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Yes, so true!\n\nEspecially this line:\n\n\"if basically everybody in the btc space said coldcard was the best wallet, and it turned out it was the worst of all, how can I trust now?\"\n\nand there are some influeners promoting self custody with Jade Blockstream.  \n\n",
+  "sig": "0bc6845cf9d363d0075d0758cd406ec2e173f9a246fa857f2a2db005f93248a6b4d958cb246bfa3cd0c42a28c7e6f1060e80467968aa78c041e6c08bfdb3a418",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

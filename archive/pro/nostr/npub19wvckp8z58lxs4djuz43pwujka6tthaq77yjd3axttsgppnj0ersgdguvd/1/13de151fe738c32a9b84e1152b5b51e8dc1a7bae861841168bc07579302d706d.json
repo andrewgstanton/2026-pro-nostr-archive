@@ -1,0 +1,30 @@
+{
+  "id": "13de151fe738c32a9b84e1152b5b51e8dc1a7bae861841168bc07579302d706d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786081649,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7b8063036fc5781822cdda1c3f4991f01f235e9b7e5e139d3efad1bad7d0be67",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://relay.azzamo.net/",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I think I know exactly what you mean ",
+  "sig": "5bcfde4083e4e8d2703281330967ac7291f92ec96b6e18e9cbead6370b167d3ae9933cd76f89347cf14f6f5a413d324d4a7ba713091ee1088923ec237e93ee80",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

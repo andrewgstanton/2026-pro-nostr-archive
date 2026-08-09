@@ -1,0 +1,95 @@
+{
+  "id": "b37226d36fab796dc7a16631cadc2d6883c152966fb085298c5d69eb1080d9b7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785881460,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "a69daa14e4f5593c99e3a196f9f4fae05e61816ac0b528e007f7ffd218a0bf3b",
+      "wss://nos.lol/",
+      "mention"
+    ],
+    [
+      "e",
+      "d7494017065fbca9203566bfa53c1e528f461ad0579d0f61c58eceb6cff3d3b6",
+      "",
+      "mention"
+    ],
+    [
+      "e",
+      "0fd1e778ff9de3261f05f0b68f7ae55424a153f4000a744fe34decc8a22438ed",
+      "",
+      "root",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "e",
+      "d7494017065fbca9203566bfa53c1e528f461ad0579d0f61c58eceb6cff3d3b6",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "I agree nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3qamnwvaz7tmwdaehgu3wd3skueqqyznfm2s5un64j0yeuwsed705lts9ucvpdtqt228qqlmll5sc5zlnkk44zqh \n\nValue integrity and good character, end of story, walk away from the rest.\n\n\nnostr:nevent1qvzqqqqqqypzpf5a4g2wfa2e8jv78gvkl8604cz7vxqk4s949rsq0all6gv2p0emqqsdwj2qzur9l09fyq6kd0a98s099r6xrtg908g0v8zcan4kelea8dsd6agfv ",
+  "sig": "f58964643644aa1b0b393ac933e6a6273a73e6ff1051516fd2f2e1ca734e0b6e5355364ec10770357039a6b4bd90c7834069526a67872c7aec8112a9c18d1202",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

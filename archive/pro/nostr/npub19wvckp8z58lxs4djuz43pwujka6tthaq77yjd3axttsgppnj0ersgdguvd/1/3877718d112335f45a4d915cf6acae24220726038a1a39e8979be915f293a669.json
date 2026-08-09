@@ -1,0 +1,30 @@
+{
+  "id": "3877718d112335f45a4d915cf6acae24220726038a1a39e8979be915f293a669",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786076649,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b5cd235160765f335119a5971c8a181792df4ec34d272f4e11e1793dd302daf5",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Very cool",
+  "sig": "ea767907dd1d5299183894c2103b261e36e13fd40ecc4146a1c4cdc3268262809be6d08f5a4fd03703dcf7abc3d7f895a7218f3f33271de96fa1eeb45d8e13f7",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

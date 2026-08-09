@@ -1,0 +1,63 @@
+{
+  "content": "Wouldn't it be great if the attacker (or attackers) returned the money  somehow ?\n\nCreate a podcast about what they did, start a bitcoin security firm.\n\nBecome wildly successful.\n\nMight end up worth more than the 38 Million that was stolen.\n\nNah, that would be impossible right ?\n\nOne can hope though.\n\nI hate see so much pain.\n\nI have some bitcoin (but on a different hardware wallet).  What if it was the one that had the hidden vulnerability?  \n\n",
+  "created_at": 1785646380,
+  "id": "f95e3ff21fd4e73c80da48ff023cef00cb3161622296d6856375e06ed1abe533",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f11dfbd9daf0d9b5da8864e5fbd01259ec0710a7841bb15c1e6114396484a8262ede16c44d5cfa7fed200904ba6e0f3dd62aab41871188ffc0b5d98d2027a260",
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

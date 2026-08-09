@@ -1,0 +1,30 @@
+{
+  "id": "6004ca75170539ec7c1341a3bd6698f2a4bdc3ffd119742df9523ebcafc2a362",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786225290,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2dcc385938bb962ba017bdfad7ab73d43e3c28aa872b2f787a64ec01c6e0961c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "fddb827e586a37a1f54e47b3bd710bcf8f29268069146d6e914539e0eebd31a0",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Where do physically run the Anminer ( I mean general geography) I live in SF Bay Area so I wouldn’t run it here ) ",
+  "sig": "bbdc93140beb73ff1cd94be43c4e8a8a6a9dd8a1f3826c49a027b28ecbafe90ba11f8b0c3d5315cac6a639d632eb87311963b100e18e3cee440b2e41014ca6da",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ecf7aede4b1129c1557ab6148cb62781d46759a2194541333c64121efbb5010c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785894602,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00003234f33c0e000ab1ab83d445fc8e4ef508fab783068122d4988cf8ebc5bf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Great work Laser",
+  "sig": "54d1f08484a8c9d0bc98f2062fd33d41b4a65df7c501596bdd49dced0701d5103b7672291f06756160093bd366a0a1594ef446f01c3dcd301a29f42f1fce8bc7",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

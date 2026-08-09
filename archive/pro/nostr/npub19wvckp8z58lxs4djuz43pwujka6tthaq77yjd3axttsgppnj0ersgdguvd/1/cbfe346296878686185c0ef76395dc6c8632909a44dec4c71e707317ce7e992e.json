@@ -1,0 +1,30 @@
+{
+  "id": "cbfe346296878686185c0ef76395dc6c8632909a44dec4c71e707317ce7e992e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786223611,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d30f7284429d1dad15f8a212c26237fbca5ed5fca937a150f9823933a90d181b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f8e480f4bb537facc1bdbd020f6defa136ebd51f057b95fb4050be2524f1cc13",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Fascinating would live to learn more",
+  "sig": "56fe7859ba62763f16d0a224799894c638e1b1b00a6cd7630ddf557d014da4fa2d5f262009746c650f880b52eeccbe8c2f65cf5c5c8b1726b7c6d14fb5e4425a",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "255850306c88a58ccec9935458f096a66c8dfd12f6b0f34486c09dbe4bdb747e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785814741,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cb94960cf3c2bd72d1f06b823ffdd4c4726f442e4c1b9b817d7eb7c8006654e8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "692c6feb28a0bd93d67cc19840bb07bfe678f97bf15930b5d812676b4cd512ef",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Amen!!\n\nBitcoin is not your salvation\n\nNever was.\n\n\nnostr:nevent1qqsvh9ykpneu90tj68cxhq3llh2vgun0gshycxums97had7gqpn9f6q4jejp9",
+  "sig": "0f53f55e204bbb0dbe72f86183dd3935b1c2a40ed16ec7088f31483e00aec38c09a4b1ee7e8ec4eeb505f493f958a6a3afb6ecc98a333c2bc577efc94fd781c5",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

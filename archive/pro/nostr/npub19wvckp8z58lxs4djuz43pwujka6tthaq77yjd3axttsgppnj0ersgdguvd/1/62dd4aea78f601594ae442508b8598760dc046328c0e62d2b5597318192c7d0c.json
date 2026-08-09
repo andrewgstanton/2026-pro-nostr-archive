@@ -1,0 +1,36 @@
+{
+  "id": "62dd4aea78f601594ae442508b8598760dc046328c0e62d2b5597318192c7d0c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786227123,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2dcc385938bb962ba017bdfad7ab73d43e3c28aa872b2f787a64ec01c6e0961c",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fd52a9a62d188bec7805437c6150ed5f1e9f3bc6367f9ad80f0d20b25a80bc3c",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "fddb827e586a37a1f54e47b3bd710bcf8f29268069146d6e914539e0eebd31a0",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes heard of them ",
+  "sig": "9151f34f2ef117176c2f5df8a763ed020fd2c1f12119d63f6ce9ad570facda9ec3fb29e5673a46548ab34bfc194529710dccbc87f526e0b04f545862a2f40f48",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

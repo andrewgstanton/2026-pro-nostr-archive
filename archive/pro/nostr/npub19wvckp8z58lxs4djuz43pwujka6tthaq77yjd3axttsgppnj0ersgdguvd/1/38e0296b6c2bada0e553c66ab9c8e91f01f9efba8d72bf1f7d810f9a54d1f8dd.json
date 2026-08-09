@@ -1,0 +1,82 @@
+{
+  "content": "Well said Laser!\n\nI honestly don't know what to think.\n\nThanks again for your sleuthing work putting together the timeline. -- that was very helpful.\n\n\n\nnostr:nevent1qvzqqqqqqypzqe9v7sz4l2pxhj4cg4lzfmu0hf6fp2a3uakm4d42saf22wswkn22qqsqqqqpecgdksp9czntchhvx740sl0z067p2z62xdnuc08knee4xyg3pdwyp ",
+  "created_at": 1786060762,
+  "id": "38e0296b6c2bada0e553c66ab9c8e91f01f9efba8d72bf1f7d810f9a54d1f8dd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2d4c4f0b4498613cc91bde9a6d5a232ea00436f4e3c56257543e004d97148e3bf0269db9faec1b7fa6873daafb2359c2de9e576ddd43d7915b8c4c6e2935a13f",
+  "tags": [
+    [
+      "e",
+      "000001ce10db4025c0a6bc5eec37aaf87de27ebc150b4a3367cc3cf69e735311",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

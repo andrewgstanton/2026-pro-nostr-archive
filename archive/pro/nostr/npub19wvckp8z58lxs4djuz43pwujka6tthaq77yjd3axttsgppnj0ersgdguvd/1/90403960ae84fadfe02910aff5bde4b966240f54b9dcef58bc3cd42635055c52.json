@@ -1,0 +1,71 @@
+{
+  "content": "I am actually using Continuum Identity Workspace + Continuum Signer to login and post here (on primal).  It's actually a very nice experience.  \n\nI have been cleaning up the Continuum Workspace repo , especially the readme.\n",
+  "created_at": 1785466416,
+  "id": "90403960ae84fadfe02910aff5bde4b966240f54b9dcef58bc3cd42635055c52",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1129527cb6298886206dac4071e4e5910057f3a4f49220f44aed2337cf8724806878485e42385ab188a6930ce801ffbf695f1c4b7eb655f7587743fd070e2d84",
+  "tags": [
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

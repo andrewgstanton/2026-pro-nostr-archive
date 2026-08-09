@@ -1,0 +1,30 @@
+{
+  "id": "0d412e448bfc3689cc31eb0f49bb40d3e6ce0d5d36481d4f198a77ac95a2ea59",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786174851,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "25cc7a23245dc2dc7d37631ca14b8bc1919f1156bf6e3ba32b4ce8477e708b54",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Very similar to many of the architectural concepts I have been exploring in Continuum",
+  "sig": "ae66134e079d90be6928f81d37c318c07260751c2f82ebd3f8817db2701d1464f5a4a540a6f29041a9995aae80bad9b4475bcd0405cfc8b0f72634a754248f6d",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

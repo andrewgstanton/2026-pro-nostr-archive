@@ -1,0 +1,30 @@
+{
+  "id": "1a636b227cabe8eb7f33f6448d2b3506bedd77b355e28b8a7897775b9f9953cc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786146213,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "000025287fca112b4bdea8904803ef3309cd6a7ce9c3b056b51fad8bc35bcc0c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "My wife says the same thing about me:)",
+  "sig": "ce114edc397decd9bfd4229324d8510d20e76efaac4dc60a030fd993f198332782120c12a6aab673979ec3f69a3d2c1003a43288865c1a3151f7b08c8a9f0756",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

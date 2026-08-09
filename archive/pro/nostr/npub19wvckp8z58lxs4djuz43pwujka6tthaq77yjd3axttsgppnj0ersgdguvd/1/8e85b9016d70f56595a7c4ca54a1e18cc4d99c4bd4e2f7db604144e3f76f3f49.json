@@ -1,0 +1,30 @@
+{
+  "id": "8e85b9016d70f56595a7c4ca54a1e18cc4d99c4bd4e2f7db604144e3f76f3f49",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785975280,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00000adb342a0d6ef5cdefcaef1d04abdccb6ee5760fb0e76299f2f85b732232",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "97c70a44366a6535c145b333f973ea86dfdc2d7a99da618c40c64705ad98e322",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Amen !! Amen!!\n\n\nnostr:nevent1qqsqqqq2mv6z5rtw7hx7ljh0r5z2hhxtdmjhvrasua3fnuhctdejyvs8a3pgh",
+  "sig": "cff74ac340b4f332264d5ffa2b5937752c4cc700665c2e33773f5c727e3a07a71d6a29e75da62e91c0da5cfaf333ffc29a411e73596ddae0d68c3098f984258a",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

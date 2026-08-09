@@ -1,0 +1,13 @@
+{
+  "content": "another test ...",
+  "created_at": 1786232608,
+  "id": "2065b161f34cfa5b867b0f25d4b4e7965b836d53e2432da752da46501cb4521c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7f841bdb15867fc1d6fdeb9b5e2b247ea0e73decb78e99ce191cc2cb6d4268203ac01d71d146bda722e3d593d971f02732b910b835f296d354b71a206936250d",
+  "tags": [],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

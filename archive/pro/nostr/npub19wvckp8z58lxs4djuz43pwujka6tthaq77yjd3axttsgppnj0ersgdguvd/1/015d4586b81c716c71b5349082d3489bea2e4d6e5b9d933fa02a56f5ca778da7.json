@@ -1,0 +1,30 @@
+{
+  "id": "015d4586b81c716c71b5349082d3489bea2e4d6e5b9d933fa02a56f5ca778da7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785974975,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "909d32d5cfc977343b5fb86c0505bf4cf82076aef7dac17507e0b42da568c91c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yeah kind if ridiculous.\n\n",
+  "sig": "b3bee7a6cb1312081ccd3bc22b339f50175ddd69f5ed5cfc12c890d13546fabec08d2e43078080130125b80287212194d0e5a6315eb9cea78160a57b9d9db1e1",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

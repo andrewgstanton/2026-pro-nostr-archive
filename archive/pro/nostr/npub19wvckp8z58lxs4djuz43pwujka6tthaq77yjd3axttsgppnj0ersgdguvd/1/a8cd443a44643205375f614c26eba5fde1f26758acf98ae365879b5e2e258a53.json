@@ -1,0 +1,67 @@
+{
+  "id": "a8cd443a44643205375f614c26eba5fde1f26758acf98ae365879b5e2e258a53",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785800365,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "I suppose I would get more reactions if I scolded certain individuals by name.\n\nThat is not my style, and I will not apologize for refusing to do it.\n\nI see so much visceral hatred here now, and I refuse to be drawn into a lynch-mob mentality. Accountability is necessary. Personal degradation, threats, and collective fury are not.\n\n“Be angry and do not sin; do not let the sun go down on your anger.”\n\nI am angry. But my anger does not require me to hate anyone.\n",
+  "sig": "35fb856673084c884b3e1e8c68bdec5c290254371914506d805d7b98c0052392194607a5da8078887c857930e2511127e9795508a719ca21ea9ed38127e0e5d6",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

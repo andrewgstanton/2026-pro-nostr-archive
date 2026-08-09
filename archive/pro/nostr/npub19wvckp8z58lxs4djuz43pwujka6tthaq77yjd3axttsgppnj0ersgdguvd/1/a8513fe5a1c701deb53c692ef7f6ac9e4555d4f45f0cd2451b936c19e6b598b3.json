@@ -1,0 +1,24 @@
+{
+  "content": "I still have a  LinkedIn account\n\nOccasionally I able to retrieve a kernel of wisdom from all the noise .. \n\n\n\nhttps://lnkd.in/p/gUmsGATB\nhttps://blossom.primal.net/e813dbf304669ab91d90cf07bc72721eed250d2f8f94a0b122b8d84a6e15c3c8.png",
+  "created_at": 1785657599,
+  "id": "a8513fe5a1c701deb53c692ef7f6ac9e4555d4f45f0cd2451b936c19e6b598b3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "676cfc5591efa03958dd1f2fa89463fe6f948113f5a642566e9459aab54494362fa0f3b2aba3d922abe48c7102011615ff3f5267a16700601134d6c4fb20f030",
+  "tags": [
+    [
+      "imeta",
+      "url https://blossom.primal.net/e813dbf304669ab91d90cf07bc72721eed250d2f8f94a0b122b8d84a6e15c3c8.png",
+      "m png",
+      "dim 1125.0x2436.0"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

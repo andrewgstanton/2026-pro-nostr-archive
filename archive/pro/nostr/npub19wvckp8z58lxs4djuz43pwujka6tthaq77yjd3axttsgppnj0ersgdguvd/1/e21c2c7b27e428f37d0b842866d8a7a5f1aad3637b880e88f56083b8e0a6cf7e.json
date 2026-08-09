@@ -1,0 +1,30 @@
+{
+  "id": "e21c2c7b27e428f37d0b842866d8a7a5f1aad3637b880e88f56083b8e0a6cf7e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785912475,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "01415190f2181d661b53b6046a3e03e2fa52ca39e146bcddc189e0777365a7aa",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ef53426a3b40ecd4181694bc409002c14f37ea1be50808829ea0dc447e988851",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Nice one!",
+  "sig": "ac718efacb631f548f5be393820ce432e9553fb50de88140429fdf1b7f15d52ca63810fe411e9b034e2a5f886cb11d9233ff8ddcafdb46a9746b1e3cba143514",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

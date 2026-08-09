@@ -1,0 +1,42 @@
+{
+  "id": "4a5fe6a2f5fa59cb151f18621d4341eb1dd01dbdf860a7dd87d8c2b19a42eb79",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786086744,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4ed5b04e1bb2ad35a638932184d8a617003dff55ef769ebeaaaeacc149327754",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "787338757fc25d65cd929394d5e7713cf43638e8d259e8dcf5c73b834eb851f2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d4ae5e74b7cc6cfc3f90352d8996c4428236e1b16c2a92be384d5c9ded360fb2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "This is very encouraging!\n\n",
+  "sig": "f96f62c0838ac78438c6e845ffecb8f5ceebbe4cd8e332607795f39bc2c7aef1b4d51f84ce7b10a360640e5cd30df7008b2c9747d3a1549da8e4015ed276a8e9",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

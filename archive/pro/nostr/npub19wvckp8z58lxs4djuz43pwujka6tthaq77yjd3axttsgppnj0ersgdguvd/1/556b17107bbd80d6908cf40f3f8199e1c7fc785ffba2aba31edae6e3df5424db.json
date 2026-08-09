@@ -1,0 +1,42 @@
+{
+  "id": "556b17107bbd80d6908cf40f3f8199e1c7fc785ffba2aba31edae6e3df5424db",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786086544,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "57c9ce1040adbf1d42ddb688cb43234d43a6d13fd87d81547c47d90e0f6fe709",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "37cd1963083728c082695206d19e07e38a6de4eef9fc0987152a78f3076c3436",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d4338b7c3306491cfdf54914d1a52b80a965685f7361311eae5f3eaff1d23a5b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Also using multisig (which I am exploring)",
+  "sig": "8a2a828abac1cfcfebf20b6fb75da880a433d9a32af21936c50ebe7f805144e7028e686f1236b06ab8af3870cfd71719031f4a55b0ba70bc6c9070b40464bf3f",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

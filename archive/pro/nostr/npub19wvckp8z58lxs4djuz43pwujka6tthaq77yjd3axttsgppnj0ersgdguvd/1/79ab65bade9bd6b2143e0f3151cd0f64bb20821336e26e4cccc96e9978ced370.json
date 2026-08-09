@@ -1,0 +1,31 @@
+{
+  "id": "79ab65bade9bd6b2143e0f3151cd0f64bb20821336e26e4cccc96e9978ced370",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786210043,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6a481f7ffc77da007eec7ca40d50af3bca49ce2e86c41ba8571850e81235aca1",
+      "wss://relay.damus.io/",
+      "root",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Snort",
+      "31990:84de35e2584d2b144aae823c9ed0b0f3deda09648530b93d1a2a146d1dea9864:app-profile"
+    ]
+  ],
+  "content": "that's cool man\n\nmy brother surfs a lot w/ his son (my nephew). Lives in Maui, HI\n\ntried to get him interested in joining Nostr for connecting w/ some of the surf spots\n\n",
+  "sig": "19a8113cb4e345d12ed72ee559f5cf16bbd18fb5449b8ec1d00b49a5564f41c8b0d843bbba1ff12880adf84084936b7227f6f31d79cc8dc3327167208c47534b",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

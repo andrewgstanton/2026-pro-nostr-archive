@@ -1,0 +1,30 @@
+{
+  "id": "5b381bb853c7bdb4effe5be3bf4e96a6853112ef07373fb0065eb28560e5ec2e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786223887,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "190d3c413f0398cbb654644957a83306e6f951cce06e3ce39ae6165e99301934",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e9eac0e9194a570bbb31efb02fd8571e72fcdc5d65f86d4cc53f3845312ec453",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I could never get posterchan to run in docker but it might be I am missing g something ",
+  "sig": "bfae6f214f2b3a435d4194f92a61f014448f428d5e1029acb394c63b01822bf10598245aad10dea35b58f1b2ef57e5c9f7a8a9267b798f0ad3c0e92ef14eef43",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

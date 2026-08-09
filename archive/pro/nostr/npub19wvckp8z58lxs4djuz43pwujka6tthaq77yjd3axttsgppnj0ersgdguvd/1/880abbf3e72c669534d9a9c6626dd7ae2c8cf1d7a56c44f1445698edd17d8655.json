@@ -1,0 +1,20 @@
+{
+  "content": "Amen!!!\nAmen!!!\n\n“Let he who is without sin cast the first stone.”\n\n(And I will probably be flamed for saying this)\n\n",
+  "created_at": 1785975114,
+  "id": "880abbf3e72c669534d9a9c6626dd7ae2c8cf1d7a56c44f1445698edd17d8655",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c74f3e1835cd10bf4470f467bca3f5c0e9df428c73b97912afbd20d7a03d7521977664444f7e31cbd601c43c6c0add5f844d9c6d3a1488d49de2d04eade6aad8",
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "published": 1
+}

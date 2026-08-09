@@ -1,0 +1,37 @@
+{
+  "id": "770bb2331db45239c4802dec64eab08831c00796439916e1ed148921a176c85b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1785810073,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a8cd443a44643205375f614c26eba5fde1f26758acf98ae365879b5e2e258a53",
+      "wss://nostrelites.org/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "1fe76a5b57a15ddd92282738f5d4ddfb26c5edc9d81207408f6f7ca3c64fb8cb",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Not appropriate language here ",
+  "sig": "89c9838f2d5fd78ac3496dbc7c0e850d5d3ef488075b018c91646c5b87fc5c9a910d127985066f6bd685eab47d0afefa604f22e3ac4e4fe741f9938bad746b66",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

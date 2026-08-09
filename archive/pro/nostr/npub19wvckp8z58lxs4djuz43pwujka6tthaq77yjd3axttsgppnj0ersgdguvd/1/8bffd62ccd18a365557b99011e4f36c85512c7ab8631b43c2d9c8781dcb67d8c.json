@@ -1,0 +1,30 @@
+{
+  "id": "8bffd62ccd18a365557b99011e4f36c85512c7ab8631b43c2d9c8781dcb67d8c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786082183,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fec5f6e11b31772163a7ae6c279b6b3fb43da2487b5931d9eb012f44cdf6e411",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://relay.azzamo.net/",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "This is spot on thank you for saying this nostr:nprofile1qqs2ms205wk4jzzkmk9cpq2axelhc8n8xkksplvc4pksqta7n76ntcgpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcpr4mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmp0ky586p \n\n",
+  "sig": "8d4a5bd90ff7a494a4b607a7e032cc1d6eaca8d6075c542f08743fb93a341a8b2e30f6e5f9e82884ba7c85a19bd019ba28f52b80be14c32f3064c8ded50117c4",
+  "_source": [
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}
