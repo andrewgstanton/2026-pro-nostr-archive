@@ -1,0 +1,35 @@
+{
+  "content": "this morning my (Revere) Notebook SSD finally gave out\n\nBeen trying to get the other mac working\n\nI was able to get Continuum running on the (other) Mac.\n\nAfternoon also some updates which was rather nerve-wracking",
+  "created_at": 1786767738,
+  "id": "e956ffc55d5a52bc777c88e05522f0822ef1bf425a5d7a0604c64a8e513308cb",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "00c469549f3f329cbf846025ba0682b8e806fb6c860dd87805da91a87465db99317adbd63f4c77848acb672c2115a830d9600a40c00430242030125780a04671",
+  "tags": [
+    [
+      "d",
+      "builders-journal---friday-august-14-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Friday, August 14, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-14"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/6-friday.jpg"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,35 @@
+{
+  "content": "quiet day but I was pretty thrashed most of the day.\n\nI think I was stressed about:\n\n- LG dryer failing (last night)\n- MacBook Pro (Revere) SSD finally crapping out (Thursday night)\n- Whiskers health\n\nDid more research and it looks like I can run the MacBook Pro from an external USB (SSD preferred) drive if it is set up properly.  That would get me back with a functioning system (on the other mac).  \n\nSpent a good deal of time working through a few scenarios w/ Chat GPT this afternoon\n\nI set up Sparrow wallet on the (Catalina) Macbook (what I am using now).\n\nYesterday evening found a number for LG repair called tonight and there will be technician coming out tomorrow to look at the LG Dryer and give an estimate of what needs repair\n(we think it's maybe a broken belt in the drum or excessive dust, etc..)\n\nLast night we spent a lot of time cleaning out the dryer (cleaning the condensor, the filter and the back of the drum but that didn't help\n\nBut I do feel better\n\nI made margaritas for us both about an hour ago.\n\nThings will be OK and the Lord has not abandoned us\n\nThese last few days have been rather stressful with the failing mac and the dryer but after the research this afternoon, I feel better -- I need to find or purchase a 1 or 2 TB USB external hard drive (lacie preferably, SSD preferable also) and that gives me confidence I can be up and running again (on the other MacBook whish has all my environment set up correctly -- also think I can upgrade the (internal SSD) - replace it with a 1 TB but the computer needs to be able to boot from a Mac OS (according to OWC.com which I was looking at today).",
+  "created_at": 1786850118,
+  "id": "73913d0a31bab4489ba4e804d00936c2e79129cc105e578768720300dbdb3fb4",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "89ad5ef512f8a3a1c56af615c38ca1cab8785c7783b9bb313bc8902a01831204996786103533b54e62e91e00d38ca9d593082f5e450fb6a3b21cc6d8fefeb2f5",
+  "tags": [
+    [
+      "d",
+      "saturday-august-15-2026"
+    ],
+    [
+      "title",
+      "Saturday, August 15, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-15"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ]
+  ],
+  "published": 0
+}

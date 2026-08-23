@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1786850288,
+  "tags": [
+    [
+      "d",
+      "saturday-august-15-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, August 15, 2026"
+    ],
+    [
+      "published_at",
+      "1786850288"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-15"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ],
+    [
+      "e",
+      "73913d0a31bab4489ba4e804d00936c2e79129cc105e578768720300dbdb3fb4",
+      "edit"
+    ]
+  ],
+  "content": "quiet day but I was pretty thrashed most of the day.\n\nI think I was stressed about:\n\n- LG dryer failing (last night)\n- MacBook Pro (Revere) SSD finally crapping out (Thursday night)\n- Whiskers health\n\nDid more research and it looks like I can run the MacBook Pro from an external USB (SSD preferred) drive if it is set up properly.  That would get me back with a functioning system (on the other mac).  \n\nSpent a good deal of time working through a few scenarios w/ Chat GPT this afternoon\n\nI set up Sparrow wallet on the (Catalina) Macbook (what I am using now).\n\nYesterday evening found a number for LG repair called tonight and there will be technician coming out tomorrow to look at the LG Dryer and give an estimate of what needs repair\n(we think it's maybe a broken belt in the drum or excessive dust, etc..)\n\nLast night we spent a lot of time cleaning out the dryer (cleaning the condensor, the filter and the back of the drum but that didn't help\n\nBut I do feel better\n\nI made margaritas for us both about an hour ago.\n\nThings will be OK and the Lord has not abandoned us\n\nThese last few days have been rather stressful with the failing mac and the dryer but after the research this afternoon, I feel better -- I need to find or purchase a 1 or 2 TB USB external hard drive (lacie preferably, SSD preferable also) and that gives me confidence I can be up and running again (on the other MacBook whish has all my environment set up correctly -- also think I can upgrade the (internal SSD) - replace it with a 1 TB but the computer needs to be able to boot from a Mac OS (according to OWC.com which I was looking at today).",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "2dd0eb212c23f3c3cebdee2dd29f53c6eb98a66457f09773a7a796fd3773912e",
+  "sig": "ebc6385c060e1ff87dd5b43902a1970f9ee20f35fd6540471d9d13c1df0f56d5282117fd5437c5708330355ef3480db92bec1300ffd28f7ef03b945a7a710fa1",
+  "published": 0
+}

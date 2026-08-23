@@ -1,0 +1,31 @@
+{
+  "content": "Good trading day.  No bills due today.\n\nIn the afternoon my (Revere) Macbook started behaving stranely and I had trouble reinstalling Monterey on it (next day discovered that the SSD was failing on it -- could not reliably read the disk and run first aid on it -- ugh",
+  "created_at": 1786767873,
+  "id": "1e35aa09cd1da93a19ca7f1f80830ca3be9b8ebd016beb86cad2bcfe8764ada5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a650e2ebc61c99e7341503951d42cb4d7542e5fbd45b559b31e551157b3ee6bcff8d471656f798a3335299cf575e783c6cff51e7ade8c14ae23beda7e8e15704",
+  "tags": [
+    [
+      "d",
+      "builders-journal---thursday-august-13-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Thursday, August 13, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/5-thursday.jpg"
+    ]
+  ],
+  "published": 0
+}

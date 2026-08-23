@@ -1,0 +1,36 @@
+{
+  "kind": 30023,
+  "created_at": 1786768418,
+  "tags": [
+    [
+      "d",
+      "sunday-august-9-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Sunday, August 9, 2026"
+    ],
+    [
+      "published_at",
+      "1786768418"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/1-sunday.jpg"
+    ],
+    [
+      "e",
+      "18c70a19e4810aa2fffd7533fad0f552a8e1ca3deef68bba85bf444e64ce2498",
+      "edit"
+    ]
+  ],
+  "content": "I ended up spending a few hours (from about (9-11 PM) last night debugging the bunker service \nusing poster.chan to test, and made real progress.\n\nI watched the rest of iPSy and started the sequel (iSpy - The Eternal City).  Lots of fun.\n\nit was probably around 2 AM when I stopped half way.\n\nKiyomi and I are really tired.\n\nShe changed his diaper I think around 5 this morning.\n\nAt 8:30 AM, I took Whiskers out to the park, and changed his diaper when I got back, giving him medicine.\n\nDid a brief test against poster.chan bunker url this morning (9:00-9:30 AM).  \n\nIt's a beautiful day though a little foggy this morning (which I love).\n\nordered more torsimide (2 months worth) for Whiskers and also paid the google fiber bill.\n\nPrayed after I got back from walking Whiskers and he was settled, made some coffee.\n\nKiyomi is still sleeping now (it's about 9:50 AM now).\n\nWhiskers is also sleeping again.\n\n--- \n\nWill add more later.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "88e906dda36bd875727a58fff022991cbc1ab83a86f34c8095c345d0ced3a51d",
+  "sig": "65e3169244d9a9e17f59286b807c576f8b74c850335c87e5c47d36cf143b04d9ea3d8a323859fc22ffff4decd14c8cd6d4b5cd62fcef6ebdd0f5333fb0f7f802",
+  "published": 0
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Was a good trading day (104)\n\nUsual moved money to coinbase\n\nTook Whiskers out in the morning\n\nThe medicine I ordered for Whiskers (Torsemide) came this afternoon)",
+  "created_at": 1786768321,
+  "id": "4c7724bc937aaf17cc5b4d9a9bcaf3d439a5a6ab9de8a53fa147fd55c5e06929",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8e992d709b382270941e3fe70ddceb7ce41d364b73ecfd8305a1818d35942822c9194b46b84aefa8c386a3dbafe65755ce64ae7108b337142eb9b98c6a0f840f",
+  "tags": [
+    [
+      "d",
+      "builders-journal---wednesday-august-12-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Wednesday, August 12, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4-wednesday.jpg"
+    ]
+  ],
+  "published": 0
+}
