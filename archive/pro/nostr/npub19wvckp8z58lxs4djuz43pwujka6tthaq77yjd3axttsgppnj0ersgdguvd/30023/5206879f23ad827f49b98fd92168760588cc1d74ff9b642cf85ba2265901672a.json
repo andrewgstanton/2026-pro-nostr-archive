@@ -1,0 +1,35 @@
+{
+  "content": "We were up about 9:30.\n\nSaturday!!\n\nKiyomi and Whiskers was still sleeping.\n\nI took Whiskers out to the park in the morning (long walk), after I gave him medicne (around 9:25 AM)\n\nGot notification that my SSD was ready for pickup at the apple store\n\nI took Whiskers out for one more walk then I went to the store to pick it up -- much easier this time!  (next time, I'll just wait for the notification)\n\nthe SSD disk is smaller than the standard Lacie drives -- kind of cute actually\n\nI was able to erase and prepare the new SSD, install Monterey on it and finally restore from the Time Mahine backup -- so I'm back up on the Revere Macbook and it's now running from the SSD\n(with a lot more room -- 1 TB instead of 256 GB\n\nI have about 800 GB to spare on the new SSD\n\nFeels good to be back.\n\nKiyomi made \"modonyaki\" (okonomiyaki w/ noodles -- a Hiroshima specialty).\n\nWe went to Trader Joe's about 7:30 and got some ice cream and other items when we returned we had some nice ice cream together and finished setting up the Mac w / the SSD\n\n(programs run first time had to verified)\n\nBiggest difference is that Docker is much snappier and because all my settings for git, etc are still apparently working I can work again.  \n\nOn Monday (8/24) I should be getting the other Lacie rugged drive (2 TB) and that will serve as the backup / Time Machine for the other (Catalinea) Computer, so the next step is upgrading that also to Monterey.\n\n\nI gave",
+  "created_at": 1787462443,
+  "id": "5206879f23ad827f49b98fd92168760588cc1d74ff9b642cf85ba2265901672a",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c1a58361c1a881989c5e0f061469010191e9ebabdcc26ffdcec9255addab083f305f6e3779b730d84bb16d1b9aeb10e600d5593c326b59a852c7fc9eb3dfcd8b",
+  "tags": [
+    [
+      "d",
+      "builders-journal---saturday-august-22-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Saturday, August 22, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-22"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/7-saturday.jpg"
+    ]
+  ],
+  "published": 0
+}
