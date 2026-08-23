@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "created_at": 1787510285,
+  "tags": [
+    [
+      "e",
+      "1cf625a24b0665422d1ec0c77218ef094508fd381a88904584774484b87183bc",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "i dont really like shitposting though, but i suppose i could",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "89d8e5722e247be2b43dcc1f299920e80b06ded900a6e585d33af9bec361c0b1",
+  "sig": "fe2a4bb9016683426324201cbd06effc2e270ddc3405e131534ea54fc3d291ddcd9074af284ce5fbbcf13f3d58bb17139f86f8dfc046c554241eab47ea1b3ce4",
+  "published": 1
+}
