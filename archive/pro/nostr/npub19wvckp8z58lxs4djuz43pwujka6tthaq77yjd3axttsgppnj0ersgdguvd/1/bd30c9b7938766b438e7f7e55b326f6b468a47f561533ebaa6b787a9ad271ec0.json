@@ -1,0 +1,37 @@
+{
+  "id": "bd30c9b7938766b438e7f7e55b326f6b468a47f561533ebaa6b787a9ad271ec0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786508641,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3f859c0e5b04b0ecbbfa2699209bb90628f714ab27863359633601ac57f96523",
+      "wss://nostr.mom/",
+      "root",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7"
+    ],
+    [
+      "e",
+      "bb78701a4761f831d76712214949c54ebf2769579a64615f1f9da4716965b399",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Why is that Luke ?",
+  "sig": "06f08d5c002df825217d0a287b75210d00583fe931e26732b8c482ac386bd8f07b25428cb116e4c93a60cfe072359937582a68cd7606683a997c6052fcf774cd",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "(pardon typos) -- I actually would prefer using continuum (locally) or maybe run poster.place locally -- tried that before but got stuck will figure it out later.\n\nI can't thank you enough -- this is a huge milestone",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "4fe58f76219f4399f053214ea3b32fa8548902162e4016c02e260c8bc3c87964",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786303359,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5ef18b1ff3728c6953a44456c7cedc9171034ed1c1faf39aaabf4a420fc130db",
+  "sig": "a8bfd6434ff609b0f26c23cd8c8e0ed35f1ba6ef8d55be36dfec4c9269cde6c7d55fd58bc01a6de6d3af07560fc44b402114439c6eade5d31d23bfba3ab66415",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

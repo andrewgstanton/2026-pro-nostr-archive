@@ -1,0 +1,36 @@
+{
+  "id": "7657a285e6dcc21f78f4b34cda9f2601ce1424a5bfc753d5b8b318c3533ce4bc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786504641,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "77049f4f41801a6c4355d7d1977a5f261dcd697474f1e24e0ebb8e39f0e8160e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "eb606273bf01fd8d16fc502a772f2f9695b1fe54a035047b122832e7696b3cd1",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "That’s what I figured.  :) \n\nI spent many years in web3.",
+  "sig": "80ee3b653935394af71bdb02d5b6d98a8cdb92273c4b8362c48df69caedc01e71c3c16f4ebaa54ad07fbf81a6f575fe21357369837b8727983d2e66b23cbee5a",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

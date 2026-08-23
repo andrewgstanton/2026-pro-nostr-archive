@@ -1,0 +1,30 @@
+{
+  "id": "c00b60f24842ca15051de0a850b2c86d7f60ee6f3db42a7a5cd12950d291900e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786594909,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00000145d603053dc59f414eaf4c5f7418ba6878d2fc9ed405bbabc8a0473a19",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "That is absolutely bonkers. Psychotic.. wow ",
+  "sig": "f342b0e3173f7ec632976939a88f3d91ea3cf0c6d472b7678472d2ac7ed6a339a7585f0007347f1ba4cee8ffac53b2a2c9dd48426f67f9582d5ec2100a398045",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

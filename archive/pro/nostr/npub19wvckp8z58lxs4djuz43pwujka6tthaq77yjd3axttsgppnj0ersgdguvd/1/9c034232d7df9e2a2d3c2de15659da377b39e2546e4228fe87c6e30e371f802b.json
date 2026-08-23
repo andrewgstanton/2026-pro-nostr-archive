@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786505092,
+  "tags": [
+    [
+      "e",
+      "529b053fb79d2d9a2babc5107954bbb2e6df38d126f7411a19e3181bf34c2364",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I DO (and have) -- but my timing couldn't have been more awful -- I released\r\nv.0.1.0 of Continuum Passport on 7/31/2026, right when the coldcard RNG heist was happening.  \r\n\r\n(I had actually finished setting up the repos a few days before)\r\n\r\nI am still kind of reeling from all that happened, and the other attacks that followed it, and then of course the craziness w/ BIP 110.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "9c034232d7df9e2a2d3c2de15659da377b39e2546e4228fe87c6e30e371f802b",
+  "sig": "c2253227d26d6a5a73a403bdb604446160b64d3937fcf28241053aee4bf9ca4d767808cfeb2b86d27d1d5403cd7aba550fa68f43ce14c65226e8ac2f6911b529",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

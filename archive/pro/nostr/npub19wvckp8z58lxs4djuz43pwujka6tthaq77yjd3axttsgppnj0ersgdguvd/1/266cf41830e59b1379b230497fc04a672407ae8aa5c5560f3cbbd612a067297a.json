@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1787267933,
+  "tags": [
+    [
+      "e",
+      "000008c2003a67cfd5bab64bae5c3937506f7fd23c4fc6da9fdc41b15ecb990a",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Yes, amen.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "266cf41830e59b1379b230497fc04a672407ae8aa5c5560f3cbbd612a067297a",
+  "sig": "72c98c57e191d19a3ba9cb447759febca784566763d63767a67fcac7ec825616e42a8dd1b9e65f00bafc4d0dab8c30332747291bed52b45fa1d56b7637a09da8",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

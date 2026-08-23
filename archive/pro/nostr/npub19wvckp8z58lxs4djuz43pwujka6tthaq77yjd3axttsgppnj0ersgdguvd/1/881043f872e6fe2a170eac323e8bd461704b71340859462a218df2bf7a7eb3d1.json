@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "the url for gitworkshop is:\n\nhttps://gitworkshop.dev/andrewgstanton@primal.net/relay.ngit.dev/continuum-passport",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "8378e8bcccdf409ac82a4410155de2d6432cf1c62de36f798283e76a0107fca1",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786304248,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "881043f872e6fe2a170eac323e8bd461704b71340859462a218df2bf7a7eb3d1",
+  "sig": "8834f5c93c97285395c5f98382ec8b6587a62d6b25d5c44d887d3eaad703645d87b0995986a726a86cf60d80df0e4af7a4a2688b4dd32707cdd874475e2f8a29",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

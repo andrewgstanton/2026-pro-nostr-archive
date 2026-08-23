@@ -1,0 +1,30 @@
+{
+  "id": "7b955ed11b167a288e7528fbe3effe1869bc581fdc9035c0dff5f8ee2dfec851",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786501936,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00002d788b9de7309c7baa3734ecd382f74777191752b58ed2fab91d02ca44cf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3bbcab7e3d2b07a55027206d5e193813f01406882daad05412389a50b67ba92e",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Slimy bastards \n\nBut you do bring up another thing g we need to think about rotating noubs/nsecs ",
+  "sig": "4d1ff5f47e0304e1ec0e61b6a907102d1d17e0926ececb49d625c38e2d40439a443db32d3555e1cc8af33d4254716a97e8bab156c957cfd1191190135d05679f",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Great quote ! ",
+  "created_at": 1786586249,
+  "id": "2bd10a0f7c771e943f9484d6fa8ad6e8e2b89c512c6143989b8a5687e027b178",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "71d1a3ddf9cc3a6ae327cd850997f56076f6a846908abab8b7fcec3ce4945101cbc563e158e5441c464657416d2e041643654c7e367411aaa470d3abe2d415a2",
+  "tags": [
+    [
+      "e",
+      "d53df23c6d5c7dd7592451e6722f678b7ada7381f98cef1d9317fd4361671300",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,45 @@
+{
+  "kind": 1,
+  "content": "https://media.poster.place/0f45778ecf59a9d46111764e87ee85747989455112a6b0efa6b0c5cf01b0b7ad.png \n\n(it could be because we are using NIP--04 for the bunker service -- )",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fa88847bf8858fba45b5c15b2393359899a05ac55528589e20fd9bdf91edd797",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/0f45778ecf59a9d46111764e87ee85747989455112a6b0efa6b0c5cf01b0b7ad.png",
+      "m image/png",
+      "dim 1518x898",
+      "x 0f45778ecf59a9d46111764e87ee85747989455112a6b0efa6b0c5cf01b0b7ad"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786305371,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "d7cae2ecf1cf7736d830105218365cc63bbd5dc77f11a454873ec853c863a0c3",
+  "sig": "019c4fc34ffd1855a83a1363d93b96593adc8386f048eec8a2797ee77e4ce2d78f4899c7dc8b6909e8ad50b4f17fca0ceb7faf9d51ea8de899a13f15cc1aad7e",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

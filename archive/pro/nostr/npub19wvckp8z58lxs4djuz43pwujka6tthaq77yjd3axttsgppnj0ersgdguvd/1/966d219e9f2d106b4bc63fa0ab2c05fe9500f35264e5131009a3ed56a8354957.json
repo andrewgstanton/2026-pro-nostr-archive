@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": ":). --- Contiuum Passport currently JUST stores identies -- I deliberately removed everything else (relay manageent, dbs, some services), so I would need to add back the relay services but I don't think we need a db for the Passport -- the passport would actually be signing requests and sending to the (relays) but everyhing else I can leave out.   -- \n\nNote: I do not want Contiuum to be another Nostr Client but the more I think about it Continuum Passport could be a lightweight secure signer for supporting both NIP -7 (browser extension) and NIP-46 (bunker service/remote signing)",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "b9360a9c167486a8c686c4159d05877df137d87957c3b0b09fabc8bb99d57d80",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786304873,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "966d219e9f2d106b4bc63fa0ab2c05fe9500f35264e5131009a3ed56a8354957",
+  "sig": "27abbcbdd316fed66da083e8eee3079c64380d82c00b92836e3bba150731818b540d332d931ba17ec7ad3e62f4d341cf4e9976f1909beb717d7fa842b5e49d44",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

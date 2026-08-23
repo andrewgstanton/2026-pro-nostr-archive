@@ -1,0 +1,30 @@
+{
+  "id": "fd86aaf76da4fc769d5dd8bdad1c49fed00c958e50c0a9254e10b5f686d3a7b2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786316572,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ee0f25e9d1ee66ef912d5b54987e29ea64b74d13bc947791cc58f87fc674fa96",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f8e6c64342f1e052480630e27e1016dce35fc3a614e60434fef4aa2503328ca9",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "BlipCoin",
+  "sig": "3483f5d659227287dc91aa0d76013494365d1014cfc1fab05e080ad0678aeed89b3dadbcddde6fed77e5a15927d5aff90833ab518c16d40466e5149f8967b5ba",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

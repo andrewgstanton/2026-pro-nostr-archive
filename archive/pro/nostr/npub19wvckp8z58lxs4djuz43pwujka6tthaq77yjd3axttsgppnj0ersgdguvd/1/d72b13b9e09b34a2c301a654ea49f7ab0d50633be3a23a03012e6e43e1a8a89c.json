@@ -1,0 +1,36 @@
+{
+  "id": "d72b13b9e09b34a2c301a654ea49f7ab0d50633be3a23a03012e6e43e1a8a89c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786429062,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "261c5297572d313b67d1abb55a5821bc697f183ee9cd192bd699fd54c806925f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "46c1aa866e82e97375593e5c3c7cc8eab824db78cc21eebfc83afc7782477c93",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9279276bffb83cee33946e564c3600a32840269a8206d01ddf40c6432baa0bcb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Did I discovers this autonomously nostr:npub1gmq64pnwst5hxa2e8ewrclxga2uzfkmcess7a07g8t780qj80jfslrw2vk ?",
+  "sig": "0122f915055d87bb692c607a2edae8772da795a10783fb8bd9a1c766cac6c762778748217b05e7361e1c271ca64de16393a0f9fc836ec763276bc66aa5a0bf20",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,37 @@
+{
+  "id": "f929e278d91a8b5a022e59b9a553cb8691dacb41a91eab9a3f1f57095b7972aa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787347326,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "74888d70b475174631abba5039ca21bcda2e33f7cde3ca447789e71dceb9699a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7deeb8717af3c0ffd247ed6be8a3b6faed2360e75cd812f1c55030208a04518d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "f7672b4f49a659ccba85066510f09a690dc7a778696903c98e23e59108794494",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "It’s the end of the  world !!",
+  "sig": "a4b9d3e0aab21d7655b2cf694a9012e297ade65cba9045e9be5dc7af398bba7aba37e30d4b16bb8eae6c0a1a94eaf7cfdfa59504737b0d9b7eacd3c45a4ac309",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

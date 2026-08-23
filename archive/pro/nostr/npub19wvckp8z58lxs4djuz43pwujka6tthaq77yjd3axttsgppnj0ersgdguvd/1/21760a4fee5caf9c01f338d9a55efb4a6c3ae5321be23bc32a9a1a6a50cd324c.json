@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "That's interesting.  \n\nwhile we are here -- how do I DM you ?\n\nit complained \"NIP_04 not supported\"",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fa88847bf8858fba45b5c15b2393359899a05ac55528589e20fd9bdf91edd797",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786305258,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "21760a4fee5caf9c01f338d9a55efb4a6c3ae5321be23bc32a9a1a6a50cd324c",
+  "sig": "c46028e406d7ceb191efd57da56c0e9c4cfe403557e7803654c0a9f94e9b10cc63a07e665ae547f4aadbcaa6332a9e3784c6f9d0f88e028f2629b5c31f28a5c5",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

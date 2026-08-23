@@ -1,0 +1,84 @@
+{
+  "id": "8f4a16985dca94050cc99855261469b0a87e8aa88df33ed384bd4ce5108a94e0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786295759,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1607765617dfeeed0406f20cebcca99a17af1a928fd002ed3c8a0abd9166cc52",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f8e6c64342f1e052480630e27e1016dce35fc3a614e60434fef4aa2503328ca9"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "and haven't we seen this before ?\n\nIs't this how Litecoin (LTC) started ?\n\nThen BCH, then BSV ?\n\n(not to mention the original Ethereum (now Ethereum \"Classic\")\n\nIt's hard to keep to track of it all.  \n\n",
+  "sig": "354ad11488f8f634627386429043f4d88da59667055cd72898ef16292b273e3997909c3c9f05753571a6497884b696b64b43fbeb60fe650fc17168f071f853ac",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4a715d6482ccb9cc8881b174326e9492a9017a63476c3e1f77fd262f4d862fa5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786303180,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "7c1875cc9996b4831308b19a682035e2127ddea1af27ec34f65dc173e80f276e",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Most likely yes \n\nWhich means I would need to set the relays for each service I want to connect to I Wassili g a hardcoded list ",
+  "sig": "7a2a8a2925772edbca4d3f1882305d6a91876759ce5061bd4cb17a179adb9b843fbeb16183b84a01a848669d485b9679d0ebdc1249a4f24aefac1da317c39f50",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

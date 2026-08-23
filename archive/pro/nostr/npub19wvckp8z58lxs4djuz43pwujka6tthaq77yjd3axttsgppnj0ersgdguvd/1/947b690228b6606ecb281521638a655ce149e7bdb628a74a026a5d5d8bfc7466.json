@@ -1,0 +1,80 @@
+{
+  "id": "947b690228b6606ecb281521638a655ce149e7bdb628a74a026a5d5d8bfc7466",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786580415,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f50548705dae93f3413ab0a33c14a2ab2767724c1ae45e6ee3772493719142b0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8712b369e906a3925f60000c0a9c12de53c229f6b60ee68692d4b73840625af9"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Nice!",
+  "sig": "e5b2bf0574e5aade7273ef1af1cfb6260d2b1229e315f978223c77994ffba2a3700c6d55b0f9caa753b473d8ecb9bb848f52007f9b782e6f316e84f214362dca",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "Yes it's in python Continuum Passport is open sourced -- here is the repo Readme -- it's in w different repos.  I will see if I can add the bunker service to it -- that would be much better overall\n\nanyway here's the current README.md:\n\nhttps://github.com/andrewgstanton/continuum-passport/blob/main/README.md\n\nI have it in two places --  on ngit and github\n\ngit clone nostr://andrewgstanton@primal.net/relay.ngit.dev/continuum-passport\n\n# Or clone from GitHub\ngit clone https://github.com/andrewgstanton/continuum-passport.git\n\nbut this is current v0.1.0 so it's pretty basic right now",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "c5831c5a9acbf6c8694796ae2d19ab1f68a4933a5c1d183c7751289b6650694d",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786304003,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "6b9080dd6069b6c204d0f7affe738ac8a6f72a2f68c1fa9e7ab52441e68f51b9",
+  "sig": "3667b3314bb1bcaa9b3a8991b6496bd4e94d5d08885dc1a0947adb6b28c25959a3687eec27dc78317df84204707331b2e2b0119cca2029fb0d0f407a0da8975e",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

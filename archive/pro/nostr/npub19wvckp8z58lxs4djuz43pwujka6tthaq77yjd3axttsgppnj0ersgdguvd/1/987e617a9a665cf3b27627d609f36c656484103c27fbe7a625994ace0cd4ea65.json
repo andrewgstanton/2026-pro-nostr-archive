@@ -1,0 +1,31 @@
+{
+  "id": "987e617a9a665cf3b27627d609f36c656484103c27fbe7a625994ace0cd4ea65",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787205949,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f4596703af019a39a11b845746cf9b38e10291e41c4eaa3c98b87f63cef1961d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I live this idea !",
+  "sig": "ed47de9ab9e4a784efcec17a0a3657cf7b716c7b3d420cd5d3d2b67e0e13df767b561b571a37108ae999f2c7203898b8e6949c8049eb573e1df02cd69a4ab7e2",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

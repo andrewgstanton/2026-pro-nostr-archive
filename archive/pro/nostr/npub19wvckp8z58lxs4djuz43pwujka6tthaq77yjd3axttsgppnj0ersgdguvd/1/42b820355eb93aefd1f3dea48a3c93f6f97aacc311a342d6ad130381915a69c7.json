@@ -1,0 +1,30 @@
+{
+  "id": "42b820355eb93aefd1f3dea48a3c93f6f97aacc311a342d6ad130381915a69c7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786310598,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "478ea7ad6f008789a8e73a0d1dbae858a22f80d34e5222dc06d86f1efb025a2c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "This is helpful fortunately I was not running Knots RDTS\n",
+  "sig": "6f974b7f22a2468b6cd7155b18573b65709bc60b431fbc76faac0a998ae53c187c5ed83c7df437a035990c255bfa7a843589a2eac8e34d507da54397451191dc",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

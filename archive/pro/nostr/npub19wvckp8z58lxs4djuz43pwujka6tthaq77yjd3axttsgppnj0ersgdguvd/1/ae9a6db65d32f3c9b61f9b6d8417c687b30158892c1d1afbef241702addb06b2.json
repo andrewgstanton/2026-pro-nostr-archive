@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786323651,
+  "tags": [
+    [
+      "e",
+      "9d10e634251d6be2c2e6a52121e123c46eb265c5707ef5c5bb18d999044516a2",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I think this past week has been one of the strangest I have seen in a long time.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "ae9a6db65d32f3c9b61f9b6d8417c687b30158892c1d1afbef241702addb06b2",
+  "sig": "577c93e51fefdd2cdb56af3e5f36e1eafb323043c118d032b6eed46362ceb87e033b4d60867688c2781a2f838b38aa29125b98736843c03f4a774d030f42dbd8",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

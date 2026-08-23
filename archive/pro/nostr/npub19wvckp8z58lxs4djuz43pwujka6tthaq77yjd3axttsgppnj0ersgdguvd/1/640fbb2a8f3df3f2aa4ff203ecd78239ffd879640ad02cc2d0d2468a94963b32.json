@@ -1,0 +1,32 @@
+{
+  "content": "Thursday, August 20, 2026\n\n**Bitcoin is Civilization Memory**\n\nImagine being able to run a program written in 1985 on an old Macintosh or Windows machine in the year 2250—or even 3026.\n\nIt isn't inconceivable. COBOL was created in 1959, and more than 60 years later COBOL programs are still running and widely used. With emulation, VMs and eventually AI agents managing old software environments, why couldn't other software remain alive and usable for hundreds or even thousands of years?\n\nWe already do something similar with physical things. *Pons Fabricius*, a Roman bridge built in 62 BC, is still in use today more than 2,000 years later. It survived because generation after generation maintained it. Parts can be repaired or replaced while the bridge remains alive and continues doing what it was built to do.\n\nWhy can't we think about software the same way?\n\nNow think about Bitcoin.\n\nBitcoin has been running continuously since 2009. We talk about the block subsidy ending around 2140, but why stop there?\n\nImagine running a Bitcoin node in 3140.\n\nThe computers will be completely different, but if Bitcoin is still alive, that node will still be validating a history that goes all the way back to 2009.\n\nNot just archived. Alive and still in use.\n\nThat's what fascinates me about Bitcoin as civilization memory.\n\n#Bitcoin #CivilizationMemory #SoftwarePreservation #DigitalPreservation #ComputingHistory #AI",
+  "created_at": 1787294360,
+  "id": "640fbb2a8f3df3f2aa4ff203ecd78239ffd879640ad02cc2d0d2468a94963b32",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6072bc57d5fb73c2065588b7385b00f8405f1c4c5c2c798e06a3954458d72c1bad7ab6781429d4344f24f12335ca61502511af45a9115687c165a7fdbb6bd602",
+  "tags": [
+    [
+      "d",
+      "note-1787292714"
+    ],
+    [
+      "published_at",
+      "1787294360"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "e",
+      "a15c4efeeb9fd8b5af7fbaef420a6a813f43a5a9410d64d1da4e4a178633f554",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

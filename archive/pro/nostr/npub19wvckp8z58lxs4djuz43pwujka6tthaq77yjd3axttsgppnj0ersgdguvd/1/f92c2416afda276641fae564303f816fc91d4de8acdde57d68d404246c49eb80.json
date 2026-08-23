@@ -1,0 +1,27 @@
+{
+  "content": "Bitcoin is back! \n\nDon't let anyone ever tell you that price doesn't matter.  It does!\n\nIt feels very good to see Bitcoin climbing back up to 74000 today.  \n\nAll the drama over the past few weeks (Coldcard, BIP 110, Boltz, BTCPay and so on) and all this happening with the price not moving much been feeling pretty glum.\n\nBut it feels very good to see it start going up like this again.\n\nI pray for all those affected by the coldcard heist and some of the other issues.\n\nI didn't lose BTC in that but I did go through some other things this week and I know sooner or later we will have to say goodbye to our dear friend Whiskers (now 16 years).  \n\nWe have had him since he was 6 weeks old.\n\nLife never sits still does it?",
+  "created_at": 1787290070,
+  "id": "f92c2416afda276641fae564303f816fc91d4de8acdde57d68d404246c49eb80",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9e81cb739c3c18d4a569a09da3c2988b3a3b5fea9789824a6c86168b653bae86ef5fc111ad77242dc5aec226c8bc78ab901d80ad3310562e161ba8607d57d19d",
+  "tags": [
+    [
+      "d",
+      "note-1787290070"
+    ],
+    [
+      "published_at",
+      "1787290070"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

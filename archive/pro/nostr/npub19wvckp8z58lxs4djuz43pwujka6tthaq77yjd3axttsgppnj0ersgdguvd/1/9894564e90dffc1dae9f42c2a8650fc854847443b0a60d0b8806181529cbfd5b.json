@@ -1,0 +1,31 @@
+{
+  "id": "9894564e90dffc1dae9f42c2a8650fc854847443b0a60d0b8806181529cbfd5b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787290198,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "50c2ba697281fbeb44824f6f44a73b3f576358a272f7fef21dc59711cbf3ae0b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Feels good to see it going up again doesn’t it?",
+  "sig": "5eeac5072eced7fa45a34f3eed5ba52e766efdc080fd823bf5918f6af2d63e56e595b4e29f5bde9ed4dcfc190e30f616d1b5aca54280a948b4575e08da14ca90",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

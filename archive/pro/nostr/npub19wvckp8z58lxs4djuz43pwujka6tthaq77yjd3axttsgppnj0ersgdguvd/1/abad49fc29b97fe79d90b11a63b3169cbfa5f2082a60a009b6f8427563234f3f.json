@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786504901,
+  "tags": [
+    [
+      "e",
+      "000000279b5abb5c2090f0c5ff0b598747571979e388be50fe2733302326fd59",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "460c25e682fda7832b52d1f22d3d22b3176d972f60dcdc3212ed8c92ef85065c"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Vitor you must like talking to yourself :)",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "abad49fc29b97fe79d90b11a63b3169cbfa5f2082a60a009b6f8427563234f3f",
+  "sig": "274687771a7cbf66262d73ec6de4f7dbcf2c0b3bfea4a34d08b9c89eee5b09f48b629d77a2aa0e806dc266140973a1facc4099ec84cf69b28045003712bf80be",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,80 @@
+{
+  "id": "bfc2ec8f637b4a3c46a41ecddd399310d47715de8d498159b28b3db102f62559",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786502663,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3f859c0e5b04b0ecbbfa2699209bb90628f714ab27863359633601ac57f96523",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Yeah, I kind of echo what others are saying here\n\nwhy Discord ? \nwhy a different algorithm and how can you be 100% sure it's truly random ?\n\nFare thee well.\n\n- Andy S.",
+  "sig": "8993dd3b5e03ca6b1e5fe5cb7a8cf2e1c02f6e7cb869b8c8112396f59f680a47b78177d190739fd6d5e5d0f6d24697d26d39aae39f8c79c5fcec05cb51f96d74",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

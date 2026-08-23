@@ -1,0 +1,37 @@
+{
+  "id": "8cb70d63cc2e572305c1dd5addd0193b98764878054357720fe8b2a9350a9a10",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787430149,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c363958be6736b21ed5f4a213eae1462030c7b7cb64855f73d829e4ba17e5cc0",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "27505421c268f363078bf5400d68273b9871e8e35263fdc4532600025eaf3f13",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "800e0fe3d8638ce3f75a56ed865df9d96fc9d9cd2f75550df0d7f5c1d8468b0b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Agreed \nnostr:nevent1qqsvxcu430n8x6epa4055gf74c2xyqcv0d7tvjz47u7c98jt59l9esqhlma4q",
+  "sig": "9ca4efba593ece5d6169ddefa6d739feaa3ebe94d6987f5fe7f85b3e4e546b58579fa88607eaabbe9eb10046ed98bbfd54a94d9eb26bedb4050fca2cad86966d",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

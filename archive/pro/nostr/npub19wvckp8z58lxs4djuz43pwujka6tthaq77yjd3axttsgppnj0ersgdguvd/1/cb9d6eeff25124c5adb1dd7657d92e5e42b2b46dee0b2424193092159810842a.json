@@ -1,0 +1,36 @@
+{
+  "id": "cb9d6eeff25124c5adb1dd7657d92e5e42b2b46dee0b2424193092159810842a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786305461,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "fa88847bf8858fba45b5c15b2393359899a05ac55528589e20fd9bdf91edd797",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I meant nip_44  but I obviously can support that  can use that \n",
+  "sig": "a8f6b5f40123d924c750acc703072f1366467425076810c67290b1892930b8d9d1f7a711a1d8c7abfb63c0108c880dc2bf117df4321295f5f7c8e66941174934",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

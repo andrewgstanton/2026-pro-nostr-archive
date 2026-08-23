@@ -1,0 +1,31 @@
+{
+  "id": "f7162a3660b687c646e74ceba75972876aac939c0ce6d1e5312b6b9c4af684e2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787204906,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4f2ac867fad0bc154cd44bbc9523caa6664ffbc0a4cad6838acfe35326eb623b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Fascinating I used to mine Monero too.  ",
+  "sig": "30b9edb26aa65ca230185e68acb7f430d4e46733753c14f9c583c27655761f4471f0ca008677495ac874200fcbc6d1b6369120d200c05e42d9c9ffed34ec5298",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

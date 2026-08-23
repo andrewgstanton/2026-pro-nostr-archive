@@ -1,0 +1,37 @@
+{
+  "id": "343780b692490acb9e85b7b85c30684039842cd4fde5901923f9d2636e0dceaa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786509751,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3f859c0e5b04b0ecbbfa2699209bb90628f714ab27863359633601ac57f96523",
+      "wss://nostr.mom/",
+      "root",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7"
+    ],
+    [
+      "e",
+      "bd30c9b7938766b438e7f7e55b326f6b468a47f561533ebaa6b787a9ad271ec0",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Makes sense I guess ",
+  "sig": "53282003e808199dbd164233a1f0e9dada8f0ceb0e9249a6b138bea3590a5c7b53102a9d85f0111c8355523d7afb3ad7539b7bfd21f769ee28d2a056c17089cf",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

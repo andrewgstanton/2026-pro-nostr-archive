@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1786298144,
+  "tags": [
+    [
+      "e",
+      "00001afd28af616086992f733b6a82fe3de2e1dd7e390ecf61aefed6946425ee",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Yes, very easy to get offended if we are not careful.\r\n\r\n“But I say to you who hear: Love your enemies, do good to those who hate you, bless those who curse you, and pray for those who spitefully use you. \r\nTo him who strikes you on the one cheek, offer the other also. And from him who takes away your cloak, do not withhold your tunic either. Give to everyone who asks of you. And from him who takes away your goods do not ask them back. And just as you want men to do to you, you also do to them likewise.\r\n\r\n“But if you love those who love you, what credit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what credit is that to you? For even sinners do the same. And if you lend to those from whom you hope to receive back, what credit is that to you? For even sinners lend to sinners to receive as much back. But love your enemies, do good, and lend, hoping for nothing in return; and your reward will be great, and you will be sons of the Most High. For He is kind to the unthankful and evil. Therefore be merciful, just as your Father also is merciful.\r\n\r\nLuke 6:27-36 - New King James Version.\r\n\r\nOnward my friend!",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "58f38ed59725a884249071cbc587195ca30b1d10454de502bb562894628094f9",
+  "sig": "82ee5ad1ef8539285698ceddd25d65872efb5d57d7f211982c817715b091ad8be6dbc14bd5988efdb29a2b4a4cbefc01baeba00d99232d298a8a09cef27ad86c",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

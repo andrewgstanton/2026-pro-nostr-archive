@@ -1,0 +1,36 @@
+{
+  "id": "dff15437219fbcf78fb91c4804fd1d14d01bc11b7ed0be938e9f812f1986ab88",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786514826,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "261c5297572d313b67d1abb55a5821bc697f183ee9cd192bd699fd54c806925f",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "d6e4b7a45c6c1f70e9050ad937266d70932045ff46724b24a16e8055d2623b48",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "46c1aa866e82e97375593e5c3c7cc8eab824db78cc21eebfc83afc7782477c93",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "The concept of an autonomous AI that lives in GitHub was very intriguing.  I am very interested in memory (not computer memory relational historical social and civilizations memory ). \n\nI think “Motoko” is an intriguing concept to store an AIs memory I. GitHub ",
+  "sig": "1d96f2ee83c1974430ecda726f2ebdcc30b9fd439374e6a88655999c2867657710399dd047acdf8078cd13677f959e897378368487341046e20b636b3f4ecf62",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

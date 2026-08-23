@@ -1,0 +1,30 @@
+{
+  "content": "Das  stummt !!",
+  "created_at": 1787430472,
+  "id": "e2769b8adf0d53646596faaf25f0f0665ebac5501423f663ae1496097209a2cc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0139eb679c33ee997241fd5a02a69696efa3af24e34a43690941c9efc9fc16211e18a1594c6b20c64b4ca16092725bf231138da4f297f3b36d2623b5dfac2244",
+  "tags": [
+    [
+      "e",
+      "5a94f2661634c6a2c18833433c72ec76f8a99c9184471df8c29d5b0e8c2e0cbe",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a6fdf45b4921d5bfe9d48d2a03d4e71b7340d8166a9da83dae2896239145f104",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

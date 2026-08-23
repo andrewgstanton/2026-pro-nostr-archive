@@ -1,0 +1,30 @@
+{
+  "content": "This is great news! \n\nAlways enjoy reading about your updates!",
+  "created_at": 1786508503,
+  "id": "6e4aa8a338f5e4d9334e449f9380241875f4accb806ee42a6b42c5f3e1eb5a91",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7ef0bcf0d35c0e7214a41a9ab0c2c54a343886111c49dc3fc6035ebb4f4ee6cf62209b0d5ad4eae83781d9143145c455a95c3e23a6f5da3e4206f2a655d122ad",
+  "tags": [
+    [
+      "e",
+      "d7ddca5d97c6d693fbf195d4f9e307759a5c3ad8909d43e4efafc5f02d85f6ac",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "63a86cbbe36f0db2d6f2537d8500d6a0b0ad1fb8f3eaa7bbdac3272e65477fcb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

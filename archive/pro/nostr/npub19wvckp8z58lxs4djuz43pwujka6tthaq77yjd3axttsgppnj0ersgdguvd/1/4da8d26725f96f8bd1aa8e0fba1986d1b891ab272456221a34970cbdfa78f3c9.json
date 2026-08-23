@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "well --it \"sort\" of worked on primal (but I didn't use a different bunker url -- so it might need a fresh one ... this is great progress though",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "027a0d414a5f175790edf6b4472d6bcd21b36be7fbfae092f43ab18b1fd8b862",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786302483,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "4da8d26725f96f8bd1aa8e0fba1986d1b891ab272456221a34970cbdfa78f3c9",
+  "sig": "c10d5eabc23fe8f10a07d35501b12fb4b148d6fa4cb778907f0a7ce5d837fb11944d15d212d5954e351b94152a13b0e8a853316d6a995fad74af1ea045905baf",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

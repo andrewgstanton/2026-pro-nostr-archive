@@ -1,0 +1,37 @@
+{
+  "id": "f7e3885d2c89bed9503c2cd575660dff23092a8f76d69bd6bcc3996ecc5db033",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787192705,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "44cc21956b1b2fea45e59ad175a34e33c3aaf4f245dcdac8ab294c956d8b0b0b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e1ca15f1149ef0cec45d565222c2111b85327ede53357a5c4e7c3e17105aa0fa",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Me too !!",
+  "sig": "6df60830bc2fb038bb6a9028790a46944c52b20ad7ead1a25d5ca648e0d8628b4ce963b90e4313da85fe49d08f6bf6ed9c381151b48df582283c8008cbc328da",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

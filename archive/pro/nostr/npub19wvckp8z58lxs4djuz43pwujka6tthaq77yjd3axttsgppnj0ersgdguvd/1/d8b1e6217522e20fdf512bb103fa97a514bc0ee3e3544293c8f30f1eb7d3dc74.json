@@ -1,0 +1,48 @@
+{
+  "id": "d8b1e6217522e20fdf512bb103fa97a514bc0ee3e3544293c8f30f1eb7d3dc74",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786511567,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5b21a9a8fa38dc326a1d33d568eb0064c2927f2d88cfcee2578641507122321e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "fdd5e8f6ae0db817be0b71da20498c1806968d8a6459559c249f322fa73464a7",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "c4368c512e70e36558fa167967cd73fc83a8a907ea38b3ed68358fcbdfab0da6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e88681cffbe2d06632531ad909ea61debaf3b0027cdf68dab64a95a831532c7f",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "74ffc51cc30150cf79b6cb316d3a15cf332ab29a38fec9eb484ab1551d6d1856",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "This was very well said.  Thanks for  sharing",
+  "sig": "2fcda0141ae1e06656cab3ca741050e992302b8df27eb5fff5abc448a0d46e83a06636c50b48c7f20b16460a31e1c7b8064a9eab514237df2b5587e108723122",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

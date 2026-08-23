@@ -1,0 +1,42 @@
+{
+  "id": "b4623333f43388d7789600198cafe2651342e2b39888a930008191fd7cff1be4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786510722,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0b5f38ada0426846cb5fb38276f5f3f7d4f09d32260d9868586d0b22618b2ac5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "7fa56f5d6962ab1e3cd424e758c3002b8665f7b0d8dcee9fe9e288d7751ac194",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3bf0c63fcb93463407af97a5e5ee64fa883d107ef9e558472c4eb9aaaefa459d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "dd664d5e4016433a8cd69f005ae1480804351789b59de5af06276de65633d319",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Well said !!\nnostr:nevent1qqsqkhec4ksyy6zxed0m8qnk7hel048sn5ezvrvcdpvx6zezvx9j43ghkhyuj",
+  "sig": "b4783b983be70fe62e72959da0ef7559014e53531fa2f5ed44c37650e90c4af4e9229a1877e224a3105dae89082d634870c6f21a767137469226f766b71724e2",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

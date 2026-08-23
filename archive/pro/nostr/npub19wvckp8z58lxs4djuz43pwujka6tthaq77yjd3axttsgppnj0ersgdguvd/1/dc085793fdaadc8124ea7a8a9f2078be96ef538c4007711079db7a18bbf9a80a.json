@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "OK I'm going to try w/ a fresh bbunker url in ingognito (primal).  \n\nwill be logging off here ... one sec let you know how it goes",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "027a0d414a5f175790edf6b4472d6bcd21b36be7fbfae092f43ab18b1fd8b862",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786302560,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "dc085793fdaadc8124ea7a8a9f2078be96ef538c4007711079db7a18bbf9a80a",
+  "sig": "07c1b5111a2fc17d6ce7938d65d24f32e8f8937b1698e6204cae491c09acc59d13784c9b3a08e4e95a8c06f2c07243167669333c304cb2c9ec03950ba38a8633",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

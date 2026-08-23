@@ -1,0 +1,31 @@
+{
+  "id": "7b94d7245edb381f975e426b078648f93b63b9b15357a36069abb823887877d0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787430369,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "91d9fad99157d248d8be6031f1e68c1144d00763ab4a6b64ab2b3db63a71ca90",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Spot on man!! \n\nAnd I think many here are also feeling the same even they can’t always articulate it.\n\n\nnostr:nevent1qqsfrk06mxg405jgmzlxqv03u6xpz3xsqa36kjntvj4jk0dk8fcu4yqsycqeg",
+  "sig": "28313c9175a73f480cec4e42d9a85f1e92aff8b79ed314e5a2c2a8152c4eb6142dc92e7913b2d2f5f78a3f36b6b843cbd9438cbf772ce89ba3183b3f51755215",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

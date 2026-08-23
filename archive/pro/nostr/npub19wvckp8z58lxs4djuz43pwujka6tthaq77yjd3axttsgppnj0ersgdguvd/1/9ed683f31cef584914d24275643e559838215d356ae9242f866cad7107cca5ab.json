@@ -1,0 +1,28 @@
+{
+  "kind": 1,
+  "created_at": 1787267788,
+  "tags": [
+    [
+      "e",
+      "a0356e73da7339dedb7ae1a7aabf605fbfb7c81a0f69fe0e343820337add9acf",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3bf0c63fcb93463407af97a5e5ee64fa883d107ef9e558472c4eb9aaaefa459d"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I have thought about this.  very interesting idea.  I was talking to a friend (who has built a pretty sophisticated code generation tool that generates WASM files (buckysoap).",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "9ed683f31cef584914d24275643e559838215d356ae9242f866cad7107cca5ab",
+  "sig": "f3983fc9e0c038324e3ef52c4a8f6c7e4439ca4051178b8bbcc453416085ad8409708962040152b5ed110c220de750d19ac41d14d5bed761d605788c3893d774",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

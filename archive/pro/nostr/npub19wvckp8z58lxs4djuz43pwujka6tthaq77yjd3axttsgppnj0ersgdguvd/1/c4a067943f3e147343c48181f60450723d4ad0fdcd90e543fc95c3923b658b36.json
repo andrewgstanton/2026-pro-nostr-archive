@@ -1,0 +1,30 @@
+{
+  "id": "c4a067943f3e147343c48181f60450723d4ad0fdcd90e543fc95c3923b658b36",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786495186,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f98828df6c0828228d4010b7fd732bea7941a5833dd0ca7a996d6815f15263c8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Oh no !",
+  "sig": "109e6f8484a0517e0dc5043fc93f895f5bb205b071fd157eb1a639bafa00de6f3ddd23f84cc07eb5c0cd0cea67e44d57ca422304491a35b33e3c58879fecda24",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

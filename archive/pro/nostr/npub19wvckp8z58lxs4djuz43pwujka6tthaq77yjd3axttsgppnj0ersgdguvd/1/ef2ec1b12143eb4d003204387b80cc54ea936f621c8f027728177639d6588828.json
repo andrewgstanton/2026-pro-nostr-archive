@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "Hey there -- looks like I was able to login with my bunker service URL !!! \n\n(basically had to use the same encryption (NIP-04 or NIP-44) through all requests ... nice!!\n\nNext I am going to verify I can do this while the remote \"browser signer\" is disabled -- that should stil allow me to use the bunker service to login",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ffd82dab91bfe7e088fc249ea1fb0800b711352f51df36e0115f0bd1a136b8c2",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786301992,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "ef2ec1b12143eb4d003204387b80cc54ea936f621c8f027728177639d6588828",
+  "sig": "0536832c1065b0ed687843b9143d54f9b7773f6970a2231ca9d357e00ea119a8815dff22e4cd8a48b805a8de663f7b0890db260a221f3d87ac9b1f7ceb1337e5",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

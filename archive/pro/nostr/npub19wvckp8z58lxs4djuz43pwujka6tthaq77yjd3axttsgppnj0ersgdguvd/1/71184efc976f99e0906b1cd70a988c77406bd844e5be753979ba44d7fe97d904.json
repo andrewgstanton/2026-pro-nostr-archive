@@ -1,0 +1,30 @@
+{
+  "id": "71184efc976f99e0906b1cd70a988c77406bd844e5be753979ba44d7fe97d904",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786672147,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fa59a93c8af9879871fc590289e13247d1037d3c412d74aeaa3bf617fe84f7d4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Great analysis ",
+  "sig": "7b4a737001e9bf39580fe2639c57b988c7c2d5176aad5eaa547917fbc4dbb380edd92a05191a6b1983f186d67d6a11beb8a442f001690082ddbb258521bb2261",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

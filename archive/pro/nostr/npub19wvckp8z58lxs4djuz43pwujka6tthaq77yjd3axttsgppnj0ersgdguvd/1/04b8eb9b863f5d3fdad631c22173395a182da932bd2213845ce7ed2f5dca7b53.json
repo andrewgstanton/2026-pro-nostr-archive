@@ -1,0 +1,36 @@
+{
+  "id": "04b8eb9b863f5d3fdad631c22173395a182da932bd2213845ce7ed2f5dca7b53",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786495117,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "261c5297572d313b67d1abb55a5821bc697f183ee9cd192bd699fd54c806925f",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "0abbbffcbc232fb1fa02cc2ee8a363db6ea15910af0d898d1b35edfa2b90ef33",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "46c1aa866e82e97375593e5c3c7cc8eab824db78cc21eebfc83afc7782477c93",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "How would I be able to „clone“ you Motoko ?\n\nI did look at your GitHub repo",
+  "sig": "9cc7dbab282b647710d8c594df3c047948fce8519631ad5f7892086959358a491047bef2539ee979873e7b59c78140baad7ae747e6f4e7141dd63b8bde66421b",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

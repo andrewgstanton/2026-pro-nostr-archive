@@ -1,0 +1,37 @@
+{
+  "id": "82c0f219288157ce2654ae082a6faa92e2fe1c7602649ea276398815ae0bd6ee",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787192581,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00003f0096c8ad698988b8f763188cb97598404f3bf85563e939089d9c34deb0",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3466596034acc2e57f50c332e6b095f4aec945fe7eb9e3c67c55ecbe6ba74628",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Amen. \nnostr:nevent1qqsqqqplqztv3ttf3xyt3amrrzxtjavcgp8nh7z4v05njzyans6davq49n0gz",
+  "sig": "3459232cd32347d25810a7bcf94986c17f3706195bf846b978cc25d38d1fb87ada5d0a3dab6c268c36cea3d2454fcb1513b51bd5b2f5cfe9ab3601b5fff42262",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "content": "I'm back!\n\nLast week Thursday (8/13), my main MacBook Pro (Intel) (which I have been using continuously since 2016) decided to call it quits.  \n\nTurns out the SSD (internal) disk started failing, and sure enough First Aid couldn't fix it, so I've been dealing with that. \n\nI had another MacBook Pro I have been using since last Friday,  but it's running an older OS.\n\nThen on Friday (8/14) our dryer stopped working and I had to order a replacement for it.\n\nThe dryer is stacked on top of our washer (both LG models)\n\nThe new dryer was installed this afternoon.  It works great and is very quiet.\n\nThen this past Tuesday night (8/18) our dog Whiskers (who is now 16 years) had some \"mistakes\" that evening. He also had not been eating much that day and refused his medications (my wife figured out how to give it him with some cheese of course.\n\nToday (8/20) he regained his appetite and looks to be doing much better.\n\nLife happens\n\nI feel like this past week I've been living in a time warp.",
+  "created_at": 1787289452,
+  "id": "638a10a5650729a2d37f5423d932b4cfe9a0738b097fe0df5a8f147c42991ffd",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2f7e1cdd55f2cd91a79b98599d7777e81d4ea97c7f12e89bab6ead4acf3a0325ae599a5f0859c4b216f3a957e4ac78e54516a1c7189647c1728b66265c9b4baa",
+  "tags": [
+    [
+      "d",
+      "note-1787289452"
+    ],
+    [
+      "published_at",
+      "1787289452"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

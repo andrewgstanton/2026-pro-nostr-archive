@@ -1,0 +1,47 @@
+{
+  "content": "Thursday, August 20, 2026\n\n**Bitcoin is Civilization Memory**\n\nImagine being able to run a program written in 1985 on an old Macintosh or Windows machine in the year 2250—or even 3026.\n\nIt isn't inconceivable. COBOL was created in 1959, and more than 60 years later COBOL programs are still running and widely used. With emulation, VMs and eventually AI agents managing old software environments, why couldn't other software remain alive and usable for hundreds or even thousands of years?\n\nNow think about Bitcoin.\n\nBitcoin has been running continuously since 2009. We talk about the block subsidy ending around 2140, but why stop there?\n\nImagine running a Bitcoin node in 3140.\n\nThe computers will be completely different, but if Bitcoin is still alive, that node will still be validating a history that goes all the way back to 2009.\n\nNot just archived. Alive and still in use.\n\nThat's what fascinates me about Bitcoin as civilization memory.\n\n#Bitcoin #CivilizationMemory #DigitalPreservation #SoftwarePreservation #ComputingHistory #AI",
+  "created_at": 1787292714,
+  "id": "a15c4efeeb9fd8b5af7fbaef420a6a813f43a5a9410d64d1da4e4a178633f554",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "15b081eea463a4d00e8b558728d5ffdc28586f29cfe2e95a434408074c26185ca220cd70fdb645ee3124d1d3212f3b61b5a9ca2e628c603cb2b344e3509a7c1d",
+  "tags": [
+    [
+      "d",
+      "note-1787292714"
+    ],
+    [
+      "published_at",
+      "1787292714"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "civilizationmemory"
+    ],
+    [
+      "t",
+      "digitalpreservation"
+    ],
+    [
+      "t",
+      "softwarepreservation"
+    ],
+    [
+      "t",
+      "computinghistory"
+    ],
+    [
+      "t",
+      "ai"
+    ]
+  ],
+  "published": 1
+}

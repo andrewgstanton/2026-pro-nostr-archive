@@ -1,0 +1,45 @@
+{
+  "kind": 1,
+  "content": "back in -- anyway w/ primal it did in fact \"log\" me in and I could see the sign in attempts but then I get this \"connection lost\" message ..\n\n\nhttps://media.poster.place/aec54d7931598dbc28c2a1e85ab50533461f622507bc3cc4c35ebe2d714ee31e.png",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "027a0d414a5f175790edf6b4472d6bcd21b36be7fbfae092f43ab18b1fd8b862",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "imeta",
+      "url https://media.poster.place/aec54d7931598dbc28c2a1e85ab50533461f622507bc3cc4c35ebe2d714ee31e.png",
+      "m image/png",
+      "dim 1460x753",
+      "x aec54d7931598dbc28c2a1e85ab50533461f622507bc3cc4c35ebe2d714ee31e"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786302876,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "a7e3948b593aee01183de8a91a691de24eb7af5cfcd0122fb1acf71af9477cb8",
+  "sig": "212b5597ab1f7c58440dadc60bb6db887d24f605c467b4b634846ecead3062da97fc42626f7baa081427a47ebb123a113149725e1c2adf97794789c49b397068",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

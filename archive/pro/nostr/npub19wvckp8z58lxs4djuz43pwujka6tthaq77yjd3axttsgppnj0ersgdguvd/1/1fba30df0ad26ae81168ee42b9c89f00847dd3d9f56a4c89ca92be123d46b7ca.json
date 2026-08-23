@@ -1,0 +1,31 @@
+{
+  "id": "1fba30df0ad26ae81168ee42b9c89f00847dd3d9f56a4c89ca92be123d46b7ca",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787102919,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c47732955d8ce7517f96a9a993925e6af462c6541b35b2c1b916d11ca4741f0d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Me too!  But how do you get Bitcoiners (who aren’t Christians)  to become Christians and Christians (who aren’t Bitcoiners) to become Bitcoiners.  \n\nEvery  Christian I personally know is NOT a Bitcoiner.\n\nNearly all the Bitcoiners I know I met through Nostr or at meetups here\n\nThere is a strange antagonism towards Bitcoin (or at least an indifference) among my Christian friends and brothers.\n\nWould like your take on this \n\n",
+  "sig": "8f33f42fb853f7b61a026cbffc852bd6ce53f3d3b3626865274a9dcee1b8d29f13dc11a55812ad3b7b31482af4a41e76e991d3ba9f96adaec6a5344ab7d6d4bd",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

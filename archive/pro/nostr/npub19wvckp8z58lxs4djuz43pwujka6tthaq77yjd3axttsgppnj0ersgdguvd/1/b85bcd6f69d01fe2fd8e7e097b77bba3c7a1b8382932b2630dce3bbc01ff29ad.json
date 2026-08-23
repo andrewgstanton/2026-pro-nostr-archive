@@ -1,0 +1,80 @@
+{
+  "id": "b85bcd6f69d01fe2fd8e7e097b77bba3c7a1b8382932b2630dce3bbc01ff29ad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786504799,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0000046c67d351a94ebd763ced73f22335b65f8cb53d21162daa1dcd5bb3813f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "97c70a44366a6535c145b333f973ea86dfdc2d7a99da618c40c64705ad98e322"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "Indeed !  \n\n",
+  "sig": "644489cc46b374343047095f4bec5225b74d49a301fca642d8962d1865d1840e4491874a0333b3a42ed9ff80fce79258e127355a4484788d5c6fd1672272e1e5",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

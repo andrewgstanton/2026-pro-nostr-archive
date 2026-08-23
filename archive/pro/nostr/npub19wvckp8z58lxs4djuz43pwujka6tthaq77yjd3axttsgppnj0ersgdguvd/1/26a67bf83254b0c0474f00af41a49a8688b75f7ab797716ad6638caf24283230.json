@@ -1,0 +1,36 @@
+{
+  "id": "26a67bf83254b0c0474f00af41a49a8688b75f7ab797716ad6638caf24283230",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786418229,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "815541dcc4abd2cd154bb1e0970a12c418460eb8355a9a5147c827198635436c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "88ee475f0d73309473c0b2f7eb0a30302d6d4990547d906a6f60f621fe0c9e35",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "32e1827635450ebb3c5a7d12c1f8e7b2b514439ac10a67eef3d9fd9c5c68e245",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yeah no problems for move either ",
+  "sig": "f6088dc6289465657fd0902579460d1a01109767d497159e9b80e925efeb79de4dccddedd74312010c03b72b78b2dd4b47492e2d3a823715b0852f8f2b27fde2",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

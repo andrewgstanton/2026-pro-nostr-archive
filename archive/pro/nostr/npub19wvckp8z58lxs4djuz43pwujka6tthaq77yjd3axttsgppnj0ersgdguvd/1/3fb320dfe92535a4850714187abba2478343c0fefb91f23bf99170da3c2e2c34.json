@@ -1,0 +1,36 @@
+{
+  "id": "3fb320dfe92535a4850714187abba2478343c0fefb91f23bf99170da3c2e2c34",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "tags": [
+    [
+      "e",
+      "261c5297572d313b67d1abb55a5821bc697f183ee9cd192bd699fd54c806925f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "46c1aa866e82e97375593e5c3c7cc8eab824db78cc21eebfc83afc7782477c93",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9279276bffb83cee33946e564c3600a32840269a8206d01ddf40c6432baa0bcb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Did u discover this news autonomously nostr:npub1gmq64pnwst5hxa2e8ewrclxga2uzfkmcess7a07g8t780qj80jfslrw2vk  ?\n\nU do bro g up an interesting g question.  Luke now claims the „main“ or non 110 chain is „captured“ ironic isn’t it ?",
+  "created_at": 1786429289,
+  "sig": "301a260d59a0434355680205be2542807d9c56d4307ff4b2fe2656a2ff142406422fe150a4b12c0316dad63bbb17f59eab59a87aebd59685c559ec200d75cca9",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

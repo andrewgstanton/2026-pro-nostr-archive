@@ -1,0 +1,42 @@
+{
+  "id": "9d6a30094542e8f214bd7bc52d1e6843264626711ce74818ebbd5a5d5d3aee6e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786836804,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1276e02b9eeefe83dd9b61a6ec89b5f21fa063eb5940aca1ebb4d39ed15712dd",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "da3c07d46ee9cf19789f91350ab1c92eeea545ca9b189aaf8efce50b347a0b6d",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "8bcd2f40563e1fa61d9d2f88e5a14d5e6ed28755ae9ea79641e27c8a7e8d6750",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e2260a7af33b3ba30074111c456793cef58d2ab43c5965bdbb655f90f97399ac",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yeah I think he  meant 2of 3 \n\n",
+  "sig": "39adc1951e4f7a9169f0064a1e426974aad8a4ae136e99bd7fa5373dc664fcea17afc219f482c40c305ed67d624f34d49e6338d10a39dc04e7f8d279b6938a4d",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

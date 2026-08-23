@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "Ok thanks -- I see you are chatting w/ your agent/LLM (I am too)\n\nI was thinking about setting up codex later (comes w/ my subscription of ChatGPT).",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "367ff7b0457f9911239457f97144ed74fcc28de6177cdc59562217b944e057f0",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786306282,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "0b4d7bef8cd9dfa8d96f40bfbf6d9594a12469251c4d7faedadea5a632024f51",
+  "sig": "902eb43109a95ef95b1ae6b300e77cb7acdfe2163b584d91a3fd6b00aa5a396df70894af33e4b6088bbbafe9a427dae420e233dfb0a7ccb308363be5d10b3bef",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

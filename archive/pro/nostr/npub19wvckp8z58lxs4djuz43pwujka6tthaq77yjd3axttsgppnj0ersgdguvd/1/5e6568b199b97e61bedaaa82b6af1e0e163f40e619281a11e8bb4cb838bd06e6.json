@@ -1,0 +1,30 @@
+{
+  "id": "5e6568b199b97e61bedaaa82b6af1e0e163f40e619281a11e8bb4cb838bd06e6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1786499416,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "77049f4f41801a6c4355d7d1977a5f261dcd697474f1e24e0ebb8e39f0e8160e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "32637475ec0256fbd754571aeaa52c5454c9bd79fb7ac5b99f53b86cfcb9527a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Are u saying it’s better to work with bitcoin or ethereum ?\n\n",
+  "sig": "928e6d4dc819dbef288dd2f2dcaedc7c65dc94904c517ba839a32f1ae09d7fd6489083a80a71c9037ed78ec3105b31cd284b69c2b4e128d1f2f384a02ceed812",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "kind": 1,
+  "content": "ugh sorry to h ear that !!\n\nthis is really valuable actually.  I'm going to see if I can roll this into the continuum passport code, it does require me to add back the relay service and a few other parts but yeah this is really great...\n\nNow -- let's see if this will work on Primal !!",
+  "tags": [
+    [
+      "e",
+      "2a09da07f82f0da809db287019a4de0e7832364b507797b2e45ff62cfe6f6325",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "027a0d414a5f175790edf6b4472d6bcd21b36be7fbfae092f43ab18b1fd8b862",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "4b56bbf41c92e586e88927acb78836eb49f2b184081ef852625cf78be7d56bd6"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "PosterChan AI"
+    ]
+  ],
+  "created_at": 1786302263,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "788c5fceb5c33a3983a7a720a956c97ac0e49813622ada986498a67b047d4aff",
+  "sig": "ac1f2068843e049be64d793a636cb55aaff8e375b8237658b1507fe03a9b162e65ffa638ed858ed802d923c9a5d15015253a5e75a1df47e4aa2fdb6ce177c84b",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
