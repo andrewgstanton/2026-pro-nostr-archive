@@ -1,0 +1,35 @@
+{
+  "content": "Whiskers was throwing up last night\nfinger slowly healing, but still using band aid and gauze\n\ndecent trading day today\n\nI was notified (Monday) my Lacie (HD) was available for pickup.\n\nGot a letter from Kaiser saying my insurance was cancelled.\n\nugh and I have another large credit card bill coming up (tomoreow)",
+  "created_at": 1788034265,
+  "id": "a05135927c12c0404c31cbeb9534c523991f9ceedcb0ad239e8b2c793862496e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "80a049319b29f5fc44c4633206c04b99ff412fcde1960c82bfe76f96d85cd0740055b5d8269bd52c370c90485f700a8715be3597d7fde7138d07be9b6f9246a2",
+  "tags": [
+    [
+      "d",
+      "wednesday-august-26-2026"
+    ],
+    [
+      "title",
+      "Wednesday, August 26, 2026"
+    ],
+    [
+      "summary",
+      ""
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-26"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/4-wednesday.jpg"
+    ]
+  ],
+  "published": 0
+}

@@ -1,0 +1,40 @@
+{
+  "kind": 30023,
+  "created_at": 1787629902,
+  "tags": [
+    [
+      "d",
+      "builders-journal---monday-august-24-2026"
+    ],
+    [
+      "title",
+      "Builder's Journal - Monday, August 24, 2026"
+    ],
+    [
+      "published_at",
+      "1787629902"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "display_date",
+      "2026-08-24"
+    ],
+    [
+      "image",
+      "https://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2-monday.jpg"
+    ],
+    [
+      "e",
+      "070744c580687ab3eacae59c8f07131889d2d920dc8aff5b3f108a7d92f049c7",
+      "edit"
+    ]
+  ],
+  "content": "high speed cable (ordered last night on Amazon.com) -- for the new SSD drive (USB-C male to USB-A male delivered this afternoon\n\nbooting the Catalina Mac from the SSD is noticeaby faster, but docker still doesn't seem to start properly\n\nBooting the Revere Mac from the SSD takes a while to boot up but once running it's very snappy the machine feels like the same responsiveness as before BUT \n\nI cannot detect the USB stick or the DataBackup2 disks when plugged in -- I suspect it has something to do with the failed (internal SSD) drive for the Revere Mac.\n\nThe other myyster is why Monterey runs faster, docker runs almost instantly most of the other applications run faster on this computer even though the CPU has a slower clock speed (2.2 vs 2.67 on the Catalina Mac.\n\nWeird but huge relief I think this gets me unstuck and I can continue working on Continuum, Continuum Passport and (what I was doing) Thursday 8/13 before all this crapped out.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "f7dbb7058433bb9163d7919f6ecf1e4619bb3d25a8ff65275b80c355e39f9119",
+  "sig": "9b15c65c5fa428d97d3c464dcb64ddd154fa999594e90a5916568383cb6456a16d509902ac95d8b3d10a41007bbe4cb41952e6514a0f30f4e38a035b66b943ad",
+  "published": 0
+}
