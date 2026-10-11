@@ -1,0 +1,30 @@
+{
+  "content": "I have been building decentralized apps since May 2025 ( though I have been writing g software for about 35 years before that) and was exposed to decentralized protocols earlier \n\nMay was when I discovered Nostr \nAnd that kind of transformed how I thought about digital ownership\n\n I lost many who were close my dad and a close friend in Sept 2025 my cousin in March of this year and finally our beloved dog of 16 years exactly one week ago\n\nThe memorial and milestone idea is part of a larger work that continuum is based on sovereign self hosted identity and data \n\nBut it’s been very hard almost no recognition or support and working through a very difficult series of losses over the past year\n\nI never stop building though",
+  "created_at": 1789248612,
+  "id": "7f8f145af1ff88e8ee3db623ce8801c2e773a51461ab2a451e80014752468735",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "146d48c7aed28f740ef2c34cbb6e32f598e38ccd4806b093aefa65c4f5b51a9b0655a88581a1cbf73f733fe6f43bef808e8b44762a96e14275bbdc1e37e0750e",
+  "tags": [
+    [
+      "e",
+      "c9eb7344b1ebf51032792fb6e3bffb5db2358825720d5b47fcd3393b640b005c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

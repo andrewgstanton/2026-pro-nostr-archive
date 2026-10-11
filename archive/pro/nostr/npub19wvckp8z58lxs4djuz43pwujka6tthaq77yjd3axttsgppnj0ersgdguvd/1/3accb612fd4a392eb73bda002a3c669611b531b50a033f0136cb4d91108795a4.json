@@ -1,0 +1,31 @@
+{
+  "id": "3accb612fd4a392eb73bda002a3c669611b531b50a033f0136cb4d91108795a4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791165302,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6f101928a7e262dfeaf233a1e8ea24fac5ffa4f2d7449e9dcbb9b0e619a1ec00",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "841b017d49f8211881a23acbd002bfb07c0d9c0d720c4a99c42669458bf0ee39",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "So true right on!",
+  "sig": "8ded4129344507cb18fece21f83b265f19c727b93facb7061d5aab5bc9e22b0fb29a59c4830c98265977e51d6a4e7a350bba8cd7a0f669e7adbeedc14a6e80ee",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

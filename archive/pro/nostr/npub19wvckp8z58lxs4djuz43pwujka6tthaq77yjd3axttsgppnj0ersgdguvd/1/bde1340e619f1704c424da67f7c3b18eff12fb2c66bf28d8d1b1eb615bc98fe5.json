@@ -1,0 +1,37 @@
+{
+  "content": "Thank you sir !!\n\nMy wife has a growi growing youtube channel called „Kiki‘s Kitchen Table“\n\nI think creating a cookbook\nOr selling sone of her sauces would be really good way to make money (with sats)\n\nhttps://youtube.com/@kikiskitchentable?si=N9zhuNIhoSNOphSS\n\n",
+  "created_at": 1789257452,
+  "id": "bde1340e619f1704c424da67f7c3b18eff12fb2c66bf28d8d1b1eb615bc98fe5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2d10a0f8ea5fb93b9b56e7f94f7b7be18fc4f2e09e30754cc3a88913ab5891c13ad9e0eb404d3ac07137323aaab66a3b58ec80689b1d95c8627a2fc08fa35e48",
+  "tags": [
+    [
+      "e",
+      "00001974270b109c0351b04b3ae58eefd9905719b3785c06bac5a1291aaa22af",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "234af2c2adf1ac6b6b040babeae9fd9b7da091281f1f9fc3813fc7b0219e32e5",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

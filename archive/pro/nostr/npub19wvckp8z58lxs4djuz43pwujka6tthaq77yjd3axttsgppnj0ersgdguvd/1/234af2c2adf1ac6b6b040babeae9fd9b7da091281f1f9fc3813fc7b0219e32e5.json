@@ -1,0 +1,31 @@
+{
+  "content": "Be kind and thoughtful to others (not saying you aren’t)\n\nMy dad used to say „be kind to those on your up because you’ll meet them on the way down“\n\nAnd my dad (and mom were very kind)\n\nMy dad passed away last Sept\n\nThat was very hard ",
+  "created_at": 1789251068,
+  "id": "234af2c2adf1ac6b6b040babeae9fd9b7da091281f1f9fc3813fc7b0219e32e5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d2cf97756d0260d10d53bfcfc3e26e0a83017ed01cb7df583edafebc4b57a7bd599ea7677b3f88ed25d4295abcf78f1c33558827a0a62fdaa79a17305a528077",
+  "tags": [
+    [
+      "e",
+      "00001974270b109c0351b04b3ae58eefd9905719b3785c06bac5a1291aaa22af",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

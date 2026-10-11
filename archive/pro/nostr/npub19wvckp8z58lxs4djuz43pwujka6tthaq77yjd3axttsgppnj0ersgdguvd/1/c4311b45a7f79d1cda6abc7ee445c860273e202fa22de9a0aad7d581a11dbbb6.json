@@ -1,0 +1,37 @@
+{
+  "id": "c4311b45a7f79d1cda6abc7ee445c860273e202fa22de9a0aad7d581a11dbbb6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791166601,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "932f6ca9c79fce3e39b3407dda05729b1dbe0306701368bcb1615ed7b7d57894",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "225bd271a20883521452a1d9564a99981da3fa5dc9498f21709387726825fcc8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b62b357c1b939ae051a361d5befd409ddda06264a7588f1a986c24b1d13cc53f",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes I kind of feel the same I don’t trade bitcoin but I do trade equities so I am very familiar with charts ",
+  "sig": "40b3d856032f67c41eef86d14ffc9b9c8109e246fcaca73c73825a32d0059935de2029acf5a5a63667efcef0a55759c9c8deb0f5d43a754e97fff4ec70d71a2b",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

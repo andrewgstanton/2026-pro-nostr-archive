@@ -1,0 +1,46 @@
+{
+  "content": "CONTINUUM MEMORIALS AND MILESTONES\nPermanent memorial and milestone inscriptions on Bitcoin\n\nSome moments deserve more than a place in a passing social-media feed.\n\nAfter the recent loss of Whiskers, our beloved dog of more than 16 years, I created my first permanent Bitcoin memorial inscription for him. I then created inscriptions honoring Champ, my father, James A. Stanton, and my mother, Daphne C. Chun.\n\nThese inscriptions don’t replace an obituary, memorial page, photographs, or the stories we share. They do something different: each short message becomes part of Bitcoin’s public record. The inscription can be independently viewed and verified, and it does not depend upon my maintaining a website or social-media account.\n\nThis can commemorate more than a life that has ended. It could mark a birth, wedding, anniversary, graduation, the opening of a new business, or any milestone you believe deserves a permanent inscription.\n\nFor $21, you choose a short message—generally up to 80 characters—and I will permanently record it in a Bitcoin transaction. You’ll receive a simple link where the inscription can be viewed directly, along with the ability to verify the underlying transaction on Bitcoin.\n\nIf there is a person, pet, occasion, or milestone you would like to commemorate, please message me.\n\nHere are some inscriptions I have created:\n\nWHISKERS\n\nMay 4, 2010 - Sept. 5, 2026\nFOREVER LOVED\n\nView the permanent inscription:\nhttps://mycontinuum.xyz/memorials/?txid=c02600edf54198fbac11f24e08983d9e1c62080457e7eef90c68e9d53dee2b98\n\nCHAMP\n\nMay 4, 2010 - June 2011\nA SHORT LIFE, FOREVER LOVED\n\nView the permanent inscription:\nhttps://mycontinuum.xyz/memorials/?txid=bcbab7a0c18667bcca3b764cd8e7886ca691631e10e094de33249d1167e6cebb\n\nJAMES ANDREW STANTON\n\nMARCH 18, 1937 - SEPT. 29, 2025\nBELOVED HUSBAND AND FATHER\n\nView the permanent inscription:\nhttps://mycontinuum.xyz/memorials/?txid=5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571\n\nDAPHNE C. CHUN\n\nAUGUST 7, 1941 - JULY 4, 2011\nBELOVED WIFE AND MOTHER\n\nView the permanent inscription:\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\n#ContinuumMemorials #Bitcoin #DigitalLegacy #PetMemorial #LifeMilestones",
+  "created_at": 1789331043,
+  "id": "96591bdabeae39e3c79db04d20debf7eb8fc8e56f2b8747a3d224b5f7cd8f57c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c44d87fecacb066ccfd02c12170034ee31545f233d10b852f656bc18faf200a947556aef3beb392a1899e673a6052e7efc9ccb2df5d53e343f1b3307c148d71a",
+  "tags": [
+    [
+      "d",
+      "note-1789331043"
+    ],
+    [
+      "published_at",
+      "1789331043"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "continuummemorials"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digitallegacy"
+    ],
+    [
+      "t",
+      "petmemorial"
+    ],
+    [
+      "t",
+      "lifemilestones"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

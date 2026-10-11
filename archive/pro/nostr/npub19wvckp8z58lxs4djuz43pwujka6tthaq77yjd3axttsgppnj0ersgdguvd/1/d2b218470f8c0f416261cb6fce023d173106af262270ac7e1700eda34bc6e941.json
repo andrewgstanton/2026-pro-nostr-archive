@@ -1,0 +1,37 @@
+{
+  "id": "d2b218470f8c0f416261cb6fce023d173106af262270ac7e1700eda34bc6e941",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789943846,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1b076f246f7565611a8277d9a88914cf51ddc5e2734cd7601c50e5642eb37c62",
+      "wss://nostr.mom/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "d7e57f52b26ef053fcf933b11aee41e429d002b9f5bc286eef7a330241840425",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "c7fe92f80c516c0c54b15e8d256ac07281036d934ea1ff39fb0cd8a0fd677736",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Thanks for asking. \n\nBasically I create a small permanent inscription on the Bitcoin blockchain using OP_RETURN to commemorate a person, pet, or important milestone.\n\nFor example, when my dog Whiskers passed away on Sept 5 earlier this month, I inscribed:\n\nWHISKERS\nMay 4, 2010 – Sept. 5, 2026\nFOREVER LOVED\n\nThe inscription becomes part of Bitcoin’s permanent public record and can be independently verified. I also provide a simple viewer URL that renders it in a more human-readable form.\n\nMemorials are just one use case. It can also be a birth, wedding, anniversary, graduation, business founding or another milestone someone considers worth remembering.\n\nI’m charging $21 (16.59 if paid directly in sats - a 21 % discount) per inscription and I’m still looking for honest feedback on whether people see value in the idea or if someone here who would  like to try this for a memorial or a milestone.\n\nMy sister did this for my mom (Daphne Chun) and actually became my first customer.  Looking for customer #2",
+  "sig": "407b6bf52012c5314312b72a29472b4c90a72458d231232203e120e8848df13d5d23c8014bc9e41d366c7b38b5b6eb2757f1f747abeb7a0da1bca397c4c47926",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

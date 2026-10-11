@@ -1,0 +1,18 @@
+{
+  "id": "1b076f246f7565611a8277d9a88914cf51ddc5e2734cd7601c50e5642eb37c62",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789942957,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "When I first joined Nostr, I was pretty eager to gain followers and build an audience.\n\nThrough much of late 2025 I published a lot of articles about the work I was doing on Continuum. In March 2026 I published my first book, Building Continuum, and sometimes shared chapters from it here.\n\nAnd honestly, a lot of the time I hoped for more engagement than I got. When something I had spent hours or days working on received almost no response, I sometimes found that pretty discouraging.\n\nBut I’ve gradually come to a different conclusion:\n\nIt really doesn’t matter that much.\n\nLarge accounts become large for all sorts of reasons. Some people put a tremendous amount of effort into building an audience. Others arrived on Nostr already well known because of what they had done in Bitcoin or elsewhere. Michael Saylor, Jimmy Song and Saifedean Ammous didn’t become well known because they figured out how to get followers on Nostr.\n\nI’m not trying to compete with any of that.\n\nWhat matters to me is whether I’m doing worthwhile work and saying things I actually believe.\n\nSo I’m going to write about Continuum. Bitcoin. Christianity. Things I’m building. Things I’m thinking about. Occasionally politics. Sometimes Whiskers. Sometimes just a short thought that occurs to me that I think is worth sharing.\n\nSome posts may get attention. Most probably won’t.\n\nThat’s okay.\n\nI’d rather have a few hundred people following me because they actually want to hear what I have to say than spend my time trying to manufacture an audience.\n\nOne important exception: I still genuinely want honest feedback on Continuum Memorials & Milestones.\n\nThat’s something I’m trying to determine whether people actually value enough to use and pay for. So if you think it’s a great idea, tell me why. If you think it’s a terrible idea, tell me why. If you like the idea but wouldn’t spend $21 on an inscription, that is especially useful for me to know.\n\nI already got one honest negative response today. I didn’t agree with the objection, but I appreciated getting it.\n\nThat’s different from chasing likes or followers. Feedback can help me build something better.\n\nOtherwise, I’m going to keep building, keep writing, talk with people who want to talk, and worry a lot less about the scoreboard.",
+  "sig": "4e860bd4a113397b014fb10d70803bb10f7383e035f7bf300725b91a182bb6c4d1b73a19f76378eb0bfa38e754f4f9a4741b09bff4f6cdfb4cfc87c8c43cfaf6",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

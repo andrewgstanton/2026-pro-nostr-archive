@@ -1,0 +1,30 @@
+{
+  "id": "c9ea743e4e63f71435a3b7e234280114db8aae993c269af621310ca4a419fbe5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789338697,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cbdd5ecf2539f784cd4a7868341f1aaa16cae77fa5eb5f4df510f79f9c3bb1b0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "English:\nFair point — 300 sats was just an example based on some of the transactions I’ve already made. Even at 800–1,200 sats, though, the mining fee is still small relative to the $21 service price, so optimizing fees isn’t a priority for me yet. If volume grows or fees rise substantially, then it becomes worth automating.\n\nPortuguês:\nJusto — os 300 sats foram apenas um exemplo baseado em algumas das transações que já fiz. Mesmo com 800–1.200 sats, porém, a taxa de mineração ainda é pequena em relação ao preço de US$ 21 do serviço, então otimizar taxas ainda não é uma prioridade para mim. Se o volume crescer ou as taxas subirem bastante, aí sim valerá a pena automatizar",
+  "sig": "782fe284c3e9e1e1746e250b744776859ac2748bf058ebccf938530de95180872ceb98592b9a867fcec4259ce39def6a0069a97494bf539bc893f11ee2e0362b",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

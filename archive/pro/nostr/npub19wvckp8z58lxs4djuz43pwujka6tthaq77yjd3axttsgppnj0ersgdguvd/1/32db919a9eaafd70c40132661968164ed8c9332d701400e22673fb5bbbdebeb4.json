@@ -1,0 +1,30 @@
+{
+  "content": "English:\nNo — not yet. I’m keeping the process intentionally simple and doing the inscriptions manually. Even at around 300 sats per transaction, the mining fee is trivial relative to the $21 service price, so there isn’t much value yet in building tools to optimize every transaction for the lowest possible fee. If volume grows or fees become materially higher, that would probably become worth automating.\n\nPortuguês:\nNão — ainda não. Estou mantendo o processo intencionalmente simples e fazendo as inscrições manualmente. Mesmo com cerca de 300 sats por transação, a taxa de mineração é insignificante em relação ao preço de US$ 21 do serviço, então ainda não há muito benefício em criar ferramentas para otimizar cada transação buscando a menor taxa possível. Se o volume aumentar ou as taxas ficarem significativamente mais altas, provavelmente valerá a pena automatizar esse processo.\n\n——\n\nEnglish:\nHere are two examples of what I mean. Whiskers was the first memorial I created, and my mother’s is the most recent. The pages simply read and display the actual OP_RETURN inscription from the Bitcoin transaction in a human-friendly format:\n\nWhiskers:\nhttps://mycontinuum.xyz/memorials/?txid=c02600edf54198fbac11f24e08983d9e1c62080457e7eef90c68e9d53dee2b98\n\nMy mother, Daphne C. Chun:\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\nPortuguês:\nAqui estão dois exemplos do que quero dizer. Whiskers foi o primeiro memorial que criei, e o da minha mãe é o mais recente. As páginas simplesmente leem e exibem a inscrição OP_RETURN real da transação Bitcoin em um formato mais fácil de visualizar:\n\nWhiskers:\nhttps://mycontinuum.xyz/memorials/?txid=c02600edf54198fbac11f24e08983d9e1c62080457e7eef90c68e9d53dee2b98\n\nMinha mãe, Daphne C. Chun:\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43",
+  "created_at": 1789336333,
+  "id": "32db919a9eaafd70c40132661968164ed8c9332d701400e22673fb5bbbdebeb4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eceb93b80ae253b6e44d7b49ab9d0112d10f99faca4356db1af2a5ab21a03c4cf52569e75d8be8bff0e2484927119b4f73c6d1e20b400655cc5799d3060320e0",
+  "tags": [
+    [
+      "e",
+      "812b0d322412e4d63a087ca3c4028fc32eb56eadeac766c160b09d38716e4bd3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Why indeed ?",
+  "created_at": 1789318006,
+  "id": "d2efff2dcefdfe258184670dc703b6d05331e472c7c98408b93a5d53a1cc9cbc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3af6be505fa8a725e3b68ee986d20e953e8e704cf3c532e6c67ed47051767d5ae7664a3028d8824bdc88825acbf284d45717a69a259ea4a75a93118cb74a88a2",
+  "tags": [
+    [
+      "e",
+      "0000da0eeb96183415ef6ad061ffe988f14e2ddf787606d7a92b32e819ba80f8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Whiskers passed away just over 48 hours ago.  \n\nIt hurts less each day but it still hurts like hell.\n\n",
+  "created_at": 1788792461,
+  "id": "a3edb11590dacb93868f504dd3bff09a3b67835c8cb7c4d9f5cd617c6f6bcc12",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ddd4cb5ca85c937fd04f413efbccabea79f7c7e78b7104e0a9f15a9dc019e19095e78c7de9b86e1305efb9dde0ac87dbceab06149b76cc6f37658978cd166ca7",
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

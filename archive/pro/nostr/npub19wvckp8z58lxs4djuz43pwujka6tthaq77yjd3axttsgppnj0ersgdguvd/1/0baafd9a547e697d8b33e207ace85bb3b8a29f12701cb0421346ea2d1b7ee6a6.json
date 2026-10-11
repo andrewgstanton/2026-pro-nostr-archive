@@ -1,0 +1,31 @@
+{
+  "content": "Love the analogies here !",
+  "created_at": 1789243163,
+  "id": "0baafd9a547e697d8b33e207ace85bb3b8a29f12701cb0421346ea2d1b7ee6a6",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "aaa4b2fe154cf96295fd55f3e0d0b6e9508e76931d5c25de0df84df5689612579b6e6b36f15c9e16655ce06f6a1e65e8e82b2a018154752e34cbe3ad63c2b9f6",
+  "tags": [
+    [
+      "e",
+      "ecd1ac6989b70474373466c3e7a71df592fd5efe9c2a3bed620c5b311a2304d4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "68240d4932950242924434c5b118035a92448a9570caf1fde7aeca77afbc80e4",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

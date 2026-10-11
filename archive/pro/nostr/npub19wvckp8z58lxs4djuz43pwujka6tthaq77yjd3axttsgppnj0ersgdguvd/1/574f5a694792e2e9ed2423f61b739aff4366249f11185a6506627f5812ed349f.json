@@ -1,0 +1,37 @@
+{
+  "id": "574f5a694792e2e9ed2423f61b739aff4366249f11185a6506627f5812ed349f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791166508,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "82a7ad52093365a806f4d99682b6292abc79f4861401996068ebac6508fe9061",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f73b5b57dcf4fa5b9ff5a1aae5140cb0c2bfbfccfefa943d970e340fee5fe371",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b62b357c1b939ae051a361d5befd409ddda06264a7588f1a986c24b1d13cc53f",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Just curious what prompted this ?",
+  "sig": "3add90eda09054109cac07d4d99ccd62a0ca0b3bad0a977a63270a2117436603223ff9cdf551207a330208ec044cee182c77f182cda0524984145e22aa97364e",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

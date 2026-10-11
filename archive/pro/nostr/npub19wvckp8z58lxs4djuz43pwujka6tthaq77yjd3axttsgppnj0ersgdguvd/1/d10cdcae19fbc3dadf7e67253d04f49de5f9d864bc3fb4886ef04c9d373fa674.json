@@ -1,0 +1,24 @@
+{
+  "id": "d10cdcae19fbc3dadf7e67253d04f49de5f9d864bc3fb4886ef04c9d373fa674",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789928461,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8aa4935bf53e6677356b4a9b66284218f400c9a30ec59b7423b392515335042f",
+      "",
+      "root"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Thanks for the feedback.  Appreciate the honesty.  Don’t agree this is „spam“ but i understand where you are coming from.",
+  "sig": "b9707445599e184a7cb0467c4b3de3ae223902159ce95c27c9fb0ec4d1465f6c08123cdd50f8d28ea3ab82a94988c2b942ae4c03e6cfe9a7995f6cedeb648cee",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

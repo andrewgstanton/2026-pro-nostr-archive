@@ -1,0 +1,82 @@
+{
+  "content": "Yeah, I think I can of said something similar in my long post last night -- basically not playing the follow the \"important\" Npubs and the \"influencer\" culture.\n\nSo tired of it.  Really.\n\nLike you said -- DCA and self-custody.  \n\nI DO like Michael Saylor but I don't worship him and what he says (nor anyone else for that matter).  \n\n",
+  "created_at": 1788235532,
+  "id": "caca6dbe671d37373e7501e36e59400eb2650605c17179e399aa342b6e23b10f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2b711c779d0aeea7678be7b40a9a7acb558b9d99f3e107632d5a52b45397581995caf5e1be717b41490cd7c223ed391bd0020839be85bc012a6c903a9b560cba",
+  "tags": [
+    [
+      "e",
+      "96e60bc265331487c7f900c4d4ddeed1ab7bcf61df00b520ae0ee5c32e4b99ab",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ed5774ac84f70a9e1ca14027e07de8e643cef5dcf3e3593266886bb745611c5c"
+    ],
+    [
+      "p",
+      "08fae2fb54af6dc4e8a4efbec8201e1f000d7420f40f34b8c18c32dc4a34b799"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

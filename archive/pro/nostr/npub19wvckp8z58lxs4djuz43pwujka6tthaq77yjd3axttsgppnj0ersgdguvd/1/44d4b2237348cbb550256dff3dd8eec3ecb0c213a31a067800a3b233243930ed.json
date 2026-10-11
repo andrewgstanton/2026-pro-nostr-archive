@@ -1,0 +1,37 @@
+{
+  "content": "He was thee ",
+  "created_at": 1789267241,
+  "id": "44d4b2237348cbb550256dff3dd8eec3ecb0c213a31a067800a3b233243930ed",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "49f67f8f6aa27ffbe04d5664db2f8557e15f3ecfc8f380f10ed96ab90cecb82c286aaa69c2bd8b81d8dd8b87bab3114765842bd8209f7e0d839e1cb9c3a157e1",
+  "tags": [
+    [
+      "e",
+      "000081057dfeee51adecda2af6ac02dac7b645d0d7a695a56c750d151eb4e1e0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "wss://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

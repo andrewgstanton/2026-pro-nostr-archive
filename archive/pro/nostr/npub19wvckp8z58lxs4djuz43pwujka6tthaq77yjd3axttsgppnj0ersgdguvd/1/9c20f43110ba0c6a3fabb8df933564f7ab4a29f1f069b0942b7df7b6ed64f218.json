@@ -1,0 +1,31 @@
+{
+  "content": "Great advice ",
+  "created_at": 1788792747,
+  "id": "9c20f43110ba0c6a3fabb8df933564f7ab4a29f1f069b0942b7df7b6ed64f218",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0fcb42172e198b50a981bf0501efd5fb9ef7bae68efca576124b60f761fe6ff8f108a69d84d79120cdf9f39b923362de23a68cdc4971e3d9dade36364026acae",
+  "tags": [
+    [
+      "e",
+      "1990b0193debec7c937d1b4ca6153a3a0906f7459dfab5186a48af9e3edac420",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

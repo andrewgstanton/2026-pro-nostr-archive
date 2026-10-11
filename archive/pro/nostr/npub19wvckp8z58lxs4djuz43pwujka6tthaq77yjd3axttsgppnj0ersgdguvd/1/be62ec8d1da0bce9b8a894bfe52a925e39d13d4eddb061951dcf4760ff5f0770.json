@@ -1,0 +1,30 @@
+{
+  "id": "be62ec8d1da0bce9b8a894bfe52a925e39d13d4eddb061951dcf4760ff5f0770",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789931709,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "26084f4103af3ade18c4774c12cebd6bb9f1efc3134012a4a4e4b27e3ca520e2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8e1e3efef6509b9efc453d83590940b6e6557307d58b89d5f70f4f8547cc6e09",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Not sure why but replying doesn’t work for this one..\n\nI would support eliminating  ALL foreign aid both to Israel and to everyone else that would be better for all of us\n\nThat is Ron Paul’s position and I think that is sonething I can agree with.\nnostr:nevent1qqszvzz0gyp67wk7rrz8wnqje67khw03alp3xsqj5jjwfvn78jjjpcs85tnlr",
+  "sig": "8afa90f1e2fea6a5d94d1e3fa5b99e20a613a5d8f53d925cb48dac4cbfa004fd72ee0bc089e2bc390b0bde7419aef001680497c338299585cef2198e0aca0834",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

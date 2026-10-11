@@ -1,0 +1,30 @@
+{
+  "content": "Good advice !",
+  "created_at": 1788584928,
+  "id": "2edee74b4e2573e6095643ea927ee3d04e955f22b73ef02924af83fa526b706c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5aa7584e691059fd868d269447aa3cc6505aa4701884da240e1051a241e0adceb258d3ce5460df1140e77ea22ec675ee3af6074a96fa1c17cb4850dacc886394",
+  "tags": [
+    [
+      "e",
+      "e6673be4b692097de2b2fbdd7201e7175002a84c71a04a0be98617cdaf3eefc8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5ad814081dde3ec2f4118c3d36f0e81c3fcc180a180ac56a6ec9a7a5f883565b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789936188,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "OP_RETURN"
+    ],
+    [
+      "t",
+      "CivilizationalMemory"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I’ve been thinking about what it means to call Bitcoin “civilizational memory.”\n\nBitcoin primarily remembers monetary history: transactions, ownership and the chain of proof-of-work that secures them.\n\nBut occasionally I think there is value in using a tiny amount of that permanent record to remember something human.\n\nA name. A birth. A death. A wedding. A graduation. The founding of a business. Something that mattered enough to someone to say: remember this.\n\nThat’s what I’m exploring with Continuum Memorials & Milestones.\n\nI’m not trying to turn Bitcoin into cloud storage. I’m not putting photos or large files on-chain. These are small, intentional OP_RETURN inscriptions, attached to valid transactions for which the required mining fee is paid.\n\nI understand that some Bitcoiners believe any non-monetary use of blockspace is inappropriate. I respect that view, even though I don’t share it.\n\nI don’t think a small number of deliberate, fee-paying inscriptions is an abuse of the network.\n\nIf Bitcoin can serve as civilizational memory, I think there’s room in that memory for more than money.\n\nSometimes what humanity chooses to remember is a person, a moment, or a life.\n\n#Bitcoin #OP_RETURN #CivilizationalMemory #Continuum",
+  "sig": "373713f90cec8d4b62a14a75132037e6ec8bc2c565d24ba76589b1eac1c0d98a895e158da1d019f4a7125538cb0487cc5385fc14e07cca616713a371ec2a0b4f",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Yeah it’s nuts (and I think u meant blakecoin .. ",
+  "created_at": 1788402566,
+  "id": "07ad533550e3f9940820ea9df6bbe9ead28e70d16bef549841085642882f2e40",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0f637f845eddd9fc173fb47ce8224bbdfbee6b9ea5e761625415b7b35f2bf820ad601ee978672e251af34daee9657e84501be167e082db9a5a47d44e266422cf",
+  "tags": [
+    [
+      "e",
+      "497720eef52f7f54378fbd411f0dc2565892296e4c7b18ddc336f8c11f7baf1c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

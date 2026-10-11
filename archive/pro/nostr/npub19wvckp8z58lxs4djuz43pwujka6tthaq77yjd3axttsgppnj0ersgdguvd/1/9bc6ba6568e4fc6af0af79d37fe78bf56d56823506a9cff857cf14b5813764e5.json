@@ -1,0 +1,33 @@
+{
+  "id": "9bc6ba6568e4fc6af0af79d37fe78bf56d56823506a9cff857cf14b5813764e5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1788132219,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cebc7a8c87e3687f7c2dab967d716d7a2dabfa09877ffd02572dec196f947e0d",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Good words",
+  "sig": "c213aed5fad4b15ff584b76e0ec48186b5b3a8d4f16e46627583b6b87faf76a8f560c9a823cd8d44943c28009551e1acbcef2a802e985d729fc0b8dde076bcf5",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Wow hope you have insurance to cover this loss ?",
+  "created_at": 1788989090,
+  "id": "ebae55c0e1e44436d18b29824c19595008646d44a70856442b35d4b35f63f520",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b77f9a3947d318bf2939678e810263d36eced93f44ff51b71b8fed1324e1c7627b7413149f2d1443f9774fd0a253092747e003b91168989fa91b522cda0c41ed",
+  "tags": [
+    [
+      "e",
+      "6bee41d0605877cfc21e05cf24d27b6d3e79ca331ca03c304a090f1f7b379694",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

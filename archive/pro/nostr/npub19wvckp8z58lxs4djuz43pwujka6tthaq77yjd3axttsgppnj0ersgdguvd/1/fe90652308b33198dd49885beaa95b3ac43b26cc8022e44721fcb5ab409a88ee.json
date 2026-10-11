@@ -1,0 +1,36 @@
+{
+  "content": "I do like your notes quite a  lot actually.\n\n\n ",
+  "created_at": 1788741147,
+  "id": "fe90652308b33198dd49885beaa95b3ac43b26cc8022e44721fcb5ab409a88ee",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5781e4d8bf88182ccd1f52b6881983e95f945cebb44c941b894eb15c827992980385853fec79491274072aae5557a9edebebbc394a33d961c98321519017a743",
+  "tags": [
+    [
+      "e",
+      "5be0eed9436b2d4ce9cb380b4e7bf420776192d3fbf7dac22c7aab1d7ca3f146",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "884376a18f06d658a7afe1c4206ff30db490c038ffbcdba52783cea7f57789b5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

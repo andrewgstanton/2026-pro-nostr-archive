@@ -1,0 +1,37 @@
+{
+  "content": "I am actually very interested in locally hosted open source LLMs",
+  "created_at": 1788825250,
+  "id": "45a784086dc6f41c7eeae4bffde27ca5a6679a477a9b768450abef259bd8e0cf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d6d7501645df96697be6eee37eb87044696223480346dab6cf7aca6906f050df1e98c1aacad7c64c8e185b941e1aa567d8e605062c8ad12dca2ffd08b0b2c036",
+  "tags": [
+    [
+      "e",
+      "0eb017205f7699c05397c976a7e14e94d1cfa46a8ce0e42e9228b7d5cbea0596",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "7d3cfb825a3e3cd1060234a24899b23076547dff03142d4a2225c725b3d669e3",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

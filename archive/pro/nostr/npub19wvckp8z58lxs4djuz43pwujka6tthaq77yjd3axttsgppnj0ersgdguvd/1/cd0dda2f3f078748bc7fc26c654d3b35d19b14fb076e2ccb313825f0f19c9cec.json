@@ -1,0 +1,31 @@
+{
+  "content": "There was a slight error in the two examples …\n\nExample / Exemplo:\nHere’s my most recent memorial inscription, for my mother, Daphne C. Chun. The page reads the actual OP_RETURN from the Bitcoin transaction and presents it in a human-readable form:\n\nAqui está minha inscrição memorial mais recente, para minha mãe, Daphne C. Chun. A página lê o OP_RETURN diretamente da transação Bitcoin e o apresenta de forma mais fácil de visualizar:\n\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43",
+  "created_at": 1789336492,
+  "id": "cd0dda2f3f078748bc7fc26c654d3b35d19b14fb076e2ccb313825f0f19c9cec",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5683e07bf7a2bb33a653fd42f9dd191cb52e6f7a74fa9ca0d54a224d674c47d8e2150b168fe36dec4751912f08c66354009734cdf0636a8f7125addbdbe0aaab",
+  "tags": [
+    [
+      "e",
+      "812b0d322412e4d63a087ca3c4028fc32eb56eadeac766c160b09d38716e4bd3",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

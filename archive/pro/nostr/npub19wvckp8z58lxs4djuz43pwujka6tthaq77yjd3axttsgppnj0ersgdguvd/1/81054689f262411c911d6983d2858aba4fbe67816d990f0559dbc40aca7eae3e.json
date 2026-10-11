@@ -1,0 +1,30 @@
+{
+  "content": "Send me some zaps too !!",
+  "created_at": 1788402349,
+  "id": "81054689f262411c911d6983d2858aba4fbe67816d990f0559dbc40aca7eae3e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fbbb3b6235ac36ef38312f3b86e186f517a175bf6dae6e51d2c5cebb1c6e88bf89ea03ad2cbf4023517820ebeac5968a54306dee7f25b728197cb76aa86f0184",
+  "tags": [
+    [
+      "e",
+      "9cc5afff199ba0719267a251bf40db5c6ed2904de2634c6540703f12db896447",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

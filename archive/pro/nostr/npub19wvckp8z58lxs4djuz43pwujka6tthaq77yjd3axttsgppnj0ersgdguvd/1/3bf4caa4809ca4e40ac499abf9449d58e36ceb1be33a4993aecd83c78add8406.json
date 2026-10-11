@@ -1,0 +1,31 @@
+{
+  "content": "We are aligned a lot actually.  ",
+  "created_at": 1788792710,
+  "id": "3bf4caa4809ca4e40ac499abf9449d58e36ceb1be33a4993aecd83c78add8406",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "41a226332b26a52eb9db7c43b70c47afd7bc583f3249b7709d5e866571c7baac9ef9f43ddf6fe03589eb34d5d524803b611d9f65e7985896d924601ac5f2a6fc",
+  "tags": [
+    [
+      "e",
+      "54ff89aaef391eed8081da7c12a425b8c69d9b2c8d468e62ef068851423f01a4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

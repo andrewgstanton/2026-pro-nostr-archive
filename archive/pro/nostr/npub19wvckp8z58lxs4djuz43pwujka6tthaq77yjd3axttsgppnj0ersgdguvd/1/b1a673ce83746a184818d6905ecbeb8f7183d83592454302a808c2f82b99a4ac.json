@@ -1,0 +1,30 @@
+{
+  "content": "Spot on!!",
+  "created_at": 1788584580,
+  "id": "b1a673ce83746a184818d6905ecbeb8f7183d83592454302a808c2f82b99a4ac",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5bed4fa3ad43b2c7c04926be02dd12a35941149bd54f8492da736dcbfa55f97d5f200e6dd4bd83d213b632657f2628a313ab96f44177a09b9dabf3d3d1d7c9c0",
+  "tags": [
+    [
+      "e",
+      "cd89cd0c8c94d4b75432f8edc7c85711295d071280bd824abe4cb418ab1e28bd",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "68240d4932950242924434c5b118035a92448a9570caf1fde7aeca77afbc80e4",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

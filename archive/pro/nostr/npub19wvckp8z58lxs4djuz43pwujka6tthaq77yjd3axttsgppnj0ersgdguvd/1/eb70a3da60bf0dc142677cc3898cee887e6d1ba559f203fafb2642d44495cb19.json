@@ -1,0 +1,19 @@
+{
+  "content": "Using Continuum Passport to connect and post on relayop.xyz",
+  "created_at": 1787517141,
+  "id": "eb70a3da60bf0dc142677cc3898cee887e6d1ba559f203fafb2642d44495cb19",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f8d7ec6540ee7aad7a47fa5fc5b34dda8f0306a520a917c61302586c93af6bd7fce37d975f5d49a0cbeb403daebe43d3610d899a0175b09c79a2de73575ad94f",
+  "tags": [
+    [
+      "client",
+      "Relay Outpost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

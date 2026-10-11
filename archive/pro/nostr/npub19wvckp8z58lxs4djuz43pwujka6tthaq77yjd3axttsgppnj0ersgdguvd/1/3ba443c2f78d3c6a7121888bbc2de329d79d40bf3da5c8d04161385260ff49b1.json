@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "created_at": 1788734531,
+  "tags": [
+    [
+      "e",
+      "36a2cf18c45712ca3c1c23283f37eb21ac9e7a84049807c635135527016c5612",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "I added this also as a memorial to the BTC blockchain\r\n(OP_RETURN), here is the full transaction\r\n\r\nhttps://mempool.space/tx/c02600edf54198fbac11f24e08983d9e1c62080457e7eef90c68e9d53dee2b98",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "3ba443c2f78d3c6a7121888bbc2de329d79d40bf3da5c8d04161385260ff49b1",
+  "sig": "a4ce7906f98c5f78404ed017e3ffd23c1b7556ae1262fa084c933b1d352185e23e7643aae7f56491d4a1486149e30eb57b1d66f4f490266187a9672fc8b12d94",
+  "published": 1
+}

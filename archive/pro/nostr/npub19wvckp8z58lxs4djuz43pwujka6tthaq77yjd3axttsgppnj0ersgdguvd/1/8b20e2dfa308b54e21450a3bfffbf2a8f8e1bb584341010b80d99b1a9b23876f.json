@@ -1,0 +1,19 @@
+{
+  "id": "8b20e2dfa308b54e21450a3bfffbf2a8f8e1bb584341010b80d99b1a9b23876f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789941611,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Following someone isn’t an endorsement, and unfollowing someone isn’t a punishment. It’s just choosing what I want in my feed.",
+  "sig": "6b1127fa8b90056cd2e794b1c6451da868d0f3956df2eef10f171891d99918cce0b47e454ac834c92f231471749ba301f5d91f7e9f3854d1871654f4bb5b7c1a",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,1 @@
+Facebook can preserve a memory for a lifetime. Bitcoin can preserve it beyond the lifetime of Facebook.

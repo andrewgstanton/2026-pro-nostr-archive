@@ -1,0 +1,36 @@
+{
+  "content": "Thank you",
+  "created_at": 1788716590,
+  "id": "7d2468ee741187774923ca1592d39340c25cf5f375c3cfd0b3cd52c696f819ad",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "2c924029fd1242bac318f4bff0e6ac069cd8e1a94973a76495ca80579df52d75e37a17472432a1a75852920ca4df4c2602f47c14d24337440368af1c4f10ba2d",
+  "tags": [
+    [
+      "e",
+      "36a2cf18c45712ca3c1c23283f37eb21ac9e7a84049807c635135527016c5612",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "00004ab2458b0c598dee7e23e5cc7db2651a7ea604b1e79a73b1cad5155a0bfd",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "6a02b7d5d5c1ceec3d0ad28dd71c4cfeebb6397b95fef5cd5032c9223a13d02a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3f0c85be937486fe130326ad8242957b2e9bbfd2ada7e93c8fea19dd09acfd0b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1788118779,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c6c1bebb552bb52e22c9532cb6731b6eda27c6c674b9cd3ae0bb45d4dbbc5607",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "47f97d4e0a640c8a963d3fa71d9f0a6aad958afa505fefdedd6d529ef4122ef3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b7cf9f42a796b091e843dce919d3ef4c0dc82e029452edf0bdbcdeb9ecb93e78",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Fantastic response!!",
+  "sig": "2572507ef8d40b27c3451cc998b83363313c4fb2c33b149da3fec70f2cd933b9c74388ac6fe5229302198dcb605063f9cd8177163329ac1cb4bab520bb8b19ea",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

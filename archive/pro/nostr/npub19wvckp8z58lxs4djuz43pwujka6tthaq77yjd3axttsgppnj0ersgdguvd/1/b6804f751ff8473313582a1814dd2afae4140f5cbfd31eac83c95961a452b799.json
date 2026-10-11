@@ -1,0 +1,20 @@
+{
+  "id": "b6804f751ff8473313582a1814dd2afae4140f5cbfd31eac83c95961a452b799",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791167809,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Honestly I would like to participate more here. \n\nBut right now I’m tired and I’m grieving almost two years of major losses.\n\n",
+  "sig": "6941b4fd545c9942aa1c6dcf906697a1e75eef6945d4b3b984aac89e3d28d259452cae5cd9437a8092cdbaf3c884dd6fa36580c9f91c2e65ec203c9f22c66054",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

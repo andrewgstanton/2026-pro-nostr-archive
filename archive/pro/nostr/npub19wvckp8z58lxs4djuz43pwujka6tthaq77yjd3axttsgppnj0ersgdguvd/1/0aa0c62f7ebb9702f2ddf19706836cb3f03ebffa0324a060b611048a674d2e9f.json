@@ -1,0 +1,42 @@
+{
+  "id": "0aa0c62f7ebb9702f2ddf19706836cb3f03ebffa0324a060b611048a674d2e9f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789421758,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1789421758"
+    ],
+    [
+      "published_at",
+      "1789421758"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "continuummemorials"
+    ],
+    [
+      "t",
+      "digitallegacy"
+    ],
+    [
+      "t",
+      "memorials"
+    ]
+  ],
+  "content": "I've posted a couple of times about Continuum Memorials & Milestones, and I'm looking for candid feedback.\n\nThe idea is simple: permanent memorial or milestone inscriptions anchored to Bitcoin rather than something that exists only as long as a website or social-media account does.\n\nI'm not looking for encouragement — I'm trying to determine whether this is something people would actually pay for.\n\nIf you think it's valuable, tell me why. If you think it's pointless, tell me that too. Both are useful signals.\n\nAnd if you'd actually buy one for someone or something important to you, I'd especially like to hear from you.\n\nHere is the most recent one I did for my mom (Daphne Chun) \n\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\n\n#Bitcoin #ContinuumMemorials #DigitalLegacy #Memorials",
+  "sig": "967a556e5469773dc84b94b489d08c587b921ea818d29b30ed7524e86c55a2339b3442206ca73c1f109e37a0e7f3047134377208f8226b5ef664fa41c8fc5759",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

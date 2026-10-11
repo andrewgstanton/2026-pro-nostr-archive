@@ -1,0 +1,31 @@
+{
+  "content": "Love this ! Exactly how I feel a lot ",
+  "created_at": 1789245629,
+  "id": "c6f2022dea73e99c1e6cd14a0000f680aab0e815e5239b7706d5d6c7f0b388bb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "132a9e044c47acc7abc034162fecef4a477a78513c8732b00c0628606652d2f1f045afd316859b6bb3c4025c1a97ee3998b0ecacc5132cd9df87dbd4dfcb0cba",
+  "tags": [
+    [
+      "e",
+      "e1e3f407ab930199622c64e46b6c3e4e55080e42d8f48a091e17c2d6591aff47",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "228056c3400fb707ec673aa5c7a0ad73095ffe592c561765e9acf6bc08cb2578",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

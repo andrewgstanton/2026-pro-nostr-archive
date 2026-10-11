@@ -1,0 +1,18 @@
+{
+  "id": "26ebd941a5bbce97c73ced0b229ae966c91b4483b827560c3a42b81fcf77d939",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789925130,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Sometimes  silence is the strongest signal.",
+  "sig": "b051af0497437822292be3558c61e707c02b8796599a08fb160025a81fa5b4dc99e2a2c9e2d17aa7809d26ad292908b526612b64b7169005de8fa135d63c02a7",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

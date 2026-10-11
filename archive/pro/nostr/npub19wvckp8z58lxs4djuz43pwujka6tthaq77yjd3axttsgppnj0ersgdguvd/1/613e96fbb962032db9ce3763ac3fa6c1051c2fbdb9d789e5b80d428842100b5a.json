@@ -1,0 +1,37 @@
+{
+  "content": "Would be curious to see where or how this is getting reported.\n\nAt times some if the longer posts and articles I have made over the last year were accused of being „AI generated“ (I did use chatGPT but made extensive edits ) \n\nOne of my friends says my writing (sometimes ) doesn’t „sound like your voice“ \n\nThere is a definite subculture here on Nostr that talks about „AI slop“  ",
+  "created_at": 1789258128,
+  "id": "613e96fbb962032db9ce3763ac3fa6c1051c2fbdb9d789e5b80d428842100b5a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "740084e5a789d52614e6bc5f2d54da8b3e35ba429fb8e36fa9a6df8b74bd8310b820ff2370fe7058f701917802e18a53162ab2bb9c375c1a837692c5f724f2d6",
+  "tags": [
+    [
+      "e",
+      "a7fb0e06c05beddce7f5dbce0ccaede8bb079bd9e7e579ca07cbd681344673b7",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "884376a18f06d658a7afe1c4206ff30db490c038ffbcdba52783cea7f57789b5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

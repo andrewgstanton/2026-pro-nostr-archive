@@ -1,0 +1,30 @@
+{
+  "id": "d4d746ec0a5e9a4abc5944261a6540063b36eb23b9ec3725e6d5f07ae9d1571c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789338521,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "893b4fc019b5e46e54ebfe775799871054eb7fd780a75a0efadf8b09b37bbfd2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Exactly. That’s one reason I’m keeping the actual OP_RETURN as simple human-readable text. The Continuum page is just a convenient presentation layer. Even if that page disappeared someday, the underlying inscription remains on Bitcoin and can be independently read and verified.\n\nPortuguese:\n\nExatamente. Essa é uma das razões pelas quais estou mantendo o OP_RETURN como texto simples e legível. A página da Continuum é apenas uma camada de apresentação conveniente. Mesmo que essa página desaparecesse algum dia, a inscrição continuaria no Bitcoin e poderia ser lida e verificada de forma independente.",
+  "sig": "e0097d0a78b146270ae334cdcc9d68a1cfe065828f6c1dcc34083260738c8a8c5417eb70c5aa26129e0ab4f22a4018f51720edd494281c7f66bb1ce5ec9ea3d3",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

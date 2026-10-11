@@ -1,0 +1,24 @@
+{
+  "id": "f1be1869f6875a9a83644aaad236c9334091cccd253103567f1c09bee75fe113",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789939833,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2bbae0d3c795f4c0821337054e60088afdeaf84f0be2236319661d3c0a6ca209",
+      "",
+      "root"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "My feelings aren’t hurt. That’s not the issue. People are free to use racial slurs, and I’m free to regard their use as crude, degrading and beneath the standard of conversation I want in my feed.\n\nFreedom of speech doesn’t obligate me to listen.",
+  "sig": "386215d7c53a733bd10bc9f0cef76fb5f688fbd67676da77335fceddb4013cecc6a3a5cf97993af66ed90b1ceafb26577aa39a5285cfc0ebd786106be74fec72",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

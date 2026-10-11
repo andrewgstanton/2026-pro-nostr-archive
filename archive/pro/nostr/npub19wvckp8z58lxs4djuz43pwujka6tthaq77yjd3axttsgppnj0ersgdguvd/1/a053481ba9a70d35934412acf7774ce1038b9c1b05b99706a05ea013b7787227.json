@@ -1,0 +1,54 @@
+{
+  "content": "I’d especially be interested in your thoughts on this, nostr:nprofile1qqsxft85q406sf4u4wz90cjwlra6wjg2hv08dkatd25822jn5r456jspp4mhxue69uhkummn9ekx7mqppamhxue69uhkummnw3ezumt0d503k6r6, nostr:nprofile1qqs2ms205wk4jzzkmk9cpq2axelhc8n8xkksplvc4pksqta7n76ntcgpy4mhxue69uhk6ctnw3hkgmmw9e3kcmm4vshkzurf9amrztmnw3ex2ctdd9hxwqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7mtwhq8, nostr:nprofile1qqs8rw3da7e9rkcxvrh5cxryjzzkk9hp5l4cgzl0t5q0sc4nftrkd8cpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3wamnwvaz7tm4d438yetv9ekx7cmpdsargwp58qst2zqd , nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqpr9mhxue69uhhq7tjv9kkjepwve5kzar2v9nzucm0d5q32amnwvaz7tmwdaehgun9d35hgetn9ehhyecldy5c2 , nostr:npub1spdnfacgsd7lk0nlqkq443tkq4jx9z6c6ksvaquuewmw7d3qltpslcq6j7 \n\nI’ve been experimenting with OP_RETURN as a simple way to create permanent, independently verifiable memorial and milestone inscriptions on Bitcoin. The idea grew out of creating one for Whiskers after we lost him last week.\n\nCurious what you think of the idea",
+  "created_at": 1789246266,
+  "id": "a053481ba9a70d35934412acf7774ce1038b9c1b05b99706a05ea013b7787227",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9f5d81bf8d6e247d6a6bf6586ec77f4bb3866c29491a35fada9b0b2f264610d966100bd3850955382e42bc17e58b11f3d28d9022cee648c9f5526803e1af1c0e",
+  "tags": [
+    [
+      "e",
+      "cc8e99ac950373f0325588733b12ca019f1c2944eecdc57fee8b688fc879923e",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "wss://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://mastodon.cloud/api/v1/streaming",
+      "mention"
+    ],
+    [
+      "p",
+      "71ba2defb251db0660ef4c186490856b16e1a7eb840bef5d00f862b34ac7669f",
+      "wss://relay.damus.io",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://pyramid.fiatjaf.com",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

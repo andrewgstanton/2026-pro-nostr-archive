@@ -1,0 +1,31 @@
+{
+  "content": "Thanks for those kind words",
+  "created_at": 1788744469,
+  "id": "d03c40786c8db994be822cad4d27a0ac924d3008ada778ee65954d2fdf52612b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3da96de969b435660f11c07bb4204491de9fb86804e055fdee8f79f97f7f1bb4071501c0a51a96ecf006089470e373bcefe1dd5917483a96bb81387fd9667466",
+  "tags": [
+    [
+      "e",
+      "ec13291763c8220617380d66cdcb801ccaf394ce21833fd6ab124da62a9a0658",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

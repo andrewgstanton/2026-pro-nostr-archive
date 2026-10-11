@@ -1,0 +1,30 @@
+{
+  "content": "I have a sense of humor. Jew hatred just isn’t funny to me. If your original post was genuinely a joke, fine—I took it literally. But doubling down with “what’s the difference between a Jew and a pizza?” isn’t exactly convincing me that I misunderstood the underlying sentiment.",
+  "created_at": 1788578168,
+  "id": "33f9cf13e259ecb5486fb06bdecb063d6716cbcb16bd58ed7576c7d9b762f93c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05e0439c791ecceca8d4efb3dd2679d45f6082582eb5e6b1404633c8d714c39811210ab430d505bd7deac76750fc292a5167acbd317866026fc6f534ae7fe531",
+  "tags": [
+    [
+      "e",
+      "000000670b1bf8fb52f34f564e2d4a9f9ceff485207f72d80064ab4020d7106f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e4e847f9b3e29e930b3f05218767828f8ddd5ac177f5ad46a6616f52e5c37d6d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

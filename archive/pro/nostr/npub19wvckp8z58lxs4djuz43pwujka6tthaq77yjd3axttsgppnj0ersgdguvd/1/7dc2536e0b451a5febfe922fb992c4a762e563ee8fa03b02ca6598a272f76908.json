@@ -1,0 +1,19 @@
+{
+  "id": "7dc2536e0b451a5febfe922fb992c4a762e563ee8fa03b02ca6598a272f76908",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789941814,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "A follow is an invitation into my feed. An unfollow just means I don’t particularly want that content in my feed right now — I may follow the person again later. A mute is a stronger boundary that I generally reserve for people who become personally hostile or abusive.\n\nNone of this is censorship. Everyone is free to speak. I’m just deciding what I want to spend my time reading.",
+  "sig": "05f26dab04a15f5f01ff396671a8199ff265b4fb72ae1b92bc5789cfe31bba7109e77ef7aa5fb27fa512b2dee2cfba3f2c6f2e6e4ac4c646ff9c7db2eb326082",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

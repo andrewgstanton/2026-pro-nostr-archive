@@ -1,0 +1,26 @@
+{
+  "id": "64204695fa3ac6336d709080476cf200e28791f9d1d8f09b98d1b555739adcb2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789431392,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "ContinuumMemorials"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Some things are worth remembering.\nSome are worth remembering forever.\n\nContinuum Memorials & Milestones\nPermanent inscriptions on Bitcoin.\n\n#Bitcoin #ContinuumMemorials",
+  "sig": "705c2aeebc3e9eb3f76ab582a714cc886156f056c48563c88bf1c9c7336a33e68a6a48b311e3b0a855b98ce9effffac98eb782ad13b58441c409889774d40400",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

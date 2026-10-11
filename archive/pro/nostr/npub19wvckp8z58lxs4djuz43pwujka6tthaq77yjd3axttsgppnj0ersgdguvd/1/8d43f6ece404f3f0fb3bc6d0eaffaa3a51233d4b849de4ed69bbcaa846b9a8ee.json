@@ -1,0 +1,19 @@
+{
+  "content": "Facebook can preserve a memory for a lifetime. Bitcoin can preserve it beyond the lifetime of Facebook.",
+  "created_at": 1789271712,
+  "id": "8d43f6ece404f3f0fb3bc6d0eaffaa3a51233d4b849de4ed69bbcaa846b9a8ee",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "87ec395dc0503fc59b15c12d6fd1dbe3c006e2920b59df952bfeca9bd5d2b3fdf7f21978c4331f312e961a124838f563a0530635a55e40be9fa0b4f90f458484",
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

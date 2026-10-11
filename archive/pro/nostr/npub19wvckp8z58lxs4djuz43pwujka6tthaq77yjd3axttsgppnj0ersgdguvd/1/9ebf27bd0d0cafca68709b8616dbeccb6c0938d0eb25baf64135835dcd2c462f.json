@@ -1,0 +1,31 @@
+{
+  "content": "That is all I ask for!  No one here can guarantee amplification ",
+  "created_at": 1789245509,
+  "id": "9ebf27bd0d0cafca68709b8616dbeccb6c0938d0eb25baf64135835dcd2c462f",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5f0f85977254dce42182e39d4f7e175fd1337d4758a5272753f57a93faab8e523804cd95cd66d3725049600d8b98a4ef7454702aa4078e47d0f83e6ed7d574df",
+  "tags": [
+    [
+      "e",
+      "48eb7f57c2bd3edf094cfc93b60140106868c62efcd59cc2a81ecab851fdeba6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

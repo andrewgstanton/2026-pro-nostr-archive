@@ -1,0 +1,31 @@
+{
+  "id": "b2e801085e83c2e8487017b00e78f1454f8b8238d3345f6fd54812908775965f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790542931,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00000467c70e7b81cae64bc1ea0cd018e85c2c96cd7283e10d340949c8c0e15c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Freedom to create is not necessarily the same thing as sovereignty over what we create and use.\n\n",
+  "sig": "a3c17094f09ea13d939d96ac6c9a61005b2b24fac5700a68377286267a74076b7b75a7bc848927f962f169183458d1d797abcec4dc7cfd7e97582577f00d9d85",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

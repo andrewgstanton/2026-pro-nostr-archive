@@ -1,0 +1,24 @@
+{
+  "id": "57f8cb2b1299d8b264d0d4cf5c2ae5a73c4e7d471ebec27b055514c0dc5510a0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789602408,
+  "kind": 1,
+  "tags": [
+    [
+      "imeta",
+      "url https://blossom.primal.net/34021b8e6af202997ced65b5334fe7dba65a140bafdeeca3b83a4ea9a2ce6552.png",
+      "m png",
+      "dim 1125.0x2436.0"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Continuum isn’t only for memorials.\n\nBirths. Weddings. Anniversaries. Foundings. Achievements.\n\nA short message permanently recorded on Bitcoin, with a link to independently verify it.\n\n$21 per inscription.\n\nHere’s the milestone version of the flyer. If you have something worth preserving—or know someone who does—DM me\nhttps://blossom.primal.net/34021b8e6af202997ced65b5334fe7dba65a140bafdeeca3b83a4ea9a2ce6552.png",
+  "sig": "ef3c031a43177ffdf55435784fb65f1b01b2049be66428836c5744d85c4cdf2a177c5a8dfcd2fd4bf01bd48feb63de82481eba7bfa360dc83871711d3026a896",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

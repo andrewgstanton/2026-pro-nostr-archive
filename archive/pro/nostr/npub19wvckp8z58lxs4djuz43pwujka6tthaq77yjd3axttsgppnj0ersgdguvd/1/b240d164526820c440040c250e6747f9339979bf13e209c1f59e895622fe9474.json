@@ -1,0 +1,18 @@
+{
+  "id": "b240d164526820c440040c250e6747f9339979bf13e209c1f59e895622fe9474",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789926377,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I know if I had 20k followers (all else being equal) just posting a picture of my morning coffee a simple “GM Nostr” or a shot of downtown San Francisco or some skin would get me lots of likes zaos and reposts \n\nAm I wrong ?\n\nC’mon people \n\nLet me know that I am not alone here.\n",
+  "sig": "9fb7ee605d00afc0d7f56dcaf9f178e928a50f774212d7f26ff5ccfdd4bf037f91d21e32ead5f6c1b8f0ba8a21be022bf7caf53078e11efdede3155911b56e46",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

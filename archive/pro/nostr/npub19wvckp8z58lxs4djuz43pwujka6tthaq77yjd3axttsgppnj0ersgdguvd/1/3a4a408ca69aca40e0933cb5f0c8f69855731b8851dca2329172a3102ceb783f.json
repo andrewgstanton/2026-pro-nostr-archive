@@ -1,0 +1,38 @@
+{
+  "id": "3a4a408ca69aca40e0933cb5f0c8f69855731b8851dca2329172a3102ceb783f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791166826,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0000e3f43099ae6e8f4851653569380a595c817b62ea433a756a2ff7597da12d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "45f195cffcb8c9724efc248f0507a2fb65b579dfabe7cd35398598163cab7627",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Spot on!!\nnostr:nevent1qqsqqq8r7scfntnw3ay9zef4dyuq5k2us9ak96jr8f6k5tlht976ztg3mhfhk",
+  "sig": "74db3b99886cb4b38009a5b7f2ac2dbc6b11cac8bdb7b8b07dfacfc6e7a51603489c42729af62d77f60d1ca7f99c60be16912b52d71f48b35b339fe8d8238d13",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

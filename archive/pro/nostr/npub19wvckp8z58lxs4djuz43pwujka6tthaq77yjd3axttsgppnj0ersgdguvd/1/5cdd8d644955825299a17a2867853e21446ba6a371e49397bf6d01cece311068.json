@@ -1,0 +1,32 @@
+{
+  "kind": 1,
+  "created_at": 1788034882,
+  "tags": [
+    [
+      "e",
+      "000000c889344d42f24dcb69ff69fbdaaf778e3aed722615d886c4db9844184f",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "460c25e682fda7832b52d1f22d3d22b3176d972f60dcdc3212ed8c92ef85065c",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Continuum-localhost"
+    ]
+  ],
+  "content": "Yes!!\r\n\r\nI'm actually exploring this with Continuum ATLAS.\n\nnostr:nevent1qqsqqqqqezyngn2z7fxuk60ld8aa4tmh3caw6u3xzhvgd3xmnpzpsncpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgdwaehxw309ahx7uewd3hkcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qy8hwumn8ghj7mn0wd68ytnddaksygzxpsj7dqha57pjk5k37gkn6g4nzakewtmqmnwryyhd3jfwlpgxtspsgqqqqqqsdw2dx3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "5cdd8d644955825299a17a2867853e21446ba6a371e49397bf6d01cece311068",
+  "sig": "62219e19f69b5c55d2a482c62a18d6a7bfac0ffe9defdb459e14b8bc7ec2a4225c1371b2a9cedfd6eb98ccc9d5b452db7929e71084ab2bbabbd92089cb1f1681",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

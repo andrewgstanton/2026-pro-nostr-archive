@@ -1,0 +1,31 @@
+{
+  "id": "849b39c0f9818ec6b24b5413c371fd3fab930dcd217a63f1059aa23dd74f2735",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1787871841,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0a9caaab63e5353cb77eca2aa38115b06ce823d7c553e8ff893fe7439b27bcdc",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I guess I need to shit more then !",
+  "sig": "9e4185ad5367866e01654a89f7bf43d02bca2e237a43414f1144ebc92e1deefa9f4e33c3f05e0f1adb6bf056e06d814304f96836bfc0187276c7c10d6738d66f",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

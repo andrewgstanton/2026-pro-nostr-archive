@@ -1,0 +1,36 @@
+{
+  "id": "7142f475327cd5d56e24c37a28bccd14cb48e0d9c9ed9cbdccd6c31cdb6ebe49",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789336674,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "96591bdabeae39e3c79db04d20debf7eb8fc8e56f2b8747a3d224b5f7cd8f57c",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "00006210a2ba87ef8a6d96a116bd728da051bba3ee4d7bfda7289af9b3c6a7d9",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "0172d941ddffb394783558cb0f4e0c7386fea3ceace760a45595cf248225fb65",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Exactly — that’s what I’m trying to create. Here’s my most recent example, a memorial for my mother, Daphne C. Chun. The page reads the actual OP_RETURN inscription directly from the Bitcoin transaction and presents it in a simple human-readable form:\n\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\nThe “Verify on Bitcoin” link then lets anyone independently verify the underlying transaction.",
+  "sig": "1952fab0318a545235a85a0c7eaa954d97c702dbc7ed9297b1b879317ee09819150eb77019df631884ef6b1bad3a0462c72f0090ccbec639237c33f8e4eadaa8",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

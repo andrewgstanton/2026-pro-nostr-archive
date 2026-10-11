@@ -1,0 +1,31 @@
+{
+  "id": "5d087a1b349d30a5b72dfd95432d745518520bde37e8e8d689c6a08cb4413ea3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789951394,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00009afe8a264cb99a76838ccd6ac7422a9cb2f8f6af07ff34aad579a3e4d16f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Or the day after tomorrow or .. ",
+  "sig": "c70aeded0633b020f2e80df00a4835eb77db6fcae49c3d1e1927891927f8b596045b43cc8e807fe2304fd627cc11824e1700000612d0fc6cb507296731a84ba7",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

@@ -1,0 +1,31 @@
+{
+  "content": "And out of curiosity what prompted you to say this specifically (just curious)",
+  "created_at": 1789258753,
+  "id": "c8e258cb6808f4c1786c1df07ea60f8dcb1ce494b6f946862e423ca89c110e0c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "161b63f0b29a927efbb80122a41036dca0d62feecf5fd8f866440a51109b09db4493e0edfc1b9a35e1dee1d5405ba94ea46255b00c5979e92ceee419d98af9ad",
+  "tags": [
+    [
+      "e",
+      "c1a0bdda71e4428f875f13a5ffa8ed521c2aa315164a45eba387c89c41fe63f8",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

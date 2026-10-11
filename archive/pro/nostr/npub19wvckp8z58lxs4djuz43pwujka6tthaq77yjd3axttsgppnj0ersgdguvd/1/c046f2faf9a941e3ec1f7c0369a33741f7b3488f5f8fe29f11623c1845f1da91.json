@@ -1,0 +1,31 @@
+{
+  "content": "Thanks !",
+  "created_at": 1789245446,
+  "id": "c046f2faf9a941e3ec1f7c0369a33741f7b3488f5f8fe29f11623c1845f1da91",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1f6a8f2c4ad96d493091a307376e8a70c97b5c45b5ab503919e762d503920e4055eb0f6857db409438bedec3e2fbb9b8cf9446c3d642c49def2fe4581b0f6e57",
+  "tags": [
+    [
+      "e",
+      "48eb7f57c2bd3edf094cfc93b60140106868c62efcd59cc2a81ecab851fdeba6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

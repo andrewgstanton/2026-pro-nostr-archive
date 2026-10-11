@@ -1,0 +1,37 @@
+{
+  "content": "Also zaps are always  appreciated ",
+  "created_at": 1789239493,
+  "id": "4a7c4496a607983348fae9410a7bd65d6fe592525d647917579f433534c80cce",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a42ab4c731984ebfbc36185dc374b95adf330199b5c45587b6272479404e8cc28251058cdde84cc3d511870e501567e98d0cb60aa027f3af219c2c76650445e2",
+  "tags": [
+    [
+      "e",
+      "cc8e99ac950373f0325588733b12ca019f1c2944eecdc57fee8b688fc879923e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "f563c1a26036c49595429fb6c3dda292f28da7212f79f388f0897434662abb93",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "89e6176f4807f20c8acdbe2ba0ca35cf29dd6c75545d5274e61f2589e42b8842",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

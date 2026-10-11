@@ -1,0 +1,31 @@
+{
+  "content": "That seems ridiculous ",
+  "created_at": 1788989228,
+  "id": "031308aa50f80ef9705020347897d505e89e279b011c0d16564ea011c6f07b67",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8ac26bbb1b1085a50faa531279cdce3df683dd105a9918967f66c06c71ee184f8094b1aee60f137813e6221ad33e44f1cc65cc80957416327d801adb32533761",
+  "tags": [
+    [
+      "e",
+      "18cdd689bd5274aeddcd4ea4869e675dbf7e633fa5a2054f843f66c0ffb1a617",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b3b1d5809306c642b7c7e9f01cf9a73a9dc8b363463776361d25dc0927db0aa8",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

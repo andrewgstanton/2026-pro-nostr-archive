@@ -1,0 +1,37 @@
+{
+  "content": "Fascinated and I note the many similarities between Christianity and stoicism.  \n\nI too hate the noise :) \n\n",
+  "created_at": 1788825094,
+  "id": "5b0e66a33824bb7f469dd6fb5d3bd52380920a20456cff580db13b7dd24beedb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "46726e62a1d137db81b6e08fcceae3187dbf01d0bcb53ba7551cab18107155e2a89a741396eaca739893e72cce01c02c66c920898e2e18c1cb2772489778c3b6",
+  "tags": [
+    [
+      "e",
+      "e836879098ecccf6ff4ad09de92bafb32faeff76279c4e1689abb9a0e2706e43",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "884376a18f06d658a7afe1c4206ff30db490c038ffbcdba52783cea7f57789b5",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

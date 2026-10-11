@@ -1,0 +1,31 @@
+{
+  "content": "Yes maybe especially Bitcoin ",
+  "created_at": 1789317899,
+  "id": "9bd13747cd2bca1abfe96494a1ce3c2dd1363a7a81c9d8910e965dda188c50cf",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5cdac9939f6dc855fda48f98768ebc60ac94bc62e1461bcedeae11366279fb2600779c78adcfe14c0524c08f23af77aaab09e5a00d2ea2a3048d76a3da1541dc",
+  "tags": [
+    [
+      "e",
+      "0000074ec6dedfb3b06434e7df8ed6beea0f1d69eff07a693e748e80da323daa",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

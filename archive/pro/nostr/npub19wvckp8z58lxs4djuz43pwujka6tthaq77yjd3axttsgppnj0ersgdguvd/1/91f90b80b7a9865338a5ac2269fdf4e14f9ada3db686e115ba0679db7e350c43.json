@@ -1,0 +1,30 @@
+{
+  "content": "That is very good way of describing it \n\nAnd all of us have this tendency\n\nYet He loves us anyway and is calling us back to Hinself \n\n",
+  "created_at": 1788407484,
+  "id": "91f90b80b7a9865338a5ac2269fdf4e14f9ada3db686e115ba0679db7e350c43",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6cbc681a9435418153dbab9911df5466122309d8a70804d79ef29f07c8637b00dde9de36f0972192895c60f2eb276b0ea9c35e8efc66c415bbadaf5751364a04",
+  "tags": [
+    [
+      "e",
+      "00002613acf3ee1716dd3f36244360f088d35d2d82740eed9f3902d51c25c3d2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "64acf4055fa826bcab8457e24ef8fba7490abb1e76dbab6aa8752a53a0eb4d4a",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol"
+  ],
+  "published": 1
+}

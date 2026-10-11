@@ -1,0 +1,31 @@
+{
+  "content": "Nostr mostly with some Bitcoin integrations ",
+  "created_at": 1789251632,
+  "id": "1ba6dfceb95f9c39117d09773baf7fafce50f71c22aa947945cafa97e0da70a3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6654f1194d1c1ae3fb0f7f258abb64d40cdce7c9f12d3d0e34f74d0c86520c1cdfea3d51e6ff9414573fb7975cda220d76ce6c6d63cea340cd5a0b4dc8b0d345",
+  "tags": [
+    [
+      "e",
+      "94156c65433b0e5aded2237c4afa9d1a4715fbec1adaf8d6fc0ba09637e19a8c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

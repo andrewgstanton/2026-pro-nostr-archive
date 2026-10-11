@@ -1,0 +1,33 @@
+{
+  "content": "Good words !!!",
+  "created_at": 1788139428,
+  "id": "f491525f2b7a188585680d8711ac7aac9bec1cae747e6ed094786c2783071202",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c21af0dc50bb6077dc61c541a17b3fb3cdab5dc3cd1821a1963c2d0a1158678f54dba75f2071bdfcd45418049de21ccee41c6dcd06404dc822a897d79e550edd",
+  "tags": [
+    [
+      "e",
+      "277d94c3acbcea654b41fe9f0632c247dea92913162d5ac29a5039e472d33369",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

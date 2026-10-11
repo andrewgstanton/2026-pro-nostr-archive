@@ -1,0 +1,31 @@
+{
+  "id": "a975e02b71858b0d93676dc88e8f26ebd5bba6687a317056fd4290330504a6dd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790652923,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "000003360380a8e70a2b7c45b28c9ec52734fee1aaf0ab411c0c7a30015cfbbd",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes still very early ..",
+  "sig": "85b67e76ce3d51216ec178de3c6456355eeae7cbc9be5a6800d07848849bbbd4b4e51fa15dfd4dc579efb4b12a632f20efa30ad0ed8e2aec7bd8dba1c11c6839",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

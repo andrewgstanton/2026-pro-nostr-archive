@@ -1,0 +1,37 @@
+{
+  "content": "I don’t anticipate fees being g significant cost here but if it becomes an issue I would adjust the wording slightly ",
+  "created_at": 1789239380,
+  "id": "f563c1a26036c49595429fb6c3dda292f28da7212f79f388f0897434662abb93",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "61020544905a72447ee293b5264bbf33e3b069db1ceda75d55a1e506cef973411182b8a908af726120c5cdc58b0d1a2ad2fc6aa2ccee5b1dc31fc9401ea2b8f5",
+  "tags": [
+    [
+      "e",
+      "cc8e99ac950373f0325588733b12ca019f1c2944eecdc57fee8b688fc879923e",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "0000b61399fb3641bb6bfeb74e6982619c170f25013f25b31df2c535c2aa9716",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "89e6176f4807f20c8acdbe2ba0ca35cf29dd6c75545d5274e61f2589e42b8842",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

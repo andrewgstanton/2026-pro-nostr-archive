@@ -1,0 +1,50 @@
+{
+  "id": "e9527c22e2108ec9eae5ab50d7b8a1171a3dae4ae5aaa1bdb907a2fc13ea23a8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790540305,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1790540305"
+    ],
+    [
+      "published_at",
+      "1790540305"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "building_continuum"
+    ],
+    [
+      "t",
+      "sovereign_technology"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "local_first"
+    ],
+    [
+      "t",
+      "protocol_agnostic"
+    ],
+    [
+      "t",
+      "freedom_maxi"
+    ]
+  ],
+  "content": "BUILDING CONTINUUM\n\nI've been thinking about what I actually want Continuum to become.\n\nI'm thinking about this while still processing an enormous amount of grief and loss over the past year and a half. Maybe that's also made questions about memory, permanence, identity and what we leave behind feel much less abstract to me.\n\nI want to build something ENORMOUS that gives its users so much sovereignty that none of them actually needs me.\n\nThey should be able to leave.\n\nTake their identity, their data, their memory; run the software themselves. Choose another provider, another client, or even another AI model.\n\nAnd yet I want them to stay - not because leaving is painful, but because I continue creating value for them.\n\nThis doesn't mean everything has to be free, or that decentralized technology has to remain small. There is nothing wrong with building a profitable company around sovereign technology.\n\nI love a lot of what people are building on Nostr. Primal is probably the most polished Nostr client I've used. Poster Place demonstrates how powerful local-first, Nostr-native software can be.\n\nBut I realized some time ago that Continuum isn't ultimately a Nostr product.\n\nNostr is ONE of several protocols Continuum uses inside a larger sovereign workspace. It happens to be the most dominant one now because of its flexibility, but it's not the only one used.\n\nThat workspace can include Nostr clients and identities, local archives, media libraries, vaults, different signing protocols, Bitcoin verification and durable records, and eventually user-controlled AI.\n\nAnd if something better comes along ten years from now, I want Continuum to be able to incorporate that too.\n\nServices, providers, clients, apps and models should be replaceable. Protocols will evolve, and Continuum's aim is to evolve and adapt accordingly.\n\nThe persistent center is the person.\n\nI don't want Continuum to remain small. I would love to build something widely used and profitable.\n\nBut I want it to reach that scale because people freely choose it—not because leaving means losing part of their digital lives.\n\nContinuum should be something the user owns, not another service the user belongs to.\n\nThat's what I want to build.\n\n#building_continuum\n#sovereign_technology\n#nostr\n#local_first\n#protocol_agnostic\n#freedom_maxi",
+  "sig": "9ecccec0c39c83eb3bdff8878c7473470aed28c04b3d8e57cdcd16bb5072dd427b5eb0a05b794d1fba3b4af252bae40ee78a42bbe8775ab89417d35a31db0214",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

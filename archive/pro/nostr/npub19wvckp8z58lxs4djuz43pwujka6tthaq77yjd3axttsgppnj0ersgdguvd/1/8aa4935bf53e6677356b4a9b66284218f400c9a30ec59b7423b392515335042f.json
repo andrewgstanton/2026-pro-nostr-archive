@@ -1,0 +1,24 @@
+{
+  "id": "8aa4935bf53e6677356b4a9b66284218f400c9a30ec59b7423b392515335042f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789925864,
+  "kind": 1,
+  "tags": [
+    [
+      "imeta",
+      "url https://blossom.primal.net/40f6bd424c57a38bb6b9840d9c8fb5a013247cbd049ebf3f1f0c9301a340c9c8.jpg",
+      "m jpeg",
+      "dim 946.0x2048.0"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Still would  like to know if anyone of my 300+ followers thinks the Continuum Memorials and Milestones is a good idea or not.  I am offering 21% discount if you pay directly in sats \n\nIf you have any questions DM me or just reply to this note.\n\nDon’t be shy.  I’d prefer comments and zaps to likes \n\nThanks much!!\n\n\nhttps://blossom.primal.net/40f6bd424c57a38bb6b9840d9c8fb5a013247cbd049ebf3f1f0c9301a340c9c8.jpg",
+  "sig": "a90fe8295b370fb4cc20142007d4f07175bbd71aa3fff83d402573bfb069fc81b32f432bb0ee10e1b1ddf51d1351f5ec09d50e36e6b06738c95f2877ea3a3644",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

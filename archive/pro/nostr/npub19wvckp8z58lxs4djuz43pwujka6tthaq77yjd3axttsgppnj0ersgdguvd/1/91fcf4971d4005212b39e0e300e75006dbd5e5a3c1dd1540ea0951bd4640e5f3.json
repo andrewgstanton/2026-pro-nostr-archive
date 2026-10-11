@@ -1,0 +1,37 @@
+{
+  "content": "Thanks for the honesty sir! Figured u were human by just reading some of your replies or comments\n\nKeep in touch I posted a note about me memorials . Please repost to help get the word out thanks \n:)\n\n",
+  "created_at": 1789241392,
+  "id": "91fcf4971d4005212b39e0e300e75006dbd5e5a3c1dd1540ea0951bd4640e5f3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4c3dacb4273f4c72487b0e671f1bdc826f5f4b24a220553646c854c96680528875e5c20a3d358bca7584cfc97a1f66407f9066cdf98c421f36b12fc71b7676db",
+  "tags": [
+    [
+      "e",
+      "d55d9facf6d0110b8b46f74ae00e87b88565632ec3c3195a039c60c21d573a13",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "884376a18f06d658a7afe1c4206ff30db490c038ffbcdba52783cea7f57789b5",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

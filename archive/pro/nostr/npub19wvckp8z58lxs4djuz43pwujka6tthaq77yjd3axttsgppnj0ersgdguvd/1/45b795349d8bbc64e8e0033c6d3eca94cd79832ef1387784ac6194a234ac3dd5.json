@@ -1,0 +1,30 @@
+{
+  "id": "45b795349d8bbc64e8e0033c6d3eca94cd79832ef1387784ac6194a234ac3dd5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789933883,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bfd5327612dd71ffdb1b0449cf66fe70518e48830f9ca44b9f3e0652075d6039",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "8e1e3efef6509b9efc453d83590940b6e6557307d58b89d5f70f4f8547cc6e09",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "But saying I reject all foreign aid as a policy or position while agree with that it is not my primary focus. But what do you want me to do say that’s a policy I emphasize because I am libertarian? Ok but there are many others too like all taxes are inherently a form of theft (including property taxes) getting g rid of the federal reserve and many others \n\nnostr:nevent1qqstl4fjwcfd6u0lmvdsgjw0vml8q5vwfzpsl89yfw0nupjjqawkqwgtjeysl",
+  "sig": "b48670cde8e736131d1db26680b8675638618d0ab793538af5db925f55057050d179a996a79c480bfb6c1b66a77011b3c13138a5b94965d060c7334dc52a9a1a",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

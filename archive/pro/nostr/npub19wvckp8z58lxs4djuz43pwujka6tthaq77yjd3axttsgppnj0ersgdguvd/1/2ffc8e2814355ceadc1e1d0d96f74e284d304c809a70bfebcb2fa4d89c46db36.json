@@ -1,0 +1,31 @@
+{
+  "content": "That is an amazing story !",
+  "created_at": 1789248785,
+  "id": "2ffc8e2814355ceadc1e1d0d96f74e284d304c809a70bfebcb2fa4d89c46db36",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6f0987d509fd99c988b4a50777234cc376990ac74750c1a64fd71d4dd378101414f706faba6027a60c21e2200d00ad5610207fd032bf444e6773608a8e607a94",
+  "tags": [
+    [
+      "e",
+      "f3cf052074f29e33b875287ccd37bcfea338e5f238ad063aead7dbac71ffdc97",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f7672b4f49a659ccba85066510f09a690dc7a778696903c98e23e59108794494",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

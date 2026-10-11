@@ -1,0 +1,31 @@
+{
+  "id": "e1c77d9dfd4248c7666f8bdf85d10fb483065d9115d7b34a087a2340fd43bfc9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790546343,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "dd8866a368001822c799bd8efed020e2e6689a77d4a4d94d9577e91a334a68a9",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f7672b4f49a659ccba85066510f09a690dc7a778696903c98e23e59108794494",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Nice pic!!",
+  "sig": "17ff1481c5e4c548a6782080e0b1baaf501aa53bd3ce7e3686be10a7d0e108d3e244191ba55677ea5a0bb7633111730c446b1c5163baaf901dcd3832f43e77eb",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

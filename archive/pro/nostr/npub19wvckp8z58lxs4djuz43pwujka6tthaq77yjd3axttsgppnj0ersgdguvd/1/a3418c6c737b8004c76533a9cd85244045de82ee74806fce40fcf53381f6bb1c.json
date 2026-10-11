@@ -1,0 +1,31 @@
+{
+  "content": "And yeah this sucks  sorry for your loss ",
+  "created_at": 1788989137,
+  "id": "a3418c6c737b8004c76533a9cd85244045de82ee74806fce40fcf53381f6bb1c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "70278e50120736a94136a4e608d4514252aa75a6ba552e4bb3a0408c36b2f782b6bd75b886f6e7744f3f306fe23c210fcd5cd9860905736b509c847e81ee3fa1",
+  "tags": [
+    [
+      "e",
+      "6bee41d0605877cfc21e05cf24d27b6d3e79ca331ca03c304a090f1f7b379694",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

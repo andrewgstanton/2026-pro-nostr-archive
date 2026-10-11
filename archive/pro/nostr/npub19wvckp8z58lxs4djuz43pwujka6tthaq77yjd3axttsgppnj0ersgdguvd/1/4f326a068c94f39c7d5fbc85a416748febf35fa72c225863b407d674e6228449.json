@@ -1,0 +1,46 @@
+{
+  "id": "4f326a068c94f39c7d5fbc85a416748febf35fa72c225863b407d674e6228449",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1789404878,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1789404878"
+    ],
+    [
+      "published_at",
+      "1789404878"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "softwareengineering"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "principalengineer"
+    ],
+    [
+      "t",
+      "fractionalcto"
+    ],
+    [
+      "t",
+      "consulting"
+    ]
+  ],
+  "content": "AI has made it remarkably easy to build software.\n\nIt hasn't made software engineering obsolete.\n\nA founder can now go from an idea to a working application incredibly quickly. That's a tremendous development. But eventually that application encounters the real world.\n\nArchitecture matters. Authentication gets complicated. APIs don't behave as expected. Data needs to be migrated. Deployments fail. Performance and security matter. Integrations break. And sometimes nobody is entirely sure what a rapidly generated codebase is actually doing.\n\nThat's where experienced engineering becomes more valuable, not less.\n\nI'm a Principal Engineer and fractional CTO with deep hands-on experience across Java, Node.js/JavaScript, Python and C/C++, backend systems, APIs, databases, integrations, distributed systems and cloud infrastructure.\n\nI work with founders and teams at the point where a technical problem needs more than another prompt or another ticket: diagnosis, architecture, technical judgment and hands-on execution.\n\nThat might mean rescuing a stalled project, taking an AI prototype to production, modernizing an existing system, solving a difficult integration, or providing ongoing technical leadership without the commitment of a full-time CTO.\n\nI'm opening up availability for a small number of consulting engagements.\n\nYou built it fast. I can help make it work.\n\nDM me if you have something difficult that needs solving.\n\n#SoftwareEngineering #AI #PrincipalEngineer #FractionalCTO #Consulting",
+  "sig": "ee8039bfec397b2ff9a7937adfa16babd1f1081dd9be6fab649b9983b4f3bfcca985587b8e86791cb983b7c67d377c0310fbde050ddfcb57d9f0159e8741c6b2",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

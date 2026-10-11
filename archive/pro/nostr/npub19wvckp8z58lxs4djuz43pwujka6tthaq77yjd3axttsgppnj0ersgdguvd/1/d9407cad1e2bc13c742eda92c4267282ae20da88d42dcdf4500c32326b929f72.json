@@ -1,0 +1,37 @@
+{
+  "content": "I would line to know as well ",
+  "created_at": 1788825344,
+  "id": "d9407cad1e2bc13c742eda92c4267282ae20da88d42dcdf4500c32326b929f72",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4b33401cd0e471d0d45a06fd4b647eb228112c3828c76a649b88e675f209c59d9a6714a59bbcbc12f9b90626c12c2f7cb7fa6b21cf26676d2265f30139ae1a01",
+  "tags": [
+    [
+      "e",
+      "a44179f5e621f0bfc2a58af452d46106328456b66e8e35a11221519fc4a67480",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8ae7965af1b61347bb9900b91cfa9487e4da2400bdb063521ad0850706ff5f96",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a0cbe4ca902e6365f92aec4d974b0058c0f698a50fcfd99fb26f8404f4e8a913",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b164796084e32b45177e42d8c1073f43de5c5889e683607eed068ec8cdcb7e26",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790557659,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Continuum can sell services around what you own without needing to own you—or your digital life",
+  "sig": "dd0d414904309c522fa00dc26f5814beca84d8a20558f2b022152d534087ef1f4a752f97588762ff994e2b9c5bd2d3399452c24df541919794bf4aafab14a826",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

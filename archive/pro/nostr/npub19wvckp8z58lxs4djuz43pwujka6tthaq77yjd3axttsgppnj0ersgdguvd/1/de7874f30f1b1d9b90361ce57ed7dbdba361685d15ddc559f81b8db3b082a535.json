@@ -1,0 +1,31 @@
+{
+  "content": "Português:\n\nExatamente. Com as taxas atuais, o custo on-chain de um OP_RETURN curto é realmente muito baixo. O serviço é mais sobre tornar inscrições permanentes no Bitcoin simples e acessíveis para pessoas que não querem aprender a criar e gerenciar essas transações por conta própria.\n\nEnglish:\n\nExactly. At current fee rates, the actual on-chain cost of a short OP_RETURN is very low. The service is really about making permanent Bitcoin inscriptions simple and accessible to people who don’t want to learn how to construct and manage those transactions themselves.",
+  "created_at": 1789332491,
+  "id": "de7874f30f1b1d9b90361ce57ed7dbdba361685d15ddc559f81b8db3b082a535",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7c2d4b641dc288489b8d5ef7f6be5e11bcf3e0130bc8f359e6705bba6d21a4b71f836b31578500e653f8978e9aac50b83f6512494d945fed82e80cb55976e157",
+  "tags": [
+    [
+      "e",
+      "8307a04817aba2b1396ff3fd8b58253346168cdd89ed8fa6c4ee13f5c1aef5db",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8de3b31ee72327efc25e738bbe0cbdd2ca1120dccd18eb2dc023a882a49619eb",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net"
+  ],
+  "published": 1
+}

@@ -1,0 +1,20 @@
+{
+  "content": "I’ve been thinking a lot about reciprocity, respect, and basic etiquette on Nostr today.\n\nI recently went through the personal npubs I follow. If someone didn’t follow me, I unfollowed them. I went from following 600+ accounts to about 295—almost exactly the number that follow me.\n\nThis isn’t about ideology. In fact, I follow people with whom I strongly disagree, sometimes on very important things. If they treat me with respect and there is some basic reciprocity, I’m perfectly happy to hear what they have to say.\n\nNor do I think anyone owes me a follow, reply, zap, repost, or anything else.\n\nBut the reverse is also true: I don’t owe anyone my attention simply because they’re prominent, have a large following, wrote a book, built something useful, or are considered important in Bitcoin or Nostr.\n\nTo me, a social network should be social.\n\nIf someone follows you, regularly replies to you, quotes you, reposts you, or otherwise takes an interest in what you’re saying, occasionally acknowledging that person is basic etiquette. You don’t have to agree with them. You don’t have to become friends. You certainly don’t have to respond to everything.\n\nJust recognize that there’s another human being there.\n\nWhat increasingly repels me is the influencer model: thousands of people are encouraged to follow, repost, zap, listen, and engage, while recognition flows primarily toward a small inner circle.\n\nThat may be how someone chooses to use Nostr. That’s their prerogative.\n\nBut I don’t have to participate in it.\n\nI’d rather have a smaller social graph containing people who disagree with me but recognize me as a fellow participant than follow hundreds of “important” people with whom the relationship consists entirely of me listening to them.\n\nYou don’t have to agree with me.\n\nJust treat me like a human being, and I’ll try to extend the same courtesy to you.\n\nThat’s the kind of Nostr I want.\n\nAnd yes, I had AI help me craft and organize this note. I use AI as a tool to help me express what I’m thinking more clearly, and I’m not ashamed of that either. The thoughts and judgments are mine.\n\nIf you disagree with that—or with anything I’ve written here—so be it.\n\n",
+  "created_at": 1788133689,
+  "id": "0130e982d28b41f8bbf6ca290eafd7d906cdf1cf5bc7a465d15868661a72d231",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "44cb7065abf5d8efd3f84e3a17383232d0d248412bca13621ca4104f9d6ab975e8c5a2dd25128962092bdc3cfb282d0456e9c9b75a7319c78087544128df433b",
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
