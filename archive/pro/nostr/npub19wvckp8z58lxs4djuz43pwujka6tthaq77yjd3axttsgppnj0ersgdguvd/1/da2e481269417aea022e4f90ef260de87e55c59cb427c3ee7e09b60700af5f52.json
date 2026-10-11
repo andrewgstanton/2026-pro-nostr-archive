@@ -1,0 +1,26 @@
+{
+  "id": "da2e481269417aea022e4f90ef260de87e55c59cb427c3ee7e09b60700af5f52",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791740243,
+  "kind": 1,
+  "tags": [
+    [
+      "imeta",
+      "url https://blossom.primal.net/5309d39199d70e94ca3ebb0754e2ecd4bd0265023669d9b45de5815b06621ea7.png",
+      "m png",
+      "dim 1125.0x2436.0"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "CONTINUUM MEMORIALS & MILESTONES\n\nPreserve meaningful memories, achievements, and milestones permanently on Bitcoin.\n\nFor just $21, you receive:\n\n* A permanent Bitcoin inscription\n* A personalized memorial or milestone page with a photo\n* A shareable link and QR code\n\nExplore our growing collection of memorials and milestones:\n\nhttps://mycontinuum.xyz/memorials/\n\n21% discount when paying in Bitcoin!\n\nPreserve what matters. Share it with future generations.\nhttps://blossom.primal.net/5309d39199d70e94ca3ebb0754e2ecd4bd0265023669d9b45de5815b06621ea7.png",
+  "sig": "040114cd8ad29032455e6b9cb12e275fc07e9d98a2d667f40ad5355b8ae10630ae564e906daa45a7e0bbfdfa458ed121cbcacb5abd4039a087c0ed996ca853fd",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

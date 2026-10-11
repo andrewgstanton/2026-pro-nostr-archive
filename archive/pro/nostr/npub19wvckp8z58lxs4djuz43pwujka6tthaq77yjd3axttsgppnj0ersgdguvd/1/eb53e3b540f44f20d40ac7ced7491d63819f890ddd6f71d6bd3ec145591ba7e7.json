@@ -1,0 +1,18 @@
+{
+  "id": "eb53e3b540f44f20d40ac7ced7491d63819f890ddd6f71d6bd3ec145591ba7e7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791242180,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "DECENTRALIZATION IS NOT “ANYTHING GOES” (shorter version)\n\nMy first note on this was too long, so here’s the core of what I was trying to say:\n\n* Censorship resistance is not moral neutrality. No central authority controlling speech doesn’t mean everything said is wise, truthful, or good.\n\n* Sovereignty works both ways. You are free to speak. Others are free to challenge you, mute you, distrust you, or refuse to associate with you.\n\n* Freedom requires responsibility. Bitcoin has no central master, but it still has rules. Human freedom likewise doesn’t mean freedom from consequences.\n\nI’ll conclude with two principles:\n\nSovereignty: I own my choices.\nResponsibility: I own their consequences.\n\nHope this is clearer.\n\nThanks!\n",
+  "sig": "c24244304ead84ac72b10ff99199aebb7416dc3e0fcdc5ba6539d8fd4354772599c4d405d579017bc4b1e46976590ea7f29b5b80ff294f3dec652cfb41b5652f",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

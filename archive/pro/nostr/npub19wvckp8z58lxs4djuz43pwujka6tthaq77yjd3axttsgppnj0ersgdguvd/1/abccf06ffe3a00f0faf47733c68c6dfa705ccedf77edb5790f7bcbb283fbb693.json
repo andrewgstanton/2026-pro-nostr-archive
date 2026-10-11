@@ -1,0 +1,25 @@
+{
+  "id": "abccf06ffe3a00f0faf47733c68c6dfa705ccedf77edb5790f7bcbb283fbb693",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791242810,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "eb53e3b540f44f20d40ac7ced7491d63819f890ddd6f71d6bd3ec145591ba7e7",
+      "",
+      "root"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes !! and a reminder that notes should  be short and to the point\n \n\n",
+  "sig": "45820fd8feebbb1e3d4f090423cc7326c0f76a27ffd7a1307ee0ce4d70aced9a3a44f150272c15bfb2eabe2dc6bba6c9a78a76fa6bbaa1e4fcbe64f3fc7a92e3",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

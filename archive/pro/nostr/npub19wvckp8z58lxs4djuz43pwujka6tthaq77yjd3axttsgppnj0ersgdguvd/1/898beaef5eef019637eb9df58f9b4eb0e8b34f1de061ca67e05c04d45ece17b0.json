@@ -1,0 +1,31 @@
+{
+  "id": "898beaef5eef019637eb9df58f9b4eb0e8b34f1de061ca67e05c04d45ece17b0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791239839,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "02472e2667549c6d1ed54e0825d0d624d091e989007baa746a5ecfc9ae51bf7b",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ab0451c71a6e1a60fbb7dea598b743c8ce68f01f87c6c4d3777435b8216f8b9b",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "That’s a different discussion. \n\nThe note really wasn’t about Israel or the Gaza war. \n\nIt was about decentralization, freedom, and responsibility. \n\nIf you want to respond to the main points of the note, I’m happy to discuss them.\n\nThanks ",
+  "sig": "f175e6bfd4b99509e5101a1b726483168a27b13960afa05cfbcfd18eff7c6b034767881b7cfb0ea0eca6738d25ef32b30ec49d402d0d58a0249126503b10a665",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

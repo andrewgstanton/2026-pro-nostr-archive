@@ -1,0 +1,39 @@
+{
+  "id": "3ee02150e23339d46fddc6f4d46d1c8bbdcfd8a1ac773c98fdee2309cf4ec0b4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791175478,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "12e6981cae951dec95d33e688b65822415568858879237858b918cb6f9d4fee0",
+      "wss://relay.ditto.pub/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "8df525f9d63381a83546b74e9f0e8ae5fcb2841be73f879c68d8f62984a0048a",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "40dba08627a2f2c69c3031666149b567168f049894aa5c42203a3920a3de8483",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I think you’re answering a different question. \n\nMy point wasn’t that decentralized protocols prevent people from doing or saying whatever they want; obviously they don’t. \n\nMy point was that freedom from centralized control doesn’t eliminate personal responsibility, moral judgment, or consequences. \n\nNothing you’ve written here really addresses that distinction.",
+  "sig": "6d7ffcda06f9c7e18d4c63eb598e38f7b8e403322bbe8c783e8019519ead798e215ad266f0bd9078ab8704a7edb1ad0db37cffdf7ba91607f7aba9856de60201",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

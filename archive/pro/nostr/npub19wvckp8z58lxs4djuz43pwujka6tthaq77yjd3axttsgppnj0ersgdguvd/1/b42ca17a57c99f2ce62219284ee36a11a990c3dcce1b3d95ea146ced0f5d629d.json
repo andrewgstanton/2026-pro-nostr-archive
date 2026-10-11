@@ -1,0 +1,36 @@
+{
+  "id": "b42ca17a57c99f2ce62219284ee36a11a990c3dcce1b3d95ea146ced0f5d629d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1790543553,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00000467c70e7b81cae64bc1ea0cd018e85c2c96cd7283e10d340949c8c0e15c",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "b2e801085e83c2e8487017b00e78f1454f8b8238d3345f6fd54812908775965f",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "Yes, absolutely. Building what you want to use and creating your own tools can be a powerful expression of sovereignty.\n\nWhat I mean is that the ability to create something doesn’t necessarily tell us who ultimately controls it.\n\nI can build my own tool with an LLM and still depend on someone else’s model, cloud, identity system, APIs or data storage to keep it working.\n\nAnd those dependencies aren’t necessarily bad either. The question for me is whether they are replaceable. Can I switch providers, models or infrastructure without losing my identity, data, history or the ability to keep using what I built?\n\nFreedom to build is incredibly important. I want sovereignty over what I build and use too.",
+  "sig": "d44971a33dce4b4aff9bc848c05709b47da46fb5e05f47d0a77bbb19d3bae938ec3bce40a21f558eaa3de6b8f373c735c62ca8ddeb7872c4745a381b22005609",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
