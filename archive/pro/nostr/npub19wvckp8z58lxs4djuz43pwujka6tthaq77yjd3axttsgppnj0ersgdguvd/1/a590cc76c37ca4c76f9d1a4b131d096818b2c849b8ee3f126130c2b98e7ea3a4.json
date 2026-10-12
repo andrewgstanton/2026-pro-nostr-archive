@@ -1,0 +1,27 @@
+{
+  "content": "**CONTINUUM MEMORIALS & MILESTONES — AN UPDATE**\n\nI've been making some improvements to Continuum Memorials & Milestones today\n\nThe main page now lists all published memorials and milestones. You can browse the collection and click on any entry to view its individual page, including the inscription permanently recorded on Bitcoin.\n\nI've also added Nostr integration.\n\nEach memorial or milestone can now link to its corresponding Nostr note, which includes the image, links to the memorial or milestone page, and Bitcoin verification.\n\nGoing forward, when a new memorial or milestone is created, a corresponding Nostr note will also be published containing the full inscription text and links to the original record.\n\nThis provides multiple ways to discover, share, and independently verify these records, without relying on a single platform.\n\nExplore the memorials and milestones:\n\nhttps://mycontinuum.xyz/memorials/",
+  "created_at": 1791774006,
+  "id": "a590cc76c37ca4c76f9d1a4b131d096818b2c849b8ee3f126130c2b98e7ea3a4",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "eed6eb3cbf85132387e13bb64e6394b852200ca42c614435e71f99e5cd942eec86d46558b4dcba46c3ba9d490efa44f9c255ab5ab548b05c9877fee5c88ee157",
+  "tags": [
+    [
+      "d",
+      "note-1791774006"
+    ],
+    [
+      "published_at",
+      "1791774006"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
