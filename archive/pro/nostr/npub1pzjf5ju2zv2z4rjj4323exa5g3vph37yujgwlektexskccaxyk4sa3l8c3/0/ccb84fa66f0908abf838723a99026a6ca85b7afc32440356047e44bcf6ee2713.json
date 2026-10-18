@@ -1,0 +1,10 @@
+{
+  "kind": 0,
+  "created_at": 1791765771,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "content": "{\"name\": \"ContinuumMilestones\", \"about\": \"A new dedicated signing identity for creating a signing Continuum Milestone and Memorial event updates\", \"picture\": \"\", \"banner\": \"\", \"website\": \"\", \"nip05\": \"\", \"lud16\": \"\"}",
+  "tags": [],
+  "id": "ccb84fa66f0908abf838723a99026a6ca85b7afc32440356047e44bcf6ee2713",
+  "sig": "740fa3ac83b795c45ca293f4443d28673a904b9f981947c7e4089aac4b1182799318c40a9709ee51e3c0374fe016c98eba70aafd539af3bcaff8d34d47f3681b",
+  "published": 1
+}
