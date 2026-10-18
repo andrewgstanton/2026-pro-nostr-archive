@@ -1,0 +1,23 @@
+{
+  "content": "Daphne Chun — Memorial\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/daphne-chun.jpg\n\nRecorded on Bitcoin\n\nDAPHNE C. CHUN\nAUGUST 7, 1941 - JULY 4, 2011\nBELOVED WIFE AND MOTHER\n\nPermanently recorded on the Bitcoin network\n\nView this memorial:\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\nVerify on Bitcoin:\nmempool.space:\nhttps://mempool.space/tx/5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\nBlockstream:\nhttps://blockstream.info/tx/5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43",
+  "created_at": 1792350876,
+  "id": "63249ee809aeefaae580454457798769fc35d3a3538cd2e254aeceb78e6f960d",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "20afaea661c7aee3ac1907231fd6e24a85c7810efcdfc37ef6958feb8436b7c850d0b00abe5991e28a137511bc185c02f8f60816000f14610218c5ca4306b091",
+  "tags": [
+    [
+      "d",
+      "note-1792350876"
+    ],
+    [
+      "published_at",
+      "1792350876"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

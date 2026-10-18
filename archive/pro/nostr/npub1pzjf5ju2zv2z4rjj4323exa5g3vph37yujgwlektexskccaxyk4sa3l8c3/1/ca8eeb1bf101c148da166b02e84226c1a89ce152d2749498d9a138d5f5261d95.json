@@ -1,0 +1,27 @@
+{
+  "id": "ca8eeb1bf101c148da166b02e84226c1a89ce152d2749498d9a138d5f5261d95",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791769127,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791769127"
+    ],
+    [
+      "published_at",
+      "1791769127"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "James Andrew Stanton — Scripture\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/james-stanton.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=86f83606061e46dc5f3777f39f5d8451edf12c252cee9be771dafd6acf54f29e\n\nhttps://mempool.space/tx/86f83606061e46dc5f3777f39f5d8451edf12c252cee9be771dafd6acf54f29e",
+  "sig": "e5fd9996216f66ceaa766b90ce8d72d02f4ce5b7a9f4c83d221596af8b9ff5aa7e8eef4d30b7e38f3517aa7cccf89bdc009b8425e5546ea67b891a90585046b7",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

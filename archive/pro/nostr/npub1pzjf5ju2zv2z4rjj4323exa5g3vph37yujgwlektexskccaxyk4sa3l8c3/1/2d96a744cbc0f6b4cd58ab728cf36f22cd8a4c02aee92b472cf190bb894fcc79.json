@@ -1,0 +1,27 @@
+{
+  "id": "2d96a744cbc0f6b4cd58ab728cf36f22cd8a4c02aee92b472cf190bb894fcc79",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791767246,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791767246"
+    ],
+    [
+      "published_at",
+      "1791767246"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Bill Williams — From Coming Soon to SOLD\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/bill-willams-sold.png\n\nhttps://mycontinuum.xyz/memorials/?txid=2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3\n\nhttps://mempool.space/tx/2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3",
+  "sig": "a5f9bba8c8c73ce0a8a82b2607a58be0cb31d43e7feb26db8ee64dc6945586c49ed42b2620fe5999f91fa45cf7da85a0520216f55c959dec480510fa4107720e",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

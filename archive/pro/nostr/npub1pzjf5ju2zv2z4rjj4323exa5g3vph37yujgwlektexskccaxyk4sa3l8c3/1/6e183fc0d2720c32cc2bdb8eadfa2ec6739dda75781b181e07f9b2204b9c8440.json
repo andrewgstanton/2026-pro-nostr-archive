@@ -1,0 +1,23 @@
+{
+  "content": "Champ and Whiskers — Scripture\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/champ-whiskers-image.jpg\n\nRecorded on Bitcoin\n\n...NOT ONE OF THEM IS FORGOTTEN BEFORE GOD.\nLUKE 12:6\n\nPermanently recorded on the Bitcoin network\n\nView this memorial:\nhttps://mycontinuum.xyz/memorials/?txid=e957fd78abb51396dc855664963256ed8336d4647b4dbb4cc49d7516fc47f3c0\n\nVerify on Bitcoin:\nmempool.space:\nhttps://mempool.space/tx/e957fd78abb51396dc855664963256ed8336d4647b4dbb4cc49d7516fc47f3c0\n\nBlockstream:\nhttps://blockstream.info/tx/e957fd78abb51396dc855664963256ed8336d4647b4dbb4cc49d7516fc47f3c0",
+  "created_at": 1792354456,
+  "id": "6e183fc0d2720c32cc2bdb8eadfa2ec6739dda75781b181e07f9b2204b9c8440",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "db18934f587a717566cf05819e9c42357504b22e789f14c4b312f973b51f43161a81c94e0631cf1e78e627dc85fd93f486d017a848a0ddd6dcfa02f8c163ad7b",
+  "tags": [
+    [
+      "d",
+      "note-1792354456"
+    ],
+    [
+      "published_at",
+      "1792354456"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

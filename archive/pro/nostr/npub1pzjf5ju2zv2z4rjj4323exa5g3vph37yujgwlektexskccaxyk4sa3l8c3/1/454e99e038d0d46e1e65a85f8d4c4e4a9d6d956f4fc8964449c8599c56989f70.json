@@ -1,0 +1,27 @@
+{
+  "id": "454e99e038d0d46e1e65a85f8d4c4e4a9d6d956f4fc8964449c8599c56989f70",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791769396,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791769396"
+    ],
+    [
+      "published_at",
+      "1791769396"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Champ and Whiskers — Scripture\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/champ-whiskers-image.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=e957fd78abb51396dc855664963256ed8336d4647b4dbb4cc49d7516fc47f3c0\n\nhttps://mempool.space/tx/e957fd78abb51396dc855664963256ed8336d4647b4dbb4cc49d7516fc47f3c0",
+  "sig": "35cd7aa9cc05a1c19b3c1b5cc12823afaea5e690c7f4a85bc60052ee78aed79de8fb240038f2ee3408de9844c4ad5cbfafb7f303173b4c661320a5728676396c",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

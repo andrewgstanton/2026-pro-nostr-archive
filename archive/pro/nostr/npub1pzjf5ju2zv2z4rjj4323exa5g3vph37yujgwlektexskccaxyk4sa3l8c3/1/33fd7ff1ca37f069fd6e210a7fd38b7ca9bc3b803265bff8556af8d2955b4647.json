@@ -1,0 +1,23 @@
+{
+  "content": "James Andrew Stanton\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/james-stanton.jpg\n\nRecorded on Bitcoin\n\nJAMES ANDREW STANTON\nMARCH 18, 1937 - SEPT. 29, 2025\nBELOVED HUSBAND AND FATHER\n\nPermanently recorded on the Bitcoin network\n\nView this memorial:\nhttps://mycontinuum.xyz/memorials/?txid=5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571\n\nVerify on Bitcoin:\nmempool.space:\nhttps://mempool.space/tx/5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571\n\nBlockstream:\nhttps://blockstream.info/tx/5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571",
+  "created_at": 1792354365,
+  "id": "33fd7ff1ca37f069fd6e210a7fd38b7ca9bc3b803265bff8556af8d2955b4647",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "d5aba9cbea3e2b1ec9d785e0fd71aa4152449c0743eb57487247a93c89f5f340ce96d26d17cf302c4ddbb7a3a79a1c81b1d7eb76dd1531d4f17f6bcbc03d208e",
+  "tags": [
+    [
+      "d",
+      "note-1792354365"
+    ],
+    [
+      "published_at",
+      "1792354365"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

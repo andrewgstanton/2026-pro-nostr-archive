@@ -1,0 +1,27 @@
+{
+  "id": "3f4c326f5c83c19e66dfe1aa53d141c0d9693c3c1de2a8d5ddd92f2a3d6dcd21",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791768963,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791768963"
+    ],
+    [
+      "published_at",
+      "1791768963"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Daphne Chun — Scripture\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/daphne-chun.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=52890dd212f27edd8f05412165e409932b36f229a9fba274cd22d5fb531939d5\n\nhttps://mempool.space/tx/52890dd212f27edd8f05412165e409932b36f229a9fba274cd22d5fb531939d5",
+  "sig": "08744354fbfd3526fe28d9a5319c5f85abd444ccf4231a78ba8cc86631c55d3b15a4f56228e9525f9cac27f2b3f6df32a3fd906edade84a50e19e2568aacab70",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

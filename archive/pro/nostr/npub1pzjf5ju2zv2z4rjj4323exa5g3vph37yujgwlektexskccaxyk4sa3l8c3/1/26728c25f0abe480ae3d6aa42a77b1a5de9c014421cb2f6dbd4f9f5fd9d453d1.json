@@ -1,0 +1,23 @@
+{
+  "content": "Bill Williams — From Coming Soon to SOLD\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/bill-willams-sold.png\n\nhttps://mycontinuum.xyz/memorials/?tx_id=2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3\n\nhttps://mempool.space/tx/2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3",
+  "created_at": 1791766853,
+  "id": "26728c25f0abe480ae3d6aa42a77b1a5de9c014421cb2f6dbd4f9f5fd9d453d1",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "b260918df36a30c0e993e333d7c0898781e769bdce3e39ad4c350232bb5ef4b993c62044e1271ee4eda930f895e768c3fac057f52c6b1ad88f07b2dbf40115ae",
+  "tags": [
+    [
+      "d",
+      "note-1791766853"
+    ],
+    [
+      "published_at",
+      "1791766853"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

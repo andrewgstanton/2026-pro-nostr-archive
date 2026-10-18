@@ -1,0 +1,27 @@
+{
+  "id": "9b8e63fd46e5863b807f464702449e2048f684a8b8209242389038cb65e8f607",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791769245,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791769245"
+    ],
+    [
+      "published_at",
+      "1791769245"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "James Andrew Stanton\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/james-stanton.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571\n\nhttps://mempool.space/tx/5085e45a3db08845100bf55bebdf886558ea45bbf7601a945fbbe8bc41c80571",
+  "sig": "66fb77b334a62d19a98042a6ff62ec1fbb4d0a371ddc0b844a2e8a093c93a6ac94d9eb549b17b014c14b1e2097cdbd77eed1b74490f83813344bd9f48492302b",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "83dc42a7426338b25096fdb4cc8794331aa1b9b3e129c815dddc6ff9aaeb875d",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791769488,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791769488"
+    ],
+    [
+      "published_at",
+      "1791769488"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Champ\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/champ.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=bcbab7a0c18667bcca3b764cd8e7886ca691631e10e094de33249d1167e6cebb\n\nhttps://mempool.space/tx/bcbab7a0c18667bcca3b764cd8e7886ca691631e10e094de33249d1167e6cebb",
+  "sig": "62d31696762d524c889bf4d4d528ab650673a495a30e6dfd576d6f7e3d733b40e5dd74fe3da6bbf3e0854b62687efcb70576fb04c24d525b44bfdae1df33a120",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

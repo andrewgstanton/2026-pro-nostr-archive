@@ -1,0 +1,23 @@
+{
+  "content": "Daphne Chun — Scripture\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/daphne-chun.jpg\n\nRecorded on Bitcoin\n\n...TO BE ABSENT FROM THE BODY, AND TO BE PRESENT WITH THE LORD.\n2 COR 5:8 (KJV)\n\nPermanently recorded on the Bitcoin network\n\nView this memorial:\nhttps://mycontinuum.xyz/memorials/?txid=52890dd212f27edd8f05412165e409932b36f229a9fba274cd22d5fb531939d5\n\nVerify on Bitcoin:\nmempool.space:\nhttps://mempool.space/tx/52890dd212f27edd8f05412165e409932b36f229a9fba274cd22d5fb531939d5\n\nBlockstream:\nhttps://blockstream.info/tx/52890dd212f27edd8f05412165e409932b36f229a9fba274cd22d5fb531939d5",
+  "created_at": 1792350759,
+  "id": "65c65ee7482f206a831100c9f6d019b70ee2ab8480fa19cb9f0fed9974ee191e",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "8d92c98944cd52c706b3e45eb4f6057e9e044d8226dd0aa9719018bfdd5ebaa456589560e4861b257d6b690b8c5fed50e5c8eb892d55abe53fc597dd5c3d0894",
+  "tags": [
+    [
+      "d",
+      "note-1792350759"
+    ],
+    [
+      "published_at",
+      "1792350759"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "published": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": "92d8eefa8bb10155db0fa7e06c8aa9a04e91a6b7559ecaf0172f1934c45fd113",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791769044,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791769044"
+    ],
+    [
+      "published_at",
+      "1791769044"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Daphne Chun — Memorial\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/daphne-chun.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43\n\nhttps://mempool.space/tx/5b1cad1375d04980d8d8ff042556aef343ce05dd9a4c058436cdc93da8245c43",
+  "sig": "0ac09d035e49d15d11c56f3e856d53e605ae75d30234792c3aaed679daf4059db72576a738667d27e521483a3b51a6233991f7fb472ebaff443d0df987819ad4",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

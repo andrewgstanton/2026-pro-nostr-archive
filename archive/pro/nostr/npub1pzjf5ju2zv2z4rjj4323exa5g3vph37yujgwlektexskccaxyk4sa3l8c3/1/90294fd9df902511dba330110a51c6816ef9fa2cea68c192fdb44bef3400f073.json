@@ -1,0 +1,27 @@
+{
+  "id": "90294fd9df902511dba330110a51c6816ef9fa2cea68c192fdb44bef3400f073",
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "created_at": 1791768832,
+  "kind": 1,
+  "tags": [
+    [
+      "d",
+      "note-1791768832"
+    ],
+    [
+      "published_at",
+      "1791768832"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "content": "Founding of Continuum\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/continuum-logo.jpg\n\nhttps://mycontinuum.xyz/memorials/?txid=8cb51eef284c9ed536bac8b8d7128fb4079a7911bcc5a2e51f5a26e1ef180f76\n\nhttps://mempool.space/tx/8cb51eef284c9ed536bac8b8d7128fb4079a7911bcc5a2e51f5a26e1ef180f76",
+  "sig": "82ba10bf6d2d814827483406802d2c4942a0e121a5f97425f523bd5b352a0cc6cb4c1880809c9aeda2a6113f396cadaa218a786576e265c26f9a8dd3d8beb63b",
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.bitcoiner.social"
+  ],
+  "published": 1
+}

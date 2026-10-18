@@ -1,0 +1,27 @@
+{
+  "content": "Bill Williams — From Coming Soon to SOLD\n\nhttps://media.mycontinuum.xyz/2026/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/bill-willams-sold.png\n\nRecorded on Bitcoin\n\nBill Williams | San Francisco real estate.\nFrom coming soon to SOLD #RealBillSF\n\nPermanently recorded on the Bitcoin network\n\nView this milestone:\nhttps://mycontinuum.xyz/memorials/?txid=2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3\n\nVerify on Bitcoin:\nmempool.space:\nhttps://mempool.space/tx/2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3\n\nBlockstream:\nhttps://blockstream.info/tx/2cd3e1578811531f0925d643e5afcf4da46aab49fc6ef8f16ab2d0df09eab9d3",
+  "created_at": 1792347581,
+  "id": "a04aae5e7c1a45a2c6d390293c43964fae1e5bb30d40c243fbcdbc5eb260ed4f",
+  "kind": 1,
+  "pubkey": "08a49a4b8a13142a8e52ac551c9bb444581bc7c4e490efe6cbc9a16c63a625ab",
+  "sig": "664f0e13b3d4a17bf4fe8d6e379cfcc9efd09a300a622b78f1dd1910c0eed92bd4023e90c318b0c8fe890884f7ed00c8b1b614988a88eb2cce599c63e2277e02",
+  "tags": [
+    [
+      "d",
+      "note-1792347581"
+    ],
+    [
+      "published_at",
+      "1792347581"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "realbillsf"
+    ]
+  ],
+  "published": 1
+}
