@@ -1,0 +1,10 @@
+{
+  "kind": 0,
+  "created_at": 1792964988,
+  "pubkey": "67da49399099eaebdd06cd311a4df4c7925b6cfc49eac5044adceb560b74059c",
+  "content": "{\"name\": \"GGG\", \"about\": \"Golden Gate Group Investments\\n\\nBuilding long-term value through real estate ownership, with an interest in operating businesses.\\n\\nExploring Bitcoin\\u2019s role in payments, reserves, and future investments.\", \"picture\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/images/2026-10-25-golden-gate-logo-square-v2.png\", \"banner\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/images/2026-10-25-golden-gate-nostr-banner.jpg\", \"website\": \"None\", \"nip05\": \"goldengate@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "tags": [],
+  "id": "73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13",
+  "sig": "e75187620374c2d7704d96e4b9d627ed398f92014cd968406c2903642d51cb933dc7bf82b249efee6506897c7901e1ff7ca3eefd2d22011c97fa6c794b1a0316",
+  "published": 1
+}

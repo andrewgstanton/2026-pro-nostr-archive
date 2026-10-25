@@ -1,0 +1,10 @@
+{
+  "kind": 0,
+  "created_at": 1792962565,
+  "pubkey": "67da49399099eaebdd06cd311a4df4c7925b6cfc49eac5044adceb560b74059c",
+  "content": "{\"name\": \"GGG\", \"about\": \"Worldwide Real Estate Investments powered by Bitcoin\\n\\n\\nCurrent owner of properties in Texas and Ohio\", \"picture\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/images/2026-10-25-golden-gate-logo-square-v2.png\", \"banner\": \"\", \"website\": \"None\", \"nip05\": \"goldengate@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "tags": [],
+  "id": "2464473c9a06f20a31ba49c4ac683c88e7c9a0d5f52d19eb3ae96d497d848b28",
+  "sig": "c9c1b1419e03091bb71507a78e316f3b9378343922fd3d9f54a66291cdc8e9e6573e560edf6397a93b3bb29032bdb2c8c0c89d24b591400e569f086e6073fa85",
+  "published": 1
+}

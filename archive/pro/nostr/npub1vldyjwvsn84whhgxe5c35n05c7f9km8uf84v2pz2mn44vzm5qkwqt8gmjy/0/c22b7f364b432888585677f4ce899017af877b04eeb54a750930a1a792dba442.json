@@ -1,0 +1,10 @@
+{
+  "kind": 0,
+  "created_at": 1792963771,
+  "pubkey": "67da49399099eaebdd06cd311a4df4c7925b6cfc49eac5044adceb560b74059c",
+  "content": "{\"name\": \"GGG\", \"about\": \"Golden Gate Group Investments\\n\\nReal Estate Investments and Businesses powered by Bitcoin\\n\\n\\nCurrent owner of properties in California, Texas and Ohio\", \"picture\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/images/2026-10-25-golden-gate-logo-square-v2.png\", \"banner\": \"https://media.mycontinuum.xyz/2026/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/images/2026-10-25-golden-gate-nostr-banner.jpg\", \"website\": \"None\", \"nip05\": \"goldengate@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "tags": [],
+  "id": "c22b7f364b432888585677f4ce899017af877b04eeb54a750930a1a792dba442",
+  "sig": "2a40feb7ab8e827c3c1f64f6aea858b1800bd117ebf22db2330f67d3071e0f232ad3f816f2346630eb3780fe73a6de07e2b36e4648a719fd9a8fe5fe5ec132eb",
+  "published": 1
+}
