@@ -1,0 +1,19 @@
+{
+  "id": "9a841bddd5d0cd9fb1c75a2115ab6e5ab3ab9c24a9982ede5c5f458e845a344f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791879680,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "The Unbroken Thread\n\nOf Bitcoin, Nostr, sovereignty, and the dignity of the human person\n\nBefore the ledger marked its first,\nBefore the keys were made,\nThere lived a longing in the heart\nNo empire could persuade.\n\nTo speak without a master's leave,\nTo labor and to own,\nTo carry forth the fruits of toil,\nAnd call one's conscience home.\nFor kingdoms rise and kingdoms fall,\nAnd towers turn to dust;\nThe promises of mighty men\nAre fragile things to trust.\n\nSo from the mathematics came\nA ledger none could own;\nNo king could mint its wealth at will,\nNo emperor claim its throne.\n\nA chain of blocks, a measured time,\nEach witness joined to last;\nA record written into stone\nOf moments slipping past.\n\nYet gold alone cannot redeem,\nNor numbers heal the soul;\nA ledger cannot teach us love,\nOr make the broken whole.\n\nAnd then across the scattered earth,\nA thousand voices stirred;\nNo single gatekeeper could claim\nThe ownership of words.\n\nA message signed, a public key,\nA voice that bears a name;\nThrough many relays travels forth,\nThough none may own its flame.\n\nFor speech is more than passing sound,\nAnd truth more than applause;\nThe freedom to be heard and judged\nDemands its own just laws.\n\nAnd sovereignty is not the right\nTo do whatever pleases;\nIt is the burden freely borne\nWhen fear and fashion cease.\n\nI own the words that I have said,\nThe choices I have made;\nAnd I must answer for their weight\nWhen fleeting echoes fade.\n\nBut deeper still, beneath the code,\nBeyond the market's roar,\nThere lives the hope that what we love\nMight not be lost once more.\n\nA father's name, a faithful friend,\nA creature dearly missed;\nThe fragile record of a life\nThat time cannot dismiss.\n\nNo chain can raise the dead to life,\nNo relay conquer night;\nYet we may guard their memory\nAnd bear their names to light.\n\nFor we are more than users here,\nMore than accounts or trades;\nWe bear an image not our own\nThat neither rust nor fades.\n\nAnd freedom is no final god,\nNor sovereignty the end;\nThey serve the dignity of souls,\nOf neighbor, stranger, friend.\n\nLet markets crash and fashions turn,\nLet platforms bloom and die;\nThe work of keeping faith with truth\nMust outlast every lie.\n\nAnd when our keys have passed away,\nOur final notes been read,\nMay those who follow find a path\nThrough words and works we've left.\n\nNot monuments to pride or power,\nNor claims that we were great,\nBut traces of a faithful life\nThat neither gold nor fame could make.\n\nFor Bitcoin marks the passing years,\nAnd Nostr lets voices roam;\nBut neither is the promised land—\nThey help us carry home.\nAnd through the noise of fleeting things,\nThrough loss, through hope, through pain,\nThe thread of human memory\nIs gathered up again.",
+  "sig": "5bdae34fd5d8301671887b45d036c1bf806f420eb9f59d5955000fa8a21f2b434104c65c02647d88c03348c3950ff7d1c034f5f8ab0409c55ef97f8442b731f1",
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

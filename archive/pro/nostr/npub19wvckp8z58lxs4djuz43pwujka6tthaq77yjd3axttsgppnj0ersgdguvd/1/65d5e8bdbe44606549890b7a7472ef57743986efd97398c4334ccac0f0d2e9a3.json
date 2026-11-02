@@ -1,0 +1,77 @@
+{
+  "id": "65d5e8bdbe44606549890b7a7472ef57743986efd97398c4334ccac0f0d2e9a3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1793463468,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8a26920a42fef6e739fc03b3ab39b35eb58608ba8861c01a634c300804b208b5",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "d9f2471cc8f33111071bd0de1fef87d783cc4140e0f70ba9298a53b9e07c60f6"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal Web"
+    ]
+  ],
+  "content": "\"Bitcoin is Money\" ",
+  "sig": "6e2cf85996b2f0abf061d5ef57fe52c3139573c67655c859cf98f5f6c59f0c80a4058408182152652b1a41b62dc32a143fd317fc03dcc576d3bf12ba1522defa",
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

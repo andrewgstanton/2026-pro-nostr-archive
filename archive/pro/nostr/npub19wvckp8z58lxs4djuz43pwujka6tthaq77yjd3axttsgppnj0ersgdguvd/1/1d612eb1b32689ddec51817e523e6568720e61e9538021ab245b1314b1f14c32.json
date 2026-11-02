@@ -1,0 +1,32 @@
+{
+  "id": "1d612eb1b32689ddec51817e523e6568720e61e9538021ab245b1314b1f14c32",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791953198,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "04889a651011fca14fbc0f531be12ba1692ae514f4f561e2af576e1dbac38909",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6a359852238dc902aed19fbbf6a055f9abf21c1ca8915d1c4e27f50df2f290d9",
+      "",
+      "mention"
+    ],
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "nostr:npub1dg6es53r3hys9tk3n7aldgz4lx4ly8qu4zg468zwyl6smuhjjrvsnhsguz I wrote this poem recently about Israel and thought you might appreciate it, especially as an Israeli. I’d be interested in your perspective. 🇮🇱",
+  "sig": "70955b1d43ef38a15f0f4ce6d122ebd461cb83ab4ad9b8a2d6da80e648d37e344123a878df4edcf0a4fdb9acb10e21bfcb45ee0dc3f444e20d1bbd8b58127891",
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}

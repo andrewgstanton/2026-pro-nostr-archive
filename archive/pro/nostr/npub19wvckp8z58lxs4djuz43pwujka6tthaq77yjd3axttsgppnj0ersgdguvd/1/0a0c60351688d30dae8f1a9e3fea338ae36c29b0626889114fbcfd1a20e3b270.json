@@ -1,0 +1,18 @@
+{
+  "id": "0a0c60351688d30dae8f1a9e3fea338ae36c29b0626889114fbcfd1a20e3b270",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1791878561,
+  "kind": 1,
+  "tags": [
+    [
+      "client",
+      "Primal iOS"
+    ]
+  ],
+  "content": "I recently worked on two very different poems that express ideas close to my heart: my Christian hope for ultimate reconciliation, and my deep love for Israel and the Jewish people.\n\nThe first, Ragnarök: The Image That Shall Not Fall, draws on Norse mythology to explore sovereignty, the image of God, judgment, and redemption.\n\nThe second, Israel: The Olive Tree Still Stands, reflects on God’s covenant faithfulness, the extraordinary endurance of the Jewish people, and the hope for lasting peace.\n\nThough very different in imagery and subject, both poems reflect my conviction that suffering and death do not have the final word.\n\nI developed both poems in collaboration with ChatGPT, drawing on theological ideas and convictions I’ve held and explored for many years but especially over this past year",
+  "sig": "712e3cda0d1f1b33ed0d4877b8bd7cc782ef3575cd23fb6e3841b36158fdd69fdf99b7ec202ca3c6b382d2d97e009766de6af2494db620b1b0ef1f8ab0c69403",
+  "_source": [
+    "wss://relay.poster.place"
+  ],
+  "published": 1
+}
